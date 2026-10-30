@@ -112,6 +112,26 @@ Seven passages carrying checkable figures were re-transcribed with `ggml-large-v
 Residual risk is concentrated in numbers spoken quickly or under crosstalk. The 13-vs-10
 year conflict should be resolved against the published Botash contract before use.
 
+## Consensus check (turbo vs large-v3)
+
+All 68 uncertain turns (11.8 min of audio) were re-transcribed with `large-v3-q5_0` on
+ffmpeg-sliced clips; output is kept in `v3_spans.txt`.
+
+Findings:
+
+- **No systematic text defect surfaced.** Where the two models differ it is mostly a
+  window artefact (v3 transcribes the padded ±3 s and the neighbouring speaker), not one
+  model being right and the other wrong.
+- **Both models mangle the same proper names.** large-v3 also hears „Слатарева“ and
+  „Господин Гилов/Гиров“. The name corrections therefore rest on **external sources**
+  (BTA, marica.bg), not on acoustics — that is the honest provenance.
+- **The 8-minute intro is hallucination-prone in both models**; large-v3 invented
+  „Абонирайте се на нашия канал!“ exactly where turbo looped. Keeping it out of the
+  transcript was correct.
+
+A word-level consensus would need token timestamps from both models; that was not worth
+the extra hours given how little the two disagree on content.
+
 ## Known issues
 
 - Overlapping speech is assigned to one speaker; interjections under ~1 s are unreliable.
@@ -120,6 +140,9 @@ year conflict should be resolved against the published Botash contract before us
 - Party and institution names are only partly normalised (e.g. „ДПСНО“ left as-is).
 - Punctuation is the ASR's, not a faithful rendering of speech.
 - The first ~8 minutes (intro) are outside the transcript.
+- Speaker mapping is corroborated externally: BTA's headline „Излезте и гласувайте,
+  заведете някой с вас, призова Андрей Гюров“ matches the line the transcript attributes
+  to Gyurov at 02:48."
 
 ## Regenerating
 
