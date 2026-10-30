@@ -98,9 +98,112 @@ def main():
         cent.append(F[idx].mean(0)); names.append(name)
     C = np.array(cent)
 
-    d = np.linalg.norm(F[:, None] - C[None], axis=2)
-    order = np.argsort(d, 1)
-    lab = order[:, 0]
+    def dist(C):
+        return np.linalg.norm(F[:, None] - C[None], axis=2)
+
+    d = dist(C)
+    lab = d.argmin(1)
+    for _ in range(2):  # EM: re-estimate centroids from confident segments
+        srt = np.sort(d, 1)
+        conf = srt[:, 0] < 0.75 * srt[:, 1]
+        for j in range(len(C)):
+            m = conf & (lab == j)
+            if m.sum() > 30:
+                C[j] = F[m].mean(0)
+        d = dist(C)
+        lab = d.argmin(1)
+
+    # pitch gate: f0 < 155 Hz is male -> gyurov; otherwise iotova vs moderator only
+    g, fs = names.index("gyurov"), [names.index("iotova"), names.index("moderator")]
+    allowed = np.where((F0 > 155)[:, None], np.isin(np.arange(len(names)), fs), np.arange(len(names)) == g)
+    d2 = np.where(allowed, d, np.inf)
+    lab = d2.argmin(1)
+    srt = np.sort(d2, 1)
+    margin = (srt[:, 1] - srt[:, 0]) / (srt[:, 0] + 1e-6)
+
+    out = []
+    for i in range(0, len(y) - 1024, 512):
+        fr = y[i:i + 1024].astype(np.float64)
+        if np.sqrt((fr ** 2).mean()) < 0.01:
+            continue
+        fr -= fr.mean()
+        n = len(fr)
+        ac = np.correlate(fr, fr, "full")[n - 1:n + tmax]
+        cum = np.concatenate(([0.0], np.cumsum(fr ** 2)))
+        tau = np.arange(tmax + 1)
+        d = cum[n - tau] + (cum[n] - cum[tau]) - 2 * ac
+        cm = d.copy(); cm[0] = 1
+        cm[1:] = d[1:] / (np.cumsum(d[1:]) / tau[1:] + 1e-12)
+        for t in range(tmin, tmax):
+            if cm[t] < 0.15:
+                while t + 1 < tmax and cm[t + 1] < cm[t]:
+                    t += 1
+                out.append(sr / t)
+                break
+    return np.median(out) if len(out) > 2 else np.nan
+
+
+def seg_feat(x, a, b):
+    y = x[int(a * SR):int(b * SR)].astype(np.float32)
+    if len(y) < WIN * 2:
+        return None
+    idx = np.arange(WIN)[None, :] + HOP * np.arange(1 + (len(y) - WIN) // HOP)[:, None]
+    fr = y[idx] * np.hamming(WIN)
+    p = np.abs(np.fft.rfft(fr, 512)) ** 2
+    e = np.log(p.sum(1) + 1e-10)
+    m = e > np.percentile(e, 40)
+    if m.sum() < 5:
+        return None
+    mfcc = (np.log(p[m] @ FB.T + 1e-10) @ DCT.T)[:, 1:]
+    return np.concatenate([mfcc.mean(0), mfcc.std(0)])
+
+
+def main():
+    asr_p, wav_p, out_p = sys.argv[1:4]
+    x = np.frombuffer(wave.open(wav_p).readframes(10**9), np.int16).astype(np.float32) / 32768
+    segs = [s for s in json.load(open(asr_p))["transcription"] if s["text"].strip()]
+    F, F0, keep = [], [], []
+    for s in segs:
+        a, b = s["offsets"]["from"] / 1000, s["offsets"]["to"] / 1000
+        f = seg_feat(x, a, b)
+        if f is not None:
+            F.append(f); F0.append(f0_med(x[int(a * SR):int(b * SR)])); keep.append(s)
+    F = np.array(F)
+    F = (F - F.mean(0)) / (F.std(0) + 1e-6)
+    F0 = np.array(F0)
+    F0 = np.where(np.isnan(F0), np.nanmedian(F0), F0)
+    F = np.concatenate([F, 3.0 * ((F0 - F0.mean()) / (F0.std() + 1e-6))[:, None]], 1)
+
+    cent, names = [], []
+    for name, a, b in ANCHORS:
+        idx = [i for i, s in enumerate(keep)
+               if s["offsets"]["from"] / 1000 >= a and s["offsets"]["to"] / 1000 <= b]
+        cent.append(F[idx].mean(0)); names.append(name)
+    C = np.array(cent)
+
+    def nearest(C):
+        d = np.linalg.norm(F[:, None] - C[None], axis=2)
+        o = np.argsort(d, 1)
+        return o[:, 0], d, o
+
+    # gender gate from pitch: f0 < 150 Hz => gyurov, > 160 => iotova|moderator
+    g = names.index("gyurov")
+    fs = [names.index("iotova"), names.index("moderator")]
+
+    lab, d, order = nearest(C)
+    for _ in range(2):  # EM: re-estimate centroids from confident segments
+        conf = (d[np.arange(len(F)), order[:, 0]] < 0.75 * d[np.arange(len(F)), order[:, 1]])
+        for j in range(len(C)):
+            m = conf & (lab == j)
+            if m.sum() > 30:
+                C[j] = F[m].mean(0)
+        lab, d, order = nearest(C)
+
+    female = F0 > 155
+    lab2 = np.where(female, lab, g)
+    for i in np.where(female)[0]:
+        lab2[i] = fs[int(np.argmin(d[i, fs]))]
+    lab = lab2
     margin = (d[np.arange(len(F)), order[:, 1]] - d[np.arange(len(F)), order[:, 0]]) / (d[np.arange(len(F)), order[:, 0]] + 1e-6)
 
     out = []

@@ -33,6 +33,11 @@ add 8:00 to map onto the YouTube timeline.
 beam 5, `-mc 0 -sns`, Silero VAD, glossary prompt (candidate names, БНТ, ЦИК, балотаж).
 4 cores, RTF ≈ 0.55 (≈70 min for 111 min of audio).
 
+Audio preparation now uses **ffmpeg** (`scripts/prepare_audio.sh`): `-ss 480 -ac 1 -ar 16000`.
+A `loudnorm` variant was tested and rejected — it raises the noise floor, so Silero VAD passes
+far more audio and the ASR RTF degrades from 0.55 to 1.36 (≈2.4× slower) for no measurable
+word-accuracy gain.
+
 Raw output: `raw_asr.json` / `.srt` / `.vtt` (unmodified, before diarization).
 
 ## Speaker assignment
@@ -59,13 +64,17 @@ sit on the wrong side of the 155 Hz male/female boundary.
 **Caveat:** anchors are assumed, not adjudicated. If Gyurov/Iotova were swapped, every
 turn label would be wrong while the text stayed the same.
 
-Totals: moderator 17.1 min, Gyurov 42.2 min, Iotova 42.8 min (of 111 min).
+A second pass added a **pitch gate** (f0 < 155 Hz ⇒ Gyurov) plus two EM iterations that
+re-estimate the three centroids from confident segments. Agreement with the first pass is
+95 %; low-margin segments fall from 262 to 208.
+
+Totals: moderator 17.9 min, Gyurov 41.2 min, Iotova 43.1 min (of 111 min).
 
 ## Turns
 
-1909 ASR segments → 359 turns (merge same speaker, gap < 1.5 s). A turn is flagged `⚠`
+1909 ASR segments → 381 turns (merge same speaker, gap < 1.5 s). A turn is flagged `⚠`
 when more than 40 % of its segments are low-confidence (centroid margin < 0.12 or f0 on
-the wrong side of 155 Hz). **80 of 359 turns are flagged**, concentrated in cross-talk.
+the wrong side of 155 Hz). **78 of 381 turns are flagged**, concentrated in cross-talk.
 
 ## Corrections applied
 
@@ -85,6 +94,23 @@ Automatic, conservative, names and terms only (see `FIX` in `scripts/merge_turns
 | даначна, удобрили, Заговядайте, Имато, Госпожото, Бърс отговор, жреби и | данъчна, одобрили, Заповядайте, Имате, Госпожо, Бърз отговор, жребий |
 
 The single dominant error pattern was the moderator addressing „господин Гюров“.
+
+## Number verification (large-v3 cross-check)
+
+Seven passages carrying checkable figures were re-transcribed with `ggml-large-v3-q5_0`
+(slower, higher-capacity model) on ffmpeg-sliced clips:
+
+| Claim | Timestamp | Second model |
+|---|---|---|
+| „цена от 220 хиляди евро“ (NATO drone veto) | 19:41 | confirmed verbatim |
+| „400 милиона долара“ owed under the Botash contract | 32:21 | confirmed verbatim |
+| „20 дни преди изборите“ (agreement signed) | 27:49 | confirmed verbatim |
+| „издържим 24 часа“ (Warsaw Pact strategy) | 35:14 | confirmed verbatim |
+| „за 13 години“ (Botash term) | 28:59 | model heard „за 10 години“ — **conflict, unresolved** |
+| moderator addressing „господин Гюров“ | 07:21 | also mangles it („Гиров“), confirming the error class |
+
+Residual risk is concentrated in numbers spoken quickly or under crosstalk. The 13-vs-10
+year conflict should be resolved against the published Botash contract before use.
 
 ## Known issues
 
