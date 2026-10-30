@@ -53,6 +53,29 @@ for s in segs:
         turns.append({"speaker": s["speaker"], "start": s["start"], "end": s["end"],
                       "text": fix(s["text"]), "bad": int(bad), "n": 1})
 
+# glue sentence fragments split across segment boundaries back onto the previous turn
+glued = []
+for t in turns:
+    if (glued and t["start"] - glued[-1]["end"] < 1.2
+            and (t["end"] - t["start"]) < 4.0
+            and re.match(r"[а-я]", t["text"]) and not re.search(r"[.!?]$", glued[-1]["text"])):
+        glued[-1]["text"] += " " + t["text"]
+        glued[-1]["end"] = t["end"]
+        glued[-1]["bad"] += t["bad"]; glued[-1]["n"] += t["n"]
+    else:
+        glued.append(t)
+turns = glued
+
+# manual fixes for fragments acoustics cannot resolve (see notes.md)
+try:
+    fixes = json.load(open("data/transcripts/label_fixes.json"))
+except FileNotFoundError:
+    fixes = {}
+for t in turns:
+    if str(int(round(t["start"]))) in fixes:
+        t["speaker"] = fixes[str(int(round(t["start"])))]
+        t["uncertain"] = False
+
 for t in turns:
     t["uncertain"] = t["bad"] / t["n"] > 0.4
     t["text"] = re.sub(r"\s+", " ", t["text"]).strip()
