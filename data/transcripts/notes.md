@@ -1,0 +1,103 @@
+# Transcript notes
+
+## Source
+
+| Field | Value |
+|---|---|
+| Video | `vZzeuZMG8yo` — „БНТ организира единствения дебат между Илияна Йотова и Андрей Гюров“ |
+| Channel | Българска Национална Телевизия БНТ |
+| Uploaded | 2026-10-29 |
+| Duration | 7162 s (1:59:22) |
+| Retrieved | 2026-10-30 |
+| Audio SHA-256 | `4062fab0a4fe9c76d8844d49344f200a23a3909a1d131d538f0bb2ee2ed80157` (bestaudio m4a, 110.5 MB) |
+| Moderator | Поли Златарева (BNT) |
+
+The media itself is not committed (see `.gitignore`); rebuild with:
+
+```bash
+.venv/bin/yt-dlp -f bestaudio -o data/raw/debate.%(ext)s "https://www.youtube.com/watch?v=vZzeuZMG8yo"
+.venv/bin/python scripts/decode_audio.py data/raw/debate.m4a data/raw/debate.16k.wav
+```
+
+## Coverage
+
+**`00:00`–`08:20` of the video is not transcribed.** It is the intro montage/music bed
+(YouTube's own auto-captions also start at 08:20). A first ASR pass over the full file
+produced repetition loops there ("Екатерина Екатерина…", "Абонирайте се!"), so the audio
+was trimmed to 08:00. All transcript timestamps are relative to **08:00 of the video**;
+add 8:00 to map onto the YouTube timeline.
+
+## ASR
+
+`whisper.cpp` built from source, model `ggml-large-v3-turbo-q5_0` (547 MB), Bulgarian,
+beam 5, `-mc 0 -sns`, Silero VAD, glossary prompt (candidate names, БНТ, ЦИК, балотаж).
+4 cores, RTF ≈ 0.55 (≈70 min for 111 min of audio).
+
+Raw output: `raw_asr.json` / `.srt` / `.vtt` (unmodified, before diarization).
+
+## Speaker assignment
+
+Two attempts:
+
+1. **Window-level k-means** (`scripts/diarize.py`, 1.5 s windows, MFCC + Viterbi) worked on
+   a 20-minute slice but collapsed on the full file — every cluster came out at ~180 Hz,
+   i.e. it had split on acoustic conditions, not voices.
+2. **Utterance-level nearest-centroid** (`scripts/assign_speakers.py`) — the version used.
+   Features: mean/std of 19 MFCCs per segment + YIN f0 (weight 3×). Anchors taken from long
+   single-speaker stretches of the opening round:
+
+   | Anchor | Window | Basis |
+   |---|---|---|
+   | moderator | 60–78 s | greeting + first question |
+   | gyurov | 90–155 s | first answer (moderator: „Първи е господин Гюров“) |
+   | iotova | 178–225 s | second answer (starts „Госпожо Златарева, позволете ми…“) |
+
+Verification is independent of the classifier: YIN f0 medians after assignment are
+**219 Hz** (moderator), **120 Hz** (Gyurov), **189 Hz** (Iotova); only 18 of 1909 segments
+sit on the wrong side of the 155 Hz male/female boundary.
+
+**Caveat:** anchors are assumed, not adjudicated. If Gyurov/Iotova were swapped, every
+turn label would be wrong while the text stayed the same.
+
+Totals: moderator 17.1 min, Gyurov 42.2 min, Iotova 42.8 min (of 111 min).
+
+## Turns
+
+1909 ASR segments → 359 turns (merge same speaker, gap < 1.5 s). A turn is flagged `⚠`
+when more than 40 % of its segments are low-confidence (centroid margin < 0.12 or f0 on
+the wrong side of 155 Hz). **80 of 359 turns are flagged**, concentrated in cross-talk.
+
+## Corrections applied
+
+Automatic, conservative, names and terms only (see `FIX` in `scripts/merge_turns.py`):
+
+| Wrong | Fixed |
+|---|---|
+| Слатарева | Златарева |
+| Иллена / Илена / Иляна / Елена Йотова | Илияна Йотова |
+| Ятова, госпожо Йото | Йотова |
+| господин Дюров / Гиров / Георс / Геров / Геов / Гио / Волч / Григо / Бюров | господин Гюров |
+| Балутаж / Болотаж | балотаж |
+| Ботъш | Боташ |
+| Сен Василев | Асен Василев |
+| Изривове | Взривове |
+| Русула Фон Дерлайн | Урсула фон дер Лайен |
+| даначна, удобрили, Заговядайте, Имато, Госпожото, Бърс отговор, жреби и | данъчна, одобрили, Заповядайте, Имате, Госпожо, Бърз отговор, жребий |
+
+The single dominant error pattern was the moderator addressing „господин Гюров“.
+
+## Known issues
+
+- Overlapping speech is assigned to one speaker; interjections under ~1 s are unreliable.
+- Numbers, dates and sums are **not** verified against audio — treat them as provisional
+  until checked against sources.
+- Party and institution names are only partly normalised (e.g. „ДПСНО“ left as-is).
+- Punctuation is the ASR's, not a faithful rendering of speech.
+- The first ~8 minutes (intro) are outside the transcript.
+
+## Regenerating
+
+```bash
+.venv/bin/python scripts/assign_speakers.py data/transcripts/raw_asr.json data/raw/debate.trim.16k.wav data/transcripts/turns
+.venv/bin/python scripts/merge_turns.py data/transcripts/turns.json data/transcripts/transcript
+```

@@ -6,8 +6,27 @@ narratives they competed over, whether the claims hold up against the record, an
 separately — whether the decisions behind those claims were *good decisions* given what
 was knowable at the time they were made.
 
-> **Status:** scaffold. The methodology, data model, and source list are defined here;
-> artefacts are being produced stage by stage. See [Roadmap](#roadmap).
+> **Status:** stage 1 (transcript) complete. The methodology, data model, and source list
+> are defined here; later artefacts are being produced stage by stage.
+> See [Roadmap](#roadmap) and [Transcript](#transcript-stage-1).
+
+## Transcript (stage 1)
+
+The debate is transcribed with speakers labelled. Start at
+[`data/transcripts/transcript.md`](data/transcripts/transcript.md); provenance, method and
+caveats are in [`data/transcripts/notes.md`](data/transcripts/notes.md).
+
+| | |
+|---|---|
+| Source | BNT, „единственият дебат“ Йотова–Гюров, 2026-10-29, 1:59:22 |
+| Coverage | 08:00 → end (intro montage excluded) |
+| ASR | `whisper.cpp` + `large-v3-turbo-q5_0`, VAD, Bulgarian, beam 5 |
+| Speakers | moderator **Поли Златарева** (17.1 min), **Гюров** (42.2), **Йотова** (42.8) |
+| Output | 359 turns; 80 flagged `⚠` (cross-talk, low confidence) |
+
+Speaker identity is verified by an independent signal: YIN pitch medians of 219 Hz
+(moderator), 120 Hz (Gyurov), 189 Hz (Iotova), with 18/1909 segments on the wrong side of
+the male/female boundary. Accuracy limits and the correction list are in `notes.md`.
 
 ---
 

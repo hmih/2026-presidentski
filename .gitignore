@@ -1,0 +1,8 @@
+.venv/
+models/
+data/raw/*.m4a
+data/raw/*.webm
+data/raw/*.wav
+__pycache__/
+tools/
+third_party/

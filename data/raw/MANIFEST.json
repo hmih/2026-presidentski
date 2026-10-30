@@ -1,0 +1,16 @@
+{
+  "video_id": "vZzeuZMG8yo",
+  "url": "https://www.youtube.com/watch?v=vZzeuZMG8yo",
+  "title": "БНТ организира единствения дебат между Илияна Йотова и Андрей Гюров",
+  "channel": "Българска Национална Телевизия БНТ",
+  "upload_date": "2026-10-29",
+  "duration_s": 7162,
+  "retrieved": "2026-10-30",
+  "moderator": "Поли Златарева",
+  "files": {
+    "debate.m4a": {"role": "audio source", "sha256": "4062fab0a4fe9c76d8844d49344f200a23a3909a1d131d538f0bb2ee2ed80157"},
+    "debate.info.json": {"role": "yt-dlp metadata dump"},
+    "captions.bg-orig.vtt": {"role": "YouTube automatic captions (cross-check only, not source)"}
+  },
+  "note": "Media not committed; rebuild from url. Transcript timestamps are relative to 08:00 of the video."
+}
