@@ -95,6 +95,29 @@ Automatic, conservative, names and terms only (see `FIX` in `scripts/merge_turns
 
 The single dominant error pattern was the moderator addressing „господин Гюров“.
 
+## Proper-noun sweep
+
+All mid-sentence capitalised tokens with a rare lowercase form were extracted
+(`scripts/proper_nouns.py`) and adjudicated against the debate context. 12 name/term
+errors were fixed beyond the earlier list:
+
+| Wrong | Fixed | Basis |
+|---|---|---|
+| Гиро, Григо, Андрей Гиров, Гилов | Гюров | address forms + BTA |
+| Лиотова, Ляна, Елена | Йотова, Илияна | address forms |
+| ОНЕ, ООНЕ | ООН | „Общото събрание на ООН“ |
+| Европейския СИОС / СИУС | Европейския съюз | collocation |
+| ДПСНО възначало | ДПС в началото | party name |
+| ББ за развитие | ББР | bank name |
+| с първите ВИО отговори | с първите ви отговори | large-v3 agreed |
+| Скопия | Скопие | city name |
+
+Fixes are case-insensitive because the ASR capitalises sentence-initially („Господин
+Гиров“ vs „господин Гиров“).
+
+**Left unresolved** — context insufficient, deliberately not guessed:
+„Дудингиов“, „Некова“, „Сен Валериан“, „РЕС“, „Ано“.
+
 ## Number verification (large-v3 cross-check)
 
 Seven passages carrying checkable figures were re-transcribed with `ggml-large-v3-q5_0`
