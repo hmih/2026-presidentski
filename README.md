@@ -109,10 +109,10 @@ Per-candidate narrative maps, each anchored in claim ids and timestamps:
 Eight unique collision topics emerged, each with the record that would settle it. They are the
 fact-check queue.
 
-## Fact-check (stage 5, in progress)
+## Fact-check (stage 5, complete)
 
-170 claims checked against primary sources — the 16 collision topics plus the numeric claims
-behind them:
+170 claims checked against primary sources — all 138 `checkable` claims plus 32 partly or
+unverifiable ones, covering every one of the 16 collision topics:
 
 - [`data/factcheck/SUMMARY.md`](data/factcheck/SUMMARY.md) — findings, deception flags, limits
 - [`data/factcheck/report.md`](data/factcheck/report.md) — verdicts, dossiers, citations
@@ -130,8 +130,9 @@ behind them:
 | false | 6 |
 | unverified | 54 |
 
-Four claims are contradicted outright by primary records and one by a document the speaker
-herself voted for; two material omissions and several misdirections are flagged.
+Six claims are contradicted outright by primary records, one of them by a document the
+speaker herself voted for; one material omission and eleven misdirections are flagged.
+Every `unverified` dossier names the record that would settle it.
 
 **Policy on sealed documents:** the Botash contract is classified and unpublished, so claims
 that rest on its terms are recorded as `unverified` rather than graded against official

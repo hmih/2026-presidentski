@@ -2,8 +2,8 @@
 import json, glob, collections
 
 ev = {f.split("/")[-1][:-5]: json.load(open(f)) for f in glob.glob("data/factcheck/evidence/*.json")}
-V = (json.load(open("data/factcheck/_v1.json")) + json.load(open("data/factcheck/_v2.json"))
-     + json.load(open("data/factcheck/_v3.json")) + json.load(open("data/factcheck/_v4.json")))
+V = (json.load(open("data/factcheck/src/v1.json")) + json.load(open("data/factcheck/src/v2.json"))
+     + json.load(open("data/factcheck/src/v3.json")) + json.load(open("data/factcheck/src/v4.json")))
 claims = {c["id"]: c for c in json.load(open("data/claims/claims.json"))["claims"]}
 
 def resolve(ref):
