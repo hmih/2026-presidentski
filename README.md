@@ -121,16 +121,20 @@ behind them:
 
 | verdict | n |
 |---|---|
-| true | 20 |
-| mostly true | 14 |
-| mixed | 9 |
+| true | 17 |
+| mostly true | 13 |
+| mixed | 8 |
 | partly | 8 |
 | mostly false | 6 |
 | false | 4 |
-| unverified | 10 |
+| unverified | 15 |
 
 Four claims are contradicted outright by primary records and one by a document the speaker
 herself voted for; two material omissions and several misdirections are flagged.
+
+**Policy on sealed documents:** the Botash contract is classified and unpublished, so claims
+that rest on its terms are recorded as `unverified` rather than graded against official
+statements.
 
 ## Pipeline
 

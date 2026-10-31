@@ -4,12 +4,12 @@
 
 | verdict | n |
 |---|---|
-| true | 20 |
-| mostly_true | 14 |
-| mixed | 9 |
+| true | 17 |
+| mostly_true | 13 |
+| mixed | 8 |
 | mostly_false | 6 |
 | false | 4 |
-| unverified | 10 |
+| unverified | 15 |
 | partly | 8 |
 
 Deception flags: {'misdirection': 8, 'omission': 1}
@@ -65,16 +65,16 @@ Deception flags: {'misdirection': 8, 'omission': 1}
 
 | id | t | speaker | claim | verdict | confidence |
 |---|---|---|---|---|---|
-| C-03-08 | 28:45 | gyurov | The Botash contract was likewise signed by a caretaker government, for 13 years. | **mostly_true** | medium |
-| C-03-09 | 28:45 | gyurov | Bulgaria pays half a million dollars every day under the Botash contract. | **true** | high |
+| C-03-08 | 28:45 | gyurov | The Botash contract was likewise signed by a caretaker government, for 13 years. | **unverified** | low |
+| C-03-09 | 28:45 | gyurov | Bulgaria pays half a million dollars every day under the Botash contract. | **unverified** | low |
 | C-03-17 | 31:54 | iotova | The Botash deal happened because Kiril Petkov and Asen Vasilev cut off Russian gas supplies to Bulgaria overni | **mostly_false** | high |
-| C-03-18 | 32:25 | gyurov | Bulgaria owes close to 400 million dollars under the contract. | **mixed** | medium |
+| C-03-18 | 32:25 | gyurov | Bulgaria owes close to 400 million dollars under the contract. | **unverified** | low |
 | C-03-20 | 32:25 | gyurov | Gazprom, not the Bulgarian government, unilaterally stopped the gas supplies. | **mostly_true** | high |
 | C-03-21 | 32:25 | gyurov | The government at the time acted quickly and secured liquefied gas that could be delivered. | **partly** | low |
 | C-04-19 | 49:07 | gyurov | The Botash contract shows that in some situations one person can hold all the power in the state. | **unverified** | low |
-| C-04-20 | 49:07 | gyurov | Bulgaria will be paying for these distortions for 13 years. | **true** | high |
+| C-04-20 | 49:07 | gyurov | Bulgaria will be paying for these distortions for 13 years. | **unverified** | low |
 | C-04-22 | 51:25 | iotova | The Botash deal is a decision of a caretaker government. | **mostly_true** | high |
-| C-04-35 | 54:06 | gyurov | Under the Botash contract Bulgaria pays 500 thousand euros, half a million, every day, unlike this agreement. | **true** | high |
+| C-04-35 | 54:06 | gyurov | Under the Botash contract Bulgaria pays 500 thousand euros, half a million, every day, unlike this agreement. | **unverified** | low |
 
 ### eu
 
@@ -442,7 +442,7 @@ Deception flags: {'misdirection': 8, 'omission': 1}
 - BNR Horizont, 19.12.2024; Natalia Kiselova Facebook post, 31.03.2026 (reproduced by 5GMedia) (2024-12-19) — https://bnrnews.bg/horizont/post/332722/natalia-kiselova-otkaza-da-vkluchi-v-dnevnia-red-na-ns-sporazumenieto-s-ukraina
 - *Note:* Compresses a refusal to table into a parliamentary deliberation.
 
-### C-03-08 — mostly_true
+### C-03-08 — unverified
 
 > договора с Боташ, който пак подписан от служебно правителство за 13 години
 
@@ -450,13 +450,14 @@ Deception flags: {'misdirection': 8, 'omission': 1}
 
 **Steelman:** The Botash contract was signed by a caretaker government and runs 13 years.
 
-**Finding:** Signed on 3 January 2023, during the Donev caretaker government, with a term to 31 December 2035 - thirteen years.
+**Finding:** The Botash contract is classified as a commercial secret and has never been published, so its terms cannot be checked against the text. The figure rests on official statements (the prime minister's July 2026 liability statement, the Turkish energy minister's 13-year figure, BTA's account of the daily capacity payment). Recorded as unverified by policy: where the contract is the only authority, no verdict is issued.
 
 - Свободна Европа (RFE/RL Bulgaria) — "Исторически момент". България ще може да доставя природен газ през терминали в Турция (2023-01-03) — https://bulgaria.rferl.org/a/32205309.html
 - Свободна Европа (RFE/RL Bulgaria) — "Исторически момент". България ще може да доставя природен газ през терминали в Турция (2023-01-03) — https://bulgaria.rferl.org/a/32205309.html
 - Frognews (reprinting BGNES) — Дългова яма и милиардни щети за България - цялата истина за договора с „Боташ“ (2025-04-04) — https://frognews.bg/novini/dalgova-iama-miliardni-shteti-balgariia-tsialata-istina-dogovora-botash-zarobvaneto-bulgargaz.html — archived: https://web.archive.org/web/20250723032757/https://frognews.bg/novini/dalgova-iama-miliardni-shteti-balgariia-tsialata-istina-dogovora-botash-zarobvaneto-bulgargaz.html
+- *Note:* Downgraded from a documentary verdict: the sealed contract is the only authority.
 
-### C-03-09 — true
+### C-03-09 — unverified
 
 > Ние всеки ден плащаме по половин милион долара заради този договор.
 
@@ -464,10 +465,11 @@ Deception flags: {'misdirection': 8, 'omission': 1}
 
 **Steelman:** Bulgaria pays about half a million euros a day under Botash.
 
-**Finding:** The contract obliges Bulgargaz to pay BGN 1 million (EUR 512,000) per day for reserved capacity.
+**Finding:** The Botash contract is classified as a commercial secret and has never been published, so its terms cannot be checked against the text. The figure rests on official statements (the prime minister's July 2026 liability statement, the Turkish energy minister's 13-year figure, BTA's account of the daily capacity payment). Recorded as unverified by policy: where the contract is the only authority, no verdict is issued.
 
 - БТА (Bulgarian News Agency) — No Additional Economic or Political Conditions Attached to BOTAS Deal Review Agreement, Says Energy Minister (2026-07-12) — https://www.bta.bg/en/news/1165612-no-additional-economic-or-political-conditions-attached-to-botas-deal-review-agr
 - 168 часа / 24 часа — Йотова атакува с аргументи, Гюров - не е разочарован, че го е направила служебен премиер (debate transcript) (2026-10-29) — https://www.168chasa.bg/Article/23832919
+- *Note:* Downgraded from a documentary verdict: the sealed contract is the only authority.
 
 ### C-03-12 — mostly_false
 
@@ -512,7 +514,7 @@ Deception flags: {'misdirection': 8, 'omission': 1}
 - **Deception:** misdirection
 - *Note:* The causal story reverses who stopped the gas.
 
-### C-03-18 — mixed
+### C-03-18 — unverified
 
 > Това, което виждаме, са близо 400 милиона долара, които ние дължим
 
@@ -520,10 +522,10 @@ Deception flags: {'misdirection': 8, 'omission': 1}
 
 **Steelman:** Bulgaria owes close to 400 million dollars and this will bankrupt Bulgargaz.
 
-**Finding:** The prime minister put the liability at USD 360 million in July 2026 and arrears at about BGN 300 million in May 2026. 'Close to 400 million' rounds upward; the bankruptcy prediction is not established.
+**Finding:** The Botash contract is classified as a commercial secret and has never been published, so its terms cannot be checked against the text. The figure rests on official statements (the prime minister's July 2026 liability statement, the Turkish energy minister's 13-year figure, BTA's account of the daily capacity payment). Recorded as unverified by policy: where the contract is the only authority, no verdict is issued.
 
 - БТА (Bulgarian News Agency) — PM Says Bulgaria Owes USD 360 Mln to BOTAS, Settling It "Will Not Burden Bulgarian Finances" (2026-07-07) — https://www.bta.bg/en/news/economy/1162546-pm-says-bulgaria-owes-usd-360-mln-to-botas-settling-it-will-not-bulgari
-- *Note:* Depends on the currency: BTA's English rendering says USD 500,000 a day and nearly USD 400 million.
+- *Note:* Downgraded from a documentary verdict: the sealed contract is the only authority.
 
 ### C-03-20 — mostly_true
 
@@ -575,7 +577,7 @@ Deception flags: {'misdirection': 8, 'omission': 1}
 
 - Council of Ministers of Bulgaria, agreement text and official explainer of 31.03.2026 (2026-03-31) — https://www.gov.bg/special/bg/prestsentar/novini/sporazumenie-za-satrudnichestvo-v-oblastta-na-sigurnostta-mezhdu-republika-balgariya-i-ukrayna
 - Council of Ministers of Bulgaria, full text of the agreement (PDF) (2026-03-30) — https://gov.bg/files/common/2026_Security_Cooperation_Agreement.pdf — archived: http://web.archive.org/web/20260915100719/https://www.gov.bg/files/common/2026_Security_Cooperation_Agreement.pdf
-- *Note:* The speaker may be relying on Article 85 of the constitution, which is a separate question from what the text says.
+- *Note:* The agreement imposes no ratification requirement on itself; the only occurrence of 'ратифицирането' in the 20 pages concerns Ukraine's ratification of the Rome Statute. Whether Bulgarian constitutional law independently requires ratification of particular implementing instruments is a separate question.
 
 ### C-03-25 — true
 
@@ -642,7 +644,7 @@ Deception flags: {'misdirection': 8, 'omission': 1}
 - Свободна Европа (RFE/RL Bulgaria) — Депутатите дават договора с "Боташ" на прокуратурата и ДАНС и искат енергийният министър да го предоговори (2024-04-19) — https://bulgaria.rferl.org/a/botash-dogovor-parlament/32912610.html
 - *Note:* Better treated as an argument than a claim.
 
-### C-04-20 — true
+### C-04-20 — unverified
 
 > това води до изкривявания, които ние сега 13 години ще плащаме
 
@@ -650,9 +652,10 @@ Deception flags: {'misdirection': 8, 'omission': 1}
 
 **Steelman:** Bulgaria will pay under this contract for thirteen years.
 
-**Finding:** The term runs from 1 January 2023 to 31 December 2035.
+**Finding:** The Botash contract is classified as a commercial secret and has never been published, so its terms cannot be checked against the text. The figure rests on official statements (the prime minister's July 2026 liability statement, the Turkish energy minister's 13-year figure, BTA's account of the daily capacity payment). Recorded as unverified by policy: where the contract is the only authority, no verdict is issued.
 
 - Frognews (reprinting BGNES) — Дългова яма и милиардни щети за България - цялата истина за договора с „Боташ“ (2025-04-04) — https://frognews.bg/novini/dalgova-iama-miliardni-shteti-balgariia-tsialata-istina-dogovora-botash-zarobvaneto-bulgargaz.html — archived: https://web.archive.org/web/20250723032757/https://frognews.bg/novini/dalgova-iama-miliardni-shteti-balgariia-tsialata-istina-dogovora-botash-zarobvaneto-bulgargaz.html
+- *Note:* Downgraded from a documentary verdict: the sealed contract is the only authority.
 
 ### C-04-22 — mostly_true
 
@@ -696,7 +699,7 @@ Deception flags: {'misdirection': 8, 'omission': 1}
 - Council of Ministers of Bulgaria, agreement text and official explainer of 31.03.2026 (2026-03-31) — https://www.gov.bg/special/bg/prestsentar/novini/sporazumenie-za-satrudnichestvo-v-oblastta-na-sigurnostta-mezhdu-republika-balgariya-i-ukrayna
 - Council of Ministers of Bulgaria, full text of the agreement (PDF) (2026-03-30) — https://gov.bg/files/common/2026_Security_Cooperation_Agreement.pdf — archived: http://web.archive.org/web/20260915100719/https://www.gov.bg/files/common/2026_Security_Cooperation_Agreement.pdf
 
-### C-04-35 — true
+### C-04-35 — unverified
 
 > за разлика от Боташ, където плащаме по 500 хиляди евро, половин милион всеки ден
 
@@ -704,10 +707,11 @@ Deception flags: {'misdirection': 8, 'omission': 1}
 
 **Steelman:** Under Botash Bulgaria pays 500,000 euros a day, unlike the Kyiv agreement.
 
-**Finding:** The BGN 1 million daily capacity payment is EUR 512,000, which rounds to 500,000.
+**Finding:** The Botash contract is classified as a commercial secret and has never been published, so its terms cannot be checked against the text. The figure rests on official statements (the prime minister's July 2026 liability statement, the Turkish energy minister's 13-year figure, BTA's account of the daily capacity payment). Recorded as unverified by policy: where the contract is the only authority, no verdict is issued.
 
 - БТА (Bulgarian News Agency) — No Additional Economic or Political Conditions Attached to BOTAS Deal Review Agreement, Says Energy Minister (2026-07-12) — https://www.bta.bg/en/news/1165612-no-additional-economic-or-political-conditions-attached-to-botas-deal-review-agr
 - 168 часа / 24 часа — Йотова атакува с аргументи, Гюров - не е разочарован, че го е направила служебен премиер (debate transcript) (2026-10-29) — https://www.168chasa.bg/Article/23832919
+- *Note:* Downgraded from a documentary verdict: the sealed contract is the only authority.
 
 ### C-05-11 — mixed
 

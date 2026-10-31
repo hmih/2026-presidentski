@@ -733,10 +733,10 @@
    "quote_bg": "договора с Боташ, който пак подписан от служебно правителство за 13 години",
    "claim_en": "The Botash contract was likewise signed by a caretaker government, for 13 years.",
    "topic": "energy",
-   "verdict": "mostly_true",
-   "confidence": "medium",
+   "verdict": "unverified",
+   "confidence": "low",
    "steelman": "The Botash contract was signed by a caretaker government and runs 13 years.",
-   "finding": "Signed on 3 January 2023, during the Donev caretaker government, with a term to 31 December 2035 - thirteen years.",
+   "finding": "The Botash contract is classified as a commercial secret and has never been published, so its terms cannot be checked against the text. The figure rests on official statements (the prime minister's July 2026 liability statement, the Turkish energy minister's 13-year figure, BTA's account of the daily capacity payment). Recorded as unverified by policy: where the contract is the only authority, no verdict is issued.",
    "evidence": [
     {
      "statement": "The Bulgargaz-BOTAS agreement was signed on 3 January 2023 at the Council of Ministers in Sofia by the two companies' chief executives, Denitsa Zlateva (Bulgargaz) and Burhan Ozcan (BOTAS), in the presence of Bulgaria's caretaker Energy Minister Rossen Hristov and Turkish Energy Minister Fatih Donmez. It was negotiated over the Christmas holidays and signed on the first working day of the year. The signatories acted under the caretaker cabinet of PM Galab Donev (named in the same article), i.e. an executive act, not a parliamentary one; President Rumen Radev publicly presented it as the fruit of his own December meeting with Erdogan.",
@@ -763,9 +763,18 @@
      "date": "2025-04-04"
     }
    ],
-   "counter_evidence": [],
+   "counter_evidence": [
+    {
+     "statement": "The contract is not public. It was classified as secret on grounds of commercial secrecy, was never officially published, and even the parliamentary committee's report on it was withheld. Documents purporting to be the agreement, marked confidential, were published in April 2024 by the activist group Bg Elves, not by the state. This directly answers the \"is the contract public\" question: no.",
+     "quote": "Споразумението е обявено за секретно заради търговска тайна. Преди дни групата \"Български елфи\" (Bg Elves) ... публикува и документи, за които се смята, че са споразумението с \"Боташ\". Те имат гриф за конфиденциалност и потвърждават, че \"Булгаргаз\" има ангажимент да плаща за капацитет за разтоварване и пренос на газ на турската компания и без да ги използва.",
+     "source": "Свободна Европа (RFE/RL Bulgaria) — \"Партизанска тактика\". Има ли опит да се прикрие проверката на газовия договор с турската \"Боташ\"",
+     "url": "https://bulgaria.rferl.org/a/botash-turciq-gaz/32910840.html",
+     "archive": "",
+     "date": "2024-04-18"
+    }
+   ],
    "deception": "none",
-   "notes": "",
+   "notes": "Downgraded from a documentary verdict: the sealed contract is the only authority.",
    "document_quote": ""
   },
   {
@@ -775,10 +784,10 @@
    "quote_bg": "Ние всеки ден плащаме по половин милион долара заради този договор.",
    "claim_en": "Bulgaria pays half a million dollars every day under the Botash contract.",
    "topic": "energy",
-   "verdict": "true",
-   "confidence": "high",
+   "verdict": "unverified",
+   "confidence": "low",
    "steelman": "Bulgaria pays about half a million euros a day under Botash.",
-   "finding": "The contract obliges Bulgargaz to pay BGN 1 million (EUR 512,000) per day for reserved capacity.",
+   "finding": "The Botash contract is classified as a commercial secret and has never been published, so its terms cannot be checked against the text. The figure rests on official statements (the prime minister's July 2026 liability statement, the Turkish energy minister's 13-year figure, BTA's account of the daily capacity payment). Recorded as unverified by policy: where the contract is the only authority, no verdict is issued.",
    "evidence": [
     {
      "statement": "Documented contract economics per BTA: Bulgargaz booked 106.4 GWh/day of capacity on Turkish LNG regasification terminals and undertook to pay BGN 1 million (EUR 512,000) per day for a period ending in 2035; the contract is a 13-year take-or-pay agreement and rescinding it would expose Bulgargaz to close to BGN 3 billion in damages. The same article records that on 19 April 2024 the National Assembly instructed then-energy minister Vladimir Malinov to renegotiate, and states the 2026 official liability figure as about EUR 360 million.",
@@ -797,9 +806,18 @@
      "date": "2026-10-29"
     }
    ],
-   "counter_evidence": [],
+   "counter_evidence": [
+    {
+     "statement": "The contract is not public. It was classified as secret on grounds of commercial secrecy, was never officially published, and even the parliamentary committee's report on it was withheld. Documents purporting to be the agreement, marked confidential, were published in April 2024 by the activist group Bg Elves, not by the state. This directly answers the \"is the contract public\" question: no.",
+     "quote": "Споразумението е обявено за секретно заради търговска тайна. Преди дни групата \"Български елфи\" (Bg Elves) ... публикува и документи, за които се смята, че са споразумението с \"Боташ\". Те имат гриф за конфиденциалност и потвърждават, че \"Булгаргаз\" има ангажимент да плаща за капацитет за разтоварване и пренос на газ на турската компания и без да ги използва.",
+     "source": "Свободна Европа (RFE/RL Bulgaria) — \"Партизанска тактика\". Има ли опит да се прикрие проверката на газовия договор с турската \"Боташ\"",
+     "url": "https://bulgaria.rferl.org/a/botash-turciq-gaz/32910840.html",
+     "archive": "",
+     "date": "2024-04-18"
+    }
+   ],
    "deception": "none",
-   "notes": "",
+   "notes": "Downgraded from a documentary verdict: the sealed contract is the only authority.",
    "document_quote": ""
   },
   {
@@ -886,10 +904,10 @@
    "quote_bg": "Това, което виждаме, са близо 400 милиона долара, които ние дължим",
    "claim_en": "Bulgaria owes close to 400 million dollars under the contract.",
    "topic": "energy",
-   "verdict": "mixed",
-   "confidence": "medium",
+   "verdict": "unverified",
+   "confidence": "low",
    "steelman": "Bulgaria owes close to 400 million dollars and this will bankrupt Bulgargaz.",
-   "finding": "The prime minister put the liability at USD 360 million in July 2026 and arrears at about BGN 300 million in May 2026. 'Close to 400 million' rounds upward; the bankruptcy prediction is not established.",
+   "finding": "The Botash contract is classified as a commercial secret and has never been published, so its terms cannot be checked against the text. The figure rests on official statements (the prime minister's July 2026 liability statement, the Turkish energy minister's 13-year figure, BTA's account of the daily capacity payment). Recorded as unverified by policy: where the contract is the only authority, no verdict is issued.",
    "evidence": [
     {
      "statement": "Official liability figures as stated by the prime minister in July 2026: Bulgaria owes BOTAS USD 360 million; arrears were about BGN 300 million in early May 2026; Bulgargaz has made no payments since July 2024; the deal was suspended for 15 months by a protocol signed on 6 July 2026. This is the authoritative figure against which the debate's \"~400 million USD\" should be measured — the documented number is USD/EUR 360 million (BTA uses both currencies in different reports), not 400 million.",
@@ -900,9 +918,18 @@
      "date": "2026-07-07"
     }
    ],
-   "counter_evidence": [],
+   "counter_evidence": [
+    {
+     "statement": "The contract is not public. It was classified as secret on grounds of commercial secrecy, was never officially published, and even the parliamentary committee's report on it was withheld. Documents purporting to be the agreement, marked confidential, were published in April 2024 by the activist group Bg Elves, not by the state. This directly answers the \"is the contract public\" question: no.",
+     "quote": "Споразумението е обявено за секретно заради търговска тайна. Преди дни групата \"Български елфи\" (Bg Elves) ... публикува и документи, за които се смята, че са споразумението с \"Боташ\". Те имат гриф за конфиденциалност и потвърждават, че \"Булгаргаз\" има ангажимент да плаща за капацитет за разтоварване и пренос на газ на турската компания и без да ги използва.",
+     "source": "Свободна Европа (RFE/RL Bulgaria) — \"Партизанска тактика\". Има ли опит да се прикрие проверката на газовия договор с турската \"Боташ\"",
+     "url": "https://bulgaria.rferl.org/a/botash-turciq-gaz/32910840.html",
+     "archive": "",
+     "date": "2024-04-18"
+    }
+   ],
    "deception": "none",
-   "notes": "Depends on the currency: BTA's English rendering says USD 500,000 a day and nearly USD 400 million.",
+   "notes": "Downgraded from a documentary verdict: the sealed contract is the only authority.",
    "document_quote": ""
   },
   {
@@ -1014,7 +1041,7 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": "The speaker may be relying on Article 85 of the constitution, which is a separate question from what the text says.",
+   "notes": "The agreement imposes no ratification requirement on itself; the only occurrence of 'ратифицирането' in the 20 pages concerns Ukraine's ratification of the Rome Statute. Whether Bulgarian constitutional law independently requires ratification of particular implementing instruments is a separate question.",
    "document_quote": ""
   },
   {
@@ -1144,10 +1171,10 @@
    "quote_bg": "това води до изкривявания, които ние сега 13 години ще плащаме",
    "claim_en": "Bulgaria will be paying for these distortions for 13 years.",
    "topic": "energy",
-   "verdict": "true",
-   "confidence": "high",
+   "verdict": "unverified",
+   "confidence": "low",
    "steelman": "Bulgaria will pay under this contract for thirteen years.",
-   "finding": "The term runs from 1 January 2023 to 31 December 2035.",
+   "finding": "The Botash contract is classified as a commercial secret and has never been published, so its terms cannot be checked against the text. The figure rests on official statements (the prime minister's July 2026 liability statement, the Turkish energy minister's 13-year figure, BTA's account of the daily capacity payment). Recorded as unverified by policy: where the contract is the only authority, no verdict is issued.",
    "evidence": [
     {
      "statement": "The precise contractual period and the aggregate value: the contract covers access to LNG regasification terminals and onward transmission to Bulgaria from 1 January 2023 to 31 December 2035 — 13 years. It obliges payment of roughly USD 500,000 a day irrespective of whether gas is delivered, with the fees indexed for inflation. Then-energy minister Zhecho Stankov put the total due over the whole term at USD 2.5 billion and said that by end-March 2025 the arrears had reached USD 220-250 million. (Outlet is partisan against Radev, but the dates and the 13-year term match RFE/RL and BTA.)",
@@ -1158,9 +1185,18 @@
      "date": "2025-04-04"
     }
    ],
-   "counter_evidence": [],
+   "counter_evidence": [
+    {
+     "statement": "The contract is not public. It was classified as secret on grounds of commercial secrecy, was never officially published, and even the parliamentary committee's report on it was withheld. Documents purporting to be the agreement, marked confidential, were published in April 2024 by the activist group Bg Elves, not by the state. This directly answers the \"is the contract public\" question: no.",
+     "quote": "Споразумението е обявено за секретно заради търговска тайна. Преди дни групата \"Български елфи\" (Bg Elves) ... публикува и документи, за които се смята, че са споразумението с \"Боташ\". Те имат гриф за конфиденциалност и потвърждават, че \"Булгаргаз\" има ангажимент да плаща за капацитет за разтоварване и пренос на газ на турската компания и без да ги използва.",
+     "source": "Свободна Европа (RFE/RL Bulgaria) — \"Партизанска тактика\". Има ли опит да се прикрие проверката на газовия договор с турската \"Боташ\"",
+     "url": "https://bulgaria.rferl.org/a/botash-turciq-gaz/32910840.html",
+     "archive": "",
+     "date": "2024-04-18"
+    }
+   ],
    "deception": "none",
-   "notes": "",
+   "notes": "Downgraded from a documentary verdict: the sealed contract is the only authority.",
    "document_quote": ""
   },
   {
@@ -1256,10 +1292,10 @@
    "quote_bg": "за разлика от Боташ, където плащаме по 500 хиляди евро, половин милион всеки ден",
    "claim_en": "Under the Botash contract Bulgaria pays 500 thousand euros, half a million, every day, unlike this agreement.",
    "topic": "energy",
-   "verdict": "true",
-   "confidence": "high",
+   "verdict": "unverified",
+   "confidence": "low",
    "steelman": "Under Botash Bulgaria pays 500,000 euros a day, unlike the Kyiv agreement.",
-   "finding": "The BGN 1 million daily capacity payment is EUR 512,000, which rounds to 500,000.",
+   "finding": "The Botash contract is classified as a commercial secret and has never been published, so its terms cannot be checked against the text. The figure rests on official statements (the prime minister's July 2026 liability statement, the Turkish energy minister's 13-year figure, BTA's account of the daily capacity payment). Recorded as unverified by policy: where the contract is the only authority, no verdict is issued.",
    "evidence": [
     {
      "statement": "Documented contract economics per BTA: Bulgargaz booked 106.4 GWh/day of capacity on Turkish LNG regasification terminals and undertook to pay BGN 1 million (EUR 512,000) per day for a period ending in 2035; the contract is a 13-year take-or-pay agreement and rescinding it would expose Bulgargaz to close to BGN 3 billion in damages. The same article records that on 19 April 2024 the National Assembly instructed then-energy minister Vladimir Malinov to renegotiate, and states the 2026 official liability figure as about EUR 360 million.",
@@ -1278,9 +1314,18 @@
      "date": "2026-10-29"
     }
    ],
-   "counter_evidence": [],
+   "counter_evidence": [
+    {
+     "statement": "The contract is not public. It was classified as secret on grounds of commercial secrecy, was never officially published, and even the parliamentary committee's report on it was withheld. Documents purporting to be the agreement, marked confidential, were published in April 2024 by the activist group Bg Elves, not by the state. This directly answers the \"is the contract public\" question: no.",
+     "quote": "Споразумението е обявено за секретно заради търговска тайна. Преди дни групата \"Български елфи\" (Bg Elves) ... публикува и документи, за които се смята, че са споразумението с \"Боташ\". Те имат гриф за конфиденциалност и потвърждават, че \"Булгаргаз\" има ангажимент да плаща за капацитет за разтоварване и пренос на газ на турската компания и без да ги използва.",
+     "source": "Свободна Европа (RFE/RL Bulgaria) — \"Партизанска тактика\". Има ли опит да се прикрие проверката на газовия договор с турската \"Боташ\"",
+     "url": "https://bulgaria.rferl.org/a/botash-turciq-gaz/32910840.html",
+     "archive": "",
+     "date": "2024-04-18"
+    }
+   ],
    "deception": "none",
-   "notes": "",
+   "notes": "Downgraded from a documentary verdict: the sealed contract is the only authority.",
    "document_quote": ""
   },
   {

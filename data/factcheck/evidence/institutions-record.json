@@ -1,0 +1,121 @@
+{
+ "cluster": "institutions-record",
+ "items": [
+  {
+   "statement": "The 52nd National Assembly, elected on 19 April 2026, has 240 seats and Progressive Bulgaria (Rumen Radev's party) holds 131 of them - an outright single-party majority (131 > 120), so no coalition partner is needed and the same party controls the legislature.",
+   "quote": "Rumen Radev’s Progressive Bulgaria won 44.59% of the vote, securing 131 seats in the 240-seat parliament.",
+   "source": "BGNES - Bulgaria’s new parliament convenes after snap elections give Rumen Radev’s bloc an outright majority",
+   "url": "https://www.bgnes.com/politics/bulgaria-s-new-parliament-convenes-after-snap-elections-give-rumen-radev-s-bloc-an-outright-majority",
+   "archive": "",
+   "date": "2026-04-30",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "The same party holds the executive: on 8 May 2026 the National Assembly elected Progressive Bulgaria's Rumen Radev as Prime Minister (124-70-36); all 124 votes in favour came from Progressive Bulgaria, the cabinet was approved 122-70-36 and sworn in that day. One party therefore held both the legislative majority and the government - the factual basis of the debate statement that 'one party holds the executive and legislative power'.",
+   "quote": "Bulgaria's Parliament voted 124-70 with 36 abstentions to elect Rumen Radev of Progressive Bulgaria as Prime Minister.",
+   "source": "BTA - Parliament Elects Rumen Radev as Prime Minister",
+   "url": "https://www.bta.bg/en/news/bulgaria/1121595-parliament-elects-rumen-radev-as-prime-minister",
+   "archive": "",
+   "date": "2026-05-08",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "The Constitution defines Bulgaria as a parliamentary republic, not a presidential one: Art. 1(1). The text was promulgated in DV 56/1991 and last amended in 2023-2024, so this is the text in force at the debate.",
+   "quote": "Чл. 1. (1) България е република с парламентарно управление.",
+   "source": "Конституционен съд на Република България - Конституция на Република България",
+   "url": "https://www.constcourt.bg/bg/legal-info-92",
+   "archive": "",
+   "date": "1991-07-13",
+   "reliability": "primary"
+  },
+  {
+   "statement": "Art. 92(1) makes the president head of state who 'represents the Republic of Bulgaria in international relations' - a representative function, which is what Iotova invoked and what Gyurov countered with 'we are a parliamentary republic'. Art. 98 lists the president's powers (scheduling elections and, where the NA has so decided, a referendum; addressing the nation and the NA; concluding international treaties 'in the cases provided by law'), Art. 99 governs cabinet formation and the caretaker cabinet (para 5), Art. 102(3) lists decrees needing no countersignature, and Art. 84(11) reserves to the National Assembly the authorisation of the deployment and use of the armed forces.",
+   "quote": "Чл. 92. (1) Президентът е държавен глава. Той олицетворява единството на нацията и представлява Република България в международните отношения.",
+   "source": "lex.bg - Конституция на Република България (вербатен текст на ДВ)",
+   "url": "https://lex.bg/laws/ldoc/521957377",
+   "archive": "",
+   "date": "1991-07-13",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "On 21 February 2025 the 51st National Assembly adopted a declaration on non-participation of Bulgarian armed forces in military operations on Ukrainian territory: 166 for, 27 against, 11 abstentions. This is the only adopted National Assembly act of this kind that could be documented - the record does not contain two separate 'decisions'.",
+   "quote": "Депутатите приеха декларация, в която се изразява позицията на 51-вото Народно събрание за неучастие на български въоръжени сили във военни действия на територията на Украйна. \"За\" гласуваха 166 народни представители, 27 бяха \"против\" и 11 се въздържаха.",
+   "source": "БТА - Парламентът прие декларация за неучастие на български въоръжени сили във военни действия на територията на Украйна",
+   "url": "https://www.bta.bg/bg/news/bulgaria/national-news/838190-parlamentat-prie-deklaratsiya-za-neuchastie-na-balgarski-vaorazheni-sili-vav-voe",
+   "archive": "",
+   "date": "2025-02-21",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "The scope of that declaration matters: it is limited to 'military operations' and expressly carved out Bulgaria's allied commitments in NATO and its other international commitments under the EU, UN and OSCE. It is a political declaration, not a statute, and it does not cover a post-war peacekeeping mission - so it does not support a claim that parliament has banned every form of Bulgarian military presence in Ukraine.",
+   "quote": "Парламентът прие декларация за неучастие на български въоръжени сили във военни действия в Украйна, извън съюзните ангажименти на България в НАТО и другите международни ангажименти на страната по линия на ЕС, ООН и ОССЕ.",
+   "source": "БНР Бургас - Парламентът прие декларация за неучастие на български военни в Украйна",
+   "url": "https://bnrnews.bg/burgas/post/219592/parlamentat-prie-deklaracia-za-neuchastie-na-balgarski-voenni-v-ukraina",
+   "archive": "",
+   "date": "2025-02-21",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "The additional declaration tabled in the 52nd National Assembly on 28 October 2026 by Democratic Bulgaria (Bozhidar Bozhanov) goes further than the 2025 text: it promises that Bulgarian armed forces will not be sent to the territory of Ukraine at all, drawing no distinction between combat deployment and a peacekeeping mission. It was tabled, not adopted - that day's extraordinary sitting failed for lack of quorum.",
+   "quote": "За да бъдат спокойни всички българи, днес внасяме декларация, която препотвърждава решението на предишното Народно събрание. Това е декларация за неучастие на български въоръжени сили на територията на Украйна.",
+   "source": "Фокус - ДБ препотвърждава неучастието на български военни в Украйна",
+   "url": "https://www.focus-news.net/novini/Bylgaria/DB-prepotvurzhdava-neuchastieto-na-bulgarski-voenni-v-Ukraina-3047203",
+   "archive": "",
+   "date": "2026-10-28",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "The caretaker government of Andrey Gyurov took office on 19 February 2026: Iotova signed the decree appointing it, the cabinet took the oath before the National Assembly that day and the handover from Rosen Zhelyazkov's cabinet took place the same day. Its term ended on 8 May 2026, when Radev's cabinet was sworn in - i.e. 19 February to 7 May inclusive, 78 days.",
+   "quote": "Caretaker Prime Minister Andrey Gurov and his cabinet took the oath of office before the National Assembly on Thursday, with President Iliana Iotova in attendance.",
+   "source": "BTA - Andrey Gurov Caretaker Cabinet Sworn In, Sets Course for Fair Elections on April 19",
+   "url": "https://www.bta.bg/en/news/bulgaria/1067407-andrey-gurov-caretaker-cabinet-sworn-in-sets-course-for-fair-elections-on-april",
+   "archive": "",
+   "date": "2026-02-19",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "Gyurov himself put his cabinet's term at 78 days, in the debate, answering a question about disappointment and distrust between the two candidates - so the '78 days' figure in the debate is his own and matches the calendar (19 February - 7 May 2026).",
+   "quote": "Гледам назад към изключително успешни 78 дни. Няма разочарование. Очаква ни действие.",
+   "source": "168 часа / 24 часа - Йотова атакува с аргументи, Гюров - не е разочарован, че го е направила служебен премиер",
+   "url": "https://www.168chasa.bg/Article/23832919",
+   "archive": "",
+   "date": "2026-10-29",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "The last government Radev appointed was Rosen Zhelyazkov's regular cabinet: elected by the National Assembly on 16 January 2025 with 125 votes and appointed by Radev's decree. It survived five no-confidence votes, resigned in December 2025 but stayed in office as an outgoing government until Gyurov's caretaker took over on 19 February 2026 - about 13 months (16 January 2025 - 19 February 2026), against Gyurov's 78 days.",
+   "quote": "Преди по-малко от 12 месеца - на 16 януари със 125 гласа \"за\" Народното събрание (НС) избра правителството на Росен Желязков.",
+   "source": "Bulgaria ON AIR - Историята на кабинета \"Желязков\" - Еврозона и оцеляване при 5 вота на недоверие",
+   "url": "https://www.bgonair.bg/a/2-bulgaria/403627-istoriyata-na-kabineta-zhelyazkov-evrozona-i-otselyavane-pri-5-vota-na-nedoverie",
+   "archive": "",
+   "date": "2025-12-11",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "The euro referendum was sought by President Rumen Radev, not by a party or a citizens' petition: on 3 December 2025 the National Assembly rejected his proposal for a national referendum on the question whether Bulgaria should adopt the euro in 2026, by 81 votes to 135 with 3 abstentions.",
+   "quote": "С 81 гласа \"за\", 135 \"против\" и трима въздържали се парламентът отхвърли предложението на президента Румен Радев за произвеждане на национален референдум с въпрос: \"Съгласни ли сте България да въведе европейската валута \"евро“ през 2026 г.?“.",
+   "source": "БНР Бургас - Парламентът отхвърли предложението на президента за референдум за еврото",
+   "url": "https://bnrnews.bg/burgas/post/395350/parlamentat-othvarli-predlozhenieto-na-prezidenta-za-referendum-za-evroto",
+   "archive": "",
+   "date": "2025-12-03",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "On 24 June 2022 the National Assembly authorised the Council of Ministers to approve the French Presidency's proposal for North Macedonia. The adopted text was the draft tabled by Hristo Ivanov (chairman of the Democratic Bulgaria parliamentary group), carried by 170 votes to 37 with 21 abstentions; the separate drafts of GERB-UDF and the DPS were rejected in plenary. This contradicts the debate claim that Gyurov was the 'tabled-by' of the French proposal.",
+   "quote": "\"За\" проекторешението, внесено от Христо Иванов, председател на ПГ \"Демократична България\" (ДБ), гласуваха 170 народни представители, 37 бяха \"против\" и 21 - \"въздържали се\".",
+   "source": "Vesti.bg - НС реши за френското предложение за Северна Македония",
+   "url": "https://www.vesti.bg/bulgaria/ns-reshi-za-frenskoto-predlozhenie-za-severna-makedoniia-6145891",
+   "archive": "",
+   "date": "2022-06-24",
+   "reliability": "secondary"
+  }
+ ],
+ "open_questions": [
+  "Gyurov said 'there are two such decisions of the National Assembly' (24 Oct 2026 transcript: 'Има две такива решения на Народното събрание'), but only one adopted act with that content could be documented - the 21 February 2025 declaration (166-27-11). The second act he meant is not identified; the 4 May 2022 decision mandated military-technical assistance to Ukraine and contains no no-troops clause that could be verified, so the 'two decisions' claim is at best half-supported.",
+  "Whether the 52nd National Assembly ever adopted the October 2026 declaration: the 28 October sitting reportedly failed for lack of quorum with Progressive Bulgaria and Vazrazhdane boycotting, so only the tabling is documented, not a vote.",
+  "Which government counts as 'the last Radev-appointed government': the Zhelyazkov regular cabinet (16 January 2025 - 19 February 2026) or the last caretaker he appointed, Glavchev's second cabinet (sworn in 27 August 2024, in office until 16 January 2025). The end date of the Glavchev cabinet was not confirmed from a primary source.",
+  "Exact date of the CEC decision allocating the 52nd National Assembly mandates (the 131-seat figure is taken from agency reporting of the CEC announcement, not from the CEC decision itself).",
+  "The 21 February 2025 declaration's full official text (DV publication) was not retrieved; the wording used here comes from BTA/BNR reports of the sitting."
+ ],
+ "notes": "The institutional record supports the debate's framing on the shape of power and undercuts its two legal claims. After 19 April 2026 Progressive Bulgaria held 131 of 240 seats and, from 8 May 2026, the premiership too - one party with both legislative majority and executive, as Gyurov said; the Constitution (Art. 1(1)) calls Bulgaria a parliamentary republic, and Art. 92(1) gives the president a representative role in international relations, which is exactly the line Gyurov used against Iotova's claim of presidential authority. On troops, the only documented National Assembly act is the 21 February 2025 declaration, adopted 166-27-11, which speaks of 'military operations on the territory of Ukraine' and expressly excludes Bulgaria's NATO/EU/UN/OSCE commitments - a qualified political statement, not a statutory ban, and not a bar on a post-war mission. The declaration tabled by Democratic Bulgaria on 28 October 2026 is broader (no Bulgarian armed forces 'on the territory of Ukraine', combat and peacekeeping alike) but was not adopted. Gyurov's caretaker cabinet ran from 19 February 2026 to 7 May 2026 inclusive, i.e. the 78 days he himself cited, against roughly thirteen months for Zhelyazkov's Radev-appointed cabinet. The euro referendum was Radev's own proposal, rejected 81-135-3 on 3 December 2025, so any suggestion that a party or petition drove it is wrong; and the French proposal decision of 24 June 2022 was carried on Hristo Ivanov's draft, 170-37-21, with the GERB-UDF and DPS drafts voted down - Gyurov was not the tabled-by."
+}
