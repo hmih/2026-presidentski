@@ -97,6 +97,18 @@ turn by the attributed speaker (339/339).
 | Checkable | 138 checkable, 176 partly, 25 unverifiable |
 | Type | empirical 190, procedural 49, characterization 40, causal 28, normative 17, predictive 15 |
 
+## Narratives (stage 3, in progress)
+
+Per-candidate narrative maps, each anchored in claim ids and timestamps:
+
+- [`data/narratives/README.md`](data/narratives/README.md) — phase table, both maps, and the
+  collision list (where the two candidates' accounts cannot both be true)
+- [`data/narratives/gyurov.json`](data/narratives/gyurov.json), [`iotova.json`](data/narratives/iotova.json)
+- `salience.csv` — claim counts by topic per 20-minute phase
+
+Eight unique collision topics emerged, each with the record that would settle it. They are the
+fact-check queue.
+
 ## Pipeline
 
 Each stage writes a versioned artefact under `data/` so any conclusion can be traced back

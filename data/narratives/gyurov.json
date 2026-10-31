@@ -1,0 +1,367 @@
+{
+  "candidate": "gyurov",
+  "summary": "Gyurov debates as a technocratic incumbent-in-waiting: almost every exchange is converted into a comparison between the 78-day caretaker cabinet he ran and the Radev-Iotova record, and he keeps three numbers in circulation - half a million a day for Botash, 6.8 billion euro left in the fiscal reserve, and not a single binding sentence in the Kyiv agreement. His strongest register is security, where he moves from international-law doctrine at 07:24 to casualty lists and an accusation of passivity against Iotova as commander-in-chief. His weakest register is the personal: the pardon attack, which he insists is not personal, sits beside complaints about trolls, collages and a dirty campaign. He consistently refuses to ask for more presidential powers while arguing that the office must become a counterweight, which lets him answer the authoritarianism charge with self-limitation instead of denial. The closing frame is vindication - a positive civic campaign against an opponent's campaign of fear - so the performance is disciplined and number-heavy, more comfortable prosecuting a record than describing a programme.",
+  "narratives": [
+    {
+      "id": "deterrence-not-silence",
+      "label": "Name the aggressor and arm the coast - silence is not defence",
+      "problem": "Bulgarian security has deteriorated - explosions on Bulgarian soil, fallen drones, sunk ships and dead sailors, with the Black Sea less safe than the Persian Gulf - because the state lowered its profile instead of naming the threat.",
+      "culprit": "Iotova and Radev's presidential institution, which kept silent, refused the NATO drone programme over a 220,000-euro price tag and convened the Consultative Council only after weeks of visible escalation.",
+      "remedy": "Name Russia as the aggressor, join EU and NATO defence schemes early, build deterrence so the cost of attack becomes too high, and co-develop the technology at home instead of buying it late.",
+      "warning": "A wish for a moratorium is not a defence strategy, and silence is not defence.",
+      "evidence_claims": [
+        "C-01-13",
+        "C-01-14",
+        "C-01-15",
+        "C-02-05",
+        "C-02-06",
+        "C-02-07",
+        "C-02-08",
+        "C-02-09",
+        "C-02-10",
+        "C-02-21",
+        "C-02-22",
+        "C-02-23",
+        "C-02-27",
+        "C-02-31",
+        "C-02-32",
+        "C-02-43",
+        "C-03-04",
+        "C-03-05",
+        "C-03-06",
+        "C-03-27",
+        "C-03-28"
+      ],
+      "active_windows": [
+        "07:24-14:15 opened: borders are not changed by force and Bulgaria must build coalitions before it needs them, with the French proposal as the model",
+        "14:15-22:11 sharpened: the UN resolution, the late Consultative Council and the refused drone programme become proof of Iotova's inaction",
+        "22:54-28:45 moralised: 'when you have no position you are not at the table, you are on the menu', and the dead sailors are presented as the bill for hunkering down",
+        "35:11-36:03 softened: the Warsaw Pact memory and allied troops stationed in Bulgaria reframe NATO as the existing guarantee rather than a new commitment"
+      ],
+      "rhetorical_moves": [
+        "appeal_to_fear",
+        "false_dilemma",
+        "personal_attack",
+        "appeal_to_authority",
+        "concession"
+      ],
+      "shift": "Starts as abstract doctrine about international law and coalition-building at 07:24, turns into a personal indictment of Iotova as commander-in-chief between 14:15 and 22:54, peaks in casualty evidence at 28:45, then retreats to the reassurance of NATO membership and allied troops.",
+      "salience": "high"
+    },
+    {
+      "id": "kyiv-door-open",
+      "label": "The Kyiv agreement is an open door, not a hidden trap",
+      "problem": "A framework agreement is being sold to voters as a binding ten-year commitment that sends Bulgarian soldiers to the front, when every contract under it needs ratification and its only promise is access to reconstruction.",
+      "culprit": "Iotova and Progressive Bulgaria, who spread what he calls outright lies about binding clauses and about Bulgarian soldiers being sent to Ukraine.",
+      "remedy": "Sign the follow-on contracts, let Bulgarian firms into Ukraine's reconstruction on a Marshall-Plan scale, and pass the proposed parliamentary declaration separating combat operations from peacekeeping.",
+      "warning": "Anyone who tells voters this agreement sends Bulgarian soldiers to Ukraine is lying to them.",
+      "evidence_claims": [
+        "C-03-07",
+        "C-03-23",
+        "C-03-24",
+        "C-03-25",
+        "C-03-26",
+        "C-03-29",
+        "C-03-32",
+        "C-03-33",
+        "C-03-35",
+        "C-04-34"
+      ],
+      "active_windows": [
+        "28:45-32:25 opened: the agreement is a door that can be opened, explicitly opposed to Botash as a door nobody can close",
+        "36:03-38:10 defended: two National Assembly decisions and a new declaration are offered as the guarantee that no Bulgarian soldier will go",
+        "38:10-39:34 converted: the argument moves from legality to industrial opportunity and to the contracts lost by staying out of the coalition",
+        "54:06-54:45 hardened: Iotova is accused of manipulating citizens and of inventing binding sentences that do not exist"
+      ],
+      "rhetorical_moves": [
+        "counter_narrative",
+        "credit_claiming",
+        "concession",
+        "personal_attack"
+      ],
+      "shift": "Begins as legal clarification about framework status, ratification and soldiers, becomes an economic opportunity pitch at 38:10, then a direct accusation of lying at 54:06, so that by the end the legal detail serves the integrity attack rather than the policy argument.",
+      "salience": "high"
+    },
+    {
+      "id": "botash-unclosable-door",
+      "label": "Botash is the unclosable door - and proof that one man can hold all power",
+      "problem": "A thirteen-year gas contract signed by a caretaker government costs Bulgaria half a million dollars a day and close to 400 million in liabilities, and the presidential institution never raised it.",
+      "culprit": "The caretaker government that signed the Botash deal, and Iotova, who stayed silent when it was signed and still says nothing about it.",
+      "remedy": "Make the contract useful or say plainly that it cannot be, and use the president's voice and veto to force accountability for such long-term deals.",
+      "warning": "One signature has mortgaged thirteen years of Bulgarian budgets, which is exactly what the constitution's checks were meant to prevent.",
+      "evidence_claims": [
+        "C-03-08",
+        "C-03-09",
+        "C-03-18",
+        "C-03-19",
+        "C-03-20",
+        "C-03-21",
+        "C-03-22",
+        "C-04-19",
+        "C-04-20",
+        "C-04-35"
+      ],
+      "active_windows": [
+        "28:45-32:25 introduced as a counter: 'the Botash contract was also signed by a caretaker government, for 13 years', immediately after the Kyiv agreement",
+        "32:25-35:11 expanded: 400 million owed, Bulgargaz pushed toward bankruptcy, Gazprom rather than Sofia cutting supplies, six tankers turned away",
+        "49:07-50:26 constitutionalised: the contract becomes evidence that one person can hold all power, and the argument shifts to checks and balances",
+        "54:06-54:45 condensed into the recurring metric of half a million a day, set against the Kyiv agreement"
+      ],
+      "rhetorical_moves": [
+        "whataboutism",
+        "false_dilemma",
+        "credit_claiming",
+        "counter_narrative"
+      ],
+      "shift": "Enters at 28:45 as whataboutism against the Kyiv agreement, becomes a fiscal grievance with a daily price tag, and is promoted at 49:07 into a constitutional argument about concentrated power - the thread he keeps returning to until 54:45.",
+      "salience": "high"
+    },
+    {
+      "id": "piano-counterweight",
+      "label": "The presidency is a piano nobody plays - restore it as a counterweight, not a springboard",
+      "problem": "The presidential institution has been either unused or abused: a piano in the living room that nobody plays, and in recent terms a springboard to executive power and a tool of division.",
+      "culprit": "Iotova and Radev, who attacked the French proposal when it was politically useful, praise it now that it has succeeded, and used the office to attack a sitting government.",
+      "remedy": "Use the existing powers responsibly - gather the talent of the nation around problems larger than one term, write Bulgaria's position into the European draft, and act as a counterweight when one party holds both parliament and the executive.",
+      "warning": "A presidency that behaves as an appendage of the executive cannot be the check the constitution intended.",
+      "evidence_claims": [
+        "C-01-02",
+        "C-01-03",
+        "C-01-19",
+        "C-01-20",
+        "C-04-01",
+        "C-04-04",
+        "C-04-10",
+        "C-04-12",
+        "C-04-18",
+        "C-04-21",
+        "C-08-21",
+        "C-08-25",
+        "C-08-26"
+      ],
+      "active_windows": [
+        "01:47-07:24 opened: the piano metaphor, the single-party majority and the French proposal as a model of Europeanising a national position",
+        "42:44-46:37 inverted: the French proposal becomes an accusation that the presidency attacked then and praises now",
+        "48:09-50:26 doctrinal: he refuses to initiate more presidential powers while insisting the office must supply the constitution's checks and balances",
+        "103:20-104:56 restated as legacy: the criticism of Iotova is precisely that she was not a balancer, and he wants to be the peacemaker president"
+      ],
+      "rhetorical_moves": [
+        "counter_narrative",
+        "credit_claiming",
+        "whataboutism",
+        "concession",
+        "appeal_to_authority"
+      ],
+      "shift": "Moves from a lyrical diagnosis of a passive institution at 01:47 to a partisan hypocrisy charge over North Macedonia at 42:44, then to a self-limiting constitutional doctrine at 49:07, and finally to a personal verdict on Iotova at 103:20.",
+      "salience": "high"
+    },
+    {
+      "id": "civic-independence",
+      "label": "A civic candidacy with no party headquarters and no State Security in the room",
+      "problem": "Bulgarian politics is run by party centrales and by people with a State Security past, which is why campaigns produce fear instead of answers and why a president can end up captured by those who nominated him.",
+      "culprit": "Iotova's initiative committee, which he says contains political leaders and representatives of State Security, and the party machines behind her candidacy.",
+      "remedy": "A purely civic initiative committee, a direct appeal to citizens over the heads of party leaders, and a president independent enough to veto budgets that cut incomes.",
+      "warning": "If the parties that nominated you own you, you cannot be the balance wheel - and my committee is the proof that I am not owned.",
+      "evidence_claims": [
+        "C-01-08",
+        "C-01-09",
+        "C-01-10",
+        "C-01-11",
+        "C-01-12",
+        "C-05-07",
+        "C-05-08",
+        "C-05-13",
+        "C-05-14"
+      ],
+      "active_windows": [
+        "06:06-06:59 opened: the candidacy rests on a purely civic principle, with no political leaders and no State Security, unlike Iotova's committee",
+        "59:49-61:45 defended under attack: the 2022 budget anecdote is offered as proof he defied his own party, and the absence of talks with party headquarters is repeated as a flat denial",
+        "60:07-61:45 converted: independence is redefined as willingness to veto, not as the absence of allies"
+      ],
+      "rhetorical_moves": [
+        "credit_claiming",
+        "personal_attack",
+        "counter_narrative"
+      ],
+      "shift": "Presented at 06:06 as a positive contrast in committee composition, it is forced onto the defensive by the concentration-of-power charge at 59:49-61:45, where independence is redefined from an organisational fact into a promise to veto.",
+      "salience": "medium"
+    },
+    {
+      "id": "economic-stewardship",
+      "label": "We left them tools and a surplus; they left citizens poorer",
+      "problem": "The 2026 budget was written in secret and pushed on a fast track, adding about 2 billion euro of burden plus 1.5 billion against empty line items, while purchasing power falls for the first time and a million pensioners stay under the poverty line.",
+      "culprit": "The Radev government, which shelved the ready Svetofar price mechanism, ran populist basket measures and cut the labour rights of part-time workers, working students and young mothers.",
+      "remedy": "Convene unions and employers before the vote instead of after, apply the mechanism the caretaker cabinet built, and use the presidential veto against budgets that reduce incomes.",
+      "warning": "A one-off tax on excess profit cannot fund permanent spending, and the bill will come back within the year.",
+      "evidence_claims": [
+        "C-04-36",
+        "C-04-37",
+        "C-04-38",
+        "C-05-02",
+        "C-05-03",
+        "C-05-05",
+        "C-05-06",
+        "C-05-09",
+        "C-05-10",
+        "C-05-11",
+        "C-05-12",
+        "C-05-25",
+        "C-05-26",
+        "C-05-33",
+        "C-05-34",
+        "C-05-35",
+        "C-05-36",
+        "C-06-01",
+        "C-06-03",
+        "C-06-04",
+        "C-06-05",
+        "C-06-07",
+        "C-06-08",
+        "C-06-09",
+        "C-06-10",
+        "C-06-11",
+        "C-06-27",
+        "C-06-30",
+        "C-06-40",
+        "C-06-41"
+      ],
+      "active_windows": [
+        "54:58-58:11 opened on prices: 'check your data', the slowest price growth under the caretaker cabinet, the Svetofar mechanism and the IMF spring-meeting endorsement",
+        "60:07-67:36 shifted to procedure and labour rights, with the 2022 budget story used as proof of his own restraint",
+        "67:49-71:29 defended on the fiscal reserve: 6.8 billion left, money returned to the citizens' piggy bank rather than the black cash box",
+        "71:29-79:07 quantified: 2 billion of new burden, 1.5 billion against empty line items, falling purchasing power and the excess-profit tax as the warning"
+      ],
+      "rhetorical_moves": [
+        "credit_claiming",
+        "counter_narrative",
+        "appeal_to_authority",
+        "appeal_to_fear"
+      ],
+      "shift": "Starts as a defensive data dispute about inflation at 54:58, moves to procedure and labour rights at 60:07-67:36, then to a fiscal-numbers attack at 71:29-79:07; the caretaker cabinet's own record is the constant that holds the three stages together.",
+      "salience": "high"
+    },
+    {
+      "id": "pardon-accountability",
+      "label": "The pardon is her signature - no commission can absorb it",
+      "problem": "Iotova pardoned convicted drug traffickers in repeated cases, and the medical-commission defence does not hold because only two members of that commission were replaced and a separate pardon commission exists.",
+      "culprit": "Iotova personally, who holds the pardon power in full and has produced no document in which the medical commission recommends a pardon.",
+      "remedy": "Publish the dossier and the criteria, answer the mothers of the victims, and accept that a sick person should be treated rather than released.",
+      "warning": "A sick person belongs in treatment, not released to go out and poison Bulgarian children again.",
+      "evidence_claims": [
+        "C-07-10",
+        "C-07-11",
+        "C-07-26",
+        "C-07-27",
+        "C-07-30",
+        "C-07-31",
+        "C-07-32",
+        "C-07-33"
+      ],
+      "active_windows": [
+        "86:39-91:07 posed as a moral challenge: would she apologise to Bulgarian mothers, and on what criteria were repeated pardons granted",
+        "91:07-93:15 defended against the personal-attack charge: the question is framed as being about how a power was used, not about the person",
+        "93:25-93:53 narrowed to the commission: only two members were replaced, a separate pardon commission exists, and no recommending document has been produced"
+      ],
+      "rhetorical_moves": [
+        "personal_attack",
+        "appeal_to_fear",
+        "counter_narrative",
+        "concession"
+      ],
+      "shift": "Opens as a moral challenge to Iotova at 86:39, is immediately wrapped in a denial of personal attack at 91:07, and ends as a narrow evidentiary dispute about which commission decides - the emotional charge stays while the target shrinks.",
+      "salience": "high"
+    },
+    {
+      "id": "dirty-campaign-vindication",
+      "label": "They ran on invented enemies; the first-round result is the verdict",
+      "problem": "The campaign was fought with fear of war and invented enemies, with the Council of Ministers press centre turned into a campaign office, with good and bad media lists, trolls and fake news about him.",
+      "culprit": "Iotova's campaign and Progressive Bulgaria, including its parliamentary group chair and MPs who shared collages of him kissing a Ukrainian flag and wearing a helmet with a rifle.",
+      "remedy": "An open, positive, civic campaign of hundreds of towns and tens of thousands of conversations, plus media that behave as a fourth power and act as a check on government.",
+      "warning": "The campaign of fear cost them 900,000 votes and turned a 20-point poll lead into under 3 points.",
+      "evidence_claims": [
+        "C-01-01",
+        "C-02-04",
+        "C-06-43",
+        "C-07-04",
+        "C-07-05",
+        "C-07-06",
+        "C-07-07",
+        "C-07-08",
+        "C-07-09",
+        "C-07-28",
+        "C-07-29",
+        "C-07-39",
+        "C-07-40",
+        "C-07-41",
+        "C-07-42",
+        "C-08-38",
+        "C-08-39",
+        "C-08-40",
+        "C-08-41"
+      ],
+      "active_windows": [
+        "01:47-06:06 opened: low turnout is explained by a campaign that scared people with war and invented enemies",
+        "80:47-86:18 institutionalised: the Council of Ministers press centre, good and bad media branding and troll collages become the formal indictment",
+        "95:30-96:25 settled by results: 900,000 lost votes and a 20-point poll gap that shrank to under 3",
+        "107:58-108:28 closing grievance: he never attacked her or her family, while her closing rally was devoted to insinuations about him"
+      ],
+      "rhetorical_moves": [
+        "appeal_to_fear",
+        "credit_claiming",
+        "personal_attack",
+        "counter_narrative"
+      ],
+      "shift": "Begins as an explanation of turnout at 01:47, becomes a media-freedom indictment in the 80s, is cashed in as electoral vindication at 95:30, and closes as a personal grievance about her final rally.",
+      "salience": "high"
+    }
+  ],
+  "collisions": [
+    {
+      "topic": "Bindingness and mandate of the Kyiv framework agreement",
+      "their_claim": "Iotova: the Kyiv agreement binds the state to commitments for 10 years and is 'equally binding', and it was signed without a National Assembly mandate while the Assembly was sitting (C-03-03 at 27:52; C-04-24 at 51:25; C-03-01 and C-03-13 at 27:52-31:20).",
+      "counter": "Gyurov: it is a framework agreement with 'not a single binding sentence', it was discussed in parliament and sent back to the government, and every contract under it is subject to ratification (C-04-34 at 54:06; C-03-07 at 28:45; C-03-23 and C-03-24 at 32:25).",
+      "checkable": "Read the published agreement for binding language and the ratification clause, then check the National Assembly record and the speaker's letter returning it to the government."
+    },
+    {
+      "topic": "Cause of the Botash contract and the Russian gas cutoff",
+      "their_claim": "Iotova: the Botash deal happened because Kiril Petkov and Asen Vasilev cut off Russian gas supplies to Bulgaria overnight (C-03-17 at 31:54).",
+      "counter": "Gyurov: Gazprom, not the Bulgarian government, unilaterally stopped the supplies, and the government of the day reacted fast and secured liquefied gas that could be delivered (C-03-20 and C-03-21 at 32:25).",
+      "checkable": "Gazprom's April 2022 cutoff notice and Bulgaria's LNG procurement and delivery record for spring 2022."
+    },
+    {
+      "topic": "Bulgarian participation in the NATO drone programme",
+      "their_claim": "Iotova: the government submitted the documents for participation and registered Bulgaria in the programme despite the price (C-02-24 and C-02-25 at 20:18).",
+      "counter": "Gyurov: Bulgaria refused to join, the defence minister cited 220,000 euro as too expensive, and Bulgaria joined only belatedly after the escalation (C-02-21, C-02-22, C-02-23 at 19:45; C-02-27 at 20:47).",
+      "checkable": "Council of Ministers decisions and Ministry of Defence correspondence on the drone programme, with the dates of the refusal and of the later registration."
+    },
+    {
+      "topic": "Inflation under the caretaker cabinet",
+      "their_claim": "Iotova: prices rose the most and inflation jumped the most during Gyurov's government (C-04-28 and C-04-29 at 51:25).",
+      "counter": "Gyurov: prices rose the slowest this year exactly while the caretaker cabinet was in office, and the support measures meant there was no inflation (C-04-36 at 54:58; C-05-05 at 58:11).",
+      "checkable": "National statistics monthly inflation series for the caretaker cabinet's months compared with the months that followed."
+    },
+    {
+      "topic": "The fiscal reserve and whether there was money for salaries",
+      "their_claim": "Iotova: at the end of Gyurov's government there was no money even for salaries, and he claimed an acute shortage then while saying now that the funds were not needed for salaries (C-05-28 at 66:35; C-05-40 at 69:26).",
+      "counter": "Gyurov: the fiscal reserve held 6.8 billion euro and his government left 6.8 billion to the next one, so paying salaries was never the question (C-05-34 at 67:49; C-06-03 at 70:09).",
+      "checkable": "Ministry of Finance fiscal reserve reports for the caretaker cabinet's term and the decision withdrawing money from the Bulgarian Development Bank."
+    },
+    {
+      "topic": "Whether the budget cuts labour rights",
+      "their_claim": "Iotova: the assertion that the budget cuts labour rights is not true, and the dispute concerns one text on holidays and hourly work (C-05-30 and C-05-31 at 67:01).",
+      "counter": "Gyurov: the budget cuts the labour rights of Bulgarian citizens, with part-time workers, working students and young mothers losing out (C-05-25 at 65:32; C-05-33 at 67:36).",
+      "checkable": "Read the disputed transitional provision against the Labour Code and the Constitutional Court's reasoning on it."
+    },
+    {
+      "topic": "The medical commission behind the pardons",
+      "their_claim": "Iotova: the commission exists under the law rather than at the minister's discretion, its documents carry at least three ministerial signatures, and the decision was taken entirely on humanitarian and health grounds (C-07-34 and C-07-35 at 94:09; C-07-16 at 87:19).",
+      "counter": "Gyurov: only two people on that commission were replaced, a separate commission deals with pardons, and no document was produced in which the medical commission recommends a pardon (C-07-30 at 93:25; C-07-31 and C-07-32 at 93:35).",
+      "checkable": "The pardon dossier: the order constituting the commission, its membership before and after the replacements, and the documents sent to the prosecution."
+    },
+    {
+      "topic": "State of Bulgarian industry and the freight routes",
+      "their_claim": "Iotova: Bulgarian industry is developing very well (C-03-36 at 39:11).",
+      "counter": "Gyurov: industry is under strain from prices and energy costs, the Ruse-Bucharest line stops from April and the line west through Kalotina from January, which means isolation for traders (C-03-37, C-03-38 and C-03-39 at 39:34).",
+      "checkable": "Industrial output data for the period and the published rail timetables and infrastructure notices for the Ruse-Bucharest and Kalotina lines."
+    }
+  ]
+}

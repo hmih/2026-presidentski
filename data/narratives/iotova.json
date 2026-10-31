@@ -1,0 +1,350 @@
+{
+  "candidate": "iotova",
+  "summary": "iotova runs a two-track performance: a first half built on sovereign dignity, security credentials and the Black Sea, and a second half in which almost every attack is turned into a mirror of the opponent's own record. Her method is to accept the frame, concede a detail, and then overwhelm it with first-person authority - 'I was there', 'I asked ten people', 'I signed it after two and a half hours of listening' - backed by a specific date or document. The Kyiv agreement is her central weapon: she returns to the missing mandate, the ten-year term and the Belene reactors at least four times, pairing it with an absolute pledge that no Bulgarian soldier will set foot in Ukraine. From roughly minute 60 she is on the defensive over the budget and the pardons, and she answers by relocating the burden of proof to the Constitutional Court, the prosecution and Vasilev's 2024 paperwork. The closing ten minutes abandon argument for biography, family and 1 November, softening a performance that had been combative and, in the pardon exchange, openly personal.",
+  "narratives": [
+    {
+      "id": "sovereign-voice",
+      "label": "An equal sovereign voice, not a yes-sayer",
+      "problem": "Bulgaria has spent decades agreeing with everything and has therefore had no voice of its own in the EU, NATO or the UN.",
+      "culprit": "The reflex of uncritical alignment with Brussels, and the parties that treat any assertion of a national position as an anti-European or authoritarian gesture.",
+      "remedy": "A president who filters every international decision through the Bulgarian national interest, finds allies inside the alliances Bulgaria already belongs to, and argues well enough to change policies rather than merely sign them.",
+      "warning": "A state that says yes to everything is not a loyal ally but an invisible one, and nobody will notice its position when it matters.",
+      "evidence_claims": [
+        "C-01-21",
+        "C-01-22",
+        "C-01-23",
+        "C-01-24",
+        "C-02-12",
+        "C-02-13",
+        "C-02-16",
+        "C-08-34",
+        "C-08-35"
+      ],
+      "active_windows": [
+        "09:29-11:52 opened: equality of voice grounded in the constitution's clause on presidential representation and in the parity of the EU table",
+        "16:43-17:50 hardened: 'there is no UN resolution' and 'I do not recall Bulgaria ever imposing a veto' used to dismantle Gyurov's veto-leverage argument",
+        "105:13-106:51 closed: von der Leyen's mention of Bulgaria as a connectivity country offered as proof that the quiet, prepared approach pays"
+      ],
+      "rhetorical_moves": [
+        "appeal_to_authority",
+        "false_dilemma",
+        "counter_narrative"
+      ],
+      "shift": "Begins as a constitutional doctrine of presidential representation and hardens into an explicit anti-veto, anti-alignment argument once Gyurov uses the French proposal and Bulgaria's isolation as his counter-example.",
+      "salience": "medium"
+    },
+    {
+      "id": "black-sea-warning",
+      "label": "I warned about the Black Sea before it burned",
+      "problem": "Black Sea shipping, insurance and food security were dismissed as a banal topic until the attacks actually began.",
+      "culprit": "The parties behind Gyurov, who called the issue banal and left the presidential warnings unanswered.",
+      "remedy": "Presidential early warning from the UN General Assembly rostrum, a Consultative Council on National Security, trilateral Romania-Turkey-Bulgaria formats and a six-state moratorium on hostilities in the Black Sea.",
+      "warning": "Calling a security warning banal does not make the sea safer, and the first attacks came anyway.",
+      "evidence_claims": [
+        "C-01-25",
+        "C-01-26",
+        "C-01-27",
+        "C-01-28",
+        "C-01-29",
+        "C-01-30",
+        "C-01-31",
+        "C-01-32",
+        "C-01-34",
+        "C-01-35",
+        "C-01-37",
+        "C-01-38"
+      ],
+      "active_windows": [
+        "11:52-16:43 opened: the UNGA speech, the insurance and food-security chain, and the accusation that Gyurov's parties called the topic banal",
+        "11:52-16:43 closed with the proposal itself: a security meeting and a moratorium among all six Black Sea states",
+        "20:18-21:52 extended into procurement: IRIS and the drone programme presented as the operational follow-through of the same warnings"
+      ],
+      "rhetorical_moves": [
+        "credit_claiming",
+        "appeal_to_fear",
+        "appeal_to_authority",
+        "counter_narrative"
+      ],
+      "shift": "From a first-person credit claim about the UNGA speech into a standing indictment of the opponent's dismissal, then into a procurement argument in the drone exchange; after 22:00 it survives only as a reference point.",
+      "salience": "high"
+    },
+    {
+      "id": "peace-through-talks",
+      "label": "Peace only through negotiation, Russia at the table",
+      "problem": "The war is being prolonged by the theory that peace can come through force, more money and ever newer weapons.",
+      "culprit": "Those who fund an attrition war, and a European Union that has not written a single line of a peace proposal and is being pushed out of the process.",
+      "remedy": "A comprehensive peace agreement with Russia at the table, learned from the failure of Minsk 1, Minsk 2, the Normandy Four and Istanbul, with the EU finally producing its own proposal.",
+      "warning": "A temporary ceasefire designed so that one side cannot possibly agree is not a peace policy but a device for never reaching peace.",
+      "evidence_claims": [
+        "C-02-14",
+        "C-02-18",
+        "C-02-19",
+        "C-02-20",
+        "C-02-34",
+        "C-02-35",
+        "C-02-36",
+        "C-02-37",
+        "C-02-38",
+        "C-02-39",
+        "C-02-40",
+        "C-02-41",
+        "C-02-42"
+      ],
+      "active_windows": [
+        "18:52-24:45 opened: Gyurov's truce called a deliberately unagreeable dead end, and Russia declared impossible to exclude",
+        "24:45-27:52 widened: the war redated to 2013-2014, the failed agreements listed by name, and Finland and Norway cited as converts to direct dialogue with Putin",
+        "16:43-18:52 closed: the EU's empty peace file used as the indictment of the Western line"
+      ],
+      "rhetorical_moves": [
+        "counter_narrative",
+        "appeal_to_fear",
+        "appeal_to_authority",
+        "unfalsifiable"
+      ],
+      "shift": "Starts as a procedural objection to a 'temporary ceasefire' and grows into a full alternative peace doctrine with a historical pedigree, a European culprit and Nordic converts as evidence.",
+      "salience": "high"
+    },
+    {
+      "id": "kyiv-capitulation",
+      "label": "The Kyiv agreement as an unmandated ten-year capitulation",
+      "problem": "A caretaker prime minister signed a ten-year framework with Ukraine twenty days before the election, without a parliamentary mandate, committing the Belene reactors, drone production and the coalition of the willing.",
+      "culprit": "Gyurov personally, who acted secretly, did not ask the National Assembly that was sitting at the time, and did not ask the voters.",
+      "remedy": "No international commitment without a parliamentary mandate and a national consensus, and an absolute refusal to send Bulgarian soldiers to Ukraine.",
+      "warning": "A signature given in secret twenty days before an election binds the Bulgarian state for a decade.",
+      "evidence_claims": [
+        "C-03-01",
+        "C-03-02",
+        "C-03-03",
+        "C-03-10",
+        "C-03-11",
+        "C-03-12",
+        "C-03-13",
+        "C-03-14",
+        "C-03-15",
+        "C-03-16",
+        "C-03-30",
+        "C-03-31",
+        "C-03-34",
+        "C-04-23",
+        "C-04-24"
+      ],
+      "active_windows": [
+        "27:52-31:20 opened: the missing mandate, the twenty-day timing and the ten-year term",
+        "30:25-31:20 expanded: Belene reactors, drone production and the coalition of the willing named as the actual content",
+        "36:31-39:11 escalated: 'secretly, behind everyone's back', then the pledge that no Bulgarian soldier will be in Ukraine before, during or after the war",
+        "51:25-53:44 recycled: 'you did exactly the same' as the answer on Botash"
+      ],
+      "rhetorical_moves": [
+        "personal_attack",
+        "appeal_to_fear",
+        "whataboutism",
+        "counter_narrative"
+      ],
+      "shift": "From a procedural mandate argument into a content argument about reactors and drones, then into an absolute personal pledge, before being folded into the Botash mirror at 51:25.",
+      "salience": "high"
+    },
+    {
+      "id": "record-inversion",
+      "label": "'You did the same, and worse' - the Botash and cost-of-living mirror",
+      "problem": "The Botash contract and the price shock are caretaker-government decisions, so the man accusing her is implicated in exactly what he accuses.",
+      "culprit": "Gyurov's caretaker cabinet together with Petkov and Vasilev, who cut Russian gas overnight and then blamed the consequences on everyone else.",
+      "remedy": "Judge governments by outcomes - inflation, pump prices, a one-month price headquarters, BDB money used to cover salaries - rather than by presentations.",
+      "warning": "A reformer who hands over a treasury at minus three billion and a price headquarters nobody remembers has no standing to preach fiscal virtue.",
+      "evidence_claims": [
+        "C-03-17",
+        "C-04-22",
+        "C-04-23",
+        "C-04-28",
+        "C-04-29",
+        "C-04-30",
+        "C-04-31",
+        "C-04-32",
+        "C-04-39",
+        "C-04-41",
+        "C-05-01",
+        "C-05-27",
+        "C-05-28",
+        "C-05-29",
+        "C-06-02",
+        "C-06-19"
+      ],
+      "active_windows": [
+        "31:54-32:13 opened: Botash blamed on Petkov's and Vasilev's overnight gas cut",
+        "51:25-57:43 expanded: inflation, the price headquarters, the ten-person memory test and the 20-euro fuel measure",
+        "66:19-70:00 closed: no money for salaries, the BDB withdrawal, and a deficit of nearly minus three billion inherited"
+      ],
+      "rhetorical_moves": [
+        "whataboutism",
+        "personal_attack",
+        "counter_narrative"
+      ],
+      "shift": "Starts as a one-line tu quoque on Botash and becomes a systematic audit of the caretaker cabinet's economic record, ending in the inherited-deficit figure at 70:00.",
+      "salience": "high"
+    },
+    {
+      "id": "budget-defence",
+      "label": "The budget is sound; the deficit is the previous government's paperwork",
+      "problem": "A budget attacked as anti-social is in fact the first eurozone budget, protecting pensions and heating bills, while the 5.8 percent deficit comes from earlier, possibly falsified, reporting.",
+      "culprit": "Vasilev and Denkov, who sent the budget to the Constitutional Court and whose 2024 documents produced the excessive deficit procedure.",
+      "remedy": "Protect the incomes of the poorest, invest, refuse Greek-style austerity, and let the president sign the next budget by the end of the year.",
+      "warning": "Blocking a budget before it even reaches the ministries, and hiding spending to hit an artificial 3 percent, is how a state gets paralysed.",
+      "evidence_claims": [
+        "C-05-18",
+        "C-05-19",
+        "C-05-20",
+        "C-05-21",
+        "C-05-22",
+        "C-05-23",
+        "C-05-24",
+        "C-05-31",
+        "C-05-32",
+        "C-05-37",
+        "C-05-38",
+        "C-06-13",
+        "C-06-15",
+        "C-06-16",
+        "C-06-17",
+        "C-06-18",
+        "C-06-23",
+        "C-06-26",
+        "C-06-32",
+        "C-06-33",
+        "C-06-34",
+        "C-06-35"
+      ],
+      "active_windows": [
+        "63:15-65:14 opened: the Constitutional Court did not strike the budget down and annulled only two technical texts on holidays and hourly work",
+        "69:02-70:00 reinforced: three dissenting opinions, the BDB decision as his, and the minus three billion inheritance",
+        "74:05-77:50 closed: excessive deficit explained by false 2024 documents, plus pledges on pensions, heating bills and hidden spending"
+      ],
+      "rhetorical_moves": [
+        "counter_narrative",
+        "appeal_to_authority",
+        "concession"
+      ],
+      "shift": "Moves from a legal defence of her own signature to an offensive causal story about falsified eurozone documents, then to a positive spending programme and a promise to sign the next budget herself.",
+      "salience": "high"
+    },
+    {
+      "id": "pardon-transparency",
+      "label": "Humanitarian pardons, handed to the prosecution, dirtied by the campaign",
+      "problem": "A pardon granted on humanitarian and health grounds is being sold to voters as a favour to drug traffickers.",
+      "culprit": "Gyurov, who built the whole campaign on lies and had nothing else to talk about, along with the media that attacked her husband.",
+      "remedy": "Full transparency - every document delivered to the prosecution under her own signature, with the commission's legal composition and the doctors' conclusions left there for verification.",
+      "warning": "Turning a sick child's father into an election exhibit poisons the one presidential power that has to remain merciful.",
+      "evidence_claims": [
+        "C-07-12",
+        "C-07-13",
+        "C-07-14",
+        "C-07-15",
+        "C-07-16",
+        "C-07-18",
+        "C-07-19",
+        "C-07-20",
+        "C-07-21",
+        "C-07-22",
+        "C-07-24",
+        "C-07-34",
+        "C-07-35",
+        "C-07-36",
+        "C-07-37",
+        "C-07-38"
+      ],
+      "active_windows": [
+        "84:17-87:19 opened: the revival-process remark answered, then the pardon file offered to the prosecution under her own signature",
+        "87:19-90:07 personalised: the young man in England, the twice-refused extradition and the child who can eat only from his father",
+        "94:09-95:08 closed: the commission exists by law, its papers carry three ministerial signatures, and 14 inquiries received 14 answers"
+      ],
+      "rhetorical_moves": [
+        "personal_attack",
+        "counter_narrative",
+        "appeal_to_authority"
+      ],
+      "shift": "From procedural rebuttal (the commission is statutory and staffed by his own party's ministers) to moral counter-attack over the child, then to a transparency claim, with the family grievance appended at 107:39.",
+      "salience": "high"
+    },
+    {
+      "id": "dialogue-not-blockade",
+      "label": "Institutions should talk, not wage war on each other",
+      "problem": "Bulgarian institutions have been set against one another, to the point of a constitutional change on caretaker cabinets and a budget blocked before it exists.",
+      "culprit": "The parties that discovered the authoritarianism mantra once Radev stopped being useful to them, and a home book under which nobody owns responsibility for a caretaker cabinet.",
+      "remedy": "Consultation with parties, unions, employers and NGOs before a budget is drafted, respect at the door of the presidency, and abolition of the home book.",
+      "warning": "A country that keeps blocking its own institutions will be exhausted by the division long before it is governed.",
+      "evidence_claims": [
+        "C-05-16",
+        "C-05-17",
+        "C-05-18",
+        "C-05-24",
+        "C-05-27",
+        "C-08-22",
+        "C-08-30",
+        "C-08-31",
+        "C-08-32",
+        "C-08-33"
+      ],
+      "active_windows": [
+        "51:25-53:00 opened: the home book should be abolished and the president already has enough powers in the current constitution",
+        "62:48-64:17 expanded: the authoritarianism charge dated to the moment it stopped being convenient, and a budget that must not be blocked before the ministries see it",
+        "103:39-105:13 closed: 'since January I have been talking to all parties', never at war with an institution, everyone met with respect at the door"
+      ],
+      "rhetorical_moves": [
+        "counter_narrative",
+        "appeal_to_authority",
+        "unfalsifiable",
+        "credit_claiming"
+      ],
+      "shift": "Begins as a technical complaint about the caretaker-cabinet rules and ends as the closing theme of reconciliation, dialogue and exhaustion with division.",
+      "salience": "medium"
+    }
+  ],
+  "collisions": [
+    {
+      "topic": "NATO drone programme participation",
+      "their_claim": "Gyurov (C-02-21, C-02-22) says Bulgaria refused to join the NATO drone programme and that the defence minister called 220,000 euros too expensive for the country.",
+      "counter": "Iotova (C-02-24, C-02-25) says the government did submit the documents and registered Bulgaria's participation despite the minister's public cost statement, adding IRIS as a second programme joined (C-02-26).",
+      "checkable": "yes"
+    },
+    {
+      "topic": "UN resolution versus UN statement on Ukraine",
+      "their_claim": "Gyurov (C-02-01) says the UN resolution itself envisaged that military operations would cease, and that Bulgaria initially supported that position (C-02-02).",
+      "counter": "Iotova (C-02-11) states flatly that there is no UN General Assembly resolution, only a statement, and that the statement's single sentence on the Black Sea could not protect the Bulgarian interest (C-02-12).",
+      "checkable": "yes"
+    },
+    {
+      "topic": "Bulgaria's use of the veto in the EU",
+      "their_claim": "Gyurov (C-01-18, C-01-19, C-01-20) treats a Bulgarian veto as a real instrument, recalling that when Bulgaria stood aside with a veto the whole EU was against it, and that the French proposal was the smarter alternative.",
+      "counter": "Iotova (C-02-15) says she does not recall Bulgaria ever imposing a veto on anything, and (C-02-16) that Bulgaria took part in drafting all documents in all formats it participates in.",
+      "checkable": "yes"
+    },
+    {
+      "topic": "Inflation and prices under the caretaker cabinet",
+      "their_claim": "Gyurov (C-04-36) says prices rose the slowest during this year precisely while the caretaker cabinet was in office, and (C-05-05) that because of his support measures there was no inflation.",
+      "counter": "Iotova (C-04-28, C-04-29) says prices rose the most and inflation jumped the most during Gyurov's government, which he proved incapable of handling (C-04-30), and repeats it at (C-06-19).",
+      "checkable": "partly"
+    },
+    {
+      "topic": "Money for salaries and the fiscal reserve",
+      "their_claim": "Gyurov (C-05-34, C-06-03) says the fiscal reserve held 6.8 billion euros when they started and his government left the same 6.8 billion, so paying salaries was never the question.",
+      "counter": "Iotova (C-05-28) says at the end there was no money even for salaries, (C-05-29) that his own proposal was to take money from the Bulgarian Development Bank, and (C-06-02) that the new government inherited nearly minus three billion.",
+      "checkable": "yes"
+    },
+    {
+      "topic": "What the budget does to labour rights",
+      "their_claim": "Gyurov (C-05-25, C-05-33) says the budget cuts the labour rights of Bulgarian citizens, including part-time workers, working students and young mothers, and was pushed through without public consultation (C-05-11).",
+      "counter": "Iotova (C-05-21, C-05-22) says the Constitutional Court held the budget is not unconstitutional and annulled only two technical texts on holidays and hourly work, so the rights-cutting charge is untrue (C-05-30, C-05-31, C-05-32).",
+      "checkable": "yes"
+    },
+    {
+      "topic": "Access to the pardon files",
+      "their_claim": "Gyurov (C-07-27) says all attempts to obtain information and to hold a hearing on the pardons were prevented by Progressive Bulgaria.",
+      "counter": "Iotova (C-07-38) says 14 inquiries went to her administration and 14 answers came back, while (C-07-13) she personally submitted every document on the pardon to the prosecution under her own signature.",
+      "checkable": "yes"
+    },
+    {
+      "topic": "What the Kyiv agreement commits Bulgaria to",
+      "their_claim": "Gyurov (C-03-25, C-03-26) says nowhere does the agreement provide for Bulgarian soldiers to go to Ukraine, and that it only opens reconstruction contracts for Bulgarian companies, subject to ratification (C-03-23, C-03-24).",
+      "counter": "Iotova (C-03-12) says the agreement undertakes Bulgarian participation in the coalition of the willing, which (C-03-31) trains soldiers as peacekeeping forces for after peace in Ukraine, and (C-03-34) that Gyurov's own supporting parties voted for that participation.",
+      "checkable": "partly"
+    }
+  ]
+}
