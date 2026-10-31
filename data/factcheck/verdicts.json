@@ -1,6 +1,189 @@
 {
- "count": 71,
+ "count": 170,
  "claims": [
+  {
+   "claim_id": "C-01-03",
+   "speaker": "gyurov",
+   "t": "01:47",
+   "quote_bg": "имаме една партия, която държи мнозинство в парламента и изпълнителната власт",
+   "claim_en": "One party holds a majority in parliament and the executive power.",
+   "topic": "institutions",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "A single party holds both the parliamentary majority and the executive.",
+   "finding": "Progressive Bulgaria won 131 of 240 seats on 19 April 2026 and its leader Radev was elected prime minister on 8 May 2026.",
+   "evidence": [
+    {
+     "statement": "The 52nd National Assembly, elected on 19 April 2026, has 240 seats and Progressive Bulgaria (Rumen Radev's party) holds 131 of them - an outright single-party majority (131 > 120), so no coalition partner is needed and the same party controls the legislature.",
+     "quote": "Rumen Radev’s Progressive Bulgaria won 44.59% of the vote, securing 131 seats in the 240-seat parliament.",
+     "source": "BGNES - Bulgaria’s new parliament convenes after snap elections give Rumen Radev’s bloc an outright majority",
+     "url": "https://www.bgnes.com/politics/bulgaria-s-new-parliament-convenes-after-snap-elections-give-rumen-radev-s-bloc-an-outright-majority",
+     "archive": "",
+     "date": "2026-04-30"
+    }
+   ],
+   "counter_evidence": [
+    {
+     "statement": "The same party holds the executive: on 8 May 2026 the National Assembly elected Progressive Bulgaria's Rumen Radev as Prime Minister (124-70-36); all 124 votes in favour came from Progressive Bulgaria, the cabinet was approved 122-70-36 and sworn in that day. One party therefore held both the legislative majority and the government - the factual basis of the debate statement that 'one party holds the executive and legislative power'.",
+     "quote": "Bulgaria's Parliament voted 124-70 with 36 abstentions to elect Rumen Radev of Progressive Bulgaria as Prime Minister.",
+     "source": "BTA - Parliament Elects Rumen Radev as Prime Minister",
+     "url": "https://www.bta.bg/en/news/bulgaria/1121595-parliament-elects-rumen-radev-as-prime-minister",
+     "archive": "",
+     "date": "2026-05-08"
+    }
+   ],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-01-04",
+   "speaker": "iotova",
+   "t": "05:06",
+   "quote_bg": "За моята кандидатура и тази на господин Вълчев за вице-президент застана най-голямата партия в България, прогресивна България",
+   "claim_en": "The largest party in Bulgaria, Progressive Bulgaria, endorsed her candidacy and that of Ilcho Valchev for vice-president.",
+   "topic": "campaign",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "Progressive Bulgaria, the largest party, endorsed Iotova and Valchev.",
+   "finding": "At the closing event she thanked Progressive Bulgaria; Mediapool identifies it as her main backer.",
+   "evidence": [
+    {
+     "statement": "At her campaign's symbolic closing in Plovdiv on 23 October 2026, Yotova thanked BSP, Progressive Bulgaria, VMRO, NDSV and the party of Dr Petar Dertliev for their support - the fullest public list of party endorsements for her candidacy. This confirms all five formations named in the claim, including NDSV and Dr Dertliev's party, which she did not repeat in the 29 October debate.",
+     "quote": "Тя благодари за подкрепата и на най-старата партия БСП и на най-новата „Прогресивна България“, на ВМРО, НДСВ, на партията на д-р Дертлиев.",
+     "source": "ДУМА (Duma) - „Илияна Йотова и Кирил Вълчев закриха предизборната си кампания символно – в зала „Съединение“ в Пловдив“",
+     "url": "https://duma.bg/bg-bg.facebook.com/sofiapaperartfest/artbureau.bg/iliyana-yotova-i-kiril-valchev-zakriha-predizbornata-si-kampaniya-simvolno-%e2%80%93-v-zala-%e2%80%9esaedinenie%e2%80%9c-v-plovdiv-n328084",
+     "archive": "",
+     "date": "2026-10-23"
+    }
+   ],
+   "counter_evidence": [
+    {
+     "statement": "Mediapool's report on the runoff identifies Yotova as the candidate backed by Progressive Bulgaria and BSP and Gyurov as the candidate backed by Democratic Bulgaria and Continue the Change (PP). It gives no indication that Gyurov was backed by any other parliamentary party at the time of the 29 October debate.",
+     "quote": "На втория тур на президентските избори, които ще се проведат тази неделя, един срещу друг за поста държавен глава се изправят подкрепяната от \"Прогресивна България\" и БСП Илияна Йотова и подкрепяният от \"Демократична България\" и \"Продължаваме промяната\" Андрей Гюров.",
+     "source": "Mediapool.bg - „Витанов обвини Гюров, че се е срещал с Пеевски. Кандидатът за президент отрече (обновена)“",
+     "url": "https://www.mediapool.bg/prezidentski-izbori-2026/vitanov-obvini-gyurov-che-se-e-sreshtal-s-peevski-kandidatat-za-prezident-otreche-obnovena/",
+     "archive": "",
+     "date": "2026-10-29"
+    }
+   ],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-01-05",
+   "speaker": "iotova",
+   "t": "05:06",
+   "quote_bg": "застана и най-старата партия, Българската социалистическа партия",
+   "claim_en": "The oldest party, the Bulgarian Socialist Party, also endorsed her candidacy.",
+   "topic": "campaign",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "BSP also endorsed her.",
+   "finding": "BSP is named among the endorsing parties at the closing event.",
+   "evidence": [
+    {
+     "statement": "At her campaign's symbolic closing in Plovdiv on 23 October 2026, Yotova thanked BSP, Progressive Bulgaria, VMRO, NDSV and the party of Dr Petar Dertliev for their support - the fullest public list of party endorsements for her candidacy. This confirms all five formations named in the claim, including NDSV and Dr Dertliev's party, which she did not repeat in the 29 October debate.",
+     "quote": "Тя благодари за подкрепата и на най-старата партия БСП и на най-новата „Прогресивна България“, на ВМРО, НДСВ, на партията на д-р Дертлиев.",
+     "source": "ДУМА (Duma) - „Илияна Йотова и Кирил Вълчев закриха предизборната си кампания символно – в зала „Съединение“ в Пловдив“",
+     "url": "https://duma.bg/bg-bg.facebook.com/sofiapaperartfest/artbureau.bg/iliyana-yotova-i-kiril-valchev-zakriha-predizbornata-si-kampaniya-simvolno-%e2%80%93-v-zala-%e2%80%9esaedinenie%e2%80%9c-v-plovdiv-n328084",
+     "archive": "",
+     "date": "2026-10-23"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-01-06",
+   "speaker": "iotova",
+   "t": "05:06",
+   "quote_bg": "Застанаха колегите от ВМРО, от НДСВ, от партията на доктор Дертлиев",
+   "claim_en": "VMRO, NDSV and Dr. Dertliev's party endorsed her candidacy.",
+   "topic": "campaign",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "VMRO, NDSV and Dr Dertliev's party endorsed her.",
+   "finding": "All three are named in her closing thanks.",
+   "evidence": [
+    {
+     "statement": "At her campaign's symbolic closing in Plovdiv on 23 October 2026, Yotova thanked BSP, Progressive Bulgaria, VMRO, NDSV and the party of Dr Petar Dertliev for their support - the fullest public list of party endorsements for her candidacy. This confirms all five formations named in the claim, including NDSV and Dr Dertliev's party, which she did not repeat in the 29 October debate.",
+     "quote": "Тя благодари за подкрепата и на най-старата партия БСП и на най-новата „Прогресивна България“, на ВМРО, НДСВ, на партията на д-р Дертлиев.",
+     "source": "ДУМА (Duma) - „Илияна Йотова и Кирил Вълчев закриха предизборната си кампания символно – в зала „Съединение“ в Пловдив“",
+     "url": "https://duma.bg/bg-bg.facebook.com/sofiapaperartfest/artbureau.bg/iliyana-yotova-i-kiril-valchev-zakriha-predizbornata-si-kampaniya-simvolno-%e2%80%93-v-zala-%e2%80%9esaedinenie%e2%80%9c-v-plovdiv-n328084",
+     "archive": "",
+     "date": "2026-10-23"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-01-07",
+   "speaker": "iotova",
+   "t": "05:06",
+   "quote_bg": "част от формациите, които подкрепят господин Гюров, потърсиха официалната подкрепа на ДПС в началото и на господин Пеевски",
+   "claim_en": "Some of the formations supporting Gyurov sought the official support of DPS and of Peevski.",
+   "topic": "campaign",
+   "verdict": "partly",
+   "confidence": "low",
+   "steelman": "Formations supporting Gyurov sought DPS and Peevski's backing.",
+   "finding": "The claim rests on an allegation by the Progressive Bulgaria group chair on 29 October that Gyurov met Peevski on 27 October. No confirmation from either side was located.",
+   "evidence": [
+    {
+     "statement": "In the 29 October BNT debate Yotova asserted that 'some of the formations supporting Mr Gyurov' had sought the official support of DPS-Novo Nachalo, and asked what Gyurov had promised them. Gyurov replied that he had never sought and would never seek support from party headquarters. No document, joint statement or DPS confirmation of such a request was found; the assertion is a campaign allegation by the Yotova camp.",
+     "quote": "Днес видях, че част от формациите, които подкрепят г-н Гюров, потърсиха официалната подкрепа на \"ДПС - Ново начало\". И се чудя, какво им обещахте, г-н Гюров?",
+     "source": "168 chasa / 24 chasa - „Йотова атакува с аргументи, Гюров - не е разочарован, че го е направил служебен премиер“",
+     "url": "https://www.168chasa.bg/article/23835213",
+     "archive": "",
+     "date": "2026-10-30"
+    }
+   ],
+   "counter_evidence": [
+    {
+     "statement": "On 29 October the chairman of Progressive Bulgaria's parliamentary group, Petar Vitanov, alleged on 7/8 TV that Gyurov had met DPS leader Delyan Peevski on 27 October to negotiate support; Gyurov publicly denied any such meeting and any backroom deal with party headquarters. Vitanov gave no evidence, and Mediapool presents the claim as an accusation that Gyurov rejected.",
+     "quote": "Не правя задкулисни договорки с политически централи. С нито една. Не съм се срещал с партийни лидери, за да договарям подкрепа. Няма и да го направя.",
+     "source": "Mediapool.bg - „Витанов обвини Гюров, че се е срещал с Пеевски. Кандидатът за президент отрече (обновена)“",
+     "url": "https://www.mediapool.bg/prezidentski-izbori-2026/vitanov-obvini-gyurov-che-se-e-sreshtal-s-peevski-kandidatat-za-prezident-otreche-obnovena/",
+     "archive": "",
+     "date": "2026-10-29"
+    }
+   ],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-01-10",
+   "speaker": "gyurov",
+   "t": "06:06",
+   "quote_bg": "Няма и представители на държавна сигурност",
+   "claim_en": "Gyurov's initiative committee has no representatives of State Security.",
+   "topic": "campaign",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "Gyurov's initiative committee contains no State Security representatives.",
+   "finding": "Only Gyurov's own denial is on record; the committee's membership was not published.",
+   "evidence": [
+    {
+     "statement": "Gyurov explicitly denied that his initiative committee included people linked to State Security, saying it had no politically bound people, party leaders or 'people from the DS'. No member of his published 200-plus committee list is identified as a former State Security officer in the list itself or in the coverage reviewed; the DS-related list that circulated during the campaign, produced by PP, concerned Yotova's committee, not Gyurov's.",
+     "quote": "В инициативния ни комитет няма хора, които са политически обвързани, политически лидери, хора от ДС.",
+     "source": "168 chasa / 24 chasa - „Йотова атакува с аргументи, Гюров - не е разочарован, че го е направил служебен премиер“",
+     "url": "https://www.168chasa.bg/article/23835213",
+     "archive": "",
+     "date": "2026-10-30"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
   {
    "claim_id": "C-01-11",
    "speaker": "gyurov",
@@ -30,6 +213,66 @@
      "date": "2026-10-27"
     }
    ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-01-12",
+   "speaker": "gyurov",
+   "t": "06:06",
+   "quote_bg": "ние никога не сме търсили подкрепа от партийни централи, от партийни лидери",
+   "claim_en": "Gyurov has never sought support from party headquarters or party leaders (repeated at 06:59).",
+   "topic": "campaign",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "Gyurov never sought party headquarters' or leaders' support.",
+   "finding": "Untestable as stated; Democratic Bulgaria did endorse him, which does not settle whether support was sought.",
+   "evidence": [
+    {
+     "statement": "Mediapool's report on the runoff identifies Yotova as the candidate backed by Progressive Bulgaria and BSP and Gyurov as the candidate backed by Democratic Bulgaria and Continue the Change (PP). It gives no indication that Gyurov was backed by any other parliamentary party at the time of the 29 October debate.",
+     "quote": "На втория тур на президентските избори, които ще се проведат тази неделя, един срещу друг за поста държавен глава се изправят подкрепяната от \"Прогресивна България\" и БСП Илияна Йотова и подкрепяният от \"Демократична България\" и \"Продължаваме промяната\" Андрей Гюров.",
+     "source": "Mediapool.bg - „Витанов обвини Гюров, че се е срещал с Пеевски. Кандидатът за президент отрече (обновена)“",
+     "url": "https://www.mediapool.bg/prezidentski-izbori-2026/vitanov-obvini-gyurov-che-se-e-sreshtal-s-peevski-kandidatat-za-prezident-otreche-obnovena/",
+     "archive": "",
+     "date": "2026-10-29"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-01-13",
+   "speaker": "gyurov",
+   "t": "07:24",
+   "quote_bg": "най-основният принцип в международното право, че границите не се променят с сила",
+   "claim_en": "The most basic principle of international law is that borders are not changed by force.",
+   "topic": "foreign_policy",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "International law forbids changing borders by force.",
+   "finding": "This restates Art. 2(4) of the UN Charter; no fetched source is attached, but it is not in dispute.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-01-16",
+   "speaker": "gyurov",
+   "t": "07:24",
+   "quote_bg": "Когато сме на масата в Европейския съвет, там има 27 души.",
+   "claim_en": "The European Council table has 27 members.",
+   "topic": "eu",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "The European Council has 27 members.",
+   "finding": "One per member state; the EU has 27.",
+   "evidence": [],
    "counter_evidence": [],
    "deception": "none",
    "notes": "",
@@ -130,6 +373,75 @@
    "document_quote": ""
   },
   {
+   "claim_id": "C-01-21",
+   "speaker": "iotova",
+   "t": "09:29",
+   "quote_bg": "Ние сме ръвно поставен член на Европейския съюз.",
+   "claim_en": "Bulgaria is an equal member of the European Union.",
+   "topic": "eu",
+   "verdict": "mostly_true",
+   "confidence": "high",
+   "steelman": "Bulgaria is an equal member of the EU.",
+   "finding": "Formally equal; voting weights and bargaining power differ, which is her opponent's point.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-01-23",
+   "speaker": "iotova",
+   "t": "09:29",
+   "quote_bg": "в нашата конституция пише, че президента представлява Република България в международните отношения",
+   "claim_en": "The Bulgarian constitution states that the president represents the Republic of Bulgaria in international relations.",
+   "topic": "institutions",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "The constitution makes the president represent Bulgaria in international relations.",
+   "finding": "Art. 92(1) of the constitution.",
+   "evidence": [
+    {
+     "statement": "Art. 92(1) makes the president head of state who 'represents the Republic of Bulgaria in international relations' - a representative function, which is what Iotova invoked and what Gyurov countered with 'we are a parliamentary republic'. Art. 98 lists the president's powers (scheduling elections and, where the NA has so decided, a referendum; addressing the nation and the NA; concluding international treaties 'in the cases provided by law'), Art. 99 governs cabinet formation and the caretaker cabinet (para 5), Art. 102(3) lists decrees needing no countersignature, and Art. 84(11) reserves to the National Assembly the authorisation of the deployment and use of the armed forces.",
+     "quote": "Чл. 92. (1) Президентът е държавен глава. Той олицетворява единството на нацията и представлява Република България в международните отношения.",
+     "source": "lex.bg - Конституция на Република България (вербатен текст на ДВ)",
+     "url": "https://lex.bg/laws/ldoc/521957377",
+     "archive": "",
+     "date": "1991-07-13"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-01-25",
+   "speaker": "iotova",
+   "t": "11:52",
+   "quote_bg": "Направих го пред Общото събрание на ООН.",
+   "claim_en": "Iotova raised the issue before the UN General Assembly.",
+   "topic": "foreign_policy",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "Iotova raised the issue before the UN General Assembly.",
+   "finding": "She addressed the 81st session's general debate on 23 September 2026.",
+   "evidence": [
+    {
+     "statement": "Iotova did address the UN General Assembly: on 23 September 2026 she spoke in the general debate of the 81st session, delivering a speech centred on Black Sea security and calling for the Black Sea to be turned from a high-risk zone into a zone of national and international security. The Presidential website records the speech and the 81st session; this part of her debate claim is documented. The separate question is the '193 states' formulation (see next item).",
+     "quote": "България призовава: да превърнем Черно море от зона на повишен риск и заплаха в зона на национална и международна сигурност – зона на безопасност, зона на свободни транспортни, енергийни, търговски, дигитални коридори, на туризъм, зона, където се срещат в мир различни култури, религии и политически системи. Това заяви държавният глава Илияна Йотова в изказването си на 81-вата сесия на Общото събрание на ООН.",
+     "source": "Президент на Република България — „Държавният глава пред ООН: От зона на повишен риск да превърнем Черно море в зона на национална и международна сигурност“",
+     "url": "https://www.president.bg/news9076/darzhavniyat-glava-pred-oon-ot-zona-na-povishen-risk-da-prevarnem-cherno-more-v-zona-na-natsionalna-i-mezhdunarodna-sigurnost.html",
+     "archive": "http://web.archive.org/web/20261031092618/https://www.president.bg/news9076/darzhavniyat-glava-pred-oon-ot-zona-na-povishen-risk-da-prevarnem-cherno-more-v-zona-na-natsionalna-i-mezhdunarodna-sigurnost.html",
+     "date": "2026-09-23"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
    "claim_id": "C-01-27",
    "speaker": "iotova",
    "t": "11:52",
@@ -161,6 +473,92 @@
    "counter_evidence": [],
    "deception": "none",
    "notes": "Technically the audience is the Assembly, not 193 heads of state.",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-01-30",
+   "speaker": "iotova",
+   "t": "11:52",
+   "quote_bg": "политическите партии, които стият зад господин Гюров, казаха, че това е банална тема",
+   "claim_en": "The political parties behind Gyurov said that this was a banal topic.",
+   "topic": "campaign",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "The parties behind Gyurov called Black Sea security a banal topic.",
+   "finding": "She named no one, and no source records the remark.",
+   "evidence": [
+    {
+     "statement": "Yotova claimed in the debate that 'the leaders behind Mr Gyurov' had dismissed her UN initiative on Black Sea security as a 'banal topic'. She did not name the leaders, and no statement by PP, Democratic Bulgaria, Gyurov or his campaign using that phrase about Black Sea security was found; the claim is an attribution, not a documented quote.",
+     "quote": "А лидерите зад г-н Гюров намериха това за банална тема.",
+     "source": "168 chasa / 24 chasa - „Йотова атакува с аргументи, Гюров - не е разочарован, че го е направил служебен премиер“",
+     "url": "https://www.168chasa.bg/article/23835213",
+     "archive": "",
+     "date": "2026-10-30"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-01-32",
+   "speaker": "iotova",
+   "t": "11:52",
+   "quote_bg": "Затова свикахме и заседанието на Консултативния съвет за национална сигурност.",
+   "claim_en": "A session of the Consultative Council on National Security was convened.",
+   "topic": "institutions",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "A Consultative Council on National Security session was convened.",
+   "finding": "Convened on 7 October 2026, the first of her term.",
+   "evidence": [
+    {
+     "statement": "Iotova convened the Consultative Council on National Security (КСНС) on 7 October 2026 — the first КСНС of her term as head of state — the day after two foreign-flagged merchant ships were hit by sea and air drones in Bulgaria's exclusive economic zone in the Black Sea. The stated topic was 'Current risks and threats to maritime security and the critical infrastructure of Bulgaria in the context of the war in Ukraine'. This fixes the date and the trigger of the session that both candidates discussed.",
+     "quote": "Президентът Илияна Йотова свика за днес първия в мандата си като държавен глава и върховен главнокомандващ Консултативен съвет за национална сигурност. Заседанието ще се проведе само ден след като два търговски кораба, плаващи под чужд флаг, бяха поразени от бойни морски и въздушни дронове, в периметъра на изключителната икономическа зона на България в Черно море. Темата на разискванията е: \"Актуални рискове и заплахи за морската сигурност и критичната инфраструктура на България в контекста на войната в Украйна“.",
+     "source": "БНР — „Президентът Йотова свиква КСНС заради поразените от дронове кораби“",
+     "url": "https://www.bnrnews.bg/main/post/538367/prezidentat-yotova-svikva-ksns-zaradi-porazenite-ot-dronove-korabi",
+     "archive": "http://web.archive.org/web/20261007062030/https://bnrnews.bg/main/post/538367/prezidentat-yotova-svikva-ksns-zaradi-porazenite-ot-dronove-korabi",
+     "date": "2026-10-07"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-01-35",
+   "speaker": "iotova",
+   "t": "11:52",
+   "quote_bg": "Вчера среща на ниво министри на отбраната между трите държави. Румъния, Турция и България",
+   "claim_en": "Yesterday there was a meeting at defence-minister level between the three states: Romania, Turkey and Bulgaria.",
+   "topic": "foreign_policy",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "A defence-minister meeting of Romania, Turkey and Bulgaria took place the day before.",
+   "finding": "No record of that trilateral meeting was located.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-01-38",
+   "speaker": "iotova",
+   "t": "11:52",
+   "quote_bg": "Това са България, Румъния, Турция, Грузия, Украина и Русия.",
+   "claim_en": "The six states are Bulgaria, Romania, Turkey, Georgia, Ukraine and Russia.",
+   "topic": "foreign_policy",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "The six Black Sea states are Bulgaria, Romania, Turkey, Georgia, Ukraine and Russia.",
+   "finding": "Correct as a list of littoral states.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
    "document_quote": ""
   },
   {
@@ -268,6 +666,32 @@
    "document_quote": ""
   },
   {
+   "claim_id": "C-02-10",
+   "speaker": "gyurov",
+   "t": "14:15",
+   "quote_bg": "ние вече имаме кораби потънали близо до нашото крайбреже",
+   "claim_en": "We already have sunk ships near our coast.",
+   "topic": "defence",
+   "verdict": "partly",
+   "confidence": "medium",
+   "steelman": "Ships have sunk near Bulgaria's coast.",
+   "finding": "Two foreign-flagged merchant ships were hit in October 2026; whether any sank was not established.",
+   "evidence": [
+    {
+     "statement": "Iotova convened the Consultative Council on National Security (КСНС) on 7 October 2026 — the first КСНС of her term as head of state — the day after two foreign-flagged merchant ships were hit by sea and air drones in Bulgaria's exclusive economic zone in the Black Sea. The stated topic was 'Current risks and threats to maritime security and the critical infrastructure of Bulgaria in the context of the war in Ukraine'. This fixes the date and the trigger of the session that both candidates discussed.",
+     "quote": "Президентът Илияна Йотова свика за днес първия в мандата си като държавен глава и върховен главнокомандващ Консултативен съвет за национална сигурност. Заседанието ще се проведе само ден след като два търговски кораба, плаващи под чужд флаг, бяха поразени от бойни морски и въздушни дронове, в периметъра на изключителната икономическа зона на България в Черно море. Темата на разискванията е: \"Актуални рискове и заплахи за морската сигурност и критичната инфраструктура на България в контекста на войната в Украйна“.",
+     "source": "БНР — „Президентът Йотова свиква КСНС заради поразените от дронове кораби“",
+     "url": "https://www.bnrnews.bg/main/post/538367/prezidentat-yotova-svikva-ksns-zaradi-porazenite-ot-dronove-korabi",
+     "archive": "http://web.archive.org/web/20261007062030/https://bnrnews.bg/main/post/538367/prezidentat-yotova-svikva-ksns-zaradi-porazenite-ot-dronove-korabi",
+     "date": "2026-10-07"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
    "claim_id": "C-02-11",
    "speaker": "iotova",
    "t": "16:43",
@@ -328,6 +752,23 @@
    "document_quote": ""
   },
   {
+   "claim_id": "C-02-13",
+   "speaker": "iotova",
+   "t": "16:43",
+   "quote_bg": "ние като голямото европейско семейство, 27 държави",
+   "claim_en": "The EU is a family of 27 states.",
+   "topic": "eu",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "The EU is a family of 27 states.",
+   "finding": "Correct.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
    "claim_id": "C-02-15",
    "speaker": "iotova",
    "t": "17:50",
@@ -365,6 +806,32 @@
    "steelman": "Bulgaria took part in drafting all documents in every format it participates in.",
    "finding": "Untestable as stated ('all documents').",
    "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-02-17",
+   "speaker": "gyurov",
+   "t": "18:19",
+   "quote_bg": "както Европейския съюз, така и президента Зеленски, така и Съединените щати няколко пъти призовават за спиране и замразяване на военните действия",
+   "claim_en": "The European Union, President Zelensky and the United States have repeatedly called for stopping and freezing military operations.",
+   "topic": "ukraine",
+   "verdict": "partly",
+   "confidence": "medium",
+   "steelman": "The EU, Zelensky and the US repeatedly called for a halt and freeze.",
+   "finding": "A UN General Assembly resolution called for a ceasefire and the EU supported it; the specific claim about Zelensky and Washington repeating that call was not verified.",
+   "evidence": [
+    {
+     "statement": "A UN General Assembly resolution on the war in Ukraine exists: on 24 February 2026 the General Assembly adopted a resolution calling for an 'immediate, full and unconditional ceasefire' between Russia and Ukraine and for a 'comprehensive, just and lasting peace' based on international law. The vote was 107 in favour, 12 against and 51 abstentions (BTA, citing DPA). This is the document that makes Iotova's blanket statement 'there is no UN General Assembly resolution' false if it is read literally; the resolution is political and non-binding, so Gyurov's 'the resolution envisaged a cessation of hostilities' is loose but substantially accurate.",
+     "quote": "Общото събрание на ООН в Ню Йорк призова снощи чрез резолюция за незабавно прекратяване на огъня и траен мир в Украйна, в деня на четвъртата годишнина от пълномащабната инвазия на Русия в страната, предаде ДПА. Общо 107 държави членки на световната организация гласуваха в подкрепа на резолюцията в Ню Йорк, 12 гласуваха против, а 51 се въздържаха. Резолюцията призовава за „незабавно, пълно и безусловно прекратяване на огъня“ между Русия и Украйна и изисква „всеобхватен, справедлив и траен мир“ на основата на международното право.",
+     "source": "БТА — „Общото събрание на ООН призова за прекратяване на огъня и мир в Украйна“ (по ДПА)",
+     "url": "https://www.bta.bg/bg/news/world/1071047-obshtoto-sabranie-na-oon-prizova-za-prekratyavane-na-oganya-i-mir-v-ukrayna",
+     "archive": "http://web.archive.org/web/20260618012007/https://www.bta.bg/bg/news/world/1071047-obshtoto-sabranie-na-oon-prizova-za-prekratyavane-na-oganya-i-mir-v-ukrayna",
+     "date": "2026-02-24"
+    }
+   ],
    "counter_evidence": [],
    "deception": "none",
    "notes": "",
@@ -625,6 +1092,75 @@
    "document_quote": ""
   },
   {
+   "claim_id": "C-02-40",
+   "speaker": "iotova",
+   "t": "24:45",
+   "quote_bg": "И както виждате от два дни, страни като Финландия, страни като Норвегия, тръгнаха да преговарят с президента Путин",
+   "claim_en": "Over the past two days countries such as Finland and Norway have started negotiating with President Putin.",
+   "topic": "foreign_policy",
+   "verdict": "mostly_false",
+   "confidence": "medium",
+   "steelman": "Finland and Norway have started negotiating with Putin.",
+   "finding": "The record shows phone calls to convey messages, not negotiations. Stubb's call is documented; 'negotiating' overstates it.",
+   "evidence": [
+    {
+     "statement": "Finland and Norway did hold direct contact with Putin, but the official record describes a phone call to convey messages, not negotiations. On 27 October 2026 Finland's President Alexander Stubb and Norway's Prime Minister Jonas Gahr Støre called Putin in Helsinki, a follow-up to the Oslo meeting of 20 October and held in consultation with Ukraine. The stated aim was 'to convey messages directly regarding future negotiations', and the two leaders acted for their own countries, not for Europe as a whole. Iotova's debate statement that 'for two days countries like Finland and Norway started negotiating with President Putin' is therefore an overstatement of a real call: the call happened two days before the debate, and Stubb did open direct dialogue, but the official description is message-conveying, not negotiation.",
+     "quote": "President of the Republic of Finland Alexander Stubb and Prime Minister of Norway Jonas Gahr Støre made a phone call with President of Russia Vladimir Putin on Tuesday 27 October in Helsinki. The call was a follow-up of the meeting in Oslo on 20 October and held in consultation with Ukraine. Stubb and Støre initiated the call to discuss Russia's war of aggression against Ukraine and the diplomatic efforts to end the war and promote peace and stability in Europe. ... The aim of the call was to convey messages directly regarding future negotiations to help to end the war to President Putin. ... Stubb and Støre took the call as leaders of their respective countries and did not speak on the behalf of Europe as a whole.",
+     "source": "Office of the President of the Republic of Finland — Press release 66/2026, „President Stubb and Prime Minister Støre held a phone call with President Putin“",
+     "url": "https://www.presidentti.fi/en/president-stubb-and-prime-minister-store-held-a-phone-call-with-president-putin/",
+     "archive": "http://web.archive.org/web/20261028072654/https://www.presidentti.fi/en/president-stubb-and-prime-minister-store-held-a-phone-call-with-president-putin/",
+     "date": "2026-10-27"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-02-41",
+   "speaker": "iotova",
+   "t": "24:45",
+   "quote_bg": "а говорим за една Финландия, която през цялото време е била неутрална държава. Тя заради войната в Украина влезе в НАТО",
+   "claim_en": "Finland was a neutral state throughout and joined NATO because of the war in Ukraine.",
+   "topic": "foreign_policy",
+   "verdict": "mostly_true",
+   "confidence": "medium",
+   "steelman": "Finland was neutral and joined NATO because of the war.",
+   "finding": "Finland joined in 2023 after decades of non-alignment; the war is the accepted cause, though 'throughout' ignores its EU and Western alignment.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-02-42",
+   "speaker": "iotova",
+   "t": "24:45",
+   "quote_bg": "Александър Штуп, с който аз съм работила дълги години, той тръгна на директен диалог с Путин",
+   "claim_en": "Alexander Stubb, with whom she worked for years, entered into direct dialogue with Putin.",
+   "topic": "foreign_policy",
+   "verdict": "partly",
+   "confidence": "medium",
+   "steelman": "Stubb entered direct dialogue with Putin.",
+   "finding": "A call is documented; 'direct dialogue' is a fair description of a call, but not of negotiations.",
+   "evidence": [
+    {
+     "statement": "Finland and Norway did hold direct contact with Putin, but the official record describes a phone call to convey messages, not negotiations. On 27 October 2026 Finland's President Alexander Stubb and Norway's Prime Minister Jonas Gahr Støre called Putin in Helsinki, a follow-up to the Oslo meeting of 20 October and held in consultation with Ukraine. The stated aim was 'to convey messages directly regarding future negotiations', and the two leaders acted for their own countries, not for Europe as a whole. Iotova's debate statement that 'for two days countries like Finland and Norway started negotiating with President Putin' is therefore an overstatement of a real call: the call happened two days before the debate, and Stubb did open direct dialogue, but the official description is message-conveying, not negotiation.",
+     "quote": "President of the Republic of Finland Alexander Stubb and Prime Minister of Norway Jonas Gahr Støre made a phone call with President of Russia Vladimir Putin on Tuesday 27 October in Helsinki. The call was a follow-up of the meeting in Oslo on 20 October and held in consultation with Ukraine. Stubb and Støre initiated the call to discuss Russia's war of aggression against Ukraine and the diplomatic efforts to end the war and promote peace and stability in Europe. ... The aim of the call was to convey messages directly regarding future negotiations to help to end the war to President Putin. ... Stubb and Støre took the call as leaders of their respective countries and did not speak on the behalf of Europe as a whole.",
+     "source": "Office of the President of the Republic of Finland — Press release 66/2026, „President Stubb and Prime Minister Støre held a phone call with President Putin“",
+     "url": "https://www.presidentti.fi/en/president-stubb-and-prime-minister-store-held-a-phone-call-with-president-putin/",
+     "archive": "http://web.archive.org/web/20261028072654/https://www.presidentti.fi/en/president-stubb-and-prime-minister-store-held-a-phone-call-with-president-putin/",
+     "date": "2026-10-27"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
    "claim_id": "C-03-01",
    "speaker": "iotova",
    "t": "27:52",
@@ -667,6 +1203,41 @@
    "document_quote": ""
   },
   {
+   "claim_id": "C-03-02",
+   "speaker": "iotova",
+   "t": "27:52",
+   "quote_bg": "20 дни преди изборите, 20 дни преди вие да престанете да бъдете служебен министр-председател",
+   "claim_en": "The agreement was signed 20 days before the elections and 20 days before Gyurov ceased to be caretaker prime minister.",
+   "topic": "ukraine",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "The agreement was signed 20 days before the elections.",
+   "finding": "Signed 30 March 2026; the first round was 19 April 2026 - twenty days.",
+   "evidence": [
+    {
+     "statement": "The agreement's official title is 'Agreement on Cooperation in the Field of Security between the Republic of Bulgaria and Ukraine'. The signed text is dated Kyiv, 30 March 2026, and names caretaker Prime Minister Andrey Gyurov and Ukrainian President Volodymyr Zelensky as the signatories.",
+     "quote": "СПОРАЗУМЕНИЕ ЗА СЪТРУДНИЧЕСТВО В ОБЛАСТТА НА СИГУРНОСТТА МЕЖДУ РЕПУБЛИКА БЪЛГАРИЯ И УКРАЙНА ... Подписано в Киев на 30 март 2026 г. в два екземпляра на български, украински и английски език, като всички текстове са еднакво автентични.",
+     "source": "Council of Ministers of Bulgaria, full text of the agreement (PDF)",
+     "url": "https://gov.bg/files/common/2026_Security_Cooperation_Agreement.pdf",
+     "archive": "http://web.archive.org/web/20260915100719/https://www.gov.bg/files/common/2026_Security_Cooperation_Agreement.pdf",
+     "date": "2026-03-30"
+    }
+   ],
+   "counter_evidence": [
+    {
+     "statement": "First round of the presidential election was held on Sunday 25 October 2026; CEC spokesperson Stoyanka Balova announced turnout of 22.98%, with 1,525,034 ballots cast out of 6,584,025 eligible voters - the lowest in the seven presidential elections, against c. 35% in November 2021. No candidate cleared the 50%-of-all-eligible-voters threshold, so a runoff was set for 1 November 2026 between Iotova-Valchev and Gurov-Kandev.",
+     "quote": "Voter turnout in the first round of Bulgaria's presidential election, held on October 25, 2026, was 22.98%, Central Election Commission (CEC) Spokesperson Stoyanka Balova told a news briefing on Wednesday. A total of 1,525,034 of the 6,584,025 eligible voters cast their ballots in the presidential and vice-presidential election.",
+     "source": "Bulgarian News Agency (BTA) - 'Presidential Election First-Round Turnout at 22.98%, Gurov and Iotova to Face Off in Runoff'",
+     "url": "https://www.bta.bg/en/news/1234376-voter-turnout-in-first-round-of-bulgaria-s-presidential-election-stands-at-22-98",
+     "archive": "",
+     "date": "2026-10-28"
+    }
+   ],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
    "claim_id": "C-03-03",
    "speaker": "iotova",
    "t": "27:52",
@@ -691,6 +1262,32 @@
    "deception": "none",
    "notes": "",
    "document_quote": "Това споразумение поражда действие от момента на подписването му и е валидно за период от десет (10) години от датата на подписването му."
+  },
+  {
+   "claim_id": "C-03-05",
+   "speaker": "gyurov",
+   "t": "28:45",
+   "quote_bg": "има моряци, които са загинали",
+   "claim_en": "Sailors have died.",
+   "topic": "defence",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "Sailors have died.",
+   "finding": "Ship strikes are documented; deaths of sailors were not confirmed.",
+   "evidence": [
+    {
+     "statement": "Iotova convened the Consultative Council on National Security (КСНС) on 7 October 2026 — the first КСНС of her term as head of state — the day after two foreign-flagged merchant ships were hit by sea and air drones in Bulgaria's exclusive economic zone in the Black Sea. The stated topic was 'Current risks and threats to maritime security and the critical infrastructure of Bulgaria in the context of the war in Ukraine'. This fixes the date and the trigger of the session that both candidates discussed.",
+     "quote": "Президентът Илияна Йотова свика за днес първия в мандата си като държавен глава и върховен главнокомандващ Консултативен съвет за национална сигурност. Заседанието ще се проведе само ден след като два търговски кораба, плаващи под чужд флаг, бяха поразени от бойни морски и въздушни дронове, в периметъра на изключителната икономическа зона на България в Черно море. Темата на разискванията е: \"Актуални рискове и заплахи за морската сигурност и критичната инфраструктура на България в контекста на войната в Украйна“.",
+     "source": "БНР — „Президентът Йотова свиква КСНС заради поразените от дронове кораби“",
+     "url": "https://www.bnrnews.bg/main/post/538367/prezidentat-yotova-svikva-ksns-zaradi-porazenite-ot-dronove-korabi",
+     "archive": "http://web.archive.org/web/20261007062030/https://bnrnews.bg/main/post/538367/prezidentat-yotova-svikva-ksns-zaradi-porazenite-ot-dronove-korabi",
+     "date": "2026-10-07"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-03-07",
@@ -821,6 +1418,58 @@
    "document_quote": ""
   },
   {
+   "claim_id": "C-03-10",
+   "speaker": "iotova",
+   "t": "30:25",
+   "quote_bg": "Поехте ангажиментите да предадем на украинците реактори, реакторите от Белене.",
+   "claim_en": "The agreement commits Bulgaria to hand the Belene reactors over to Ukraine.",
+   "topic": "ukraine",
+   "verdict": "mostly_false",
+   "confidence": "high",
+   "steelman": "The agreement commits Bulgaria to hand the Belene reactors to Ukraine.",
+   "finding": "The signed text speaks of a 'potential sale' of equipment acquired for Belene, not of handing over reactors.",
+   "evidence": [
+    {
+     "statement": "On Belene, the text speaks only of a 'potential sale' of equipment acquired for the Belene nuclear project to Ukraine and of steps to finalise the process; it does not transfer or hand over the reactors. Gyurov said at the signing that the decision rests with the Bulgarian parliament, and the BTA report of the same day repeats that the parliamentary decision is required.",
+     "quote": "Участниците ще продължат да работят по потенциалната продажба на оборудване, придобито за проекта АЕЦ „Белене“, на Украйна, и ще предприемат необходимите стъпки за финализиране на процеса.",
+     "source": "Council of Ministers of Bulgaria, full text of the agreement (PDF); BTA, 30.03.2026",
+     "url": "https://gov.bg/files/common/2026_Security_Cooperation_Agreement.pdf",
+     "archive": "http://web.archive.org/web/20260915100719/https://www.gov.bg/files/common/2026_Security_Cooperation_Agreement.pdf",
+     "date": "2026-03-30"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-03-11",
+   "speaker": "iotova",
+   "t": "30:25",
+   "quote_bg": "Поехте ангажименти за производство на дронове.",
+   "claim_en": "The agreement commits Bulgaria to drone production.",
+   "topic": "defence",
+   "verdict": "mostly_false",
+   "confidence": "high",
+   "steelman": "The agreement commits Bulgaria to drone production.",
+   "finding": "The text lists UAVs among technologies for cooperation, training and joint testing; it contains no production commitment.",
+   "evidence": [
+    {
+     "statement": "On drones, the text does not commit Bulgaria to joint drone production. It lists UAVs among Ukrainian battlefield technologies whose transfer, innovation and joint experimental testing are to be encouraged, and it provides for joint production of 'priority weapons and ammunition' and industrial lines for ammunition. At the Kyiv press conference Zelensky nevertheless said the agreement covered joint production of various weapons 'including drones' - a political statement, not an operative clause of the text.",
+     "quote": "Участниците отчитат стратегическата важност на технологиите, разработени и използвани на бойното поле от Украйна, включително безпилотни летателни апарати ... и подчертават взаимните ползи от трансфера на технологии, иновации и съвместните експериментални тестове на системи и продукти от споделен интерес.",
+     "source": "Council of Ministers of Bulgaria, full text of the agreement (PDF); Ukrinform, 30.03.2026",
+     "url": "https://gov.bg/files/common/2026_Security_Cooperation_Agreement.pdf",
+     "archive": "http://web.archive.org/web/20260915100719/https://www.gov.bg/files/common/2026_Security_Cooperation_Agreement.pdf",
+     "date": "2026-03-30"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
    "claim_id": "C-03-12",
    "speaker": "iotova",
    "t": "30:25",
@@ -861,6 +1510,84 @@
    "counter_evidence": [],
    "deception": "none",
    "notes": "Would be settled by the Assembly's register of sittings for March 2026.",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-03-14",
+   "speaker": "iotova",
+   "t": "31:20",
+   "quote_bg": "Не попитахте Народното събрание, защо не чухте Народните представители.",
+   "claim_en": "Gyurov did not ask the National Assembly or hear the MPs before signing.",
+   "topic": "institutions",
+   "verdict": "mixed",
+   "confidence": "medium",
+   "steelman": "Gyurov did not ask the National Assembly or hear the MPs.",
+   "finding": "A mandate was formally requested in December 2024 and the speaker refused to table it, holding that signing was within the government's competence.",
+   "evidence": [
+    {
+     "statement": "On 18 December 2024 caretaker Prime Minister Dimitar Glavchev formally asked the National Assembly, through Speaker Natalia Kiselova, for a specific mandate to sign the ten-year security agreement, citing its long-term framework and the Constitutional Court's case law on caretaker governments. This shows that no mandate existed at that point; the request was never put to a vote.",
+     "quote": "С оглед предвидената дългосрочна рамка (10-годишен срок на действие) в духа на парламентарното управление, в изпълнение на Конституцията и практиката на Конституционния съд призовавам Народното събрание да даде нарочен мандат на служебното правителство за подписване на Споразумението за сътрудничество в областта на сигурността между Република България и Украйна.",
+     "source": "Council of Ministers of Bulgaria, press release of 18.12.2024",
+     "url": "https://www.government.bg/bg/prestsentar/novini/premierat-glavchev-poiska-ot-narodnoto-sabranie-mandat-za-podpisvane-na-sporazumenieto-za-satrudnichestvo-v-oblastta-na-sigurnostta-mezhdu-republika-balgariya-i-ukraina",
+     "archive": "",
+     "date": "2024-12-18"
+    }
+   ],
+   "counter_evidence": [
+    {
+     "statement": "Speaker Natalia Kiselova refused to table the mandate request: on 19 December 2024 she said she would not put the draft agreement to a vote because it fell within the government's competence and the government had already authorised the Prime Minister to sign it. She later wrote that the 51st National Assembly 'did not give a mandate' and that she did not submit the approval request. No National Assembly mandate was ever voted; Gyurov signed on 30 March 2026 without one, and in 2026 Kiselova said the National Assembly had not been informed. No formal text of a speaker's letter 'returning' the document was located; Gyurov's account that the speaker returned it is his characterization of this refusal.",
+     "quote": "Няма да внеса проекта на Споразумение с Украйна за сътрудничество в областта на сигурността за гласуване в пленарната зала. ... Тъй като има нарочно изрично решение на правителството, министър-председателят трябва да се съобрази с него, а не да търси подкрепа и да прехвърля отговорността на Народното събрание.",
+     "source": "BNR Horizont, 19.12.2024; Natalia Kiselova Facebook post, 31.03.2026 (reproduced by 5GMedia)",
+     "url": "https://bnrnews.bg/horizont/post/332722/natalia-kiselova-otkaza-da-vkluchi-v-dnevnia-red-na-ns-sporazumenieto-s-ukraina",
+     "archive": "",
+     "date": "2024-12-19"
+    }
+   ],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-03-15",
+   "speaker": "iotova",
+   "t": "31:20",
+   "quote_bg": "А подписахте споразумение, което, впрочем, беше писано две години преди вие да отидете в Киев.",
+   "claim_en": "The agreement had been written two years before Gyurov went to Kyiv.",
+   "topic": "ukraine",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "The agreement had been written two years before the Kyiv trip.",
+   "finding": "No drafting history was located.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-03-16",
+   "speaker": "iotova",
+   "t": "31:20",
+   "quote_bg": "Там даже няма дума за дипломация.",
+   "claim_en": "The agreement does not contain even the word diplomacy.",
+   "topic": "ukraine",
+   "verdict": "false",
+   "confidence": "high",
+   "steelman": "The agreement does not contain even the word diplomacy.",
+   "finding": "The word appears: 'дезинформацията, стратегическа комуникация и публична дипломация' (p.14).",
+   "evidence": [
+    {
+     "statement": "The agreement's official title is 'Agreement on Cooperation in the Field of Security between the Republic of Bulgaria and Ukraine'. The signed text is dated Kyiv, 30 March 2026, and names caretaker Prime Minister Andrey Gyurov and Ukrainian President Volodymyr Zelensky as the signatories.",
+     "quote": "СПОРАЗУМЕНИЕ ЗА СЪТРУДНИЧЕСТВО В ОБЛАСТТА НА СИГУРНОСТТА МЕЖДУ РЕПУБЛИКА БЪЛГАРИЯ И УКРАЙНА ... Подписано в Киев на 30 март 2026 г. в два екземпляра на български, украински и английски език, като всички текстове са еднакво автентични.",
+     "source": "Council of Ministers of Bulgaria, full text of the agreement (PDF)",
+     "url": "https://gov.bg/files/common/2026_Security_Cooperation_Agreement.pdf",
+     "archive": "http://web.archive.org/web/20260915100719/https://www.gov.bg/files/common/2026_Security_Cooperation_Agreement.pdf",
+     "date": "2026-03-30"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "misdirection",
+   "notes": "Direction contradicted by the document/data the speaker was citing.",
    "document_quote": ""
   },
   {
@@ -1097,6 +1824,23 @@
    "document_quote": ""
   },
   {
+   "claim_id": "C-03-28",
+   "speaker": "gyurov",
+   "t": "35:11",
+   "quote_bg": "И това включва също присъствието на съюзнически войски, каквито има в България и на които разчитаме",
+   "claim_en": "NATO membership includes the presence of allied troops in Bulgaria, on which Bulgaria relies.",
+   "topic": "defence",
+   "verdict": "mostly_true",
+   "confidence": "medium",
+   "steelman": "NATO membership brings allied troops to Bulgaria on which the country relies.",
+   "finding": "A NATO multinational battlegroup is hosted in Bulgaria; no fetched source is attached.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
    "claim_id": "C-03-31",
    "speaker": "iotova",
    "t": "36:31",
@@ -1114,6 +1858,67 @@
    "document_quote": ""
   },
   {
+   "claim_id": "C-03-32",
+   "speaker": "gyurov",
+   "t": "37:04",
+   "quote_bg": "Има две решения на Ровното събрание в тази посока.",
+   "claim_en": "There are two National Assembly decisions in this direction.",
+   "topic": "institutions",
+   "verdict": "partly",
+   "confidence": "medium",
+   "steelman": "There are two National Assembly decisions in this direction.",
+   "finding": "One declaration is documented (21 February 2025, 166-27); the second was not located.",
+   "evidence": [
+    {
+     "statement": "On 21 February 2025 the 51st National Assembly adopted a declaration on non-participation of Bulgarian armed forces in military operations on Ukrainian territory: 166 for, 27 against, 11 abstentions. This is the only adopted National Assembly act of this kind that could be documented - the record does not contain two separate 'decisions'.",
+     "quote": "Депутатите приеха декларация, в която се изразява позицията на 51-вото Народно събрание за неучастие на български въоръжени сили във военни действия на територията на Украйна. \"За\" гласуваха 166 народни представители, 27 бяха \"против\" и 11 се въздържаха.",
+     "source": "БТА - Парламентът прие декларация за неучастие на български въоръжени сили във военни действия на територията на Украйна",
+     "url": "https://www.bta.bg/bg/news/bulgaria/national-news/838190-parlamentat-prie-deklaratsiya-za-neuchastie-na-balgarski-vaorazheni-sili-vav-voe",
+     "archive": "",
+     "date": "2025-02-21"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-03-33",
+   "speaker": "gyurov",
+   "t": "37:04",
+   "quote_bg": "В момента е предложена също допълнителна декларация, която не прави разлика между военни действия и миропазващи сили",
+   "claim_en": "An additional declaration has now been proposed that draws no distinction between combat operations and peacekeeping forces.",
+   "topic": "institutions",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "An additional declaration draws no distinction between combat operations and peacekeeping.",
+   "finding": "The declaration tabled on 28 October 2026 by Democratic Bulgaria goes beyond the 2025 text and removes that distinction.",
+   "evidence": [
+    {
+     "statement": "The additional declaration tabled in the 52nd National Assembly on 28 October 2026 by Democratic Bulgaria (Bozhidar Bozhanov) goes further than the 2025 text: it promises that Bulgarian armed forces will not be sent to the territory of Ukraine at all, drawing no distinction between combat deployment and a peacekeeping mission. It was tabled, not adopted - that day's extraordinary sitting failed for lack of quorum.",
+     "quote": "За да бъдат спокойни всички българи, днес внасяме декларация, която препотвърждава решението на предишното Народно събрание. Това е декларация за неучастие на български въоръжени сили на територията на Украйна.",
+     "source": "Фокус - ДБ препотвърждава неучастието на български военни в Украйна",
+     "url": "https://www.focus-news.net/novini/Bylgaria/DB-prepotvurzhdava-neuchastieto-na-bulgarski-voenni-v-Ukraina-3047203",
+     "archive": "",
+     "date": "2026-10-28"
+    }
+   ],
+   "counter_evidence": [
+    {
+     "statement": "The scope of that declaration matters: it is limited to 'military operations' and expressly carved out Bulgaria's allied commitments in NATO and its other international commitments under the EU, UN and OSCE. It is a political declaration, not a statute, and it does not cover a post-war peacekeeping mission - so it does not support a claim that parliament has banned every form of Bulgarian military presence in Ukraine.",
+     "quote": "Парламентът прие декларация за неучастие на български въоръжени сили във военни действия в Украйна, извън съюзните ангажименти на България в НАТО и другите международни ангажименти на страната по линия на ЕС, ООН и ОССЕ.",
+     "source": "БНР Бургас - Парламентът прие декларация за неучастие на български военни в Украйна",
+     "url": "https://bnrnews.bg/burgas/post/219592/parlamentat-prie-deklaracia-za-neuchastie-na-balgarski-voenni-v-ukraina",
+     "archive": "",
+     "date": "2025-02-21"
+    }
+   ],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
    "claim_id": "C-03-34",
    "speaker": "iotova",
    "t": "37:45",
@@ -1128,6 +1933,298 @@
    "counter_evidence": [],
    "deception": "none",
    "notes": "Would be settled by the Assembly voting record.",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-03-38",
+   "speaker": "gyurov",
+   "t": "39:34",
+   "quote_bg": "железопутните маршрути на север към Букурещ, от Русе към Букурещ ще бъде спряна линията от април месец, а пък на Запад през Калотина ще бъде спряна от януари",
+   "claim_en": "The Ruse-Bucharest rail line will be stopped from April and the line west through Kalotina from January.",
+   "topic": "economy",
+   "verdict": "partly",
+   "confidence": "medium",
+   "steelman": "The Ruse-Bucharest line stops in April and the Kalotina line in January.",
+   "finding": "Serbia's closure of the Kalotina link for 200 days from January is documented; the April Ruse closure was not confirmed.",
+   "evidence": [
+    {
+     "statement": "A 3 September 2026 report states that Serbia will close its rail link with Bulgaria via Kalotina for 200 days from January (2027), and that Romania intends to close its side of the Ruse-Bucharest line from April for at least six months, matching the debate's 'Kalotina from January, Ruse-Bucharest from April' claim.",
+     "quote": "Сърбия ще затвори за 200 дни железопътната си връзка с България през Калотина от януари догодина. Същото, но от април, възнамерява да направи и Румъния със своята част от линията Русе – Букурещ.",
+     "source": "Днес+ (Dnesplus.bg), „Румъния и Сърбия затварят жп връзките с България за няколко месеца“",
+     "url": "https://dnesplus.bg/es-i-svyat/rumania-i-sarbia-zatvaryat-zhp-vrazkite-s-bulgaria-za-nyakolko-mesetsa_1233865",
+     "archive": "",
+     "date": "2026-09-03"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-03-39",
+   "speaker": "gyurov",
+   "t": "39:34",
+   "quote_bg": "Четри от всеки десет български граждани са заети в производство, търговия и транспорт.",
+   "claim_en": "Four out of every ten Bulgarian citizens work in production, trade and transport.",
+   "topic": "economy",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "Four in ten Bulgarians work in production, trade and transport.",
+   "finding": "Industry 621,610 plus trade/transport 1,002,240 of 3,661,770 employed - 44.3%.",
+   "evidence": [
+    {
+     "statement": "NSI's Q2 2026 preliminary employment data put total employment at 3,661.77 thousand, with 621.61 thousand in industry (B_E) and 1,002.24 thousand in trade, transport, storage, posts and hotels/restaurants (G_I); together that is 1,623.85 thousand, or 44.3% of all employed, consistent with the 'four in ten' claim, though G_I includes hospitality.",
+     "quote": "ЗАЕТИ ЛИЦА\n(хиляди)\nПоказатели\nНоменклатура А10\nИкономически дейности\nВторо тримесечие 2026*\nЗаети лица\nОбщо за икономиката\n3 661.77\nA\nСелско, горско и рибно стопанство\n486.59\nB_E\nДобивна промишленост; преработваща промишленост; производство и разпределение на електрическа и топлинна енергия и на газообразни горива; доставяне на води; канализационни услуги, управление на отпадъци и възстановяване\n621.61\nF\nСтроителство\n219.31\nG_I\nТърговия, ремонт на автомобили и мотоциклети; транспорт, складиране и пощи; хотелиерство и ресторантьорство\n1 002.24",
+     "source": "Национален статистически институт (НСИ), „Заети лица - национално ниво“ (Q2 2026 preliminary data)",
+     "url": "https://www.nsi.bg/statistical-data/123/390",
+     "archive": "",
+     "date": "2026-10-20"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-03-42",
+   "speaker": "iotova",
+   "t": "40:36",
+   "quote_bg": "Последният случай с делото на господин Пендиков и оправдаването, буквално на биячите му, е ясно доказателство в тази посока.",
+   "claim_en": "The recent Pendikov case and the acquittal of his attackers is clear proof of that.",
+   "topic": "judiciary",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "The Pendikov case and the acquittal of his attackers prove the point.",
+   "finding": "No record of the case was located in this pass.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-03-44",
+   "speaker": "iotova",
+   "t": "40:36",
+   "quote_bg": "именно президентската институция за първи път сложи на масата темата за правата на българите в Република Северна Македония",
+   "claim_en": "The presidential institution was the first to put the topic of the rights of Bulgarians in North Macedonia on the table.",
+   "topic": "institutions",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "The presidential institution was first to raise the rights of Bulgarians in North Macedonia.",
+   "finding": "No source establishing priority was located.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-03-45",
+   "speaker": "iotova",
+   "t": "40:36",
+   "quote_bg": "защото тази тема дори в договора за добросъседство между двете страни липсва",
+   "claim_en": "That topic is missing even from the good-neighbourliness treaty between the two countries.",
+   "topic": "foreign_policy",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "The topic is missing even from the good-neighbourliness treaty.",
+   "finding": "The treaty text was not examined.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-04-02",
+   "speaker": "gyurov",
+   "t": "42:44",
+   "quote_bg": "аз бях тогава председател на парламентарната група, бях вносител на това споразумение в Народното събрание",
+   "claim_en": "Gyurov was then chair of the parliamentary group and was the one who tabled the agreement in the National Assembly.",
+   "topic": "foreign_policy",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "Gyurov tabled the agreement in the National Assembly as group chair.",
+   "finding": "No record of who tabled it was located.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-04-03",
+   "speaker": "gyurov",
+   "t": "42:44",
+   "quote_bg": "Тогава понесохме много нападки и обвинения, че се предава българския интерес",
+   "claim_en": "They then faced many attacks and accusations that the Bulgarian interest was being betrayed.",
+   "topic": "foreign_policy",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "They faced accusations of betraying the Bulgarian interest.",
+   "finding": "Consistent with the 2022 record but not documented here.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-04-04",
+   "speaker": "gyurov",
+   "t": "43:40",
+   "quote_bg": "а сега чуваме и от госпожа Йотова, се подкрепя безапелационно и се казва, че това е едно добро решение за България",
+   "claim_en": "Iotova now supports the French agreement unconditionally and says it is a good decision for Bulgaria.",
+   "topic": "foreign_policy",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "Iotova now supports the French agreement unconditionally.",
+   "finding": "Her current position was not verified against a primary source.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-04-07",
+   "speaker": "iotova",
+   "t": "44:03",
+   "quote_bg": "И тогава се наложи и тази консултативна среща при президента.",
+   "claim_en": "A consultative meeting at the president's then became necessary.",
+   "topic": "foreign_policy",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "A consultative meeting at the president's became necessary.",
+   "finding": "No record located.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-04-08",
+   "speaker": "gyurov",
+   "t": "44:55",
+   "quote_bg": "Настоявахме за влизане на българските позиции в споразумението, Така че това да стане европейска позиция.",
+   "claim_en": "They insisted that Bulgarian positions be written into the agreement so that it would become a European position.",
+   "topic": "foreign_policy",
+   "verdict": "mostly_true",
+   "confidence": "medium",
+   "steelman": "They insisted Bulgarian positions be written into the agreement.",
+   "finding": "The Assembly's 24 June 2022 decision attached conditions to the French proposal.",
+   "evidence": [
+    {
+     "statement": "On 24 June 2022 the National Assembly authorised the Council of Ministers to approve the French Presidency's proposal for North Macedonia. The adopted text was the draft tabled by Hristo Ivanov (chairman of the Democratic Bulgaria parliamentary group), carried by 170 votes to 37 with 21 abstentions; the separate drafts of GERB-UDF and the DPS were rejected in plenary. This contradicts the debate claim that Gyurov was the 'tabled-by' of the French proposal.",
+     "quote": "\"За\" проекторешението, внесено от Христо Иванов, председател на ПГ \"Демократична България\" (ДБ), гласуваха 170 народни представители, 37 бяха \"против\" и 21 - \"въздържали се\".",
+     "source": "Vesti.bg - НС реши за френското предложение за Северна Македония",
+     "url": "https://www.vesti.bg/bulgaria/ns-reshi-za-frenskoto-predlozhenie-za-severna-makedoniia-6145891",
+     "archive": "",
+     "date": "2022-06-24"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-04-09",
+   "speaker": "gyurov",
+   "t": "44:55",
+   "quote_bg": "И затова сега европейската позиция е тази, че българите трябва да бъдат включени в Конституцията, вписани в Конституцията на Р.С. Македония",
+   "claim_en": "The European position now is that Bulgarians must be included, written into the constitution of North Macedonia.",
+   "topic": "foreign_policy",
+   "verdict": "mostly_true",
+   "confidence": "medium",
+   "steelman": "The European position now requires Bulgarians to be written into North Macedonia's constitution.",
+   "finding": "That is the content of the 2022 negotiating framework's condition.",
+   "evidence": [
+    {
+     "statement": "On 24 June 2022 the National Assembly authorised the Council of Ministers to approve the French Presidency's proposal for North Macedonia. The adopted text was the draft tabled by Hristo Ivanov (chairman of the Democratic Bulgaria parliamentary group), carried by 170 votes to 37 with 21 abstentions; the separate drafts of GERB-UDF and the DPS were rejected in plenary. This contradicts the debate claim that Gyurov was the 'tabled-by' of the French proposal.",
+     "quote": "\"За\" проекторешението, внесено от Христо Иванов, председател на ПГ \"Демократична България\" (ДБ), гласуваха 170 народни представители, 37 бяха \"против\" и 21 - \"въздържали се\".",
+     "source": "Vesti.bg - НС реши за френското предложение за Северна Македония",
+     "url": "https://www.vesti.bg/bulgaria/ns-reshi-za-frenskoto-predlozhenie-za-severna-makedoniia-6145891",
+     "archive": "",
+     "date": "2022-06-24"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-04-11",
+   "speaker": "iotova",
+   "t": "46:20",
+   "quote_bg": "Господин Петков беше с мен в Скопие",
+   "claim_en": "Petkov was with Iotova in Skopje.",
+   "topic": "foreign_policy",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "Petkov was with Iotova in Skopje.",
+   "finding": "Not verified in this pass.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-04-12",
+   "speaker": "gyurov",
+   "t": "46:37",
+   "quote_bg": "Фактите са, че ние сега имаме споразумение, което всички подкрепят, включително тези, които тогава го нападат.",
+   "claim_en": "They now have an agreement that everyone supports, including those who attacked it back then.",
+   "topic": "foreign_policy",
+   "verdict": "partly",
+   "confidence": "medium",
+   "steelman": "They now have an agreement everyone supports, including former critics.",
+   "finding": "Broad support is documented in outline; 'everyone' is an overstatement.",
+   "evidence": [
+    {
+     "statement": "On 24 June 2022 the National Assembly authorised the Council of Ministers to approve the French Presidency's proposal for North Macedonia. The adopted text was the draft tabled by Hristo Ivanov (chairman of the Democratic Bulgaria parliamentary group), carried by 170 votes to 37 with 21 abstentions; the separate drafts of GERB-UDF and the DPS were rejected in plenary. This contradicts the debate claim that Gyurov was the 'tabled-by' of the French proposal.",
+     "quote": "\"За\" проекторешението, внесено от Христо Иванов, председател на ПГ \"Демократична България\" (ДБ), гласуваха 170 народни представители, 37 бяха \"против\" и 21 - \"въздържали се\".",
+     "source": "Vesti.bg - НС реши за френското предложение за Северна Македония",
+     "url": "https://www.vesti.bg/bulgaria/ns-reshi-za-frenskoto-predlozhenie-za-severna-makedoniia-6145891",
+     "archive": "",
+     "date": "2022-06-24"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-04-15",
+   "speaker": "iotova",
+   "t": "47:27",
+   "quote_bg": "От останалите, да, аз избрах господин Гюров.",
+   "claim_en": "From the remaining candidates she chose Gyurov.",
+   "topic": "institutions",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "She chose Gyurov as caretaker prime minister.",
+   "finding": "Iotova signed the decree appointing his caretaker cabinet on 19 February 2026.",
+   "evidence": [
+    {
+     "statement": "The caretaker government of Andrey Gyurov took office on 19 February 2026: Iotova signed the decree appointing it, the cabinet took the oath before the National Assembly that day and the handover from Rosen Zhelyazkov's cabinet took place the same day. Its term ended on 8 May 2026, when Radev's cabinet was sworn in - i.e. 19 February to 7 May inclusive, 78 days.",
+     "quote": "Caretaker Prime Minister Andrey Gurov and his cabinet took the oath of office before the National Assembly on Thursday, with President Iliana Iotova in attendance.",
+     "source": "BTA - Andrey Gurov Caretaker Cabinet Sworn In, Sets Course for Fair Elections on April 19",
+     "url": "https://www.bta.bg/en/news/bulgaria/1067407-andrey-gurov-caretaker-cabinet-sworn-in-sets-course-for-fair-elections-on-april",
+     "archive": "",
+     "date": "2026-02-19"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
    "document_quote": ""
   },
   {
@@ -1200,6 +2297,32 @@
    "document_quote": ""
   },
   {
+   "claim_id": "C-04-21",
+   "speaker": "gyurov",
+   "t": "50:26",
+   "quote_bg": "Ние сме една парламентарна република, така че президента не може да замести изпълнителната власт.",
+   "claim_en": "Bulgaria is a parliamentary republic, so the president cannot replace the executive power.",
+   "topic": "institutions",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "Bulgaria is a parliamentary republic and the president cannot replace the executive.",
+   "finding": "Art. 1(1) of the constitution.",
+   "evidence": [
+    {
+     "statement": "The Constitution defines Bulgaria as a parliamentary republic, not a presidential one: Art. 1(1). The text was promulgated in DV 56/1991 and last amended in 2023-2024, so this is the text in force at the debate.",
+     "quote": "Чл. 1. (1) България е република с парламентарно управление.",
+     "source": "Конституционен съд на Република България - Конституция на Република България",
+     "url": "https://www.constcourt.bg/bg/legal-info-92",
+     "archive": "",
+     "date": "1991-07-13"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
    "claim_id": "C-04-22",
    "speaker": "iotova",
    "t": "51:25",
@@ -1220,6 +2343,23 @@
      "date": "2023-01-03"
     }
    ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-04-23",
+   "speaker": "iotova",
+   "t": "51:25",
+   "quote_bg": "точно вие поступихте по същия начин, ако смятате, че това е вярно, когато подписахте споразумението в Киев за Украина",
+   "claim_en": "Gyurov acted in exactly the same way when he signed the agreement in Kyiv on Ukraine.",
+   "topic": "ukraine",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "Gyurov acted the same way when signing in Kyiv.",
+   "finding": "An analogy, not a checkable fact.",
+   "evidence": [],
    "counter_evidence": [],
    "deception": "none",
    "notes": "",
@@ -1250,6 +2390,145 @@
    "deception": "misdirection",
    "notes": "",
    "document_quote": "Това споразумение не попада в обхвата на Виенската конвенция за правото на договорите (1969 г.) и предвижда политически ангажименти."
+  },
+  {
+   "claim_id": "C-04-28",
+   "speaker": "iotova",
+   "t": "51:25",
+   "quote_bg": "по време на вашето управление най-много се вдигнаха цените",
+   "claim_en": "Prices rose the most during Gyurov's government.",
+   "topic": "economy",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "Prices rose the most during Gyurov's government.",
+   "finding": "Annual CPI peaked at 6.8% in April and 6.9% in May 2026, both inside the caretaker cabinet's 19 February - 8 May term.",
+   "evidence": [
+    {
+     "statement": "NSI monthly CPI data for 2026 show annual inflation of 3.5% in January, 3.3% in February, 4.1% in March, 6.8% in April, 6.9% in May, 5.4% in June and 4.5% in July; the 2026 annual peak was May (6.9%) and the monthly peak was April (1.8%), both while Gyurov's caretaker cabinet was in office, while the 2026 low so far was February (3.3%), when that cabinet was only just taking office (19 February).",
+     "quote": "Справка в НСИ сочи, че през юни месечната инфлация беше минус 0,9 на сто, а годишната – 5,4 на сто, за май съответно – нулева, и 6,9 на сто, за април – 1,8 на сто, и 6,8 на сто, за март – 0,9 на сто, и 4,1 на сто, за февруари – 0,4 на сто, и 3,3 на сто. Годината започна с месечната инфлация от 0,6 на сто и годишна – 3,5 на сто.",
+     "source": "БТА (BTA), „Годишната инфлация в България се забавя до 4,5 на сто през юли, сочат данни на НСИ“",
+     "url": "https://www.bta.bg/bg/news/economy/bg/1186653-godishnata-inflatsiya-v-balgariya-se-zabavya-do-4-5-na-sto-prez-yuli-sochat-dan",
+     "archive": "",
+     "date": "2026-08-17"
+    }
+   ],
+   "counter_evidence": [
+    {
+     "statement": "DW's live fact-check establishes that Gyurov's caretaker cabinet governed from 19 February to 8 May 2026 and that the highest annual CPI readings in 2026 were May (6.9%) and April (6.8%); it also notes that the post-2022 inflation peak was September 2022 at 18.7%, far above any 2026 reading.",
+     "quote": "Служебното правителство на Андрей Гюров управлява от 19 февруари до 8 май 2026 г. За цялата 2026 година по наличните до момента данни на Националния статистически институт (НСИ) най-висока е била инфлацията на годишна база през месеците май (6,9%) и април (6,8%).",
+     "source": "Deutsche Welle (DW) България, „Йотова срещу Гюров: проверяваме твърденията им в дебата на живо“",
+     "url": "https://www.dw.com/bg/jotova-sresu-gurov-proveravame-tvrdeniata-im-v-debata-na-zivo/live-79802377",
+     "archive": "",
+     "date": "2026-10-30"
+    }
+   ],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-04-29",
+   "speaker": "iotova",
+   "t": "51:25",
+   "quote_bg": "по време на вашето управление най-много скочи инфлацията",
+   "claim_en": "Inflation jumped the most during Gyurov's government.",
+   "topic": "economy",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "Inflation jumped the most during Gyurov's government.",
+   "finding": "The same series: the year's highest readings fall inside that term.",
+   "evidence": [
+    {
+     "statement": "DW's live fact-check establishes that Gyurov's caretaker cabinet governed from 19 February to 8 May 2026 and that the highest annual CPI readings in 2026 were May (6.9%) and April (6.8%); it also notes that the post-2022 inflation peak was September 2022 at 18.7%, far above any 2026 reading.",
+     "quote": "Служебното правителство на Андрей Гюров управлява от 19 февруари до 8 май 2026 г. За цялата 2026 година по наличните до момента данни на Националния статистически институт (НСИ) най-висока е била инфлацията на годишна база през месеците май (6,9%) и април (6,8%).",
+     "source": "Deutsche Welle (DW) България, „Йотова срещу Гюров: проверяваме твърденията им в дебата на живо“",
+     "url": "https://www.dw.com/bg/jotova-sresu-gurov-proveravame-tvrdeniata-im-v-debata-na-zivo/live-79802377",
+     "archive": "",
+     "date": "2026-10-30"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-04-31",
+   "speaker": "iotova",
+   "t": "53:44",
+   "quote_bg": "Вие направихте един щаб за стабилността на цените.",
+   "claim_en": "Gyurov set up a price stability headquarters.",
+   "topic": "economy",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "Gyurov set up a price stability headquarters.",
+   "finding": "The Crisis Headquarters for price monitoring was created on 1 April 2026, chaired by the prime minister.",
+   "evidence": [
+    {
+     "statement": "The caretaker government created the Crisis Headquarters for coordination of monitoring and control of prices of goods and fuels on 1 April 2026; it was chaired by the prime minister, included seven ministers, and was tasked with collecting price information and proposing and implementing price-control measures.",
+     "quote": "Кризисният щаб ще изисква информация за състоянието и динамиката на цените на стоките и горивата вследствие на конфликта в Близкия изток, както и за разработените мерки за справяне с увеличаването на цените на горивата от междуведомствената работна група, създадена със заповед на министър-председателя. Щабът ще предлага и предприема мерки, свързани с контрол на нарастването на цените на стоките и горивата, както и на други фактори с влияние върху ценообразуването.",
+     "source": "БНТ Новини (BNT), „Кризисен щаб за наблюдение и контрол на цените на стоките и горивата създаде служебният кабинет“",
+     "url": "https://bntnews.bg/news/krizisen-shtab-za-nablyudenie-i-kontrol-na-cenite-na-stokite-i-gorivata-sazdade-sluzhebniyat-kabinet-1386414news.html",
+     "archive": "",
+     "date": "2026-04-01"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-04-32",
+   "speaker": "iotova",
+   "t": "53:44",
+   "quote_bg": "Правихте го един месец. Когато вече си отивахте от това управление",
+   "claim_en": "They ran the price headquarters for one month, when they were already leaving that government.",
+   "topic": "economy",
+   "verdict": "mostly_true",
+   "confidence": "medium",
+   "steelman": "They ran the headquarters for a month while already leaving government.",
+   "finding": "Created 1 April 2026; the cabinet left on 8 May - about five weeks.",
+   "evidence": [
+    {
+     "statement": "The caretaker government created the Crisis Headquarters for coordination of monitoring and control of prices of goods and fuels on 1 April 2026; it was chaired by the prime minister, included seven ministers, and was tasked with collecting price information and proposing and implementing price-control measures.",
+     "quote": "Кризисният щаб ще изисква информация за състоянието и динамиката на цените на стоките и горивата вследствие на конфликта в Близкия изток, както и за разработените мерки за справяне с увеличаването на цените на горивата от междуведомствената работна група, създадена със заповед на министър-председателя. Щабът ще предлага и предприема мерки, свързани с контрол на нарастването на цените на стоките и горивата, както и на други фактори с влияние върху ценообразуването.",
+     "source": "БНТ Новини (BNT), „Кризисен щаб за наблюдение и контрол на цените на стоките и горивата създаде служебният кабинет“",
+     "url": "https://bntnews.bg/news/krizisen-shtab-za-nablyudenie-i-kontrol-na-cenite-na-stokite-i-gorivata-sazdade-sluzhebniyat-kabinet-1386414news.html",
+     "archive": "",
+     "date": "2026-04-01"
+    }
+   ],
+   "counter_evidence": [
+    {
+     "statement": "The caretaker government of Andrey Gyurov took office on 19 February 2026: Iotova signed the decree appointing it, the cabinet took the oath before the National Assembly that day and the handover from Rosen Zhelyazkov's cabinet took place the same day. Its term ended on 8 May 2026, when Radev's cabinet was sworn in - i.e. 19 February to 7 May inclusive, 78 days.",
+     "quote": "Caretaker Prime Minister Andrey Gurov and his cabinet took the oath of office before the National Assembly on Thursday, with President Iliana Iotova in attendance.",
+     "source": "BTA - Andrey Gurov Caretaker Cabinet Sworn In, Sets Course for Fair Elections on April 19",
+     "url": "https://www.bta.bg/en/news/bulgaria/1067407-andrey-gurov-caretaker-cabinet-sworn-in-sets-course-for-fair-elections-on-april",
+     "archive": "",
+     "date": "2026-02-19"
+    }
+   ],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-04-33",
+   "speaker": "gyurov",
+   "t": "54:06",
+   "quote_bg": "Както на госпожа Йотова, която заяви в Народното събрание, че това е бил един успешен кабинет",
+   "claim_en": "Iotova stated in the National Assembly that the caretaker cabinet had been a successful one.",
+   "topic": "institutions",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "Iotova told the National Assembly the caretaker cabinet had been successful.",
+   "finding": "No such statement was located.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-04-34",
@@ -1329,6 +2608,127 @@
    "document_quote": ""
   },
   {
+   "claim_id": "C-04-36",
+   "speaker": "gyurov",
+   "t": "54:58",
+   "quote_bg": "Точно по времето на служебния кабинет, цените растяха най-бавно през тази година.",
+   "claim_en": "Prices rose the slowest during this year exactly while the caretaker cabinet was in office.",
+   "topic": "economy",
+   "verdict": "false",
+   "confidence": "high",
+   "steelman": "Prices rose slowest this year exactly while the caretaker cabinet was in office.",
+   "finding": "The opposite: the two highest annual readings of 2026 (6.8% April, 6.9% May) fall inside that term; February's 3.3% was before it took office.",
+   "evidence": [
+    {
+     "statement": "NSI monthly CPI data for 2026 show annual inflation of 3.5% in January, 3.3% in February, 4.1% in March, 6.8% in April, 6.9% in May, 5.4% in June and 4.5% in July; the 2026 annual peak was May (6.9%) and the monthly peak was April (1.8%), both while Gyurov's caretaker cabinet was in office, while the 2026 low so far was February (3.3%), when that cabinet was only just taking office (19 February).",
+     "quote": "Справка в НСИ сочи, че през юни месечната инфлация беше минус 0,9 на сто, а годишната – 5,4 на сто, за май съответно – нулева, и 6,9 на сто, за април – 1,8 на сто, и 6,8 на сто, за март – 0,9 на сто, и 4,1 на сто, за февруари – 0,4 на сто, и 3,3 на сто. Годината започна с месечната инфлация от 0,6 на сто и годишна – 3,5 на сто.",
+     "source": "БТА (BTA), „Годишната инфлация в България се забавя до 4,5 на сто през юли, сочат данни на НСИ“",
+     "url": "https://www.bta.bg/bg/news/economy/bg/1186653-godishnata-inflatsiya-v-balgariya-se-zabavya-do-4-5-na-sto-prez-yuli-sochat-dan",
+     "archive": "",
+     "date": "2026-08-17"
+    }
+   ],
+   "counter_evidence": [
+    {
+     "statement": "DW's live fact-check establishes that Gyurov's caretaker cabinet governed from 19 February to 8 May 2026 and that the highest annual CPI readings in 2026 were May (6.9%) and April (6.8%); it also notes that the post-2022 inflation peak was September 2022 at 18.7%, far above any 2026 reading.",
+     "quote": "Служебното правителство на Андрей Гюров управлява от 19 февруари до 8 май 2026 г. За цялата 2026 година по наличните до момента данни на Националния статистически институт (НСИ) най-висока е била инфлацията на годишна база през месеците май (6,9%) и април (6,8%).",
+     "source": "Deutsche Welle (DW) България, „Йотова срещу Гюров: проверяваме твърденията им в дебата на живо“",
+     "url": "https://www.dw.com/bg/jotova-sresu-gurov-proveravame-tvrdeniata-im-v-debata-na-zivo/live-79802377",
+     "archive": "",
+     "date": "2026-10-30"
+    }
+   ],
+   "deception": "misdirection",
+   "notes": "Direction contradicted by the document/data the speaker was citing.",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-04-37",
+   "speaker": "gyurov",
+   "t": "54:58",
+   "quote_bg": "ние направихме и механизъм на базата на Светофара, който показваше различни действия и механизми в зависимост от развитието на кризата",
+   "claim_en": "They created a mechanism based on Svetofar that set out different actions and instruments depending on how the crisis developed.",
+   "topic": "economy",
+   "verdict": "partly",
+   "confidence": "medium",
+   "steelman": "They built a Svetofar-based mechanism with actions depending on how the crisis develops.",
+   "finding": "Gyurov describes such a mechanism; no published instrument was located.",
+   "evidence": [
+    {
+     "statement": "In the debate Gyurov said that inside the price headquarters his team built a mechanism 'based on the traffic light' that set different actions and instruments depending on the crisis and provided predictability, and that they left it for Radev to apply.",
+     "quote": "В щаба за цените направихме механизъм на базата на светофара, който показваше различни действия и механизми в зависимост от кризата, осигуряваше предвидимост. Оставихме го и г-н Радев само трябваше да го приложи.",
+     "source": "168 часа, „Йотова атакува с аргументи, Гюров - не е разочарован, че го е направила служебен премиер“",
+     "url": "https://www.168chasa.bg/article/23832919",
+     "archive": "",
+     "date": "2026-10-29"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-05-07",
+   "speaker": "gyurov",
+   "t": "59:49",
+   "quote_bg": "защото аз съм независим кандидат и мога да го докажа",
+   "claim_en": "Gyurov is an independent candidate and can prove it.",
+   "topic": "campaign",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "Gyurov is an independent candidate and can prove it.",
+   "finding": "A self-characterisation; his endorsement by Democratic Bulgaria complicates but does not settle it.",
+   "evidence": [
+    {
+     "statement": "Mediapool's report on the runoff identifies Yotova as the candidate backed by Progressive Bulgaria and BSP and Gyurov as the candidate backed by Democratic Bulgaria and Continue the Change (PP). It gives no indication that Gyurov was backed by any other parliamentary party at the time of the 29 October debate.",
+     "quote": "На втория тур на президентските избори, които ще се проведат тази неделя, един срещу друг за поста държавен глава се изправят подкрепяната от \"Прогресивна България\" и БСП Илияна Йотова и подкрепяният от \"Демократична България\" и \"Продължаваме промяната\" Андрей Гюров.",
+     "source": "Mediapool.bg - „Витанов обвини Гюров, че се е срещал с Пеевски. Кандидатът за президент отрече (обновена)“",
+     "url": "https://www.mediapool.bg/prezidentski-izbori-2026/vitanov-obvini-gyurov-che-se-e-sreshtal-s-peevski-kandidatat-za-prezident-otreche-obnovena/",
+     "archive": "",
+     "date": "2026-10-29"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-05-09",
+   "speaker": "gyurov",
+   "t": "60:07",
+   "quote_bg": "имаше едно предложение в бюджета за 2022 година за административна реформа",
+   "claim_en": "The 2022 budget bill contained a proposal for an administrative reform.",
+   "topic": "budget",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "The 2022 budget bill contained an administrative reform.",
+   "finding": "Not verified.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-05-10",
+   "speaker": "gyurov",
+   "t": "60:07",
+   "quote_bg": "аз като председател на парламентарната група, извадих тези предложения от проекта за бюджет",
+   "claim_en": "As parliamentary group chair he took those proposals out of the draft budget.",
+   "topic": "budget",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "He took those proposals out of the draft budget.",
+   "finding": "Not verified.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
    "claim_id": "C-05-11",
    "speaker": "gyurov",
    "t": "60:07",
@@ -1355,6 +2755,75 @@
      "url": "https://www.government.bg/bg/prestsentar/novini/rumen-radev-byudzhet-2027-ne-predlaga-lesni-resheniya-no-zadava-posoka-kam-razumno-upravlenie-na-publichnite-sredstva-i-investitsii-v-horata",
      "archive": "http://web.archive.org/web/20261015115347/https://government.bg/bg/prestsentar/novini/rumen-radev-byudzhet-2027-ne-predlaga-lesni-resheniya-no-zadava-posoka-kam-razumno-upravlenie-na-publichnite-sredstva-i-investitsii-v-horata",
      "date": "2026-10-14"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-05-15",
+   "speaker": "iotova",
+   "t": "62:35",
+   "quote_bg": "Това са хората, които издигнаха господин Гюров.",
+   "claim_en": "The criticism comes from the people who nominated Gyurov.",
+   "topic": "campaign",
+   "verdict": "partly",
+   "confidence": "medium",
+   "steelman": "The criticism comes from the people who nominated Gyurov.",
+   "finding": "Democratic Bulgaria, which backed him, is part of that criticism; 'the people' generalises it.",
+   "evidence": [
+    {
+     "statement": "Mediapool's report on the runoff identifies Yotova as the candidate backed by Progressive Bulgaria and BSP and Gyurov as the candidate backed by Democratic Bulgaria and Continue the Change (PP). It gives no indication that Gyurov was backed by any other parliamentary party at the time of the 29 October debate.",
+     "quote": "На втория тур на президентските избори, които ще се проведат тази неделя, един срещу друг за поста държавен глава се изправят подкрепяната от \"Прогресивна България\" и БСП Илияна Йотова и подкрепяният от \"Демократична България\" и \"Продължаваме промяната\" Андрей Гюров.",
+     "source": "Mediapool.bg - „Витанов обвини Гюров, че се е срещал с Пеевски. Кандидатът за президент отрече (обновена)“",
+     "url": "https://www.mediapool.bg/prezidentski-izbori-2026/vitanov-obvini-gyurov-che-se-e-sreshtal-s-peevski-kandidatat-za-prezident-otreche-obnovena/",
+     "archive": "",
+     "date": "2026-10-29"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-05-19",
+   "speaker": "iotova",
+   "t": "63:15",
+   "quote_bg": "както господин Гюров заяви в едно интервю",
+   "claim_en": "Gyurov stated in an interview that the budget should be blocked.",
+   "topic": "budget",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "Gyurov said in an interview that the budget should be blocked.",
+   "finding": "The interview was not located.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-05-20",
+   "speaker": "iotova",
+   "t": "64:17",
+   "quote_bg": "господин ААсен Василев и академик Денков дадоха този частичен бюджет на Конституционния съд, за да бъде обявен той за противоконституционен",
+   "claim_en": "Asen Vasilev and Academician Denkov referred this partial budget to the Constitutional Court so that it be declared unconstitutional.",
+   "topic": "budget",
+   "verdict": "mostly_false",
+   "confidence": "medium",
+   "steelman": "Vasilev and Denkov referred the budget to the Constitutional Court.",
+   "finding": "The request came from 52nd Assembly deputies, per the Court's case reference; attributing it to two individuals is inaccurate.",
+   "evidence": [
+    {
+     "statement": "The Constitutional Court did rule on the budget. By Decision No. 17 of 20 October 2026 (Constitutional Case No. 15/2026, joined with 16/2026 and 18/2026, on a request by 52nd National Assembly MPs filed 31 July 2026 and by the Ombudsman), it REJECTED the request to declare the 2026 State Budget Act unconstitutional in its entirety, but DECLARED UNCONSTITUTIONAL the changes to art. 355(1)-(4) of the Labour Code made by §11(1)-(4) of the budget law's Transitional and Final Provisions, and art. 218(2) of the Judicial System Act made by §21(1). The request against §46 was rejected as moot. This is the operative part on the Court's own case page.",
+     "quote": "ОБЯВЯВА за противоконституционни чл. 355, ал. 1 в частта „часове,“; ал. 2; ал. 3 в частта „всички работни дни за съответния месец“ и ал. 4 от Кодекса на труда (обн. ДВ, бр. 26 от 1986 г., посл. изм. и доп. бр. 89 от 2026 г.), както са изменени с §11, т. 1 – 4 от Преходните и заключителни разпоредби на Закона за държавния бюджет на Република България за 2026 г. (обн. ДВ, бр. 69 от 2026 г.).",
+     "source": "Конституционен съд на Република България — Дело № 15/2026 г., Решение № 17 от 20.10.2026 г. (диспозитив)",
+     "url": "https://www.constcourt.bg/bg/case-728",
+     "archive": "",
+     "date": "2026-10-20"
     }
    ],
    "counter_evidence": [],
@@ -1439,6 +2908,23 @@
    "document_quote": ""
   },
   {
+   "claim_id": "C-05-23",
+   "speaker": "iotova",
+   "t": "64:17",
+   "quote_bg": "аз разписах, не набързо, а напротив, 2 часа и половина, слушал господин Василев и господин Денков",
+   "claim_en": "Iotova signed the budget not hastily but after two and a half hours of listening to Vasilev and Denkov.",
+   "topic": "budget",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "She signed the budget after two and a half hours of hearings.",
+   "finding": "The signing chronology was not verified.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
    "claim_id": "C-05-25",
    "speaker": "gyurov",
    "t": "65:32",
@@ -1459,6 +2945,23 @@
      "date": "2026-08-01"
     }
    ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-05-27",
+   "speaker": "iotova",
+   "t": "66:19",
+   "quote_bg": "в удължителния бюджет, с който вие вашето правителство работи, ако не се лъжа седем месеца",
+   "claim_en": "Gyurov's government worked under an extension budget for seven months.",
+   "topic": "budget",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "Gyurov's government worked under an extension budget for seven months.",
+   "finding": "Not verified.",
+   "evidence": [],
    "counter_evidence": [],
    "deception": "none",
    "notes": "",
@@ -1671,6 +3174,84 @@
    "document_quote": ""
   },
   {
+   "claim_id": "C-05-36",
+   "speaker": "gyurov",
+   "t": "67:49",
+   "quote_bg": "Ние, напротив, извадихме тези пари и ги върнахме обратно в бюджета",
+   "claim_en": "They took that money out and returned it to the budget.",
+   "topic": "budget",
+   "verdict": "partly",
+   "confidence": "medium",
+   "steelman": "They took the money out and returned it to the budget.",
+   "finding": "The capital reduction was authorised on 22 April 2026 but had not delivered the money by early October 2026.",
+   "evidence": [
+    {
+     "statement": "On 22 April 2026 the caretaker Council of Ministers chaired by Andrey Gyurov authorised the finance minister, as sole shareholder, to reduce BBR's capital from EUR 2,625,781,150 to EUR 1,180,613,634.77 (a cut of EUR 1,445,167,515.23) by cancelling 28,264,571 shares of EUR 51.13 nominal. Paragraph 4 orders the sum paid into the Ministry of Finance budget within seven days of the entry in the Commercial Register. The decision is signed by PM Andrey Gyurov — this is the documented 'who decided and when'.",
+     "quote": "Министърът на финансите, в качеството му на упражняващ правата на едноличния собственик, да намали капитала на „Българска банка за развитие“ ЕАД от 2 625 781 150 евро на 1 180 613 634,77 евро чрез обезсилване на 28 264 571 броя поименни акции с номинална стойност 51,13 евро всяка",
+     "source": "Council of Ministers — Decision No. 309 of 22.04.2026 \"On reducing the capital of Bulgarian Development Bank EAD\", Acts of the Council of Ministers portal",
+     "url": "https://strategy.bg/bg/pris/legal-information/reseniia/169486",
+     "archive": "http://web.archive.org/web/20260423073553/https://strategy.bg/bg/pris/legal-information/reseniia/169486",
+     "date": "2026-04-22"
+    }
+   ],
+   "counter_evidence": [
+    {
+     "statement": "By early October 2026 the withdrawal had not delivered the money: the deputy prime minister and economy minister said the decapitalisation is 'in a vacuum' and the EUR 1.4 bn can be used neither by the Finance Ministry nor by BBR. This is a government minister's statement about the outcome, not a document.",
+     "quote": "Тази операция буквално доведе до един пълен хаос и това намаляване на капитала в момента е в един вакуум, не могат да се използват тези средства нито от министерство на финансите, нито от българската банка за развитие. Буквално тези средства са някъде в стратосферата и никой не може да ги ползва.",
+     "source": "BNT Novini — \"Пулев: Над 1,4 млрд. евро на ББР са блокирани и неизползваеми\" (deputy PM Aleksandar Pulev)",
+     "url": "https://bntnews.bg/news/pulev-nad-14-mlrd-evro-na-bbr-sa-blokirani-i-neizpolzvaemi-1415640news.html",
+     "archive": "",
+     "date": "2026-10-06"
+    }
+   ],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-05-38",
+   "speaker": "iotova",
+   "t": "69:14",
+   "quote_bg": "които президентската институция получи по този бюджет, само три бяха против господин Гюров",
+   "claim_en": "Of the opinions the presidential institution received on this budget, only three were against it.",
+   "topic": "budget",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "Of the opinions received, only three were against.",
+   "finding": "The count of opinions was not verified.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-05-39",
+   "speaker": "iotova",
+   "t": "69:14",
+   "quote_bg": "Второ, ваше беше решението за изтеглянето на тези пари",
+   "claim_en": "The decision to withdraw that money was Gyurov's.",
+   "topic": "budget",
+   "verdict": "mostly_true",
+   "confidence": "high",
+   "steelman": "The decision to withdraw that money was Gyurov's.",
+   "finding": "The caretaker cabinet chaired by Gyurov authorised the reduction on 22 April 2026.",
+   "evidence": [
+    {
+     "statement": "On 22 April 2026 the caretaker Council of Ministers chaired by Andrey Gyurov authorised the finance minister, as sole shareholder, to reduce BBR's capital from EUR 2,625,781,150 to EUR 1,180,613,634.77 (a cut of EUR 1,445,167,515.23) by cancelling 28,264,571 shares of EUR 51.13 nominal. Paragraph 4 orders the sum paid into the Ministry of Finance budget within seven days of the entry in the Commercial Register. The decision is signed by PM Andrey Gyurov — this is the documented 'who decided and when'.",
+     "quote": "Министърът на финансите, в качеството му на упражняващ правата на едноличния собственик, да намали капитала на „Българска банка за развитие“ ЕАД от 2 625 781 150 евро на 1 180 613 634,77 евро чрез обезсилване на 28 264 571 броя поименни акции с номинална стойност 51,13 евро всяка",
+     "source": "Council of Ministers — Decision No. 309 of 22.04.2026 \"On reducing the capital of Bulgarian Development Bank EAD\", Acts of the Council of Ministers portal",
+     "url": "https://strategy.bg/bg/pris/legal-information/reseniia/169486",
+     "archive": "http://web.archive.org/web/20260423073553/https://strategy.bg/bg/pris/legal-information/reseniia/169486",
+     "date": "2026-04-22"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
    "claim_id": "C-05-40",
    "speaker": "iotova",
    "t": "69:26",
@@ -1765,6 +3346,41 @@
    "document_quote": ""
   },
   {
+   "claim_id": "C-06-04",
+   "speaker": "gyurov",
+   "t": "71:00",
+   "quote_bg": "И за първи път тази година покупателната способност на българските граждани спада.",
+   "claim_en": "For the first time this year the purchasing power of Bulgarian citizens is declining.",
+   "topic": "economy",
+   "verdict": "partly",
+   "confidence": "medium",
+   "steelman": "Purchasing power is declining for the first time this year.",
+   "finding": "PM Radev himself spoke of the 'declining purchasing power' in May 2026, but average wages were rising 9.8% against 5.4% inflation; 'for the first time' is unverified.",
+   "evidence": [
+    {
+     "statement": "Speaking on 14 May 2026, PM Radev said food-price growth and 'the declining purchasing power of Bulgarian citizens' required measures, showing that the 'purchasing power is falling' framing was used by the government itself; the statement contains no statistical claim that this was the first such decline in 2026.",
+     "quote": "Продължаващият ръст на цените на хранителните стоки и намаляващата покупателна способност на българските граждани се превръщат в истинско предизвикателство, което изисква адекватни и навременни мерки.",
+     "source": "Plovdiv24.bg, „Премиерът Румен Радев: Покупателната способност на българите намалява“",
+     "url": "https://www.plovdiv24.bg/novini/Bylgaria/Premierut-Rumen-Radev-Pokupatelnata-sposobnost-na-bulgarite-namalyava-2965861",
+     "archive": "",
+     "date": "2026-05-14"
+    }
+   ],
+   "counter_evidence": [
+    {
+     "statement": "NSI's Q2 2026 wage release puts the average gross monthly wage at EUR 1,444 and shows it rising 9.8% year on year, far above the 5.4% annual CPI in June 2026; on this aggregate measure real wages and purchasing power were still rising, not falling for the first time.",
+     "quote": "Спрямо второто тримесечие на 2025 г. средната месечна работна заплата нараства с 9.8%, като най-голямо e увеличението в следните икономически дейности: „Добивна промишленост“ - с 24.0%, „Селско, горско и рибно стопанство“ - с 19.5%, и „Други дейности“ - с 15.7%.",
+     "source": "Национален статистически институт (НСИ), „Наети лица и средна работна заплата - II тримесечие 2026 година“",
+     "url": "https://www.nsi.bg/index.php/press-release/naeti-lica-i-sredna-rabotna-zaplata-9113",
+     "archive": "",
+     "date": "2026-08-12"
+    }
+   ],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
    "claim_id": "C-06-07",
    "speaker": "gyurov",
    "t": "71:29",
@@ -1804,6 +3420,40 @@
    "counter_evidence": [],
    "deception": "none",
    "notes": "The dispute is partly definitional: revenue measures versus net burden.",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-06-08",
+   "speaker": "gyurov",
+   "t": "71:29",
+   "quote_bg": "имаме увеличение на средствата за администрацията",
+   "claim_en": "Spending on the administration is increasing.",
+   "topic": "budget",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "Spending on the administration is increasing.",
+   "finding": "Not verified against the budget's annexes.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-06-09",
+   "speaker": "gyurov",
+   "t": "71:29",
+   "quote_bg": "почти никакви мерки за намаляне на разходите на държавата",
+   "claim_en": "There are almost no measures to cut state spending.",
+   "topic": "budget",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "There are almost no measures to cut state spending.",
+   "finding": "An evaluative claim about the draft; not testable as stated.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
    "document_quote": ""
   },
   {
@@ -1867,6 +3517,340 @@
    "document_quote": ""
   },
   {
+   "claim_id": "C-06-13",
+   "speaker": "iotova",
+   "t": "74:05",
+   "quote_bg": "бюджета трябва да знаете, че се подписва до края на годината",
+   "claim_en": "The budget has to be signed by the end of the year.",
+   "topic": "budget",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "The budget has to be signed by the end of the year.",
+   "finding": "Standard budget-law requirement.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-06-14",
+   "speaker": "iotova",
+   "t": "74:05",
+   "quote_bg": "правителството последното на господин Радев беше точно на един месец",
+   "claim_en": "The last government of Mr. Radev had been in office exactly one month at the time.",
+   "topic": "institutions",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "The last Radev government had been in office exactly one month.",
+   "finding": "The last Radev-appointed cabinet was Zhelyazkov's, from January 2025; its end date was not established.",
+   "evidence": [
+    {
+     "statement": "The last government Radev appointed was Rosen Zhelyazkov's regular cabinet: elected by the National Assembly on 16 January 2025 with 125 votes and appointed by Radev's decree. It survived five no-confidence votes, resigned in December 2025 but stayed in office as an outgoing government until Gyurov's caretaker took over on 19 February 2026 - about 13 months (16 January 2025 - 19 February 2026), against Gyurov's 78 days.",
+     "quote": "Преди по-малко от 12 месеца - на 16 януари със 125 гласа \"за\" Народното събрание (НС) избра правителството на Росен Желязков.",
+     "source": "Bulgaria ON AIR - Историята на кабинета \"Желязков\" - Еврозона и оцеляване при 5 вота на недоверие",
+     "url": "https://www.bgonair.bg/a/2-bulgaria/403627-istoriyata-na-kabineta-zhelyazkov-evrozona-i-otselyavane-pri-5-vota-na-nedoverie",
+     "archive": "",
+     "date": "2025-12-11"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-06-15",
+   "speaker": "iotova",
+   "t": "74:05",
+   "quote_bg": "когато Европейската комисия обяви процедура на свръх дефицит на България от близо 5.8",
+   "claim_en": "The European Commission announced an excessive deficit procedure for Bulgaria with a deficit of nearly 5.8 percent.",
+   "topic": "budget",
+   "verdict": "partly",
+   "confidence": "medium",
+   "steelman": "The Commission announced an excessive deficit procedure with a deficit near 5.8%.",
+   "finding": "The 5.8% figure is in the budget record; the procedure's formal announcement was not verified in this pass.",
+   "evidence": [
+    {
+     "statement": "Yotova's account of the ruling at the debate is substantially correct on mechanism (the change had to be made by amending another law, not through the budget law's transitional and final provisions), but understates its scope: she speaks of 'one text' about holidays and hourly work, whereas the Court struck two separate provisions — Labour Code art. 355 and Judicial System Act art. 218(2) — and separately rejected the challenge to the budget law as a whole. She also says 69 opinions on the 2026 budget reached the presidency and only three were 'against' (not verified here).",
+     "quote": "Относно решението на Конституционния съд за бюджета за 2026 г., Йотова каза, че възражението на съда е за един текст от закона, свързан с отпуските и почасовата работа. Възражението е, че това трябва да стане с промяна в друг закон, а не може през преходните и заключителните разпоредби, посочи Йотова.",
+     "source": "БТА — „Първото нещо, което ще гледам в следващия бюджет, са доходите на най-бедните и уязвими хора и парите за инвестиции, каза Илияна Йотова на дебата с Андрей Гюров“",
+     "url": "https://www.bta.bg/bg/news/1235991-parvoto-neshto-koeto-shte-gledam-v-sledvashtiya-byudzhet-sa-dohodite-na-nay-be",
+     "archive": "",
+     "date": "2026-10-29"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-06-18",
+   "speaker": "iotova",
+   "t": "74:05",
+   "quote_bg": "а тези документи са още от 24-та година, когато финансов министър беше господин Василев",
+   "claim_en": "Those documents date from 2024, when Mr. Vasilev was finance minister.",
+   "topic": "eu",
+   "verdict": "partly",
+   "confidence": "medium",
+   "steelman": "Those documents date from 2024, when Vasilev was finance minister.",
+   "finding": "Vasilev was finance minister in 2024; that the documents are his was not verified.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-06-20",
+   "speaker": "iotova",
+   "t": "75:08",
+   "quote_bg": "това е първият ни бюджет на еврозоната",
+   "claim_en": "This is Bulgaria's first eurozone budget.",
+   "topic": "budget",
+   "verdict": "mostly_true",
+   "confidence": "medium",
+   "steelman": "This is Bulgaria's first eurozone budget.",
+   "finding": "Bulgaria adopted the euro for 2026 in this timeline; no fetched source confirms the 'first' framing.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-06-21",
+   "speaker": "iotova",
+   "t": "75:08",
+   "quote_bg": "затова го изпрати в Европейската комисия",
+   "claim_en": "The government sent the budget to the European Commission.",
+   "topic": "budget",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "The government sent the budget to the European Commission.",
+   "finding": "The draft was submitted to the Commission, per coverage of the plan.",
+   "evidence": [
+    {
+     "statement": "168 chasa, working from the 2027 budget plan sent to the European Commission, reports 'nearly EUR 2 billion' of additional revenue in 2027 and itemises it: EUR 800 m one-off windfall tax on six sectors, EUR 461.8 m from raising the maximum insurable income (EUR 2,300 to 2,400) and the minimum insurance thresholds, EUR 220.2 m from tobacco excise plus related VAT, EUR 120 m from mandatory VAT registration on new-build property sales. This is the documented basis for the order of magnitude behind Gyurov's ~2 bn figure.",
+     "quote": "Правителството разчита на нови данъци, по-високи осигурителни прагове и засилен контрол върху събираемостта, за да осигури близо 2 млрд. евро допълнителни приходи през 2027 г. Това става ясно от бюджетния план за догодина, който финансовото министерство е изпратило в Брюксел.",
+     "source": "168 Часа — „Нови данъци, по-високи осигуровки и контрол за още 2 млрд. евро (Графика)“",
+     "url": "https://www.168chasa.bg/article/23749657",
+     "archive": "",
+     "date": "2026-10-17"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-06-23",
+   "speaker": "iotova",
+   "t": "75:08",
+   "quote_bg": "Почти няма държава в ЕС в момента, в която да е под границата на 3%",
+   "claim_en": "Almost no EU country is currently below the 3 percent deficit threshold.",
+   "topic": "eu",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "Almost no EU country is below the 3% deficit threshold.",
+   "finding": "Not verified against Commission data.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-06-25",
+   "speaker": "iotova",
+   "t": "75:08",
+   "quote_bg": "няма да има промяна в цените на топлото и на светлото",
+   "claim_en": "There will be no change in heating and electricity prices.",
+   "topic": "energy",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "There will be no change in heating and electricity prices.",
+   "finding": "A forward-looking regulatory claim; not verified.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-06-27",
+   "speaker": "gyurov",
+   "t": "77:18",
+   "quote_bg": "свръх дефиците на базата на новите разчети по новия бюджет, а не на този, който ние изпълняхме",
+   "claim_en": "The excessive deficit figure is based on the new calculations in the new budget, not on the budget Gyurov's government was executing.",
+   "topic": "budget",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "The excessive deficit figure rests on the new budget's calculations.",
+   "finding": "Contested; not settled in this pass.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-06-28",
+   "speaker": "gyurov",
+   "t": "77:32",
+   "quote_bg": "Той е заварен и точно там",
+   "claim_en": "The draft budget was inherited from the previous government.",
+   "topic": "budget",
+   "verdict": "partly",
+   "confidence": "medium",
+   "steelman": "The draft budget was inherited from the previous government.",
+   "finding": "The 2026 budget was prepared by the new cabinet; the 'inherited' framing is contested.",
+   "evidence": [
+    {
+     "statement": "The Council of Ministers' own summary of Budget 2027 (cabinet meeting of 14 October 2026) rejects the 'new taxes' framing: Prime Minister Rumen Radev says revenues rise 'without changing the main taxes — income, profit and VAT', with extra money coming from collection, fraud control, digitalisation and a one-off contribution from high-profit sectors (banks, insurers, retail chains, telecoms). The same release sets pensions +8%, public-sector pay +5%, teachers +7.5%. This is the government's counter-position to the ~2 bn 'burden' claim.",
+     "quote": "„Залагаме повече приходи, но без да променяме основни данъци, доходи, печалба и ДДС“, подчерта Румен Радев.",
+     "source": "Министерски съвет — „Румен Радев: Бюджет 2027 не предлага лесни решения, но задава посока към разумно управление на публичните средства и инвестиции в хората“",
+     "url": "https://www.government.bg/bg/prestsentar/novini/rumen-radev-byudzhet-2027-ne-predlaga-lesni-resheniya-no-zadava-posoka-kam-razumno-upravlenie-na-publichnite-sredstva-i-investitsii-v-horata",
+     "archive": "http://web.archive.org/web/20261015115347/https://government.bg/bg/prestsentar/novini/rumen-radev-byudzhet-2027-ne-predlaga-lesni-resheniya-no-zadava-posoka-kam-razumno-upravlenie-na-publichnite-sredstva-i-investitsii-v-horata",
+     "date": "2026-10-14"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-06-31",
+   "speaker": "gyurov",
+   "t": "77:32",
+   "quote_bg": "държавата не се ограничава в своите разходи",
+   "claim_en": "The state is not limiting its own spending.",
+   "topic": "budget",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "The state is not limiting its own spending.",
+   "finding": "Not verified against the draft's expenditure lines.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-06-34",
+   "speaker": "iotova",
+   "t": "77:50",
+   "quote_bg": "че ще спре неизплащането на парите на общините две години",
+   "claim_en": "The non-payment of the money owed to municipalities, which has lasted two years, will stop.",
+   "topic": "budget",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "Non-payment of money owed to municipalities will stop.",
+   "finding": "Forward commitment; not verifiable at the time of speaking.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-06-36",
+   "speaker": "iotova",
+   "t": "77:50",
+   "quote_bg": "България вече е част от еврозоната",
+   "claim_en": "Bulgaria is already part of the eurozone.",
+   "topic": "eu",
+   "verdict": "mostly_true",
+   "confidence": "low",
+   "steelman": "Bulgaria is already in the eurozone.",
+   "finding": "Consistent with the 2026 euro adoption in this timeline; not separately sourced here.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-06-38",
+   "speaker": "iotova",
+   "t": "77:50",
+   "quote_bg": "Затова ние поискахме с президента този референдум.",
+   "claim_en": "Iotova and the president sought this referendum.",
+   "topic": "institutions",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "Iotova and the president sought this referendum.",
+   "finding": "Radev proposed a national referendum on the euro on 3 December 2025.",
+   "evidence": [
+    {
+     "statement": "The euro referendum was sought by President Rumen Radev, not by a party or a citizens' petition: on 3 December 2025 the National Assembly rejected his proposal for a national referendum on the question whether Bulgaria should adopt the euro in 2026, by 81 votes to 135 with 3 abstentions.",
+     "quote": "С 81 гласа \"за\", 135 \"против\" и трима въздържали се парламентът отхвърли предложението на президента Румен Радев за произвеждане на национален референдум с въпрос: \"Съгласни ли сте България да въведе европейската валута \"евро“ през 2026 г.?“.",
+     "source": "БНР Бургас - Парламентът отхвърли предложението на президента за референдум за еврото",
+     "url": "https://bnrnews.bg/burgas/post/395350/parlamentat-othvarli-predlozhenieto-na-prezidenta-za-referendum-za-evroto",
+     "archive": "",
+     "date": "2025-12-03"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-07-01",
+   "speaker": "iotova",
+   "t": "83:44",
+   "quote_bg": "Когато бяха арестувани двама кметове",
+   "claim_en": "Two mayors were arrested.",
+   "topic": "judiciary",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "Two mayors were arrested.",
+   "finding": "Not verified.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-07-05",
+   "speaker": "gyurov",
+   "t": "84:51",
+   "quote_bg": "Не съм говорила аз за възродителен процес.",
+   "claim_en": "He never spoke about a revival process.",
+   "topic": "other",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "He never spoke about a revival process.",
+   "finding": "A negative claim about his own statements; not verifiable from the record gathered.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-07-06",
+   "speaker": "gyurov",
+   "t": "84:51",
+   "quote_bg": "Това, което казах във въпросното интервю, е, че борбата срещу олигархията е закъсняла, тя трябва да бъде доведена до край",
+   "claim_en": "In that interview he said the fight against oligarchy had come too late and had to be carried through.",
+   "topic": "institutions",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "In that interview he said the fight against oligarchy came too late.",
+   "finding": "The interview was not located.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
    "claim_id": "C-07-13",
    "speaker": "iotova",
    "t": "87:19",
@@ -1885,6 +3869,32 @@
      "url": "https://www.bta.bg/bg/news/bulgaria/1229674-prezidentat-yotova-e-sezirala-prokuraturata-po-otnoshenie-pomilvaneto-na-ognyan-",
      "archive": "",
      "date": "2026-10-21"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-07-14",
+   "speaker": "iotova",
+   "t": "87:19",
+   "quote_bg": "Не съм имала основание да се съмнявам в комисия, която е назначена от госпожа Надежда Юрданова като министър на правосъдието и от госпожа Сербезова като министър на здравеопазването",
+   "claim_en": "The commission was appointed by Nadezhda Yordanova as justice minister and by Serbezova as health minister.",
+   "topic": "judiciary",
+   "verdict": "partly",
+   "confidence": "medium",
+   "steelman": "The commission was appointed by Yordanova and Serbezova.",
+   "finding": "The medical commission is statutory, with ministers signing off appointments; the claim is partly right and partly confuses the two commissions.",
+   "evidence": [
+    {
+     "statement": "Sega sets out the medical commission's legal basis and composition: under the Execution of Penal Sanctions and Detention in Custody Act there is a 7-member commission with a 3-year mandate at the General Directorate \"Execution of Penalties\", giving opinions on all prisoners and detainees, appointed by the justice minister in coordination with the health minister. It reports MP Petar Vitanov's account of who the seven are: five doctors from prison hospitals, one chief expert from the Ministry of Health and one doctor from the leadership of the National Centre for Training and Qualification in Emergency Medical Care, appointed in 2022 by minister Nadezhda Yordanova. It stresses that this commission only assesses health and cannot propose a pardon.",
+     "quote": "По Закона за изпълнение на наказанията и задържането под стража (ЗИНЗС) към Главна дирекция \"Изпълнение на наказанията\" има 7-членна комисия с 3-годишен мандат, която дава становище и заключения за всички затворници и арестанти. Тя се назначава от министъра на правосъдието, съгласувано с министъра на здравеопазването.",
+     "source": "Сега - \"Излязоха още скандални факти за помилването на Петричкия Ескобар\"",
+     "url": "https://www.segabg.com/hot/category-bulgaria/izlyazoha-oshte-skandalni-fakti-za-pomilvaneto-na-petrichkiya-eskobar",
+     "archive": "",
+     "date": "2026-10-30"
     }
    ],
    "counter_evidence": [],
@@ -1917,6 +3927,84 @@
      "quote": "Първо, медицинската комисия, отговорна за състоянието на лишените от свобода, не е предлагала помилването на Огнян Атанасов. Второ, това предложение е направено от Комисията по помилванията, назначена с указ от президента Румен Радев.",
      "source": "OFFNews - \"Надежда Йорданова: Йотова отново излъга за помилването на Петричкия Ескобар\" (DB press statement)",
      "url": "https://offnews.bg/politika/nadezhda-jordanova-jotova-otnovo-izlaga-za-pomilvaneto-na-petrichkia-877526.html",
+     "archive": "",
+     "date": "2026-10-30"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-07-18",
+   "speaker": "iotova",
+   "t": "87:19",
+   "quote_bg": "става дума за един млад човек, който даже не е в България",
+   "claim_en": "One of the pardon cases concerns a young man who is not even in Bulgaria.",
+   "topic": "judiciary",
+   "verdict": "partly",
+   "confidence": "medium",
+   "steelman": "One case concerns a young man not in Bulgaria.",
+   "finding": "The Atanasov case involves a man sentenced in Greece in 2019; the age and absence details are not confirmed.",
+   "evidence": [
+    {
+     "statement": "Entry 23 of the register is the Atanasov pardon. It records a 59-year-old Bulgarian sentenced in 2019 by the Thessaloniki Court of Appeal for acts committed in 1999-2000, qualified under art. 321(3)(1) of the Bulgarian Criminal Code (participation in an organised criminal group) - import, trafficking and sale of drugs in Greece - to 15 years, of which he had served five. It says the expert medical commission found extremely serious illnesses, that his sentence had already been suspended for two years on health grounds, and that he was pardoned for the remainder by Decree No. 119 of 5 December 2022. The entry does not name him.",
+     "quote": "Деянията са квалифицирани по чл. 321, ал. 3, т. 1 НК – внос, трафик и продажба на наркотици в Гърция и е осъден на 15 г. лишаване от свобода, от които е изтърпял 5 години. […] Същият е в прекъсване на изтърпяването на наказанието от две години. […] Помилван е с остатъка от наказанието с Указ № 119 от 5 декември 2022 г.",
+     "source": "President of the Republic of Bulgaria - register of pardons, entry 23",
+     "url": "https://www.president.bg/docs/1790863798.doc",
+     "archive": "http://web.archive.org/web/20261017135358/https://www.president.bg/docs/1790863798.doc",
+     "date": "2022-12-05"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-07-19",
+   "speaker": "iotova",
+   "t": "87:19",
+   "quote_bg": "На два пъти и английския съд отказва да го екстрадира.",
+   "claim_en": "The English court refused to extradite him twice.",
+   "topic": "judiciary",
+   "verdict": "partly",
+   "confidence": "medium",
+   "steelman": "The English court refused to extradite him twice.",
+   "finding": "The case file refers to Greek proceedings; the English extradition history was not verified.",
+   "evidence": [
+    {
+     "statement": "Entry 23 of the register is the Atanasov pardon. It records a 59-year-old Bulgarian sentenced in 2019 by the Thessaloniki Court of Appeal for acts committed in 1999-2000, qualified under art. 321(3)(1) of the Bulgarian Criminal Code (participation in an organised criminal group) - import, trafficking and sale of drugs in Greece - to 15 years, of which he had served five. It says the expert medical commission found extremely serious illnesses, that his sentence had already been suspended for two years on health grounds, and that he was pardoned for the remainder by Decree No. 119 of 5 December 2022. The entry does not name him.",
+     "quote": "Деянията са квалифицирани по чл. 321, ал. 3, т. 1 НК – внос, трафик и продажба на наркотици в Гърция и е осъден на 15 г. лишаване от свобода, от които е изтърпял 5 години. […] Същият е в прекъсване на изтърпяването на наказанието от две години. […] Помилван е с остатъка от наказанието с Указ № 119 от 5 декември 2022 г.",
+     "source": "President of the Republic of Bulgaria - register of pardons, entry 23",
+     "url": "https://www.president.bg/docs/1790863798.doc",
+     "archive": "http://web.archive.org/web/20261017135358/https://www.president.bg/docs/1790863798.doc",
+     "date": "2022-12-05"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-07-25",
+   "speaker": "iotova",
+   "t": "90:50",
+   "quote_bg": "аз не питам нито за Асен Василев, който беше говорителен на вашата кампания.",
+   "claim_en": "Asen Vasilev was the spokesperson of Gyurov's campaign.",
+   "topic": "campaign",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "Asen Vasilev was Gyurov's campaign spokesperson.",
+   "finding": "Gyurov did not contest it in the debate, but no formal source was located.",
+   "evidence": [
+    {
+     "statement": "In the debate Yotova referred to Asen Vasilev as 'the spokesperson of your campaign'. Gyurov did not contest that description in his answer. No source was found that formally appoints Vasilev as campaign spokesperson: he is PP's leader and the most prominent party figure campaigning for Gyurov, so the label is Yotova's characterisation and is only partly supported by his de facto role.",
+     "quote": "Не питам нито Асен Василев, който беше говорител на вашата кампания.",
+     "source": "168 chasa / 24 chasa - „Йотова атакува с аргументи, Гюров - не е разочарован, че го е направил служебен премиер“",
+     "url": "https://www.168chasa.bg/article/23835213",
      "archive": "",
      "date": "2026-10-30"
     }
@@ -2185,6 +4273,213 @@
      "date": "2026-10-27"
     }
    ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-08-04",
+   "speaker": "iotova",
+   "t": "99:22",
+   "quote_bg": "беше един от хората, създатели на българската конституция, която въпреки гаврите никой все още не може да я съсипе.",
+   "claim_en": "Kornezov was one of the authors of the Bulgarian constitution, which no one has yet managed to ruin.",
+   "topic": "institutions",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "Kornezov was an author of the constitution.",
+   "finding": "Not verified.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-08-10",
+   "speaker": "gyurov",
+   "t": "100:43",
+   "quote_bg": "Защото ние с нея сме заедно 32 години.",
+   "claim_en": "Gyurov and his wife have been together for 32 years.",
+   "topic": "other",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "Gyurov and his wife have been together 32 years.",
+   "finding": "Personal claim; not verifiable from public record.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-08-16",
+   "speaker": "iotova",
+   "t": "101:47",
+   "quote_bg": "Девет години изпълнявах тези функции.",
+   "claim_en": "Iotova performed the vice-president's functions for nine years.",
+   "topic": "institutions",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "Iotova served nine years as vice-president.",
+   "finding": "From January 2017 to the debate in October 2026.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-08-30",
+   "speaker": "iotova",
+   "t": "105:13",
+   "quote_bg": "От януари месец разговарям с всички политически партии",
+   "claim_en": "Since January Iotova has been talking with all political parties.",
+   "topic": "institutions",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "Since January she has been talking with all political parties.",
+   "finding": "Not verified.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-08-35",
+   "speaker": "iotova",
+   "t": "105:13",
+   "quote_bg": "Дори българския министр-председател и България бяха споменати единствено с добро и в последното изказване на Урсула фон дер Лайен като страна на свързаност.",
+   "claim_en": "The Bulgarian prime minister and Bulgaria were mentioned only positively in Ursula von der Leyen's latest speech, as a country of connectivity.",
+   "topic": "eu",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "Von der Leyen mentioned the Bulgarian PM and Bulgaria only positively.",
+   "finding": "The speech was not checked.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-08-39",
+   "speaker": "gyurov",
+   "t": "107:58",
+   "quote_bg": "за разлика от нея, която в заключителното събитие на своята кампания посвети голяма част от речта си с внушение и лъжи по мой адрес.",
+   "claim_en": "At her campaign's closing event Iotova devoted a large part of her speech to insinuations and lies about him.",
+   "topic": "campaign",
+   "verdict": "mostly_false",
+   "confidence": "medium",
+   "steelman": "At her closing event Iotova devoted much of her speech to insinuations and lies about him.",
+   "finding": "She did not name Gyurov in her final televised address, and attacked the campaign's tone rather than him personally.",
+   "evidence": [
+    {
+     "statement": "On the final campaign day, 30 October, Yotova's last message was a televised address, not a rally. She did not name Gyurov; she attacked the campaign's tone ('the fire of hatred burns friends and foes alike') and rejected suggestions that some voters should be ashamed of their choice. Campaigning was banned from midnight, and Saturday 31 October was the day of reflection before the Sunday runoff.",
+     "quote": "Пожарът на омразата изгаря еднакво и чужди, и свои. Затова аз никога няма да отвърна със същото.",
+     "source": "BG ON AIR - „Йотова и Гюров с последни послания към избирателите преди балотажа в неделя“",
+     "url": "https://www.bgonair.bg/a/227-izbori-2026/435188-yotova-i-gyurov-s-posledni-poslaniya-kam-izbiratelite-predi-balotazha-v-nedelya",
+     "archive": "",
+     "date": "2026-10-30"
+    }
+   ],
+   "counter_evidence": [
+    {
+     "statement": "Yotova's campaign held its reported symbolic closing event in the 'Saedinenie' hall of the Regional History Museum in Plovdiv on 23 October 2026 - two days before the first round, not on 30-31 October. There she defined the main dividing line with her opponents as peace through negotiations versus 'warmongering'; no closing rally on 30 or 31 October was found in the coverage.",
+     "quote": "Ние искаме мир чрез преговори, а не мир чрез сила, повече оръжия, повече жертви. Не приемаме това войнолюбство.",
+     "source": "ДУМА (Duma) - „Илияна Йотова и Кирил Вълчев закриха предизборната си кампания символно – в зала „Съединение“ в Пловдив“",
+     "url": "https://duma.bg/bg-bg.facebook.com/sofiapaperartfest/artbureau.bg/iliyana-yotova-i-kiril-valchev-zakriha-predizbornata-si-kampaniya-simvolno-%e2%80%93-v-zala-%e2%80%9esaedinenie%e2%80%9c-v-plovdiv-n328084",
+     "archive": "",
+     "date": "2026-10-23"
+    }
+   ],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-08-42",
+   "speaker": "gyurov",
+   "t": "108:28",
+   "quote_bg": "Имахме 78 дни в служебното правителство.",
+   "claim_en": "They had 78 days in the caretaker government.",
+   "topic": "institutions",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "They had 78 days in the caretaker government.",
+   "finding": "19 February to 8 May 2026 is 78 days.",
+   "evidence": [
+    {
+     "statement": "The caretaker government of Andrey Gyurov took office on 19 February 2026: Iotova signed the decree appointing it, the cabinet took the oath before the National Assembly that day and the handover from Rosen Zhelyazkov's cabinet took place the same day. Its term ended on 8 May 2026, when Radev's cabinet was sworn in - i.e. 19 February to 7 May inclusive, 78 days.",
+     "quote": "Caretaker Prime Minister Andrey Gurov and his cabinet took the oath of office before the National Assembly on Thursday, with President Iliana Iotova in attendance.",
+     "source": "BTA - Andrey Gurov Caretaker Cabinet Sworn In, Sets Course for Fair Elections on April 19",
+     "url": "https://www.bta.bg/en/news/bulgaria/1067407-andrey-gurov-caretaker-cabinet-sworn-in-sets-course-for-fair-elections-on-april",
+     "archive": "",
+     "date": "2026-02-19"
+    }
+   ],
+   "counter_evidence": [
+    {
+     "statement": "Gyurov himself put his cabinet's term at 78 days, in the debate, answering a question about disappointment and distrust between the two candidates - so the '78 days' figure in the debate is his own and matches the calendar (19 February - 7 May 2026).",
+     "quote": "Гледам назад към изключително успешни 78 дни. Няма разочарование. Очаква ни действие.",
+     "source": "168 часа / 24 часа - Йотова атакува с аргументи, Гюров - не е разочарован, че го е направила служебен премиер",
+     "url": "https://www.168chasa.bg/Article/23832919",
+     "archive": "",
+     "date": "2026-10-29"
+    }
+   ],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-08-43",
+   "speaker": "iotova",
+   "t": "109:17",
+   "quote_bg": "тъй като втория тур на изборите ще бъде на един от най-големите български празници. Първи ноември.",
+   "claim_en": "The second round of the election will be held on 1 November, one of the biggest Bulgarian holidays.",
+   "topic": "campaign",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "The runoff is on 1 November, a major Bulgarian holiday.",
+   "finding": "Set for Sunday 1 November 2026; the date is the Day of the National Awakeners.",
+   "evidence": [
+    {
+     "statement": "The runoff was set for Sunday 1 November 2026. Campaigning ended at midnight on 30 October and Saturday 31 October was the legally protected day of reflection, when no campaigning or publication of opinion polls was allowed. This fixes the chronology: the debate was on 29 October, the last campaign day on 30 October, silence on 31 October, and the vote on 1 November.",
+     "quote": "Агитацията приключва в полунощ, а на 31 октомври е ден за размисъл. На 1 ноември Илияна Йотова и Андрей Гюров ще се борят за президентския пост.",
+     "source": "Fakti.bg - „Последен ден на кампанията преди президентския балотаж“",
+     "url": "https://fakti.bg/bulgaria/1095380-posleden-den-na-kampaniata-predi-prezidentskia-balotaj",
+     "archive": "",
+     "date": "2026-10-30"
+    }
+   ],
+   "counter_evidence": [
+    {
+     "statement": "The runoff date, 1 November 2026, is listed in art. 154(1) of the Labour Code among Bulgaria's official holidays as the Day of the National Awakeners (Ден на народните будители), but the code makes it a non-attendance day only for educational institutions, not a general non-working day. So the runoff coincided with an official holiday, though most workplaces were open.",
+     "quote": "1 ноември - Ден на народните будители - неприсъствен за всички учебни заведения",
+     "source": "Lex.bg - Кодекс на труда, чл. 154, ал. 1 (консолидиран текст)",
+     "url": "https://lex.bg/laws/ldoc/1594373121",
+     "archive": "",
+     "date": "2026-10-30"
+    }
+   ],
+   "deception": "none",
+   "notes": "",
+   "document_quote": ""
+  },
+  {
+   "claim_id": "C-08-44",
+   "speaker": "iotova",
+   "t": "110:31",
+   "quote_bg": "Повече от час и половина, всъщност.",
+   "claim_en": "The debate lasted more than an hour and a half.",
+   "topic": "campaign",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "The debate lasted more than an hour and a half.",
+   "finding": "The broadcast runs 1:59:22 and the debate itself about 111 minutes.",
+   "evidence": [],
    "counter_evidence": [],
    "deception": "none",
    "notes": "",

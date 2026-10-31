@@ -111,9 +111,10 @@ fact-check queue.
 
 ## Fact-check (stage 5, in progress)
 
-71 claims checked against primary sources — the 16 collision topics plus the numeric claims
+170 claims checked against primary sources — the 16 collision topics plus the numeric claims
 behind them:
 
+- [`data/factcheck/SUMMARY.md`](data/factcheck/SUMMARY.md) — findings, deception flags, limits
 - [`data/factcheck/report.md`](data/factcheck/report.md) — verdicts, dossiers, citations
 - [`data/factcheck/verdicts.json`](data/factcheck/verdicts.json) — machine-readable dossiers
 - [`data/factcheck/evidence/`](data/factcheck/evidence) — 8 evidence clusters with URLs
@@ -121,13 +122,13 @@ behind them:
 
 | verdict | n |
 |---|---|
-| true | 17 |
-| mostly true | 13 |
-| mixed | 8 |
-| partly | 8 |
-| mostly false | 6 |
-| false | 4 |
-| unverified | 15 |
+| true | 43 |
+| mostly true | 22 |
+| mixed | 9 |
+| partly | 25 |
+| mostly false | 11 |
+| false | 6 |
+| unverified | 54 |
 
 Four claims are contradicted outright by primary records and one by a document the speaker
 herself voted for; two material omissions and several misdirections are flagged.

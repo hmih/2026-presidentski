@@ -2,7 +2,8 @@
 import json, glob, collections
 
 ev = {f.split("/")[-1][:-5]: json.load(open(f)) for f in glob.glob("data/factcheck/evidence/*.json")}
-V = json.load(open("data/factcheck/_v1.json")) + json.load(open("data/factcheck/_v2.json"))
+V = (json.load(open("data/factcheck/_v1.json")) + json.load(open("data/factcheck/_v2.json"))
+     + json.load(open("data/factcheck/_v3.json")) + json.load(open("data/factcheck/_v4.json")))
 claims = {c["id"]: c for c in json.load(open("data/claims/claims.json"))["claims"]}
 
 def resolve(ref):
@@ -13,7 +14,12 @@ def resolve(ref):
 
 rows = []
 for row in V:
+    row = list(row)
+    if len(row) == 7:  # compact form: id, verdict, conf, steelman, finding, evidence, counter
+        row += ["none", ""]
     cid, verdict, conf, steel, finding, refs, cref, deception, notes = row[:9]
+    refs = [refs] if isinstance(refs, str) and refs else (refs or [])
+    cref = [cref] if isinstance(cref, str) and cref else (cref or [])
     doc_quote = row[9] if len(row) > 9 else ""
     c = claims[cid]
     rows.append({"claim_id": cid, "speaker": c["speaker"], "t": c["t"], "quote_bg": c["text"],
