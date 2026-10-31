@@ -1,0 +1,40 @@
+{
+  "decision": "botash",
+  "assessor": "B",
+  "dimensions": {
+    "information": {
+      "score": 2,
+      "why": "The operative facts were known and used — Gazprom Export suspended supplies on 26 April 2022 with deliveries stopping at 07:00 on 27 April despite Bulgaria having met its April obligations, and Bulgaria had no long-term non-Russian supply contract — but the record contains no analysis of the 13-year term or the BGN 1 million/day price, since the brief lists who approved the commercial terms and on what analysis as unknown."
+    },
+    "authority": {
+      "score": 2,
+      "why": "The signature was formally within the caretaker executive's power — an inter-company commercial contract signed by the Bulgargaz and BOTAS chief executives before the caretaker and Turkish energy ministers, with no ratification instrument required in the record and none existing — but a 13-year commitment of about BGN 1 million a day was entered without parliamentary ratification and with no documented legal opinion on that question, so the procedure was thin rather than clearly followed."
+    },
+    "alternatives": {
+      "score": 2,
+      "why": "No alternative capacity or supply offer is documented in the record — the brief explicitly lists what alternatives were on the table in December 2022–January 2023, and at what price, as a known unknown — so the evidence establishes neither that a better option existed nor that none did, and this gap is scored neutral at 2 with the cap noted in unknowns."
+    },
+    "reversibility": {
+      "score": 1,
+      "why": "The 13-year take-or-pay commitment to 31 December 2035 at BGN 1 million (EUR 512,000) per day was a one-way door with a severe downside — BTA records that rescinding it would expose Bulgargaz to close to BGN 3 billion in damages — and it was concluded in a negotiation run over the Christmas holidays and signed on the first working day of the year, though the ministerial involvement means the record does not show pure casualness."
+    },
+    "design": {
+      "score": 1,
+      "why": "Bulgargaz and the energy ministry are identifiable implementers, but the agreement was classified as a commercial secret, never published, and never ratified, with no review, monitoring or correction path in the record — the only correction came from outside, when the National Assembly had to instruct the energy minister to renegotiate on 19 April 2024."
+    },
+    "candour": {
+      "score": 1,
+      "why": "The decision's political defenders described it inaccurately afterwards: dossier C-03-17 records Yotova's claim that Botash happened because Petkov and Vasilev 'cut off Russian gas supplies overnight', which Bulgargaz's own primary record contradicts (the supplier suspended deliveries after the rouble-payment dispute), and in July 2026 the prime minister described settling the USD 360 million liability as something that 'will not burden the Bulgarian finances', while the contract itself remains sealed — no account from the signing ministers or chief executives appears in the dossiers."
+    }
+  },
+  "grade": "weak",
+  "unknowns": [
+    "What alternative capacity or supply contracts were on the table in December 2022–January 2023, and at what price — not documented, so the alternatives dimension cannot be fully assessed.",
+    "Whether the 13-year term was negotiable.",
+    "Who inside the government approved the commercial terms, and on what analysis.",
+    "Whether any legal opinion addressed the ratification question.",
+    "The contract text is unpublished and secret, so the term, the daily fee, the take-or-pay character and the absence of a termination clause are known only from official statements and leaks, not from the signed instrument.",
+    "No account by the signing ministers or the two chief executives of how the decision was taken appears in the fact-check dossiers; candour is judged from the public defences by political allies and later statements about the liability."
+  ],
+  "sensitivity": "If the sealed contract's text showed a documented unilateral termination right at bounded cost rather than a take-or-pay commitment to 2035, reversibility and design would rise and the average would reach 2.0, flipping the grade to defensible."
+}

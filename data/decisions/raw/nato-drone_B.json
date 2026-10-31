@@ -1,0 +1,42 @@
+{
+  "decision": "nato-drone",
+  "assessor": "B",
+  "dimensions": {
+    "information": {
+      "score": 1,
+      "why": "The refusal was framed on 11 September as an affordability judgement without the cost that was its crux - the ministry put the mandatory contribution at EUR 220,000 a year only at the 14 October hearing, and Mediapool records that the ministry 'found' the money after the Black Sea drone strikes - while no capability-gap assessment appears in the record and the 'similar' national capability cited was still undelivered, the anti-drone systems inside the IRIS-T contract being approved only on 15 October with the first complex 32 months after signature."
+    },
+    "authority": {
+      "score": 2,
+      "why": "Declining to seek accession was within the defence minister's competence - participation in a NATO programme is an executive matter and no rule required cabinet or parliamentary leave to stay out - but the position had no documented formal standing, since the evidence establishes only an oral answer in parliamentary control and could not determine whether a written position existed, so the procedure was thin rather than clearly followed."
+    },
+    "alternatives": {
+      "score": 2,
+      "why": "Joining the initiative was a documented option that was turned down on a stated affordability ground, but the brief lists the full cost comparison between joining and the national alternative as a known unknown, so the record does not establish that a materially better option was available and discarded, and the minister's statement that at EUR 220,000 'we can afford this thing' is dated 14 October and is therefore cut off from the September assessment."
+    },
+    "reversibility": {
+      "score": 3,
+      "why": "No instrument, money or legal commitment was made - the refusal was an oral position in parliamentary control, and any accession would itself have needed a Council of Ministers decision and ratification - so it was undoable at the cost of a public climbdown, with the downside bounded because accession does not by itself provide for immediate deployment of new counter-drone systems (Bulgaria ON AIR, 28 October)."
+    },
+    "design": {
+      "score": 1,
+      "why": "The Ministry of Defence is an identifiable owner, but no assessment, milestone or review was attached to the refusal - the national substitute rested on an IRIS-T anti-drone purchase approved only on 15 October, with the first complex expected 32 months after contract signature - and the correction, when it came, was driven from outside the ministry rather than by any built-in review or correction path."
+    },
+    "candour": {
+      "score": 1,
+      "why": "On the fact-check dossiers the stated ground was not the one the minister later gave - having said on 11 September that two parallel initiatives could not be afforded, he told parliament on 14 October that the contribution was EUR 220,000 a year and that at that sum 'we can afford this thing' (C-02-22) - and the government side's claim in the 29 October debate that the documents had been 'submitted' was premature, the cabinet having approved only a draft note the day before the debate (C-02-24, protocol decision 46.32)."
+    }
+  },
+  "grade": "weak",
+  "unknowns": [
+    "The full cost comparison between joining the NATO programme and the national alternative - listed in the brief as a known unknown and absent from the record.",
+    "Whether the ministry had any assessment of the counter-drone capability gap - the brief lists this as a known unknown, and no such document appears in the evidence.",
+    "What the alliance's timeline required of participants - the brief's third known unknown, so the cost of delay cannot be measured.",
+    "Whether the 11 September refusal had formal standing (a written government position) or was only the minister's oral answer in parliamentary control - the evidence explicitly could not establish this.",
+    "No NATO primary source (nato.int / NSPA) confirming the initiative's official name or Bulgaria's status; 'Drone Edge' (EUR 80 mln, 20 systems, participation since 2025) and the separate low-flying counter-drone memorandum with the EUR 220,000 fee are conflated in much of the coverage, so which programme the 11 September answer concerned is only inferable from the reported wording.",
+    "The EUR 220,000 annual contribution is documented only through ministerial statements (BTA, BNR, Mediapool), not through a published decision text or budget annex - the 28 October protocol extract names the memorandum and the note but contains no figure.",
+    "No account by the minister or the government of why the refusal was made or how it was reviewed; candour is judged from his 11 September and 14 October statements and the 29 October debate interventions.",
+    "The alternatives dimension is scored 2 as neutral because the evidence does not establish a better option either way; a 'defensible' cap applies to unknown dimensions but is moot here."
+  ],
+  "sensitivity": "If a pre-September Ministry of Defence file showed a costed capability-gap assessment establishing that the national IRIS-T anti-drone route met NATO's counter-drone target at a comparable or lower cost, information and alternatives would each rise and the average would reach 2.0, flipping the grade from weak to defensible."
+}

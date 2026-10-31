@@ -1,0 +1,39 @@
+{
+  "decision": "nato-drone",
+  "assessor": "A",
+  "dimensions": {
+    "information": {
+      "score": 1,
+      "why": "On 11 September 2026 the minister refused on the ground that joining would 'scatter the ministry's limited financial resources' without any documented price for joining - the EUR 220,000 annual contribution was only reported on 14 October ('Получихме информация колко е вноската', Mediapool, 14 October) - while the brief records as unknown whether any capability-gap assessment existed and the parallel national capability was itself undelivered (first IRIS-T complex expected 32 months after contract signature, БНР, 15 October), against a Black Sea environment that had deteriorated through 2026 (brief)."
+    },
+    "authority": {
+      "score": 2,
+      "why": "Declining to join a voluntary programme sits within the defence minister's executive competence and no legal rule was breached, but the refusal was an oral answer in parliamentary control - the evidence could not establish whether it had any formal standing as a written position (evidence, open questions) - so that it was 'properly exercised' is not documented."
+    },
+    "alternatives": {
+      "score": 2,
+      "why": "The record establishes no discarded superior option: the brief's known unknowns include the full cost comparison between joining the NATO programme and the national alternative and what the alliance's timeline required, and the only on-table alternative was accession itself at a EUR 220,000 mandatory annual contribution that was not known on 11 September (BTA, 14 October), so this 2 reflects an evidence gap rather than a credited option and the cap applies."
+    },
+    "reversibility": {
+      "score": 3,
+      "why": "The decision committed no money and signed no instrument - it was a statement that Bulgaria 'will not join' a USD 40 bln initiative (Mediapool, 11 September) - so it could be undone by a later accession decision, and the downside was bounded because the national IRIS-T programme already existed independently (one-system project approved August 2024, programme agreement with Germany signed September 2024, BTA, 15 October)."
+    },
+    "design": {
+      "score": 1,
+      "why": "The Ministry of Defence is the obvious owner, but no written instrument, capability-gap assessment, milestone or review attached to the refusal is documented, and the only correction path in the record came from outside the decision - an MP's question that produced the cost position on 14 October (BTA and Mediapool)."
+    },
+    "candour": {
+      "score": 3,
+      "why": "The decision-maker's later public account is accurate on the facts the dossiers test: at the 14 October hearing he put the second project's mandatory contribution at EUR 220,000 a year over three years and confirmed Bulgaria had not taken part 'from 2025 until now' (BTA and Mediapool, 14 October; fact-check C-02-22 rates the 220,000 claim true, C-02-21 and C-02-27 rate the refusal true), and no dossier records him misdescribing the refusal."
+    }
+  },
+  "grade": "defensible",
+  "unknowns": [
+    "The full cost comparison between joining the NATO programme and the national alternative (brief) - this is why alternatives is scored from an absence of evidence, and the grade is capped at defensible.",
+    "Whether the ministry had any assessment of the capability gap on 11 September 2026 (brief) - the same gap that keeps design at 1.",
+    "What the alliance's timeline required, i.e. whether non-participation risked missing an entry window (brief).",
+    "Whether the 11 September refusal had any formal standing - a written position versus an oral answer in parliamentary control (evidence, open questions).",
+    "The full cost comparison is also undocumented on the decision side: no published decision text quantifies the EUR 220,000, which rests on ministerial statements rather than a budget annex (evidence, open questions)."
+  ],
+  "sensitivity": "If the record showed the minister kept justifying the refusal on affordability after he had the EUR 220,000 figure - that is, a misdescription of the decision - candour would fall from 3 to 1, taking the average to 1.67 and the grade from defensible to weak; no single fact could lift it to sound, which would require information and design both at 2 or more plus four dimensions at 3."
+}

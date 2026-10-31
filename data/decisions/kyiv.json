@@ -1,0 +1,87 @@
+{
+ "slug": "kyiv",
+ "title": "Kyiv security agreement",
+ "date": "2026-03-30",
+ "actor": "caretaker government of Andrey Gyurov",
+ "type": "international instrument (non-treaty)",
+ "dimensions": {
+  "information": {
+   "score": 2,
+   "assessors": [
+    2,
+    2
+   ],
+   "why": "The cabinet signed with the full text in hand and published an explainer the dossiers confirm is accurate — the instrument sits outside the 1969 Vienna Convention, creates only 'political commitments' and leaves Belene implementation to national law and parliamentary decisions (evidence item 3) — but it signed a ten-year instrument twenty days before the 19 April 2026 election while the mandate question its own predecessor had raised on 18 December 2024 remained unresolved (evidence items 11-12), and the brief records that the legal advice the caretaker government received is unknown."
+  },
+  "authority": {
+   "score": 2,
+   "assessors": [
+    2,
+    2
+   ],
+   "why": "Speaker Kiselova ruled on 19 December 2024 that signing fell within the government's competence and that the cabinet had already authorised the Prime Minister (evidence item 12), and the instrument is expressly outside the Law on International Treaties, so the act was formally within executive power; but the same office had sought a specific National Assembly mandate citing the Constitutional Court's case law on caretaker governments (evidence item 11), no mandate was ever voted, and a ten-year commitment was signed by a caretaker cabinet twenty days before an election."
+  },
+  "alternatives": {
+   "score": 2,
+   "assessors": [
+    2,
+    1
+   ],
+   "why": "The only documented alternative course is the one the government itself took in December 2024 — asking the National Assembly for a mandate — which Speaker Kiselova refused to table on competence grounds (evidence items 11-12); no other option (deferral to the post-election parliament, a narrower instrument) is documented as proposed, so the evidence does not establish that a better option was available and this score rests on an evidence gap rather than on the decision-maker having weighed and rejected a superior one.",
+   "adjudication": "B scored 1 on the view that the mandate route was available and not taken; A scored 2 for absence of a documented rejected option. Kept at 2: the route existed, but no deliberation record shows it was weighed."
+  },
+  "reversibility": {
+   "score": 2,
+   "assessors": [
+    2,
+    2
+   ],
+   "why": "The text enters into force on signature and runs ten years, and no termination, review or withdrawal clause is documented in the record of the signed 20-page text (evidence item 3), so the state's declared posture is fixed for a decade; the downside is nonetheless bounded rather than severe because the agreement is expressly non-binding, contains no ratification clause, has no enforcement machinery, and gates Belene and any implementing contract behind national law and parliamentary decisions (evidence items 3-5)."
+  },
+  "design": {
+   "score": 2,
+   "assessors": [
+    2,
+    1
+   ],
+   "why": "There is an implementation channel and an owner of sorts — authorised institutions 'may conclude implementing and technical agreements' — plus a built-in correction gate in that implementation must follow national law and parliamentary decisions and the Belene sale rests with parliament (evidence items 3-5); but no milestones, reporting, monitoring or review mechanism appears anywhere for a ten-year commitment, which is the gap that keeps this below 3.",
+   "adjudication": "B scored 1 for the absence of milestones; A scored 2 for the implementation channel. Kept at 2, with the missing review mechanism recorded as a weakness."
+  },
+  "candour": {
+   "score": 2,
+   "assessors": [
+    2,
+    1
+   ],
+   "why": "In the 29 October 2026 BNT debate Gyurov's central characterisations were rated accurate — 'framework agreement' true (C-03-23), 'not a single binding sentence' mostly true (C-04-34) and 'nowhere does the agreement provide for Bulgarian soldiers to go to Ukraine' true (C-03-25) — but he asserted that 'each of those contracts is subject to ratification by the National Assembly', which the dossier rates mixed because the text contains no such clause (C-03-24), and his 'the speaker returned it' framing is his own characterisation of Kiselova's refusal to table, for which no letter was located (evidence item 12, open questions).",
+   "adjudication": "B scored 1, A scored 2. Kept at 2: the substance was described accurately (no soldiers, no binding sentence), while the ratification claim and 'discussed in parliament' were not."
+  }
+ },
+ "grade": "defensible",
+ "outcome": "too_early",
+ "outcome_basis": "Ten-year instrument, implementation pending; no outcome can yet be attributed to it.",
+ "cell": "not yet scorable",
+ "sensitivity": "If the Assembly had voted a mandate before signature, authority, information and alternatives would each rise and the grade would be sound; if an implementing contract had already been signed without any parliamentary step, candour and design would fall to 1 and the grade to weak.",
+ "unknowns": [
+  "Candour is inherently retrospective: the decision could not be scored on its author's contemporaneous account, which is not in the record, and is judged instead from the 29 October 2026 debate dossiers, as the method requires.",
+  "No documented alternative option with a stated rationale exists in the record, which is why 'alternatives' is scored from an evidence gap (2) rather than as a discarded superior option.",
+  "The agreement's legal effect is contested — Sofia calls it non-binding political commitments, Kyiv's Presidential Office described it as fixing 'clear obligations' — and no court ruling or authoritative legal opinion settles it.",
+  "The instrument's legal effect is contested: Sofia calls it a non-binding political act outside the Vienna Convention while Kyiv's Presidential Office described it as fixing 'clear obligations', and no court ruling or authoritative legal opinion settles it (evidence open questions).",
+  "What legal advice the caretaker government received on the instrument's status and on the need for ratification — not documented, so authority and information are assessed on the instrument's face and the speaker's stated position only.",
+  "What legal advice the caretaker government received on the instrument's status and on whether a parliamentary mandate was required (brief).",
+  "What options the government actually weighed before signing, and why it chose the eve of an election — no deliberation record appears in the evidence.",
+  "Whether a formal speaker's letter 'returning' the agreement exists and what it said — the documented act is Kiselova's 19 December 2024 refusal to table the mandate request (evidence open questions).",
+  "Whether a formal speaker's letter 'returning' the document exists: the evidence records only Kiselova's refusal to table the mandate request, so Gyurov's 'sent back' account cannot be verified against a text.",
+  "Whether any implementing or technical agreements had been signed by the debate date, and whether any of them required ratification (brief; evidence open questions).",
+  "Whether any implementing or technical agreements had been signed by the debate date, and whether any of them required ratification — not established, which limits the design and reversibility assessment.",
+  "Whether the National Assembly was in session on 30 March 2026 (brief; C-03-13 is unverified because no session calendar for that date was located) — so whether a mandate could have been sought at the time of signature cannot be established.",
+  "Whether the National Assembly was in session on 30 March 2026 — unresolved in the brief, and it bears on whether a mandate vote was practically available.",
+  "Whether the Verkhovna Rada ratified the agreement was not established (evidence open questions).",
+  "Whether the Verkhovna Rada ratified the agreement was not established."
+ ],
+ "assessor_agreement": {
+  "dimensions_compared": 6,
+  "differing_by_1": 3,
+  "differing_by_2plus": 0
+ }
+}

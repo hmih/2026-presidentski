@@ -1,0 +1,83 @@
+{
+ "slug": "nato-drone",
+ "title": "Refusal to join the NATO counter-drone programme",
+ "date": "2026-09-11",
+ "actor": "Ministry of Defence",
+ "type": "capability / alliance posture",
+ "dimensions": {
+  "information": {
+   "score": 1,
+   "assessors": [
+    1,
+    1
+   ],
+   "why": "On 11 September 2026 the minister refused on the ground that joining would 'scatter the ministry's limited financial resources' without any documented price for joining - the EUR 220,000 annual contribution was only reported on 14 October ('Получихме информация колко е вноската', Mediapool, 14 October) - while the brief records as unknown whether any capability-gap assessment existed and the parallel national capability was itself undelivered (first IRIS-T complex expected 32 months after contract signature, БНР, 15 October), against a Black Sea environment that had deteriorated through 2026 (brief)."
+  },
+  "authority": {
+   "score": 2,
+   "assessors": [
+    2,
+    2
+   ],
+   "why": "Declining to join a voluntary programme sits within the defence minister's executive competence and no legal rule was breached, but the refusal was an oral answer in parliamentary control - the evidence could not establish whether it had any formal standing as a written position (evidence, open questions) - so that it was 'properly exercised' is not documented."
+  },
+  "alternatives": {
+   "score": 2,
+   "assessors": [
+    2,
+    2
+   ],
+   "why": "The record establishes no discarded superior option: the brief's known unknowns include the full cost comparison between joining the NATO programme and the national alternative and what the alliance's timeline required, and the only on-table alternative was accession itself at a EUR 220,000 mandatory annual contribution that was not known on 11 September (BTA, 14 October), so this 2 reflects an evidence gap rather than a credited option and the cap applies."
+  },
+  "reversibility": {
+   "score": 3,
+   "assessors": [
+    3,
+    3
+   ],
+   "why": "The decision committed no money and signed no instrument - it was a statement that Bulgaria 'will not join' a USD 40 bln initiative (Mediapool, 11 September) - so it could be undone by a later accession decision, and the downside was bounded because the national IRIS-T programme already existed independently (one-system project approved August 2024, programme agreement with Germany signed September 2024, BTA, 15 October)."
+  },
+  "design": {
+   "score": 1,
+   "assessors": [
+    1,
+    1
+   ],
+   "why": "The Ministry of Defence is the obvious owner, but no written instrument, capability-gap assessment, milestone or review attached to the refusal is documented, and the only correction path in the record came from outside the decision - an MP's question that produced the cost position on 14 October (BTA and Mediapool)."
+  },
+  "candour": {
+   "score": 1,
+   "assessors": [
+    3,
+    1
+   ],
+   "why": "On the fact-check dossiers the stated ground was not the one the minister later gave - having said on 11 September that two parallel initiatives could not be afforded, he told parliament on 14 October that the contribution was EUR 220,000 a year and that at that sum 'we can afford this thing' (C-02-22) - and the government side's claim in the 29 October debate that the documents had been 'submitted' was premature, the cabinet having approved only a draft note the day before the debate (C-02-24, protocol decision 46.32).",
+   "adjudication": "A scored 3, B scored 1 — the only disagreement of more than one point across all 18 dimension scores. Kept at 1: the stated ground shifted between 11 September ('we cannot afford two parallel initiatives') and 14 October ('at EUR 220,000 we can afford this thing'), and the government side's claim that the documents had been 'submitted' was premature, the cabinet approving only a draft note the day before the debate."
+  }
+ },
+ "grade": "weak",
+ "outcome": "mixed",
+ "outcome_basis": "Reversed within six weeks (cabinet 28 October, note 30 October); the capability gap persisted through the period the refusal covered.",
+ "cell": "",
+ "sensitivity": "If a pre-September ministry file showed a costed capability-gap assessment putting the national IRIS-T route at comparable cost, information and alternatives would rise and the grade would flip to defensible.",
+ "unknowns": [
+  "No NATO primary source (nato.int / NSPA) confirming the initiative's official name or Bulgaria's status; 'Drone Edge' (EUR 80 mln, 20 systems, participation since 2025) and the separate low-flying counter-drone memorandum with the EUR 220,000 fee are conflated in much of the coverage, so which programme the 11 September answer concerned is only inferable from the reported wording.",
+  "No account by the minister or the government of why the refusal was made or how it was reviewed; candour is judged from his 11 September and 14 October statements and the 29 October debate interventions.",
+  "The EUR 220,000 annual contribution is documented only through ministerial statements (BTA, BNR, Mediapool), not through a published decision text or budget annex - the 28 October protocol extract names the memorandum and the note but contains no figure.",
+  "The alternatives dimension is scored 2 as neutral because the evidence does not establish a better option either way; a 'defensible' cap applies to unknown dimensions but is moot here.",
+  "The full cost comparison between joining the NATO programme and the national alternative (brief) - this is why alternatives is scored from an absence of evidence, and the grade is capped at defensible.",
+  "The full cost comparison between joining the NATO programme and the national alternative - listed in the brief as a known unknown and absent from the record.",
+  "The full cost comparison is also undocumented on the decision side: no published decision text quantifies the EUR 220,000, which rests on ministerial statements rather than a budget annex (evidence, open questions).",
+  "What the alliance's timeline required of participants - the brief's third known unknown, so the cost of delay cannot be measured.",
+  "What the alliance's timeline required, i.e. whether non-participation risked missing an entry window (brief).",
+  "Whether the 11 September refusal had any formal standing - a written position versus an oral answer in parliamentary control (evidence, open questions).",
+  "Whether the 11 September refusal had formal standing (a written government position) or was only the minister's oral answer in parliamentary control - the evidence explicitly could not establish this.",
+  "Whether the ministry had any assessment of the capability gap on 11 September 2026 (brief) - the same gap that keeps design at 1.",
+  "Whether the ministry had any assessment of the counter-drone capability gap - the brief lists this as a known unknown, and no such document appears in the evidence."
+ ],
+ "assessor_agreement": {
+  "dimensions_compared": 6,
+  "differing_by_1": 0,
+  "differing_by_2plus": 1
+ }
+}

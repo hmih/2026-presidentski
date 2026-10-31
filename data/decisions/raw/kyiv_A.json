@@ -1,0 +1,42 @@
+{
+  "decision": "kyiv",
+  "assessor": "A",
+  "dimensions": {
+    "information": {
+      "score": 2,
+      "why": "The cabinet signed with the full text in hand and published an explainer the dossiers confirm is accurate — the instrument sits outside the 1969 Vienna Convention, creates only 'political commitments' and leaves Belene implementation to national law and parliamentary decisions (evidence item 3) — but it signed a ten-year instrument twenty days before the 19 April 2026 election while the mandate question its own predecessor had raised on 18 December 2024 remained unresolved (evidence items 11-12), and the brief records that the legal advice the caretaker government received is unknown."
+    },
+    "authority": {
+      "score": 2,
+      "why": "Speaker Kiselova ruled on 19 December 2024 that signing fell within the government's competence and that the cabinet had already authorised the Prime Minister (evidence item 12), and the instrument is expressly outside the Law on International Treaties, so the act was formally within executive power; but the same office had sought a specific National Assembly mandate citing the Constitutional Court's case law on caretaker governments (evidence item 11), no mandate was ever voted, and a ten-year commitment was signed by a caretaker cabinet twenty days before an election."
+    },
+    "alternatives": {
+      "score": 2,
+      "why": "The only documented alternative course is the one the government itself took in December 2024 — asking the National Assembly for a mandate — which Speaker Kiselova refused to table on competence grounds (evidence items 11-12); no other option (deferral to the post-election parliament, a narrower instrument) is documented as proposed, so the evidence does not establish that a better option was available and this score rests on an evidence gap rather than on the decision-maker having weighed and rejected a superior one."
+    },
+    "reversibility": {
+      "score": 2,
+      "why": "The text enters into force on signature and runs ten years, and no termination, review or withdrawal clause is documented in the record of the signed 20-page text (evidence item 3), so the state's declared posture is fixed for a decade; the downside is nonetheless bounded rather than severe because the agreement is expressly non-binding, contains no ratification clause, has no enforcement machinery, and gates Belene and any implementing contract behind national law and parliamentary decisions (evidence items 3-5)."
+    },
+    "design": {
+      "score": 2,
+      "why": "There is an implementation channel and an owner of sorts — authorised institutions 'may conclude implementing and technical agreements' — plus a built-in correction gate in that implementation must follow national law and parliamentary decisions and the Belene sale rests with parliament (evidence items 3-5); but no milestones, reporting, monitoring or review mechanism appears anywhere for a ten-year commitment, which is the gap that keeps this below 3."
+    },
+    "candour": {
+      "score": 2,
+      "why": "In the 29 October 2026 BNT debate Gyurov's central characterisations were rated accurate — 'framework agreement' true (C-03-23), 'not a single binding sentence' mostly true (C-04-34) and 'nowhere does the agreement provide for Bulgarian soldiers to go to Ukraine' true (C-03-25) — but he asserted that 'each of those contracts is subject to ratification by the National Assembly', which the dossier rates mixed because the text contains no such clause (C-03-24), and his 'the speaker returned it' framing is his own characterisation of Kiselova's refusal to table, for which no letter was located (evidence item 12, open questions)."
+    }
+  },
+  "grade": "defensible",
+  "unknowns": [
+    "Whether the National Assembly was in session on 30 March 2026 (brief; C-03-13 is unverified because no session calendar for that date was located) — so whether a mandate could have been sought at the time of signature cannot be established.",
+    "What legal advice the caretaker government received on the instrument's status and on whether a parliamentary mandate was required (brief).",
+    "Whether any implementing or technical agreements had been signed by the debate date, and whether any of them required ratification (brief; evidence open questions).",
+    "Whether a formal speaker's letter 'returning' the agreement exists and what it said — the documented act is Kiselova's 19 December 2024 refusal to table the mandate request (evidence open questions).",
+    "The instrument's legal effect is contested: Sofia calls it a non-binding political act outside the Vienna Convention while Kyiv's Presidential Office described it as fixing 'clear obligations', and no court ruling or authoritative legal opinion settles it (evidence open questions).",
+    "Whether the Verkhovna Rada ratified the agreement was not established (evidence open questions).",
+    "No documented alternative option with a stated rationale exists in the record, which is why 'alternatives' is scored from an evidence gap (2) rather than as a discarded superior option.",
+    "Candour is inherently retrospective: the decision could not be scored on its author's contemporaneous account, which is not in the record, and is judged instead from the 29 October 2026 debate dossiers, as the method requires."
+  ],
+  "sensitivity": "If the record showed that an implementing or technical agreement had already been signed without any parliamentary step — the brief's open question — the ratification assurance in C-03-24 would be misleading rather than merely unestablished and design would lose its correction gate, taking candour and design to 1, the average to 1.67 and the grade to weak."
+}

@@ -1,0 +1,82 @@
+{
+ "slug": "botash",
+ "title": "Botash gas agreement",
+ "date": "2023-01-03",
+ "actor": "caretaker government (Donev cabinet), under President Radev",
+ "type": "procurement / long-term commitment",
+ "dimensions": {
+  "information": {
+   "score": 2,
+   "assessors": [
+    2,
+    2
+   ],
+   "why": "The caretaker government acted on the documented emergency — Gazprom Export's 26 April 2022 suspension notice, with deliveries stopped at 07:00 on 27 April 2022 despite April payment having been met (evidence item 6, Bulgargaz primary) — and on the fact that Bulgaria had no long-term non-Russian supply contract (brief), but the record does not show that the fixed 13-year, BGN 1 million/day exposure was analysed before signature, and the brief lists who approved the commercial terms and on what analysis as unknown."
+  },
+  "authority": {
+   "score": 2,
+   "assessors": [
+    2,
+    2
+   ],
+   "why": "The deal was an executive act signed by the CEOs of two state-owned companies under the caretaker cabinet (evidence item 1), formally within executive power, but a 13-year national obligation was concluded without ratification or publication — the only parliamentary act on record is the 19 April 2024 referral to the prosecution and DANS plus a renegotiation mandate (evidence item 8) — and no legal opinion on the ratification question is documented (brief)."
+  },
+  "alternatives": {
+   "score": 2,
+   "assessors": [
+    2,
+    2
+   ],
+   "why": "No alternative capacity or supply option is documented: the brief expressly lists as unknown what capacity or supply contracts were on the table in December 2022–January 2023 and at what price, so the evidence does not establish that a better option existed and the dimension is capped by that gap rather than credited."
+  },
+  "reversibility": {
+   "score": 0,
+   "assessors": [
+    0,
+    1
+   ],
+   "why": "The commitment runs 13 years, 1 January 2023 to 31 December 2035, at about BGN 1 million (EUR 512,000) a day on a take-or-pay basis (evidence items 2, 3 and 5), was negotiated over the Christmas holidays and signed on the first working day of the year (evidence item 1), and is not published or ratified — a one-way door with a very large downside entered in a matter of days.",
+   "adjudication": "A scored 0, B scored 1. Kept at 0: a 13-year take-or-pay commitment to 2035, sealed and unratified, with no documented exit; B's own record cites ~BGN 3 bn exposure on rescission, which supports 0 rather than 1."
+  },
+  "design": {
+   "score": 1,
+   "assessors": [
+    1,
+    1
+   ],
+   "why": "Bulgargaz and the Energy Ministry were the implementing owners, but the contract was classified a commercial secret and never published, with even the parliamentary committee's report withheld (evidence item 7), no monitoring, reporting, review or exit mechanism appears in any account of it, and the only correction path — the National Assembly's 19 April 2024 renegotiation mandate (evidence item 8) — came from outside the decision some 16 months later."
+  },
+  "candour": {
+   "score": 1,
+   "assessors": [
+    1,
+    1
+   ],
+   "why": "The dossiers show the contract was classified a commercial secret and never published and that its political defence in the 2026 debate rests on an explanation the fact-check rates mostly_false — that Petkov and Vasilev 'cut off Russian gas overnight' (evidence item 11; verdict C-03-17) — while the only official cost statement in the record presents the USD 360 million liability as something that 'will not burden the Bulgarian finances' (evidence item 4), so the public account neither sets out the terms nor states the cost."
+  }
+ },
+ "grade": "weak",
+ "outcome": "bad",
+ "outcome_basis": "EUR 512,000/day capacity payments, USD 360 m liability, contract unpublished and unratified; no documented benefit to show for it.",
+ "cell": "deserved failure",
+ "sensitivity": "If the sealed text contained a unilateral termination right at bounded cost, reversibility and design would rise and the average would reach 2.0 — the grade would flip to defensible.",
+ "unknowns": [
+  "No account by the signing ministers or the two chief executives of how the decision was taken appears in the fact-check dossiers; candour is judged from the public defences by political allies and later statements about the liability.",
+  "No contemporaneous official statement by the decision-maker setting out the terms is in the record; candour is judged from the secrecy classification and from later political accounts.",
+  "The contract text is unpublished and secret, so the term, the daily fee, the take-or-pay character and the absence of a termination clause are known only from official statements and leaks, not from the signed instrument.",
+  "The contract text is unpublished, so the take-or-pay character, the indexation clause and the absence of a termination clause are known only from official statements and leaks, not from the signed instrument (evidence open questions).",
+  "What alternative capacity or supply contracts were on the table in December 2022–January 2023, and at what price (brief) — this is why alternatives is scored from an absence of evidence, not from an established better option.",
+  "What alternative capacity or supply contracts were on the table in December 2022–January 2023, and at what price — not documented, so the alternatives dimension cannot be fully assessed.",
+  "Whether any legal opinion addressed the ratification question (brief).",
+  "Whether any legal opinion addressed the ratification question.",
+  "Whether the 13-year term was negotiable (brief).",
+  "Whether the 13-year term was negotiable.",
+  "Who inside the government approved the commercial terms, and on what analysis (brief).",
+  "Who inside the government approved the commercial terms, and on what analysis."
+ ],
+ "assessor_agreement": {
+  "dimensions_compared": 6,
+  "differing_by_1": 1,
+  "differing_by_2plus": 0
+ }
+}

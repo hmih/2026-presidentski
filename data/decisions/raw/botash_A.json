@@ -1,0 +1,40 @@
+{
+  "decision": "botash",
+  "assessor": "A",
+  "dimensions": {
+    "information": {
+      "score": 2,
+      "why": "The caretaker government acted on the documented emergency — Gazprom Export's 26 April 2022 suspension notice, with deliveries stopped at 07:00 on 27 April 2022 despite April payment having been met (evidence item 6, Bulgargaz primary) — and on the fact that Bulgaria had no long-term non-Russian supply contract (brief), but the record does not show that the fixed 13-year, BGN 1 million/day exposure was analysed before signature, and the brief lists who approved the commercial terms and on what analysis as unknown."
+    },
+    "authority": {
+      "score": 2,
+      "why": "The deal was an executive act signed by the CEOs of two state-owned companies under the caretaker cabinet (evidence item 1), formally within executive power, but a 13-year national obligation was concluded without ratification or publication — the only parliamentary act on record is the 19 April 2024 referral to the prosecution and DANS plus a renegotiation mandate (evidence item 8) — and no legal opinion on the ratification question is documented (brief)."
+    },
+    "alternatives": {
+      "score": 2,
+      "why": "No alternative capacity or supply option is documented: the brief expressly lists as unknown what capacity or supply contracts were on the table in December 2022–January 2023 and at what price, so the evidence does not establish that a better option existed and the dimension is capped by that gap rather than credited."
+    },
+    "reversibility": {
+      "score": 0,
+      "why": "The commitment runs 13 years, 1 January 2023 to 31 December 2035, at about BGN 1 million (EUR 512,000) a day on a take-or-pay basis (evidence items 2, 3 and 5), was negotiated over the Christmas holidays and signed on the first working day of the year (evidence item 1), and is not published or ratified — a one-way door with a very large downside entered in a matter of days."
+    },
+    "design": {
+      "score": 1,
+      "why": "Bulgargaz and the Energy Ministry were the implementing owners, but the contract was classified a commercial secret and never published, with even the parliamentary committee's report withheld (evidence item 7), no monitoring, reporting, review or exit mechanism appears in any account of it, and the only correction path — the National Assembly's 19 April 2024 renegotiation mandate (evidence item 8) — came from outside the decision some 16 months later."
+    },
+    "candour": {
+      "score": 1,
+      "why": "The dossiers show the contract was classified a commercial secret and never published and that its political defence in the 2026 debate rests on an explanation the fact-check rates mostly_false — that Petkov and Vasilev 'cut off Russian gas overnight' (evidence item 11; verdict C-03-17) — while the only official cost statement in the record presents the USD 360 million liability as something that 'will not burden the Bulgarian finances' (evidence item 4), so the public account neither sets out the terms nor states the cost."
+    }
+  },
+  "grade": "weak",
+  "unknowns": [
+    "What alternative capacity or supply contracts were on the table in December 2022–January 2023, and at what price (brief) — this is why alternatives is scored from an absence of evidence, not from an established better option.",
+    "Whether the 13-year term was negotiable (brief).",
+    "Who inside the government approved the commercial terms, and on what analysis (brief).",
+    "Whether any legal opinion addressed the ratification question (brief).",
+    "The contract text is unpublished, so the take-or-pay character, the indexation clause and the absence of a termination clause are known only from official statements and leaks, not from the signed instrument (evidence open questions).",
+    "No contemporaneous official statement by the decision-maker setting out the terms is in the record; candour is judged from the secrecy classification and from later political accounts."
+  ],
+  "sensitivity": "If the signed contract were documented to contain a termination or review clause with a bounded exit cost, reversibility would rise from 0 to 3 and design from 1 to 2, taking the average to 2.0 and the grade to defensible; nothing in the brief indicates such a clause exists."
+}

@@ -1,0 +1,41 @@
+{
+  "decision": "kyiv",
+  "assessor": "B",
+  "dimensions": {
+    "information": {
+      "score": 2,
+      "why": "The caretaker government held the operative facts and used them: its own predecessor had written to the National Assembly on 18 December 2024 seeking a specific mandate for a ten-year agreement, Speaker Kiselova refused to table it on 19 December 2024 on the ground that signing fell within government competence, and the government's own explainer of 31 March 2026 states the instrument creates no legally binding obligations \u2014 but the record contains no legal advice on the instrument's status or on whether a ten-year security alignment needed a mandate, which the brief lists as a known unknown, so the information base is documented but not fully analysed."
+    },
+    "authority": {
+      "score": 2,
+      "why": "The signature was formally open to the caretaker executive \u2014 the text places itself outside the 1969 Vienna Convention and the Law on International Treaties, creates only 'political commitments', and the Speaker had held in December 2024 that signing lay with the government, which had authorised its PM \u2014 but no National Assembly ever voted a mandate (Kiselova later wrote that the 51st Assembly 'did not give a mandate'), the government's own 2024 request conceded 'in the spirit of parliamentary government' that a ten-year framework warranted one, and the instrument was signed 20 days before the 19 April 2026 election with no documented legal opinion, so the power was exercised on a contested, self-serving reading of competence rather than on a clearly followed procedure."
+    },
+    "alternatives": {
+      "score": 1,
+      "why": "A documented and less contestable route was available and not taken: the mandate the government itself requested on 18 December 2024 was never put to a vote, and signature could have been left to the government elected three weeks later, yet the brief and evidence record no deliberation weighing either course before the 30 March 2026 signing \u2014 no evidence establishes that a better option was rejected for a stated reason, but neither does it establish that none existed."
+    },
+    "reversibility": {
+      "score": 2,
+      "why": "Undoing it is legally soft: the text places itself outside the Vienna Convention, creates only 'political commitments', has no ratification clause, and its one asset reference is a 'potential sale' of Belene equipment that Gyurov said rests with parliament, so the downside is bounded \u2014 but a ten-year term with no exit provision in the record, signed twenty days before an election, makes withdrawal a visible political rupture rather than a routine step, so the door is heavy even if it is not one-way."
+    },
+    "design": {
+      "score": 1,
+      "why": "Implementation is assigned only to unnamed 'authorised institutions of the parties' that 'may conclude implementing and technical agreements', with no milestones, no review date, no monitoring body, no termination mechanism and no named owner in the record, and the Council of Ministers' explainer simply says implementation depends on national law and parliamentary decisions \u2014 a correction path exists in the abstract but no mechanism was designed to use it."
+    },
+    "candour": {
+      "score": 1,
+      "why": "The later public account was materially inaccurate on the two contested points: Gyurov told the 29 October 2026 BNT debate that the agreement 'was discussed in parliament and sent back' when the dossiers show only a December 2024 mandate request the speaker declined to table and no parliamentary discussion (C-03-07, 'mixed'), and that 'every one of these contracts is subject to ratification by the National Assembly' when the signed text contains no ratification clause at all (C-03-24, 'mixed'), while his accurate statements that no Bulgarian soldiers would be sent (C-03-25, true) and that the text contains no binding sentence (C-04-34, mostly true) show the record is not uniformly misleading."
+    }
+  },
+  "grade": "weak",
+  "unknowns": [
+    "Whether the National Assembly was in session on 30 March 2026 \u2014 unresolved in the brief, and it bears on whether a mandate vote was practically available.",
+    "What legal advice the caretaker government received on the instrument's status and on the need for ratification \u2014 not documented, so authority and information are assessed on the instrument's face and the speaker's stated position only.",
+    "Whether any implementing or technical agreements had been signed by the debate date, and whether any of them required ratification \u2014 not established, which limits the design and reversibility assessment.",
+    "Whether a formal speaker's letter 'returning' the document exists: the evidence records only Kiselova's refusal to table the mandate request, so Gyurov's 'sent back' account cannot be verified against a text.",
+    "The agreement's legal effect is contested \u2014 Sofia calls it non-binding political commitments, Kyiv's Presidential Office described it as fixing 'clear obligations' \u2014 and no court ruling or authoritative legal opinion settles it.",
+    "Whether the Verkhovna Rada ratified the agreement was not established.",
+    "What options the government actually weighed before signing, and why it chose the eve of an election \u2014 no deliberation record appears in the evidence."
+  ],
+  "sensitivity": "If the National Assembly had voted a mandate authorising the signature before 30 March 2026, authority, information and alternatives would each rise to 3 and the average would clear 2.0, flipping the grade from weak to defensible."
+}
