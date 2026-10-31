@@ -65,6 +65,14 @@ was citing. Eleven flags across 170 dossiers — 9 against Iotova, 2 against Gyu
   process“, „14 inquiries answered“) — 54 dossiers in total sit at `unverified`, each naming
   what would settle it.
 
+## Source durability
+
+130 evidence items, 35 (27%) with a Wayback snapshot recorded. Most sources are from
+September-October 2026 and simply have no archived copy yet; the links are live and the
+snapshot field says so rather than implying permanence. Primary documents (the signed
+agreement, the Constitutional Court decision) are the strongest anchor and are quoted
+verbatim in the dossiers.
+
 ## Fairness rules applied
 
 1. Steelmanned every claim before testing it; several verdicts are lenient because of it

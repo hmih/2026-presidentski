@@ -1574,7 +1574,7 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 
 - Конституционен съд на Република България — Дело № 15/2026 г., Решение № 17 от 20.10.2026 г. (диспозитив) (2026-10-20) — https://www.constcourt.bg/bg/case-728
 - БТА (прессъобщение на Конституционния съд) — „Конституционният съд се произнесе с решение по конституционно дело №15/2026 г.“ (2026-10-20) — https://www.bta.bg/bg/news/bulgaria/oficial-messages/1228820-konstitutsionniyat-sad-se-proiznese-s-reshenie-po-konstitutsionno-delo-15-2026-
-- Focus News — „Голяма промяна за работещите на непълно работно време: По-малко отпуск и по-бавно трупане на трудов стаж“ (2026-08-01) — https://www.focus-news.net/novini/Bylgaria/Golyama-promyana-za-raboteshtite-na-nepulno-rabotno-vreme-Po-malko-otpusk-i-po-bavno-trupane-na-trudov-stazh-3003863
+- Focus News — „Голяма промяна за работещите на непълно работно време: По-малко отпуск и по-бавно трупане на трудов стаж“ (2026-08-01) — https://www.focus-news.net/novini/Bylgaria/Golyama-promyana-za-raboteshtite-na-nepulno-rabotno-vreme-Po-malko-otpusk-i-po-bavno-trupane-na-trudov-stazh-3003863 — archived: http://web.archive.org/web/20260802095928/https://www.focus-news.net/novini/Bylgaria/Golyama-promyana-za-raboteshtite-na-nepulno-rabotno-vreme-Po-malko-otpusk-i-po-bavno-trupane-na-trudov-stazh-3003863
 
 ### C-05-23 — unverified
 
@@ -1597,7 +1597,7 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 
 **Finding:** From 1 January 2027 length of service was to be counted by actual hours worked, so a permanent half-time worker would accrue ten days of paid leave instead of twenty. The provision was struck down, but it was in the bill.
 
-- Focus News — „Голяма промяна за работещите на непълно работно време: По-малко отпуск и по-бавно трупане на трудов стаж“ (2026-08-01) — https://www.focus-news.net/novini/Bylgaria/Golyama-promyana-za-raboteshtite-na-nepulno-rabotno-vreme-Po-malko-otpusk-i-po-bavno-trupane-na-trudov-stazh-3003863
+- Focus News — „Голяма промяна за работещите на непълно работно време: По-малко отпуск и по-бавно трупане на трудов стаж“ (2026-08-01) — https://www.focus-news.net/novini/Bylgaria/Golyama-promyana-za-raboteshtite-na-nepulno-rabotno-vreme-Po-malko-otpusk-i-po-bavno-trupane-na-trudov-stazh-3003863 — archived: http://web.archive.org/web/20260802095928/https://www.focus-news.net/novini/Bylgaria/Golyama-promyana-za-raboteshtite-na-nepulno-rabotno-vreme-Po-malko-otpusk-i-po-bavno-trupane-na-trudov-stazh-3003863
 
 ### C-05-27 — unverified
 
@@ -1649,7 +1649,7 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 
 **Finding:** The bill contained a provision that halved paid-leave accrual for part-time workers; that is a cut to a labour right, and the Constitutional Court later removed it.
 
-- Focus News — „Голяма промяна за работещите на непълно работно време: По-малко отпуск и по-бавно трупане на трудов стаж“ (2026-08-01) — https://www.focus-news.net/novini/Bylgaria/Golyama-promyana-za-raboteshtite-na-nepulno-rabotno-vreme-Po-malko-otpusk-i-po-bavno-trupane-na-trudov-stazh-3003863
+- Focus News — „Голяма промяна за работещите на непълно работно време: По-малко отпуск и по-бавно трупане на трудов стаж“ (2026-08-01) — https://www.focus-news.net/novini/Bylgaria/Golyama-promyana-za-raboteshtite-na-nepulno-rabotno-vreme-Po-malko-otpusk-i-po-bavno-trupane-na-trudov-stazh-3003863 — archived: http://web.archive.org/web/20260802095928/https://www.focus-news.net/novini/Bylgaria/Golyama-promyana-za-raboteshtite-na-nepulno-rabotno-vreme-Po-malko-otpusk-i-po-bavno-trupane-na-trudov-stazh-3003863
 - Конституционен съд на Република България — Дело № 15/2026 г., Решение № 17 от 20.10.2026 г. (диспозитив) (2026-10-20) — https://www.constcourt.bg/bg/case-728
 - **Deception:** misdirection
 - *Note:* Denies the content of a provision that existed.
@@ -1664,7 +1664,7 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 
 **Finding:** The contested transitional provision concerned counting length of service by hours worked, which affects holidays and hourly employment.
 
-- Focus News — „Голяма промяна за работещите на непълно работно време: По-малко отпуск и по-бавно трупане на трудов стаж“ (2026-08-01) — https://www.focus-news.net/novini/Bylgaria/Golyama-promyana-za-raboteshtite-na-nepulno-rabotno-vreme-Po-malko-otpusk-i-po-bavno-trupane-na-trudov-stazh-3003863
+- Focus News — „Голяма промяна за работещите на непълно работно време: По-малко отпуск и по-бавно трупане на трудов стаж“ (2026-08-01) — https://www.focus-news.net/novini/Bylgaria/Golyama-promyana-za-raboteshtite-na-nepulno-rabotno-vreme-Po-malko-otpusk-i-po-bavno-trupane-na-trudov-stazh-3003863 — archived: http://web.archive.org/web/20260802095928/https://www.focus-news.net/novini/Bylgaria/Golyama-promyana-za-raboteshtite-na-nepulno-rabotno-vreme-Po-malko-otpusk-i-po-bavno-trupane-na-trudov-stazh-3003863
 
 ### C-05-32 — true
 
@@ -1688,7 +1688,7 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 
 **Finding:** The struck provision would have reduced leave accrual for exactly those groups; the characterisation is rhetorical but the incidence is documented.
 
-- Focus News — „Голяма промяна за работещите на непълно работно време: По-малко отпуск и по-бавно трупане на трудов стаж“ (2026-08-01) — https://www.focus-news.net/novini/Bylgaria/Golyama-promyana-za-raboteshtite-na-nepulno-rabotno-vreme-Po-malko-otpusk-i-po-bavno-trupane-na-trudov-stazh-3003863
+- Focus News — „Голяма промяна за работещите на непълно работно време: По-малко отпуск и по-бавно трупане на трудов стаж“ (2026-08-01) — https://www.focus-news.net/novini/Bylgaria/Golyama-promyana-za-raboteshtite-na-nepulno-rabotno-vreme-Po-malko-otpusk-i-po-bavno-trupane-na-trudov-stazh-3003863 — archived: http://web.archive.org/web/20260802095928/https://www.focus-news.net/novini/Bylgaria/Golyama-promyana-za-raboteshtite-na-nepulno-rabotno-vreme-Po-malko-otpusk-i-po-bavno-trupane-na-trudov-stazh-3003863
 
 ### C-05-34 — true
 
@@ -1800,7 +1800,7 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 **Finding:** 168 chasa, working from the plan sent to the European Commission, reports 'nearly EUR 2 billion' of additional revenue and itemises it, including an EUR 800 m one-off windfall tax. Sega puts the total effect of new measures at EUR 988 m. The cabinet denies 'new taxes' altogether. The figure is defensible on one reading and roughly double another.
 
 - 168 Часа — „Нови данъци, по-високи осигуровки и контрол за още 2 млрд. евро (Графика)“ (2026-10-17) — https://www.168chasa.bg/article/23749657
-- Сега — „Бюджет 2027 - по-високи данъци и едва 988 млн. евро повече приходи“ (2026-10-16) — https://www.segabg.com/hot/category-economy/byudzhet-2027-po-visoki-danuci-i-edva-988-mln-evro-poveche-prihodi
+- Сега — „Бюджет 2027 - по-високи данъци и едва 988 млн. евро повече приходи“ (2026-10-16) — https://www.segabg.com/hot/category-economy/byudzhet-2027-po-visoki-danuci-i-edva-988-mln-evro-poveche-prihodi — archived: http://web.archive.org/web/20261023091232/https://www.segabg.com/hot/category-economy/byudzhet-2027-po-visoki-danuci-i-edva-988-mln-evro-poveche-prihodi
 - Министерски съвет — „Румен Радев: Бюджет 2027 не предлага лесни решения, но задава посока към разумно управление на публичните средства и инвестиции в хората“ (2026-10-14) — https://www.government.bg/bg/prestsentar/novini/rumen-radev-byudzhet-2027-ne-predlaga-lesni-resheniya-no-zadava-posoka-kam-razumno-upravlenie-na-publichnite-sredstva-i-investitsii-v-horata — archived: http://web.archive.org/web/20261015115347/https://government.bg/bg/prestsentar/novini/rumen-radev-byudzhet-2027-ne-predlaga-lesni-resheniya-no-zadava-posoka-kam-razumno-upravlenie-na-publichnite-sredstva-i-investitsii-v-horata
 - *Note:* The dispute is partly definitional: revenue measures versus net burden.
 
@@ -2139,7 +2139,7 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 
 **Finding:** The presidency released only pseudonymised initials, so the turnover could not be verified.
 
-- Капитал - "Президентът И.М.Й. се консултира за помилванията с Л.П.Р, Ю.Д.Б., И.Д.Б., В.Й.К. и М.М.Г." (2026-10-20) — https://www.capital.bg/politika_i_ikonomika/pravo/2026/10/20/4968313_prezidentut_imi_se_konsultira_za_pomilvaniiata_s_lpr/
+- Капитал - "Президентът И.М.Й. се консултира за помилванията с Л.П.Р, Ю.Д.Б., И.Д.Б., В.Й.К. и М.М.Г." (2026-10-20) — https://www.capital.bg/politika_i_ikonomika/pravo/2026/10/20/4968313_prezidentut_imi_se_konsultira_za_pomilvaniiata_s_lpr/ — archived: http://web.archive.org/web/20261021034924/https://www.capital.bg/politika_i_ikonomika/pravo/2026/10/20/4968313_prezidentut_imi_se_konsultira_za_pomilvaniiata_s_lpr/
 
 ### C-07-31 — true
 
@@ -2151,7 +2151,7 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 
 **Finding:** The Pardon Commission is a distinct advisory body; the medical commission is a separate statutory body under the penal sanctions act.
 
-- Капитал - "Президентът И.М.Й. се консултира за помилванията с Л.П.Р, Ю.Д.Б., И.Д.Б., В.Й.К. и М.М.Г." (2026-10-20) — https://www.capital.bg/politika_i_ikonomika/pravo/2026/10/20/4968313_prezidentut_imi_se_konsultira_za_pomilvaniiata_s_lpr/
+- Капитал - "Президентът И.М.Й. се консултира за помилванията с Л.П.Р, Ю.Д.Б., И.Д.Б., В.Й.К. и М.М.Г." (2026-10-20) — https://www.capital.bg/politika_i_ikonomika/pravo/2026/10/20/4968313_prezidentut_imi_se_konsultira_za_pomilvaniiata_s_lpr/ — archived: http://web.archive.org/web/20261021034924/https://www.capital.bg/politika_i_ikonomika/pravo/2026/10/20/4968313_prezidentut_imi_se_konsultira_za_pomilvaniiata_s_lpr/
 - Сега - "Излязоха още скандални факти за помилването на Петричкия Ескобар" (2026-10-30) — https://www.segabg.com/hot/category-bulgaria/izlyazoha-oshte-skandalni-fakti-za-pomilvaneto-na-petrichkiya-eskobar
 
 ### C-07-32 — partly

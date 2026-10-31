@@ -1,114 +1,114 @@
 {
-  "cluster": "nato-drone",
-  "items": [
-    {
-      "statement": "Primary record of the decision: by protocol decision 46.32 of its sitting of 28 October 2026 the Council of Ministers approved the Memorandum of Understanding on air-defence capabilities against low-flying air threats between the defence ministries of Belgium, Denmark, Finland, Greece, Romania, Sweden and Turkey, and approved a DRAFT note of accession by Bulgaria's Defence Ministry as a basis for negotiations. It authorised the defence minister to negotiate and sign the note subject to subsequent ratification, with a declaration that the note enters into force only when the NATO Office of Legal Affairs is notified that Bulgaria's internal legal procedures are complete. So on 28 October - the day before the debate - the note existed only as an approved draft and had not been signed or transmitted.",
-      "quote": "3. Упълномощава министъра на отбраната да проведе преговори и да подпише нотата по т. 2 при условие за последваща ратификация, със следното изявление: „Тази Нота за присъединяване ще влезе в сила от деня на уведомяване на правната служба на НАТО (NATO Office of Legal Affairs) за изпълнението на българските вътрешноправни процедури, изискващи се за влизането ѝ в сила.“",
-      "source": "Council of Ministers (Republic of Bulgaria), portal strategy.bg - Протоколно решение №46.32/2026, extract from Protocol No. 46 of the sitting of 28 October 2026 (item 32), submitted by the Ministry of Defence",
-      "url": "https://www.strategy.bg/bg/pris/legal-information/protokolni-reseniia/171370",
-      "archive": "",
-      "date": "2026-10-28",
-      "reliability": "primary"
-    },
-    {
-      "statement": "Documents the refusal. On 11 September 2026, during parliamentary control, Defence Minister Dimitar Stoyanov said Bulgaria would not join NATO's counter-drone initiative because it already runs a similar EU project and could not afford two parallel initiatives; he was answering Democratic Bulgaria MP Atanas Slavov about NATO's USD 40 bln initiative (20 member states, 5 years, a counter-drone marketplace). This is the origin of the 'Bulgaria refused' claim later used in the debate.",
-      "quote": "България няма да се е включи в антидрон инициативата на НАТО, тъй като вече изпълнява сходен проект по линия на ЕС и това би разпиляло ограничените финансови възможности на Министерството на отбраната",
-      "source": "Mediapool - „България няма да се включи в антидрон инициативата на НАТО“",
-      "url": "https://www.mediapool.bg/bulgaria/bulgaria-nyama-da-se-vklyuchi-v-antidron-initsiativata-na-nato/",
-      "archive": "",
-      "date": "2026-09-11",
-      "reliability": "secondary"
-    },
-    {
-      "statement": "Wire confirmation that the 220,000 euro figure is the government's own: at the 14 October 2026 parliamentary hearing Stoyanov said the second project requires a mandatory annual contribution of EUR 220,000 over three years and that Bulgaria expected to be part of it by 30 October. The same hearing establishes that Bulgaria was ALREADY in NATO's Drone Edge initiative, with EUR 80 mln committed through SAFE for 20 systems (10 mobile, 10 stationary) and an expected memorandum with Spain.",
-      "quote": "The project requires a mandatory annual contribution of EUR 220,000 and will run for three years. Bulgaria will prepare an application to join the initiative. The country is expected to become part of the project by October 30, the Defence Minister added.",
-      "source": "Bulgarian News Agency (BTA), English service - „Bulgaria Has Committed EUR 80 Mln to NATO's Drone Edge Initiative“ (UPDATED)",
-      "url": "https://www.bta.bg/en/news/1224235-bulgaria-has-committed-eur-80-mln-to-nato-s-drone-edge-initiative",
-      "archive": "",
-      "date": "2026-10-14",
-      "reliability": "secondary"
-    },
-    {
-      "statement": "Verbatim Stoyanov statement giving the figure and the timeline, and admitting Bulgaria had not taken part 'from 2025 until now'. Mediapool's own framing is that the ministry 'found' the 220,000 euro only after the Black Sea drone strikes. This is the direct source of the number Gurov later quoted in the debate.",
-      "quote": "Получихме информация колко е вноската, и тя е 220 000 евро на година. Въпреки всичко оценките, които ние от Министерството на отбраната е, че при тази сума ние можем да го позволим това нещо и България ще бъде част от този проект в най-скоро време. Очакванията са към 30.10. ние вече да бъдем част от проекта",
-      "source": "Mediapool - „След ударите в Черно море: MO „намери“ 220 хил. евро и България влиза в антидрон инициатива на НАТО“",
-      "url": "https://www.mediapool.bg/bulgaria/sled-udarite-v-cherno-more-mo-nameri-220-hil-evro-i-bulgaria-vliza-v-antidron-initsiativa-na-nato/",
-      "archive": "",
-      "date": "2026-10-14",
-      "reliability": "secondary"
-    },
-    {
-      "statement": "Shows the state of play on the eve of the debate: on 28 October 2026 the Council of Ministers adopted the accession decision 'subject to subsequent ratification', and Bulgaria ON AIR explicitly notes that this does not by itself provide for immediate deployment of new counter-drone systems. The same sitting approved joining a France-Denmark framework agreement for 32 VL MICA missiles for the navy - evidence of parallel air-defence participation.",
-      "quote": "Присъединяването е предвидено при условията на последваща ратификация. Това означава, че решението само по себе си не осигурява незабавно разполагане на нови системи за защита от дронове.",
-      "source": "Bulgaria ON AIR - „МС с решения за отбраната: Защита от дронове и освобождаване на Ефтимов“",
-      "url": "https://www.bgonair.bg/a/2-bulgaria/434952-ms-s-resheniya-za-otbranata-zashtita-ot-dronove-i-osvobozhdavane-na-eftimov",
-      "archive": "",
-      "date": "2026-10-28",
-      "reliability": "secondary"
-    },
-    {
-      "statement": "State wire record of the debate (BNT, 29 October 2026): Gurov attacked the refusal to join a NATO system promptly and cited a quoted price of EUR 220,000. BTA's English report says only 'a NATO system' and does not name the initiative, so it cannot by itself establish which programme Gurov meant.",
-      "quote": "Gurov criticized Bulgaria's refusal to join a NATO system promptly, saying a price of EUR 220,000 had been quoted.",
-      "source": "Bulgarian News Agency (BTA), English service - „Presidential Candidate Gurov Criticizes Defence Response and BOTAS Deal“",
-      "url": "https://www.bta.bg/en/news/1235979-presidential-candidate-gurov-criticizes-defence-response-and-botas-deal",
-      "archive": "",
-      "date": "2026-10-29",
-      "reliability": "secondary"
-    },
-    {
-      "statement": "The key exchange, with both sides' exact words. Gurov named NATO's 'Drone Edge' as the initiative 'where Bulgaria refused to join' - but Drone Edge is precisely the initiative Bulgaria had been participating in since 2025 with EUR 80 mln committed (see the 14 October BTA item); the refusal of 11 September concerned the separate low-flying counter-drone memorandum with the 220,000 euro fee. Yotova's rebuttal - that the government 'submitted the documents' and that Bulgaria takes part in other systems 'such as IRIS-T' - was itself premature on 29 October: the Council of Ministers had approved only a draft note on 28 October and the minister signed it on 30 October.",
-      "quote": "Това е абсолютно невярно, правителството подаде документите за участие в тази програма. Имаше изявление колко ще струва на България, въпреки това записахме участие. Има още много други системи, в които участваме - като системата IRIS-Т",
-      "source": "Bulgaria ON AIR - „Йотова и Гюров в спор за Русия и Украйна: Ще изпращаме ли войници и кой ще разговаря с Путин“",
-      "url": "https://www.bgonair.bg/a/227-izbori-2026/435083-yotova-i-gyurov-v-spor-za-rusiya-i-ukrayna-shte-izprashtame-li-voynitsi-i-koy-shte-razgovarya-s-putin",
-      "archive": "",
-      "date": "2026-10-29",
-      "reliability": "secondary"
-    },
-    {
-      "statement": "Establishes when Bulgaria actually joined. Defence Minister Stoyanov signed the note of accession on Friday 30 October 2026 - one day AFTER the 29 October debate. The Council of Ministers had approved accession earlier that week; the project lasts three years with a mandatory EUR 220,000 annual contribution; the note must still go to the National Assembly for ratification.",
-      "quote": "The Council of Ministers approved Bulgaria's accession to the international initiative earlier this week. The project has a duration of three years and requires a mandatory annual contribution of EUR 220,000. The note is to be submitted to the National Assembly for ratification.",
-      "source": "Bulgarian News Agency (BTA), English service - „Bulgaria Moves to Join NATO Initiative against Low-Flying Aerial Threats“",
-      "url": "https://www.bta.bg/en/news/bulgaria/1236538-bulgaria-moves-to-join-nato-initiative-against-low-flying-aerial-threats",
-      "archive": "",
-      "date": "2026-10-30",
-      "reliability": "secondary"
-    },
-    {
-      "statement": "Independent (public broadcaster) confirmation of the same signature and that accession was not yet complete: the note was signed 'today' (30 October 2026) and was still to be sent to the National Assembly for ratification. As of 31 October 2026 no ratification vote was found.",
-      "quote": "Министърът на отбраната Димитър Стоянов подписа днес Нота за присъединяване на България към инициативата на НАТО за развитие на способности за противодействие на нисколетящи въздушни заплахи.",
-      "source": "БНР (Радио България) - „България се включва в инициативата на НАТО за противодействие на дронове“",
-      "url": "https://bnrnews.bg/radiobulgaria/post/550684/balgariya-se-vklyuchva-v-initsiativata-na-nato-za-protivodeystvie-na-dronove",
-      "archive": "",
-      "date": "2026-10-30",
-      "reliability": "secondary"
-    },
-    {
-      "statement": "Documents Bulgarian participation in IRIS-T, i.e. that Yotova's 'we take part in other systems such as IRIS-T' is substantiated: on 15 October 2026 Parliament approved an updated air-defence investment project - the revised first stage for one IRIS-T SLM (contract value cut from EUR 182,114,311 to EUR 180,605,928) plus a second stage for five more, combined EUR 1,106,466,933 under the SAFE instrument, implemented through a programme agreement with Germany and an addendum to the Diehl Defence supply contract; Bulgaria approved the original one-system project in August 2024 and signed the joint-procurement programme agreement with Germany in September 2024 under the European Sky Shield Initiative.",
-      "quote": "The two stages, financed under the Security Action for Europe (SAFE) instrument, have a combined value of EUR 1,106,466,933.",
-      "source": "Bulgarian News Agency (BTA), English service - „Parliament Approves Project for Five More Air Defence Systems“",
-      "url": "https://www.bta.bg/en/news/bulgaria/1225231-parliament-approves-project-for-five-more-air-defence-systems",
-      "archive": "http://web.archive.org/web/20261015104623/https://www.bta.bg/en/news/bulgaria/1225231-parliament-approves-project-for-five-more-air-defence-systems",
-      "date": "2026-10-15",
-      "reliability": "secondary"
-    },
-    {
-      "statement": "Stoyanov explicitly linked the IRIS-T purchase to counter-drone acquisition, telling Parliament that Bulgaria will procure anti-drone systems inside the accompanying contract so that every IRIS-T complex has one; the first complex is expected 32 months after contract signature and the SAFE-funded project totals close to EUR 1.14 bn. This supports the substance of Yotova's point that Bulgaria does participate in other air-defence/counter-drone efforts, while confirming those capabilities are not yet delivered.",
-      "quote": "За това дали трябва да купуваме антидрон системи и да насочим част от проектите, ние ще предприемем инициатива за придобиване в рамките и на този проект, в съпътстващия договор, на антидрон системи и идеята е всеки един комплекс да има такава система",
-      "source": "БНР Програма Хоризонт - „НС одобри придобиването на още пет зенитно-ракетни комплекса IRIS-T“",
-      "url": "https://bnrnews.bg/horizont/post/542478/parlamentat-odobri-pridobivaneto-na-oshte-pet-zenitno-raketni-kompleksa-iris-t",
-      "archive": "",
-      "date": "2026-10-15",
-      "reliability": "secondary"
-    }
-  ],
-  "open_questions": [
-    "No archive.org snapshots could be obtained for 10 of the 11 pages: Wayback's availability API returned HTTP 429 (rate limit) on most requests and empty snapshot sets for the 29-30 October pages, which are only one to two days old. Only the BTA IRIS-T article has a snapshot, so the rest are live-only URLs and may rot.",
-    "No BNT transcript, video or official debate record was retrievable, so the exact wording of the drone exchange rests on two independent news renderings (BTA and Bulgaria ON AIR) which differ in an important detail: BTA says Gurov criticised 'a NATO system' without naming it, while Bulgaria ON AIR quotes him naming 'Drone Edge'. Whether he named Drone Edge on air can only be settled from the broadcast itself.",
-    "No published decision text quantifies the EUR 220,000: the Council of Ministers protocol extract (28 October) names the memorandum and the note but contains no figure. The 220,000 euro annual contribution is documented only through ministerial statements reported by BTA, BNR and Mediapool, not through a published budget or decision annex.",
-    "No National Assembly ratification of the accession and no notification to the NATO Office of Legal Affairs was found as of 31 October 2026, so under the terms of the 28 October decision Bulgaria's accession was not yet legally in force - only signed and sent for ratification.",
-    "No NATO primary source (nato.int / NSPA) was retrieved confirming the initiative's official name or Bulgaria's status; the label 'Drone Edge' for the separate EUR 80 mln / 20-system project rests on BTA and Mediapool reporting of Stoyanov's words, and the two programmes are frequently conflated in coverage.",
-    "The OFFNews article on the debate (offnews.bg) returned HTTP 403 behind a Cloudflare challenge and could not be read; it is therefore excluded rather than cited.",
-    "Whether the 11 September refusal had any formal standing (a written position versus an oral answer in parliamentary control) could not be established; only the oral answer is documented."
-  ],
-  "notes": "This cluster is solid, and unusually well anchored for a two-day-old event, because the decisive document is primary: the Council of Ministers' protocol decision 46.32 of 28 October 2026 (published 30 October on strategy.bg) fixes the memorandum's exact title and seven co-signatory states and shows the note was still a draft awaiting negotiation and signature on the day before the debate. Combined with BTA's and BNR's 30 October reports of the signature and the 11 September and 14 October parliamentary statements, the chronology is documented rather than asserted: refusal on 11 September, reversal and the 220,000 euro figure on 14 October (the figure is the defence minister's own, later adopted by Gurov in the debate), cabinet approval of a draft note on 28 October, note signed 30 October, ratification still pending on 31 October. The weak points are (a) that Gurov appears to have named the wrong initiative - Drone Edge is the programme Bulgaria had been in since 2025 with EUR 80 mln committed, while the refusal concerned the separate low-flying counter-drone memorandum - a distinction BTA's English report blurs and only Bulgaria ON AIR preserves verbatim; (b) that Yotova's rebuttal that the government had 'submitted the documents' was premature on 29 October, since only the draft had been approved; and (c) that both the 220,000 figure and the 80 mln figure rest on ministerial statements rather than published budget documents. Bulgarian participation in other systems is independently corroborated (IRIS-T SLM: one plus five more, EUR 1.106 bn under SAFE, Diehl/Germany/ESSI, plus 32 VL MICA missiles), so Yotova's broader point stands even though her timeline claim does not. Everything here is secondary reporting except the single strategy.bg primary item, and no source is a debate transcript, so any verbatim quotation of the candidates should be attributed to the outlet that printed it."
+ "cluster": "nato-drone",
+ "items": [
+  {
+   "statement": "Primary record of the decision: by protocol decision 46.32 of its sitting of 28 October 2026 the Council of Ministers approved the Memorandum of Understanding on air-defence capabilities against low-flying air threats between the defence ministries of Belgium, Denmark, Finland, Greece, Romania, Sweden and Turkey, and approved a DRAFT note of accession by Bulgaria's Defence Ministry as a basis for negotiations. It authorised the defence minister to negotiate and sign the note subject to subsequent ratification, with a declaration that the note enters into force only when the NATO Office of Legal Affairs is notified that Bulgaria's internal legal procedures are complete. So on 28 October - the day before the debate - the note existed only as an approved draft and had not been signed or transmitted.",
+   "quote": "3. Упълномощава министъра на отбраната да проведе преговори и да подпише нотата по т. 2 при условие за последваща ратификация, със следното изявление: „Тази Нота за присъединяване ще влезе в сила от деня на уведомяване на правната служба на НАТО (NATO Office of Legal Affairs) за изпълнението на българските вътрешноправни процедури, изискващи се за влизането ѝ в сила.“",
+   "source": "Council of Ministers (Republic of Bulgaria), portal strategy.bg - Протоколно решение №46.32/2026, extract from Protocol No. 46 of the sitting of 28 October 2026 (item 32), submitted by the Ministry of Defence",
+   "url": "https://www.strategy.bg/bg/pris/legal-information/protokolni-reseniia/171370",
+   "archive": "",
+   "date": "2026-10-28",
+   "reliability": "primary"
+  },
+  {
+   "statement": "Documents the refusal. On 11 September 2026, during parliamentary control, Defence Minister Dimitar Stoyanov said Bulgaria would not join NATO's counter-drone initiative because it already runs a similar EU project and could not afford two parallel initiatives; he was answering Democratic Bulgaria MP Atanas Slavov about NATO's USD 40 bln initiative (20 member states, 5 years, a counter-drone marketplace). This is the origin of the 'Bulgaria refused' claim later used in the debate.",
+   "quote": "България няма да се е включи в антидрон инициативата на НАТО, тъй като вече изпълнява сходен проект по линия на ЕС и това би разпиляло ограничените финансови възможности на Министерството на отбраната",
+   "source": "Mediapool - „България няма да се включи в антидрон инициативата на НАТО“",
+   "url": "https://www.mediapool.bg/bulgaria/bulgaria-nyama-da-se-vklyuchi-v-antidron-initsiativata-na-nato/",
+   "archive": "",
+   "date": "2026-09-11",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "Wire confirmation that the 220,000 euro figure is the government's own: at the 14 October 2026 parliamentary hearing Stoyanov said the second project requires a mandatory annual contribution of EUR 220,000 over three years and that Bulgaria expected to be part of it by 30 October. The same hearing establishes that Bulgaria was ALREADY in NATO's Drone Edge initiative, with EUR 80 mln committed through SAFE for 20 systems (10 mobile, 10 stationary) and an expected memorandum with Spain.",
+   "quote": "The project requires a mandatory annual contribution of EUR 220,000 and will run for three years. Bulgaria will prepare an application to join the initiative. The country is expected to become part of the project by October 30, the Defence Minister added.",
+   "source": "Bulgarian News Agency (BTA), English service - „Bulgaria Has Committed EUR 80 Mln to NATO's Drone Edge Initiative“ (UPDATED)",
+   "url": "https://www.bta.bg/en/news/1224235-bulgaria-has-committed-eur-80-mln-to-nato-s-drone-edge-initiative",
+   "archive": "",
+   "date": "2026-10-14",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "Verbatim Stoyanov statement giving the figure and the timeline, and admitting Bulgaria had not taken part 'from 2025 until now'. Mediapool's own framing is that the ministry 'found' the 220,000 euro only after the Black Sea drone strikes. This is the direct source of the number Gurov later quoted in the debate.",
+   "quote": "Получихме информация колко е вноската, и тя е 220 000 евро на година. Въпреки всичко оценките, които ние от Министерството на отбраната е, че при тази сума ние можем да го позволим това нещо и България ще бъде част от този проект в най-скоро време. Очакванията са към 30.10. ние вече да бъдем част от проекта",
+   "source": "Mediapool - „След ударите в Черно море: MO „намери“ 220 хил. евро и България влиза в антидрон инициатива на НАТО“",
+   "url": "https://www.mediapool.bg/bulgaria/sled-udarite-v-cherno-more-mo-nameri-220-hil-evro-i-bulgaria-vliza-v-antidron-initsiativa-na-nato/",
+   "archive": "",
+   "date": "2026-10-14",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "Shows the state of play on the eve of the debate: on 28 October 2026 the Council of Ministers adopted the accession decision 'subject to subsequent ratification', and Bulgaria ON AIR explicitly notes that this does not by itself provide for immediate deployment of new counter-drone systems. The same sitting approved joining a France-Denmark framework agreement for 32 VL MICA missiles for the navy - evidence of parallel air-defence participation.",
+   "quote": "Присъединяването е предвидено при условията на последваща ратификация. Това означава, че решението само по себе си не осигурява незабавно разполагане на нови системи за защита от дронове.",
+   "source": "Bulgaria ON AIR - „МС с решения за отбраната: Защита от дронове и освобождаване на Ефтимов“",
+   "url": "https://www.bgonair.bg/a/2-bulgaria/434952-ms-s-resheniya-za-otbranata-zashtita-ot-dronove-i-osvobozhdavane-na-eftimov",
+   "archive": "",
+   "date": "2026-10-28",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "State wire record of the debate (BNT, 29 October 2026): Gurov attacked the refusal to join a NATO system promptly and cited a quoted price of EUR 220,000. BTA's English report says only 'a NATO system' and does not name the initiative, so it cannot by itself establish which programme Gurov meant.",
+   "quote": "Gurov criticized Bulgaria's refusal to join a NATO system promptly, saying a price of EUR 220,000 had been quoted.",
+   "source": "Bulgarian News Agency (BTA), English service - „Presidential Candidate Gurov Criticizes Defence Response and BOTAS Deal“",
+   "url": "https://www.bta.bg/en/news/1235979-presidential-candidate-gurov-criticizes-defence-response-and-botas-deal",
+   "archive": "",
+   "date": "2026-10-29",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "The key exchange, with both sides' exact words. Gurov named NATO's 'Drone Edge' as the initiative 'where Bulgaria refused to join' - but Drone Edge is precisely the initiative Bulgaria had been participating in since 2025 with EUR 80 mln committed (see the 14 October BTA item); the refusal of 11 September concerned the separate low-flying counter-drone memorandum with the 220,000 euro fee. Yotova's rebuttal - that the government 'submitted the documents' and that Bulgaria takes part in other systems 'such as IRIS-T' - was itself premature on 29 October: the Council of Ministers had approved only a draft note on 28 October and the minister signed it on 30 October.",
+   "quote": "Това е абсолютно невярно, правителството подаде документите за участие в тази програма. Имаше изявление колко ще струва на България, въпреки това записахме участие. Има още много други системи, в които участваме - като системата IRIS-Т",
+   "source": "Bulgaria ON AIR - „Йотова и Гюров в спор за Русия и Украйна: Ще изпращаме ли войници и кой ще разговаря с Путин“",
+   "url": "https://www.bgonair.bg/a/227-izbori-2026/435083-yotova-i-gyurov-v-spor-za-rusiya-i-ukrayna-shte-izprashtame-li-voynitsi-i-koy-shte-razgovarya-s-putin",
+   "archive": "",
+   "date": "2026-10-29",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "Establishes when Bulgaria actually joined. Defence Minister Stoyanov signed the note of accession on Friday 30 October 2026 - one day AFTER the 29 October debate. The Council of Ministers had approved accession earlier that week; the project lasts three years with a mandatory EUR 220,000 annual contribution; the note must still go to the National Assembly for ratification.",
+   "quote": "The Council of Ministers approved Bulgaria's accession to the international initiative earlier this week. The project has a duration of three years and requires a mandatory annual contribution of EUR 220,000. The note is to be submitted to the National Assembly for ratification.",
+   "source": "Bulgarian News Agency (BTA), English service - „Bulgaria Moves to Join NATO Initiative against Low-Flying Aerial Threats“",
+   "url": "https://www.bta.bg/en/news/bulgaria/1236538-bulgaria-moves-to-join-nato-initiative-against-low-flying-aerial-threats",
+   "archive": "",
+   "date": "2026-10-30",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "Independent (public broadcaster) confirmation of the same signature and that accession was not yet complete: the note was signed 'today' (30 October 2026) and was still to be sent to the National Assembly for ratification. As of 31 October 2026 no ratification vote was found.",
+   "quote": "Министърът на отбраната Димитър Стоянов подписа днес Нота за присъединяване на България към инициативата на НАТО за развитие на способности за противодействие на нисколетящи въздушни заплахи.",
+   "source": "БНР (Радио България) - „България се включва в инициативата на НАТО за противодействие на дронове“",
+   "url": "https://bnrnews.bg/radiobulgaria/post/550684/balgariya-se-vklyuchva-v-initsiativata-na-nato-za-protivodeystvie-na-dronove",
+   "archive": "",
+   "date": "2026-10-30",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "Documents Bulgarian participation in IRIS-T, i.e. that Yotova's 'we take part in other systems such as IRIS-T' is substantiated: on 15 October 2026 Parliament approved an updated air-defence investment project - the revised first stage for one IRIS-T SLM (contract value cut from EUR 182,114,311 to EUR 180,605,928) plus a second stage for five more, combined EUR 1,106,466,933 under the SAFE instrument, implemented through a programme agreement with Germany and an addendum to the Diehl Defence supply contract; Bulgaria approved the original one-system project in August 2024 and signed the joint-procurement programme agreement with Germany in September 2024 under the European Sky Shield Initiative.",
+   "quote": "The two stages, financed under the Security Action for Europe (SAFE) instrument, have a combined value of EUR 1,106,466,933.",
+   "source": "Bulgarian News Agency (BTA), English service - „Parliament Approves Project for Five More Air Defence Systems“",
+   "url": "https://www.bta.bg/en/news/bulgaria/1225231-parliament-approves-project-for-five-more-air-defence-systems",
+   "archive": "http://web.archive.org/web/20261015104623/https://www.bta.bg/en/news/bulgaria/1225231-parliament-approves-project-for-five-more-air-defence-systems",
+   "date": "2026-10-15",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "Stoyanov explicitly linked the IRIS-T purchase to counter-drone acquisition, telling Parliament that Bulgaria will procure anti-drone systems inside the accompanying contract so that every IRIS-T complex has one; the first complex is expected 32 months after contract signature and the SAFE-funded project totals close to EUR 1.14 bn. This supports the substance of Yotova's point that Bulgaria does participate in other air-defence/counter-drone efforts, while confirming those capabilities are not yet delivered.",
+   "quote": "За това дали трябва да купуваме антидрон системи и да насочим част от проектите, ние ще предприемем инициатива за придобиване в рамките и на този проект, в съпътстващия договор, на антидрон системи и идеята е всеки един комплекс да има такава система",
+   "source": "БНР Програма Хоризонт - „НС одобри придобиването на още пет зенитно-ракетни комплекса IRIS-T“",
+   "url": "https://bnrnews.bg/horizont/post/542478/parlamentat-odobri-pridobivaneto-na-oshte-pet-zenitno-raketni-kompleksa-iris-t",
+   "archive": "",
+   "date": "2026-10-15",
+   "reliability": "secondary"
+  }
+ ],
+ "open_questions": [
+  "No archive.org snapshots could be obtained for 10 of the 11 pages: Wayback's availability API returned HTTP 429 (rate limit) on most requests and empty snapshot sets for the 29-30 October pages, which are only one to two days old. Only the BTA IRIS-T article has a snapshot, so the rest are live-only URLs and may rot.",
+  "No BNT transcript, video or official debate record was retrievable, so the exact wording of the drone exchange rests on two independent news renderings (BTA and Bulgaria ON AIR) which differ in an important detail: BTA says Gurov criticised 'a NATO system' without naming it, while Bulgaria ON AIR quotes him naming 'Drone Edge'. Whether he named Drone Edge on air can only be settled from the broadcast itself.",
+  "No published decision text quantifies the EUR 220,000: the Council of Ministers protocol extract (28 October) names the memorandum and the note but contains no figure. The 220,000 euro annual contribution is documented only through ministerial statements reported by BTA, BNR and Mediapool, not through a published budget or decision annex.",
+  "No National Assembly ratification of the accession and no notification to the NATO Office of Legal Affairs was found as of 31 October 2026, so under the terms of the 28 October decision Bulgaria's accession was not yet legally in force - only signed and sent for ratification.",
+  "No NATO primary source (nato.int / NSPA) was retrieved confirming the initiative's official name or Bulgaria's status; the label 'Drone Edge' for the separate EUR 80 mln / 20-system project rests on BTA and Mediapool reporting of Stoyanov's words, and the two programmes are frequently conflated in coverage.",
+  "The OFFNews article on the debate (offnews.bg) returned HTTP 403 behind a Cloudflare challenge and could not be read; it is therefore excluded rather than cited.",
+  "Whether the 11 September refusal had any formal standing (a written position versus an oral answer in parliamentary control) could not be established; only the oral answer is documented."
+ ],
+ "notes": "This cluster is solid, and unusually well anchored for a two-day-old event, because the decisive document is primary: the Council of Ministers' protocol decision 46.32 of 28 October 2026 (published 30 October on strategy.bg) fixes the memorandum's exact title and seven co-signatory states and shows the note was still a draft awaiting negotiation and signature on the day before the debate. Combined with BTA's and BNR's 30 October reports of the signature and the 11 September and 14 October parliamentary statements, the chronology is documented rather than asserted: refusal on 11 September, reversal and the 220,000 euro figure on 14 October (the figure is the defence minister's own, later adopted by Gurov in the debate), cabinet approval of a draft note on 28 October, note signed 30 October, ratification still pending on 31 October. The weak points are (a) that Gurov appears to have named the wrong initiative - Drone Edge is the programme Bulgaria had been in since 2025 with EUR 80 mln committed, while the refusal concerned the separate low-flying counter-drone memorandum - a distinction BTA's English report blurs and only Bulgaria ON AIR preserves verbatim; (b) that Yotova's rebuttal that the government had 'submitted the documents' was premature on 29 October, since only the draft had been approved; and (c) that both the 220,000 figure and the 80 mln figure rest on ministerial statements rather than published budget documents. Bulgarian participation in other systems is independently corroborated (IRIS-T SLM: one plus five more, EUR 1.106 bn under SAFE, Diehl/Germany/ESSI, plus 32 VL MICA missiles), so Yotova's broader point stands even though her timeline claim does not. Everything here is secondary reporting except the single strategy.bg primary item, and no source is a debate transcript, so any verbatim quotation of the candidates should be attributed to the outlet that printed it."
 }

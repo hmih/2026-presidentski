@@ -1,123 +1,123 @@
 {
-  "cluster": "economy-series",
-  "items": [
-    {
-      "statement": "NSI monthly CPI data for 2026 show annual inflation of 3.5% in January, 3.3% in February, 4.1% in March, 6.8% in April, 6.9% in May, 5.4% in June and 4.5% in July; the 2026 annual peak was May (6.9%) and the monthly peak was April (1.8%), both while Gyurov's caretaker cabinet was in office, while the 2026 low so far was February (3.3%), when that cabinet was only just taking office (19 February).",
-      "quote": "Справка в НСИ сочи, че през юни месечната инфлация беше минус 0,9 на сто, а годишната – 5,4 на сто, за май съответно – нулева, и 6,9 на сто, за април – 1,8 на сто, и 6,8 на сто, за март – 0,9 на сто, и 4,1 на сто, за февруари – 0,4 на сто, и 3,3 на сто. Годината започна с месечната инфлация от 0,6 на сто и годишна – 3,5 на сто.",
-      "source": "БТА (BTA), „Годишната инфлация в България се забавя до 4,5 на сто през юли, сочат данни на НСИ“",
-      "url": "https://www.bta.bg/bg/news/economy/bg/1186653-godishnata-inflatsiya-v-balgariya-se-zabavya-do-4-5-na-sto-prez-yuli-sochat-dan",
-      "archive": "",
-      "date": "2026-08-17",
-      "reliability": "secondary"
-    },
-    {
-      "statement": "DW's live fact-check establishes that Gyurov's caretaker cabinet governed from 19 February to 8 May 2026 and that the highest annual CPI readings in 2026 were May (6.9%) and April (6.8%); it also notes that the post-2022 inflation peak was September 2022 at 18.7%, far above any 2026 reading.",
-      "quote": "Служебното правителство на Андрей Гюров управлява от 19 февруари до 8 май 2026 г. За цялата 2026 година по наличните до момента данни на Националния статистически институт (НСИ) най-висока е била инфлацията на годишна база през месеците май (6,9%) и април (6,8%).",
-      "source": "Deutsche Welle (DW) България, „Йотова срещу Гюров: проверяваме твърденията им в дебата на живо“",
-      "url": "https://www.dw.com/bg/jotova-sresu-gurov-proveravame-tvrdeniata-im-v-debata-na-zivo/live-79802377",
-      "archive": "",
-      "date": "2026-10-30",
-      "reliability": "secondary"
-    },
-    {
-      "statement": "Final NSI data reported for September 2026 show monthly CPI of -0.2% and annual CPI of 5.7%, up from 5.1% in August and the highest annual rate since May; HICP was flat on the month and 5.6% year on year. Inflation was therefore rising again at the end of the campaign, not at a 2026 low.",
-      "quote": "Месечната инфлация през септември се сви с 0,2% спрямо август, а годишната инфлация се ускори до 5,7% от 5,1% месец по-рано, достигайки най-високо ниво от месец май насам, показват възходящо ревизирани данни на Националния статистически институт.",
-      "source": "БНР Новини (BNR), „НСИ: Годишната инфлация у нас се ускори през септември до 5,7%“",
-      "url": "https://bnrnews.bg/main/post/541834/nsi-godishnata-inflatsiya-u-nas-se-uskori-prez-septemvri-do-57percent",
-      "archive": "",
-      "date": "2026-10-14",
-      "reliability": "secondary"
-    },
-    {
-      "statement": "NSI's Q2 2026 wage release puts the average gross monthly wage at EUR 1,444 and shows it rising 9.8% year on year, far above the 5.4% annual CPI in June 2026; on this aggregate measure real wages and purchasing power were still rising, not falling for the first time.",
-      "quote": "Спрямо второто тримесечие на 2025 г. средната месечна работна заплата нараства с 9.8%, като най-голямо e увеличението в следните икономически дейности: „Добивна промишленост“ - с 24.0%, „Селско, горско и рибно стопанство“ - с 19.5%, и „Други дейности“ - с 15.7%.",
-      "source": "Национален статистически институт (НСИ), „Наети лица и средна работна заплата - II тримесечие 2026 година“",
-      "url": "https://www.nsi.bg/index.php/press-release/naeti-lica-i-sredna-rabotna-zaplata-9113",
-      "archive": "",
-      "date": "2026-08-12",
-      "reliability": "primary"
-    },
-    {
-      "statement": "Speaking on 14 May 2026, PM Radev said food-price growth and 'the declining purchasing power of Bulgarian citizens' required measures, showing that the 'purchasing power is falling' framing was used by the government itself; the statement contains no statistical claim that this was the first such decline in 2026.",
-      "quote": "Продължаващият ръст на цените на хранителните стоки и намаляващата покупателна способност на българските граждани се превръщат в истинско предизвикателство, което изисква адекватни и навременни мерки.",
-      "source": "Plovdiv24.bg, „Премиерът Румен Радев: Покупателната способност на българите намалява“",
-      "url": "https://www.plovdiv24.bg/novini/Bylgaria/Premierut-Rumen-Radev-Pokupatelnata-sposobnost-na-bulgarite-namalyava-2965861",
-      "archive": "",
-      "date": "2026-05-14",
-      "reliability": "secondary"
-    },
-    {
-      "statement": "NSI's Q2 2026 preliminary employment data put total employment at 3,661.77 thousand, with 621.61 thousand in industry (B_E) and 1,002.24 thousand in trade, transport, storage, posts and hotels/restaurants (G_I); together that is 1,623.85 thousand, or 44.3% of all employed, consistent with the 'four in ten' claim, though G_I includes hospitality.",
-      "quote": "ЗАЕТИ ЛИЦА\n(хиляди)\nПоказатели\nНоменклатура А10\nИкономически дейности\nВторо тримесечие 2026*\nЗаети лица\nОбщо за икономиката\n3 661.77\nA\nСелско, горско и рибно стопанство\n486.59\nB_E\nДобивна промишленост; преработваща промишленост; производство и разпределение на електрическа и топлинна енергия и на газообразни горива; доставяне на води; канализационни услуги, управление на отпадъци и възстановяване\n621.61\nF\nСтроителство\n219.31\nG_I\nТърговия, ремонт на автомобили и мотоциклети; транспорт, складиране и пощи; хотелиерство и ресторантьорство\n1 002.24",
-      "source": "Национален статистически институт (НСИ), „Заети лица - национално ниво“ (Q2 2026 preliminary data)",
-      "url": "https://www.nsi.bg/statistical-data/123/390",
-      "archive": "",
-      "date": "2026-10-20",
-      "reliability": "primary"
-    },
-    {
-      "statement": "A 3 September 2026 report states that Serbia will close its rail link with Bulgaria via Kalotina for 200 days from January (2027), and that Romania intends to close its side of the Ruse-Bucharest line from April for at least six months, matching the debate's 'Kalotina from January, Ruse-Bucharest from April' claim.",
-      "quote": "Сърбия ще затвори за 200 дни железопътната си връзка с България през Калотина от януари догодина. Същото, но от април, възнамерява да направи и Румъния със своята част от линията Русе – Букурещ.",
-      "source": "Днес+ (Dnesplus.bg), „Румъния и Сърбия затварят жп връзките с България за няколко месеца“",
-      "url": "https://dnesplus.bg/es-i-svyat/rumania-i-sarbia-zatvaryat-zhp-vrazkite-s-bulgaria-za-nyakolko-mesetsa_1233865",
-      "archive": "",
-      "date": "2026-09-03",
-      "reliability": "secondary"
-    },
-    {
-      "statement": "The caretaker government created the Crisis Headquarters for coordination of monitoring and control of prices of goods and fuels on 1 April 2026; it was chaired by the prime minister, included seven ministers, and was tasked with collecting price information and proposing and implementing price-control measures.",
-      "quote": "Кризисният щаб ще изисква информация за състоянието и динамиката на цените на стоките и горивата вследствие на конфликта в Близкия изток, както и за разработените мерки за справяне с увеличаването на цените на горивата от междуведомствената работна група, създадена със заповед на министър-председателя. Щабът ще предлага и предприема мерки, свързани с контрол на нарастването на цените на стоките и горивата, както и на други фактори с влияние върху ценообразуването.",
-      "source": "БНТ Новини (BNT), „Кризисен щаб за наблюдение и контрол на цените на стоките и горивата създаде служебният кабинет“",
-      "url": "https://bntnews.bg/news/krizisen-shtab-za-nablyudenie-i-kontrol-na-cenite-na-stokite-i-gorivata-sazdade-sluzhebniyat-kabinet-1386414news.html",
-      "archive": "",
-      "date": "2026-04-01",
-      "reliability": "secondary"
-    },
-    {
-      "statement": "In the debate Gyurov said that inside the price headquarters his team built a mechanism 'based on the traffic light' that set different actions and instruments depending on the crisis and provided predictability, and that they left it for Radev to apply.",
-      "quote": "В щаба за цените направихме механизъм на базата на светофара, който показваше различни действия и механизми в зависимост от кризата, осигуряваше предвидимост. Оставихме го и г-н Радев само трябваше да го приложи.",
-      "source": "168 часа, „Йотова атакува с аргументи, Гюров - не е разочарован, че го е направила служебен премиер“",
-      "url": "https://www.168chasa.bg/article/23832919",
-      "archive": "",
-      "date": "2026-10-29",
-      "reliability": "secondary"
-    },
-    {
-      "statement": "Yotova said in the debate that the price headquarters had been running for a month while people were asking where the state was; in the same exchange she said Radev did not adopt the 'traffic light' mechanism because it produced no results. The HQ was created on 1 April 2026 and Gyurov's cabinet left office on 8 May, about five weeks later.",
-      "quote": "Вие един месец правихте щаб за цените, а хората се питаха какво става и къде е държавата.",
-      "source": "168 часа, „Йотова атакува с аргументи, Гюров - не е разочарован, че го е направила служебен премиер“",
-      "url": "https://www.168chasa.bg/article/23832919",
-      "archive": "",
-      "date": "2026-10-29",
-      "reliability": "secondary"
-    },
-    {
-      "statement": "The EUR 20 fuel compensation was activated in March 2026 after average retail diesel stayed at EUR 1.60/litre for three consecutive days; within 24 hours over 3,500 people had applied, with first payments expected after 15 April and eligibility limited to car owners with average gross income up to EUR 652.41.",
-      "quote": "За по-малко от 24 часа над 3500 души са подали заявление да получат 20 евро като компенсация за поскъпването на горивата. Това показват данните на Агенцията за социално подпомагане (АСП), която ще изплаща средствата на кандидатите, отговарящи на условията да ги получат.\nМярката беше активирана вчера от правителството, след като средната цена на дребно на дизела в страната се задържа на 1,60 евро за литър за трети пореден ден.",
-      "source": "Министерство на труда и социалната политика (МТСП), „За по-малко от 24 часа над 3500 души кандидатстваха за компенсация от 20 евро за поскъпването на горивата“",
-      "url": "https://www.mlsp.government.bg/eng/za-po-malko-ot-24-chasa-nad-3500-dushi-kandidatstvakha-za-kompensatsiya-ot-20-evro-za-poskpvaneto-na-gorivata",
-      "archive": "",
-      "date": "2026-03-26",
-      "reliability": "primary"
-    },
-    {
-      "statement": "By mid-April 2026, 210,934 low-income people were to receive the EUR 20 March fuel compensation: 28,078 of about 50,000 applicants qualified, and more than 182,000 were paid automatically; this is consistent with Yotova's claim that only about 16% of the intended group benefited.",
-      "quote": "210 934 души с ниски доходи ще получат държавна подкрепа под формата на компенсация от 20 евро, свързана с поскъпването на горивата през март.",
-      "source": "Dnes.bg, „Над 200 хиляди са се възползвали от компенсацията за горивата“",
-      "url": "https://www.dnes.bg/a/1-bulgaria/718112-nad-200-hilyadi-sa-se-vazpolzvali-ot-kompensatsiyata-za-gorivata",
-      "archive": "",
-      "date": "2026-04-16",
-      "reliability": "secondary"
-    }
-  ],
-  "open_questions": [
-    "Exact debate wording and sourcing of the claim that purchasing power declined 'for the first time in 2026': no official NSI series reviewed shows a first-time aggregate decline, while a May 2026 wherewework survey reported by Money.bg found three in four employees perceived a decline over the previous 12 months.",
-    "Whether 'highest inflation' means 2026 or all-time: the 2026 peak was May at 6.9%, but September 2022 was 18.7%, so the claim is only true within 2026.",
-    "A full monthly HICP series for 2026 (as distinct from national CPI) was not assembled; July HICP was 4.4% and September 5.6%, suggesting the same shape, but the February HICP low needs confirmation.",
-    "No source found confirming whether the Svetofar mechanism was formally adopted, or whether the price headquarters continued after 8 May 2026; Yotova says it ran one month and that Radev rejected the mechanism, while Gyurov says it was left ready to apply.",
-    "The NSI G_I category includes hotels and restaurants as well as trade and transport, so the exact 'production, trade and transport' share is below 44.3%; the 'four in ten' claim is nonetheless in the right range.",
-    "Rail closures are dated 'from January' and 'from April' in a September 2026 report that says 'next year', i.e. 2027; confirm whether the debate claim referred to 2027 and whether freight is the only affected traffic.",
-    "October 2026 CPI/HICP was not published by 31 October 2026, so no 2026 'lowest' claim can include October."
-  ],
-  "notes": "The debate's inflation attack is only partly supported: Gyurov's caretaker cabinet (19 February-8 May 2026) did contain the 2026 peak of 6.9% in May (and 6.8% in April), but 2026's lowest annual rate was 3.3% in February, before Gyurov took office, so 'lowest in 2026 under Radev' is false; the lowest month under Radev was July at 4.5%, and by September inflation had rebounded to 5.7%. The purchasing-power claim is not borne out at aggregate level: NSI's Q2 2026 average wage rose 9.8% year on year against CPI of about 5%, so real wages were still rising, although Radev himself used 'declining purchasing power' rhetoric in May and a private survey found widespread perceived decline. NSI's Q2 2026 employment table supports the 'four in ten' order of magnitude: industry plus trade/transport/hospitality accounted for 1.62 million of 3.66 million employed (44.3%), with the caveat that the trade/transport category also includes hotels and restaurants. The rail-closure claim is confirmed by a 3 September 2026 report: Serbia closes Kalotina for 200 days from January 2027 and Romania closes Ruse-Bucharest from April 2027 for at least six months. The price headquarters was created on 1 April 2026 and chaired by Gyurov; according to Gyurov it produced a 'traffic light' mechanism setting graduated actions by crisis level, but Yotova says it ran only about a month and that Radev rejected it. The EUR 20 fuel compensation was triggered when diesel stayed at EUR 1.60/litre for three days; over 3,500 applications arrived within 24 hours, about 45,000-50,000 applications were eventually filed, and 210,934 people received the March payment (28,078 of ~50,000 applicants plus over 182,000 automatic payments), roughly consistent with Yotova's 16% uptake figure."
+ "cluster": "economy-series",
+ "items": [
+  {
+   "statement": "NSI monthly CPI data for 2026 show annual inflation of 3.5% in January, 3.3% in February, 4.1% in March, 6.8% in April, 6.9% in May, 5.4% in June and 4.5% in July; the 2026 annual peak was May (6.9%) and the monthly peak was April (1.8%), both while Gyurov's caretaker cabinet was in office, while the 2026 low so far was February (3.3%), when that cabinet was only just taking office (19 February).",
+   "quote": "Справка в НСИ сочи, че през юни месечната инфлация беше минус 0,9 на сто, а годишната – 5,4 на сто, за май съответно – нулева, и 6,9 на сто, за април – 1,8 на сто, и 6,8 на сто, за март – 0,9 на сто, и 4,1 на сто, за февруари – 0,4 на сто, и 3,3 на сто. Годината започна с месечната инфлация от 0,6 на сто и годишна – 3,5 на сто.",
+   "source": "БТА (BTA), „Годишната инфлация в България се забавя до 4,5 на сто през юли, сочат данни на НСИ“",
+   "url": "https://www.bta.bg/bg/news/economy/bg/1186653-godishnata-inflatsiya-v-balgariya-se-zabavya-do-4-5-na-sto-prez-yuli-sochat-dan",
+   "archive": "",
+   "date": "2026-08-17",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "DW's live fact-check establishes that Gyurov's caretaker cabinet governed from 19 February to 8 May 2026 and that the highest annual CPI readings in 2026 were May (6.9%) and April (6.8%); it also notes that the post-2022 inflation peak was September 2022 at 18.7%, far above any 2026 reading.",
+   "quote": "Служебното правителство на Андрей Гюров управлява от 19 февруари до 8 май 2026 г. За цялата 2026 година по наличните до момента данни на Националния статистически институт (НСИ) най-висока е била инфлацията на годишна база през месеците май (6,9%) и април (6,8%).",
+   "source": "Deutsche Welle (DW) България, „Йотова срещу Гюров: проверяваме твърденията им в дебата на живо“",
+   "url": "https://www.dw.com/bg/jotova-sresu-gurov-proveravame-tvrdeniata-im-v-debata-na-zivo/live-79802377",
+   "archive": "",
+   "date": "2026-10-30",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "Final NSI data reported for September 2026 show monthly CPI of -0.2% and annual CPI of 5.7%, up from 5.1% in August and the highest annual rate since May; HICP was flat on the month and 5.6% year on year. Inflation was therefore rising again at the end of the campaign, not at a 2026 low.",
+   "quote": "Месечната инфлация през септември се сви с 0,2% спрямо август, а годишната инфлация се ускори до 5,7% от 5,1% месец по-рано, достигайки най-високо ниво от месец май насам, показват възходящо ревизирани данни на Националния статистически институт.",
+   "source": "БНР Новини (BNR), „НСИ: Годишната инфлация у нас се ускори през септември до 5,7%“",
+   "url": "https://bnrnews.bg/main/post/541834/nsi-godishnata-inflatsiya-u-nas-se-uskori-prez-septemvri-do-57percent",
+   "archive": "",
+   "date": "2026-10-14",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "NSI's Q2 2026 wage release puts the average gross monthly wage at EUR 1,444 and shows it rising 9.8% year on year, far above the 5.4% annual CPI in June 2026; on this aggregate measure real wages and purchasing power were still rising, not falling for the first time.",
+   "quote": "Спрямо второто тримесечие на 2025 г. средната месечна работна заплата нараства с 9.8%, като най-голямо e увеличението в следните икономически дейности: „Добивна промишленост“ - с 24.0%, „Селско, горско и рибно стопанство“ - с 19.5%, и „Други дейности“ - с 15.7%.",
+   "source": "Национален статистически институт (НСИ), „Наети лица и средна работна заплата - II тримесечие 2026 година“",
+   "url": "https://www.nsi.bg/index.php/press-release/naeti-lica-i-sredna-rabotna-zaplata-9113",
+   "archive": "",
+   "date": "2026-08-12",
+   "reliability": "primary"
+  },
+  {
+   "statement": "Speaking on 14 May 2026, PM Radev said food-price growth and 'the declining purchasing power of Bulgarian citizens' required measures, showing that the 'purchasing power is falling' framing was used by the government itself; the statement contains no statistical claim that this was the first such decline in 2026.",
+   "quote": "Продължаващият ръст на цените на хранителните стоки и намаляващата покупателна способност на българските граждани се превръщат в истинско предизвикателство, което изисква адекватни и навременни мерки.",
+   "source": "Plovdiv24.bg, „Премиерът Румен Радев: Покупателната способност на българите намалява“",
+   "url": "https://www.plovdiv24.bg/novini/Bylgaria/Premierut-Rumen-Radev-Pokupatelnata-sposobnost-na-bulgarite-namalyava-2965861",
+   "archive": "",
+   "date": "2026-05-14",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "NSI's Q2 2026 preliminary employment data put total employment at 3,661.77 thousand, with 621.61 thousand in industry (B_E) and 1,002.24 thousand in trade, transport, storage, posts and hotels/restaurants (G_I); together that is 1,623.85 thousand, or 44.3% of all employed, consistent with the 'four in ten' claim, though G_I includes hospitality.",
+   "quote": "ЗАЕТИ ЛИЦА\n(хиляди)\nПоказатели\nНоменклатура А10\nИкономически дейности\nВторо тримесечие 2026*\nЗаети лица\nОбщо за икономиката\n3 661.77\nA\nСелско, горско и рибно стопанство\n486.59\nB_E\nДобивна промишленост; преработваща промишленост; производство и разпределение на електрическа и топлинна енергия и на газообразни горива; доставяне на води; канализационни услуги, управление на отпадъци и възстановяване\n621.61\nF\nСтроителство\n219.31\nG_I\nТърговия, ремонт на автомобили и мотоциклети; транспорт, складиране и пощи; хотелиерство и ресторантьорство\n1 002.24",
+   "source": "Национален статистически институт (НСИ), „Заети лица - национално ниво“ (Q2 2026 preliminary data)",
+   "url": "https://www.nsi.bg/statistical-data/123/390",
+   "archive": "",
+   "date": "2026-10-20",
+   "reliability": "primary"
+  },
+  {
+   "statement": "A 3 September 2026 report states that Serbia will close its rail link with Bulgaria via Kalotina for 200 days from January (2027), and that Romania intends to close its side of the Ruse-Bucharest line from April for at least six months, matching the debate's 'Kalotina from January, Ruse-Bucharest from April' claim.",
+   "quote": "Сърбия ще затвори за 200 дни железопътната си връзка с България през Калотина от януари догодина. Същото, но от април, възнамерява да направи и Румъния със своята част от линията Русе – Букурещ.",
+   "source": "Днес+ (Dnesplus.bg), „Румъния и Сърбия затварят жп връзките с България за няколко месеца“",
+   "url": "https://dnesplus.bg/es-i-svyat/rumania-i-sarbia-zatvaryat-zhp-vrazkite-s-bulgaria-za-nyakolko-mesetsa_1233865",
+   "archive": "",
+   "date": "2026-09-03",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "The caretaker government created the Crisis Headquarters for coordination of monitoring and control of prices of goods and fuels on 1 April 2026; it was chaired by the prime minister, included seven ministers, and was tasked with collecting price information and proposing and implementing price-control measures.",
+   "quote": "Кризисният щаб ще изисква информация за състоянието и динамиката на цените на стоките и горивата вследствие на конфликта в Близкия изток, както и за разработените мерки за справяне с увеличаването на цените на горивата от междуведомствената работна група, създадена със заповед на министър-председателя. Щабът ще предлага и предприема мерки, свързани с контрол на нарастването на цените на стоките и горивата, както и на други фактори с влияние върху ценообразуването.",
+   "source": "БНТ Новини (BNT), „Кризисен щаб за наблюдение и контрол на цените на стоките и горивата създаде служебният кабинет“",
+   "url": "https://bntnews.bg/news/krizisen-shtab-za-nablyudenie-i-kontrol-na-cenite-na-stokite-i-gorivata-sazdade-sluzhebniyat-kabinet-1386414news.html",
+   "archive": "",
+   "date": "2026-04-01",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "In the debate Gyurov said that inside the price headquarters his team built a mechanism 'based on the traffic light' that set different actions and instruments depending on the crisis and provided predictability, and that they left it for Radev to apply.",
+   "quote": "В щаба за цените направихме механизъм на базата на светофара, който показваше различни действия и механизми в зависимост от кризата, осигуряваше предвидимост. Оставихме го и г-н Радев само трябваше да го приложи.",
+   "source": "168 часа, „Йотова атакува с аргументи, Гюров - не е разочарован, че го е направила служебен премиер“",
+   "url": "https://www.168chasa.bg/article/23832919",
+   "archive": "",
+   "date": "2026-10-29",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "Yotova said in the debate that the price headquarters had been running for a month while people were asking where the state was; in the same exchange she said Radev did not adopt the 'traffic light' mechanism because it produced no results. The HQ was created on 1 April 2026 and Gyurov's cabinet left office on 8 May, about five weeks later.",
+   "quote": "Вие един месец правихте щаб за цените, а хората се питаха какво става и къде е държавата.",
+   "source": "168 часа, „Йотова атакува с аргументи, Гюров - не е разочарован, че го е направила служебен премиер“",
+   "url": "https://www.168chasa.bg/article/23832919",
+   "archive": "",
+   "date": "2026-10-29",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "The EUR 20 fuel compensation was activated in March 2026 after average retail diesel stayed at EUR 1.60/litre for three consecutive days; within 24 hours over 3,500 people had applied, with first payments expected after 15 April and eligibility limited to car owners with average gross income up to EUR 652.41.",
+   "quote": "За по-малко от 24 часа над 3500 души са подали заявление да получат 20 евро като компенсация за поскъпването на горивата. Това показват данните на Агенцията за социално подпомагане (АСП), която ще изплаща средствата на кандидатите, отговарящи на условията да ги получат.\nМярката беше активирана вчера от правителството, след като средната цена на дребно на дизела в страната се задържа на 1,60 евро за литър за трети пореден ден.",
+   "source": "Министерство на труда и социалната политика (МТСП), „За по-малко от 24 часа над 3500 души кандидатстваха за компенсация от 20 евро за поскъпването на горивата“",
+   "url": "https://www.mlsp.government.bg/eng/za-po-malko-ot-24-chasa-nad-3500-dushi-kandidatstvakha-za-kompensatsiya-ot-20-evro-za-poskpvaneto-na-gorivata",
+   "archive": "",
+   "date": "2026-03-26",
+   "reliability": "primary"
+  },
+  {
+   "statement": "By mid-April 2026, 210,934 low-income people were to receive the EUR 20 March fuel compensation: 28,078 of about 50,000 applicants qualified, and more than 182,000 were paid automatically; this is consistent with Yotova's claim that only about 16% of the intended group benefited.",
+   "quote": "210 934 души с ниски доходи ще получат държавна подкрепа под формата на компенсация от 20 евро, свързана с поскъпването на горивата през март.",
+   "source": "Dnes.bg, „Над 200 хиляди са се възползвали от компенсацията за горивата“",
+   "url": "https://www.dnes.bg/a/1-bulgaria/718112-nad-200-hilyadi-sa-se-vazpolzvali-ot-kompensatsiyata-za-gorivata",
+   "archive": "",
+   "date": "2026-04-16",
+   "reliability": "secondary"
+  }
+ ],
+ "open_questions": [
+  "Exact debate wording and sourcing of the claim that purchasing power declined 'for the first time in 2026': no official NSI series reviewed shows a first-time aggregate decline, while a May 2026 wherewework survey reported by Money.bg found three in four employees perceived a decline over the previous 12 months.",
+  "Whether 'highest inflation' means 2026 or all-time: the 2026 peak was May at 6.9%, but September 2022 was 18.7%, so the claim is only true within 2026.",
+  "A full monthly HICP series for 2026 (as distinct from national CPI) was not assembled; July HICP was 4.4% and September 5.6%, suggesting the same shape, but the February HICP low needs confirmation.",
+  "No source found confirming whether the Svetofar mechanism was formally adopted, or whether the price headquarters continued after 8 May 2026; Yotova says it ran one month and that Radev rejected the mechanism, while Gyurov says it was left ready to apply.",
+  "The NSI G_I category includes hotels and restaurants as well as trade and transport, so the exact 'production, trade and transport' share is below 44.3%; the 'four in ten' claim is nonetheless in the right range.",
+  "Rail closures are dated 'from January' and 'from April' in a September 2026 report that says 'next year', i.e. 2027; confirm whether the debate claim referred to 2027 and whether freight is the only affected traffic.",
+  "October 2026 CPI/HICP was not published by 31 October 2026, so no 2026 'lowest' claim can include October."
+ ],
+ "notes": "The debate's inflation attack is only partly supported: Gyurov's caretaker cabinet (19 February-8 May 2026) did contain the 2026 peak of 6.9% in May (and 6.8% in April), but 2026's lowest annual rate was 3.3% in February, before Gyurov took office, so 'lowest in 2026 under Radev' is false; the lowest month under Radev was July at 4.5%, and by September inflation had rebounded to 5.7%. The purchasing-power claim is not borne out at aggregate level: NSI's Q2 2026 average wage rose 9.8% year on year against CPI of about 5%, so real wages were still rising, although Radev himself used 'declining purchasing power' rhetoric in May and a private survey found widespread perceived decline. NSI's Q2 2026 employment table supports the 'four in ten' order of magnitude: industry plus trade/transport/hospitality accounted for 1.62 million of 3.66 million employed (44.3%), with the caveat that the trade/transport category also includes hotels and restaurants. The rail-closure claim is confirmed by a 3 September 2026 report: Serbia closes Kalotina for 200 days from January 2027 and Romania closes Ruse-Bucharest from April 2027 for at least six months. The price headquarters was created on 1 April 2026 and chaired by Gyurov; according to Gyurov it produced a 'traffic light' mechanism setting graduated actions by crisis level, but Yotova says it ran only about a month and that Radev rejected it. The EUR 20 fuel compensation was triggered when diesel stayed at EUR 1.60/litre for three days; over 3,500 applications arrived within 24 hours, about 45,000-50,000 applications were eventually filed, and 210,934 people received the March payment (28,078 of ~50,000 applicants plus over 182,000 automatic payments), roughly consistent with Yotova's 16% uptake figure."
 }

@@ -1,123 +1,123 @@
 {
-  "cluster": "botash",
-  "items": [
-    {
-      "statement": "The Bulgargaz-BOTAS agreement was signed on 3 January 2023 at the Council of Ministers in Sofia by the two companies' chief executives, Denitsa Zlateva (Bulgargaz) and Burhan Ozcan (BOTAS), in the presence of Bulgaria's caretaker Energy Minister Rossen Hristov and Turkish Energy Minister Fatih Donmez. It was negotiated over the Christmas holidays and signed on the first working day of the year. The signatories acted under the caretaker cabinet of PM Galab Donev (named in the same article), i.e. an executive act, not a parliamentary one; President Rumen Radev publicly presented it as the fruit of his own December meeting with Erdogan.",
-      "quote": "Документът беше подписан в Министерския съвет от директорите на двете компании Деница Златева и Бюрхан Йозджан в присъствието на Росен Христов и турския министър на енергетиката и природните ресурси Фатих Дьонмез. По думите на Христов споразумението е договорено на Коледа и е подписано в първия работен ден след празниците, което показва голямата му важност.",
-      "source": "Свободна Европа (RFE/RL Bulgaria) — \"Исторически момент\". България ще може да доставя природен газ през терминали в Турция",
-      "url": "https://bulgaria.rferl.org/a/32205309.html",
-      "archive": "",
-      "date": "2023-01-03",
-      "reliability": "secondary"
-    },
-    {
-      "statement": "The term is 13 years. On the day of signing the Turkish energy minister stated the contract runs 13 years and provides for transmission of up to 1.5 bcm of gas a year (about half of Bulgaria's annual consumption), with access to five Turkish LNG terminals. This is the figure given by the counterparty at signature, and it is the figure repeated by RFE/RL, BTA and by Gurov himself in the debate — there is no documentary basis in the sources for a 10-year term for this contract.",
-      "quote": "Турският енергиен министър Фатих Дьонмез съобщи, че срокът на договора е 13 години и предвижда възможност за пренос на 1,5 млрд. куб. м газ годишно. Това е около половината количество природен газ, което се използва в България.",
-      "source": "Свободна Европа (RFE/RL Bulgaria) — \"Исторически момент\". България ще може да доставя природен газ през терминали в Турция",
-      "url": "https://bulgaria.rferl.org/a/32205309.html",
-      "archive": "",
-      "date": "2023-01-03",
-      "reliability": "secondary"
-    },
-    {
-      "statement": "Documented contract economics per BTA: Bulgargaz booked 106.4 GWh/day of capacity on Turkish LNG regasification terminals and undertook to pay BGN 1 million (EUR 512,000) per day for a period ending in 2035; the contract is a 13-year take-or-pay agreement and rescinding it would expose Bulgargaz to close to BGN 3 billion in damages. The same article records that on 19 April 2024 the National Assembly instructed then-energy minister Vladimir Malinov to renegotiate, and states the 2026 official liability figure as about EUR 360 million.",
-      "quote": "Under the contract, the Bulgarian side booked capacity of 106.4GWh/day on the Turkish LNG regasification terminals and agreed to pay for this BGN 1 million (EUR 512,000) daily for a period ending in 2035. ... If the 13-year take-or-pay agreement is rescinded, the Bulgarian company will be liable for close to BGN 3 billion in damages. By a resolution passed on April 19, 2024, the Bulgarian National Assembly assigned then-energy minister Vladimir Malinov to take action for re-negotiating the agreement.",
-      "source": "БТА (Bulgarian News Agency) — No Additional Economic or Political Conditions Attached to BOTAS Deal Review Agreement, Says Energy Minister",
-      "url": "https://www.bta.bg/en/news/1165612-no-additional-economic-or-political-conditions-attached-to-botas-deal-review-agr",
-      "archive": "",
-      "date": "2026-07-12",
-      "reliability": "secondary"
-    },
-    {
-      "statement": "Official liability figures as stated by the prime minister in July 2026: Bulgaria owes BOTAS USD 360 million; arrears were about BGN 300 million in early May 2026; Bulgargaz has made no payments since July 2024; the deal was suspended for 15 months by a protocol signed on 6 July 2026. This is the authoritative figure against which the debate's \"~400 million USD\" should be measured — the documented number is USD/EUR 360 million (BTA uses both currencies in different reports), not 400 million.",
-      "quote": "Prime Minister Rumen Radev said here Tuesday that Bulgaria owes BOTAS, the Turkish gas company, USD 360 million and settling this debt \"will not burden the Bulgarian finances\". ... At present, Bulgargaz does not import gas under the agreement with BOTAS, and in early May its arrears to the Turkish company approximated BGN 300 million. ... He added that Bulgaria has accumulated liabilities because it has not made payments since July 2024.",
-      "source": "БТА (Bulgarian News Agency) — PM Says Bulgaria Owes USD 360 Mln to BOTAS, Settling It \"Will Not Burden Bulgarian Finances\"",
-      "url": "https://www.bta.bg/en/news/economy/1162546-pm-says-bulgaria-owes-usd-360-mln-to-botas-settling-it-will-not-bulgari",
-      "archive": "",
-      "date": "2026-07-07",
-      "reliability": "secondary"
-    },
-    {
-      "statement": "The precise contractual period and the aggregate value: the contract covers access to LNG regasification terminals and onward transmission to Bulgaria from 1 January 2023 to 31 December 2035 — 13 years. It obliges payment of roughly USD 500,000 a day irrespective of whether gas is delivered, with the fees indexed for inflation. Then-energy minister Zhecho Stankov put the total due over the whole term at USD 2.5 billion and said that by end-March 2025 the arrears had reached USD 220-250 million. (Outlet is partisan against Radev, but the dates and the 13-year term match RFE/RL and BTA.)",
-      "quote": "Договорът е за достъп до терминалите за регазификация на втечнен природен газ и последващия му пренос до България за периода от 1 януари 2023 г. до 31 декември 2035 г. - цели 13 години. Договорът задължава страната ни да плаща на своя югоизточен съсед около 500 хиляди долара дневно такса за този достъп и пренос по турската инфраструктура. При това тази такса се дължи независимо от това дали ние доставяме „синьо гориво“ или не.",
-      "source": "Frognews (reprinting BGNES) — Дългова яма и милиардни щети за България - цялата истина за договора с „Боташ“",
-      "url": "https://frognews.bg/novini/dalgova-iama-miliardni-shteti-balgariia-tsialata-istina-dogovora-botash-zarobvaneto-bulgargaz.html",
-      "archive": "https://web.archive.org/web/20250723032757/https://frognews.bg/novini/dalgova-iama-miliardni-shteti-balgariia-tsialata-istina-dogovora-botash-zarobvaneto-bulgargaz.html",
-      "date": "2025-04-04",
-      "reliability": "partisan"
-    },
-    {
-      "statement": "PRIMARY, from the Bulgarian side of the April 2022 rupture: Bulgargaz states that Gazprom Export notified it on 26 April 2022 that supplies would be suspended and that deliveries stopped at 07:00 on 27 April 2022 — despite Bulgargaz having met its payment obligations for April 2022. Bulgargaz says it sought commercial dialogue on the proposed new payment mechanism and that Gazprom Export refused it, and characterises the cut as unilateral termination. This documents the mechanism of the cut-off and confirms that payment mechanics (the rouble scheme), not a Bulgarian decision to terminate, were the trigger.",
-      "quote": "След уведомлението на ООО „Газпром експорт“ от 26.04.2022 г., че доставките за „Булгаргаз“ ЕАД се преустановяват, въпреки изпълнените задължения към руския доставчик за м. април 2022 г., считано от 07.00 ч на 27.04.2022 г., „Булгаргаз“ ЕАД предприе незабавни действия по осигуряване на газ за клиентите си по договорите за доставка.",
-      "source": "Булгаргаз ЕАД — СЪОБЩЕНИЕ ДО МЕДИИТЕ (official company press release)",
-      "url": "https://bulgargaz.bg/bg/news/303",
-      "archive": "",
-      "date": "2022-05-02",
-      "reliability": "primary"
-    },
-    {
-      "statement": "The contract is not public. It was classified as secret on grounds of commercial secrecy, was never officially published, and even the parliamentary committee's report on it was withheld. Documents purporting to be the agreement, marked confidential, were published in April 2024 by the activist group Bg Elves, not by the state. This directly answers the \"is the contract public\" question: no.",
-      "quote": "Споразумението е обявено за секретно заради търговска тайна. Преди дни групата \"Български елфи\" (Bg Elves) ... публикува и документи, за които се смята, че са споразумението с \"Боташ\". Те имат гриф за конфиденциалност и потвърждават, че \"Булгаргаз\" има ангажимент да плаща за капацитет за разтоварване и пренос на газ на турската компания и без да ги използва.",
-      "source": "Свободна Европа (RFE/RL Bulgaria) — \"Партизанска тактика\". Има ли опит да се прикрие проверката на газовия договор с турската \"Боташ\"",
-      "url": "https://bulgaria.rferl.org/a/botash-turciq-gaz/32910840.html",
-      "archive": "",
-      "date": "2024-04-18",
-      "reliability": "secondary"
-    },
-    {
-      "statement": "Parliament did not ratify the contract — it is an inter-company commercial agreement signed by the executives of two state-owned companies. The only parliamentary act was on 19 April 2024, when the National Assembly voted to hand the contract to the prosecution and to DANS (state security) and to instruct the Energy Ministry to renegotiate its terms; this followed an extraordinary sitting requested by PP-DB after the chair of the ad hoc committee (Zhecho Stankov, GERB) refused to table its report. Note the nuance: a vote to refer and renegotiate is not a ratification, and no ratification instrument exists in the record.",
-      "quote": "Парламентът реши в петък договорът между държавния газов доставчик „Булгаргаз“ и турската държавна енергийна компания „Боташ“ да бъде даден на прокуратурата и Държавната агенция „Национална сигурност“ (ДАНС). Депутатите също така поискаха Министерството на енергетиката да предоговори условията по договора.",
-      "source": "Свободна Европа (RFE/RL Bulgaria) — Депутатите дават договора с \"Боташ\" на прокуратурата и ДАНС и искат енергийният министър да го предоговори",
-      "url": "https://bulgaria.rferl.org/a/botash-dogovor-parlament/32912610.html",
-      "archive": "",
-      "date": "2024-04-19",
-      "reliability": "secondary"
-    },
-    {
-      "statement": "Gurov's core debate claim, verbatim: that Bulgaria owes \"400 million dollars\" under Botash and that this will bankrupt Bulgargaz, and that Gazprom stopped supplies unilaterally. The debt assertion is in the right order of magnitude but rounds up from the official USD/EUR 360 million; the Gazprom characterisation matches Bulgargaz's own primary account.",
-      "quote": "Повтаряте го, но не виждаме никаква полезност, а само 400 млн. долара, които дължим и които ще докарат до фалит „Булгаргаз“. „Газпром“ спря едностранно доставките на газ и искаше да ни остави на студено. Но правителството осигури нови доставки.",
-      "source": "168 часа / 24 часа — Йотова атакува с аргументи, Гюров - не е разочарован, че го е направила служебен премиер (debate transcript)",
-      "url": "https://www.168chasa.bg/Article/23832919",
-      "archive": "",
-      "date": "2026-10-29",
-      "reliability": "partisan"
-    },
-    {
-      "statement": "Gurov also said at the debate that the Botash contract was signed by a caretaker cabinet for 13 years and that Bulgaria pays half a million euros a day under it. \"Half a million euros\" is accurate against the documented BGN 1 million/day (EUR 511,292/day) — the correct currency is euro, not dollars.",
-      "quote": "А договорът с „Боташ“ - отново подписан от служебен кабинет за 13 г., е врата, която не може да се отвори. ... за разлика от „Боташ“, където плащаме по половин милион евро всеки ден",
-      "source": "168 часа / 24 часа — Йотова атакува с аргументи, Гюров - не е разочарован, че го е направила служебен премиер (debate transcript)",
-      "url": "https://www.168chasa.bg/Article/23832919",
-      "archive": "",
-      "date": "2026-10-29",
-      "reliability": "partisan"
-    },
-    {
-      "statement": "Yotova's competing account in the same debate: she attributed the Botash contract to Kiril Petkov and Assen Vassilev having \"cut off Russian gas supplies to Bulgaria overnight\", forcing an emergency solution by the caretaker government. This is the contested attribution the fact-check has to adjudicate — the documentary record (Bulgargaz's own 2 May 2022 release, and BTA's chronology) is that Gazprom Export stopped deliveries after Bulgaria declined the rouble payment scheme, not that the Bulgarian government terminated supplies.",
-      "quote": "А за „Боташ“ - знаете ли защо стана? Защото Кирил Петков и Асен Василев за една нощ прекъснаха доставките на руски газ за България. Трябваше експресно решение на служебното правителство. „Боташ“ тепърва че бъде полезен за българската държава.",
-      "source": "168 часа / 24 часа — Йотова атакува с аргументи, Гюров - не е разочарован, че го е направила служебен премиер (debate transcript)",
-      "url": "https://www.168chasa.bg/Article/23832919",
-      "archive": "",
-      "date": "2026-10-29",
-      "reliability": "partisan"
-    },
-    {
-      "statement": "How the claim travelled into English: BTA's English-language report of the same debate renders Gurov's figures as \"USD 500,000 a day\" and \"nearly USD 400 million in liabilities\". Both shift the currency from euro to dollar relative to what he said in Bulgarian. This is the likely origin of a \"400 million USD\" framing in English-language retellings; the underlying figures are ~EUR 500,000/day and ~USD/EUR 360 million of liabilities.",
-      "quote": "He contrasted the opportunities for developing the defence industry with the BOTAS contract, which he said cost Bulgaria USD 500,000 a day. ... The BOTAS contract had produced no visible benefits despite repeated assurances, Gurov said. Nearly USD 400 million in liabilities could drive Bulgargaz into bankruptcy, he added.",
-      "source": "БТА (Bulgarian News Agency, English service) — Presidential Candidate Gurov Criticizes Defence Response and BOTAS Deal",
-      "url": "https://www.bta.bg/en/news/1235979-presidential-candidate-gurov-criticizes-defence-response-and-botas-deal",
-      "archive": "",
-      "date": "2026-10-29",
-      "reliability": "secondary"
-    }
-  ],
-  "open_questions": [
-    "Gazprom's own press release of 27 April 2022 (gazprom.com / gazprom.ru, article551662) could not be retrieved — both domains time out from this environment and the Wayback Machine returns 404 for that path. The Russian side's stated justification is therefore documented only through Bulgarian secondary reporting and Bulgargaz's reply, not from the primary Gazprom text.",
-    "No parliament.bg page could be loaded to confirm the exact number, title and text of the 19 April 2024 National Assembly decision; parliament.bg returned an empty document and I did not locate the decision in dv.parliament.bg. The 19 April 2024 vote rests on RFE/RL and BTA reporting.",
-    "The contract text itself is not public, so the 13-year term, the BGN 1 million/day fee, the indexation clause, the take-or-pay character and the absence of a termination clause are all known from official statements and leaks, not from the signed instrument. The Bg Elves-published documents were not independently verified here.",
-    "Unresolved minor discrepancy on the end date: BTA says \"a period ending in 2035\" and Frognews/BGNES gives 31 December 2035, but a Dnevnik headline of 23 December 2022 (page blocked by Cloudflare, not fetched) referred to a contract running \"to 2036\". A 13-year term starting 1 January 2023 is consistent with a 31 December 2035 expiry; the 2036 variant could not be checked.",
-    "The \"10 years\" variant does not appear in any Botash source located. In the debate the 10-year figure was used by Yotova about the Ukraine agreement (\"накарахте държавата за 10 години да поеме ангажименти\"), not about Botash — a plausible source of conflation, but I could not test whether some other speaker applied \"10 years\" to Botash.",
-    "A separate \"EUR 400 million\" figure circulates in Bulgarian media in connection with an alleged bribe over the Botash affair (a Facebook post by former GERB MP Anton Todorov, republished by Varna Novini, 4 April 2026, which itself says \"I don't know if it is true\"). It is unrelated to the debt figure and should not be merged with it; I did not treat it as evidence.",
-    "The exact split between the capacity/reservation fee and any gas actually delivered is not documented publicly, so \"cost to Bulgargaz\" can only be given as the reservation fee (~BGN 1m/day) plus the accumulated arrears, not as a settled total."
-  ],
-  "notes": "This cluster is solid on the documentary spine and softer on the numbers. The signing (3 January 2023, Zlateva and Ozcan, in the Council of Ministers, before caretaker minister Hristov and Turkish minister Donmez), the 13-year term and the 1.5 bcm/year volume are corroborated by independent reporting and by the counterparty's own statement on the day, and the parliament/secrecy questions are cleanly answered: the contract was never ratified and was classified secret as a commercial secret, with the only parliamentary act being the 19 April 2024 referral to the prosecution and DANS plus a renegotiation mandate. The daily fee is consistently reported as BGN 1 million (~EUR 512,000), which makes Gurov's \"half a million euros a day\" broadly accurate and his \"$400 million\" a rounding-up of the officially stated USD/EUR 360 million liability; BTA's English service converted his euros into dollars, which is probably where an English \"400 million USD\" phrasing comes from. The April 2022 question resolves in a way that partly vindicates both candidates: Gazprom did cut supplies unilaterally on 27 April 2022, but the trigger was Bulgaria's refusal of the new rouble payment mechanism, so Yotova's \"Petkov and Vassilev cut off Russian gas overnight\" is a partisan inversion of the documented sequence, while Gurov's \"Gazprom stopped supplies unilaterally\" is accurate but incomplete. The main weakness is that the contract itself is unpublished, so every term is known at second hand; the aggregate USD 2.5 billion figure comes from a minister via a partisan outlet; and the primary Gazprom statement could not be fetched at all."
+ "cluster": "botash",
+ "items": [
+  {
+   "statement": "The Bulgargaz-BOTAS agreement was signed on 3 January 2023 at the Council of Ministers in Sofia by the two companies' chief executives, Denitsa Zlateva (Bulgargaz) and Burhan Ozcan (BOTAS), in the presence of Bulgaria's caretaker Energy Minister Rossen Hristov and Turkish Energy Minister Fatih Donmez. It was negotiated over the Christmas holidays and signed on the first working day of the year. The signatories acted under the caretaker cabinet of PM Galab Donev (named in the same article), i.e. an executive act, not a parliamentary one; President Rumen Radev publicly presented it as the fruit of his own December meeting with Erdogan.",
+   "quote": "Документът беше подписан в Министерския съвет от директорите на двете компании Деница Златева и Бюрхан Йозджан в присъствието на Росен Христов и турския министър на енергетиката и природните ресурси Фатих Дьонмез. По думите на Христов споразумението е договорено на Коледа и е подписано в първия работен ден след празниците, което показва голямата му важност.",
+   "source": "Свободна Европа (RFE/RL Bulgaria) — \"Исторически момент\". България ще може да доставя природен газ през терминали в Турция",
+   "url": "https://bulgaria.rferl.org/a/32205309.html",
+   "archive": "",
+   "date": "2023-01-03",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "The term is 13 years. On the day of signing the Turkish energy minister stated the contract runs 13 years and provides for transmission of up to 1.5 bcm of gas a year (about half of Bulgaria's annual consumption), with access to five Turkish LNG terminals. This is the figure given by the counterparty at signature, and it is the figure repeated by RFE/RL, BTA and by Gurov himself in the debate — there is no documentary basis in the sources for a 10-year term for this contract.",
+   "quote": "Турският енергиен министър Фатих Дьонмез съобщи, че срокът на договора е 13 години и предвижда възможност за пренос на 1,5 млрд. куб. м газ годишно. Това е около половината количество природен газ, което се използва в България.",
+   "source": "Свободна Европа (RFE/RL Bulgaria) — \"Исторически момент\". България ще може да доставя природен газ през терминали в Турция",
+   "url": "https://bulgaria.rferl.org/a/32205309.html",
+   "archive": "",
+   "date": "2023-01-03",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "Documented contract economics per BTA: Bulgargaz booked 106.4 GWh/day of capacity on Turkish LNG regasification terminals and undertook to pay BGN 1 million (EUR 512,000) per day for a period ending in 2035; the contract is a 13-year take-or-pay agreement and rescinding it would expose Bulgargaz to close to BGN 3 billion in damages. The same article records that on 19 April 2024 the National Assembly instructed then-energy minister Vladimir Malinov to renegotiate, and states the 2026 official liability figure as about EUR 360 million.",
+   "quote": "Under the contract, the Bulgarian side booked capacity of 106.4GWh/day on the Turkish LNG regasification terminals and agreed to pay for this BGN 1 million (EUR 512,000) daily for a period ending in 2035. ... If the 13-year take-or-pay agreement is rescinded, the Bulgarian company will be liable for close to BGN 3 billion in damages. By a resolution passed on April 19, 2024, the Bulgarian National Assembly assigned then-energy minister Vladimir Malinov to take action for re-negotiating the agreement.",
+   "source": "БТА (Bulgarian News Agency) — No Additional Economic or Political Conditions Attached to BOTAS Deal Review Agreement, Says Energy Minister",
+   "url": "https://www.bta.bg/en/news/1165612-no-additional-economic-or-political-conditions-attached-to-botas-deal-review-agr",
+   "archive": "",
+   "date": "2026-07-12",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "Official liability figures as stated by the prime minister in July 2026: Bulgaria owes BOTAS USD 360 million; arrears were about BGN 300 million in early May 2026; Bulgargaz has made no payments since July 2024; the deal was suspended for 15 months by a protocol signed on 6 July 2026. This is the authoritative figure against which the debate's \"~400 million USD\" should be measured — the documented number is USD/EUR 360 million (BTA uses both currencies in different reports), not 400 million.",
+   "quote": "Prime Minister Rumen Radev said here Tuesday that Bulgaria owes BOTAS, the Turkish gas company, USD 360 million and settling this debt \"will not burden the Bulgarian finances\". ... At present, Bulgargaz does not import gas under the agreement with BOTAS, and in early May its arrears to the Turkish company approximated BGN 300 million. ... He added that Bulgaria has accumulated liabilities because it has not made payments since July 2024.",
+   "source": "БТА (Bulgarian News Agency) — PM Says Bulgaria Owes USD 360 Mln to BOTAS, Settling It \"Will Not Burden Bulgarian Finances\"",
+   "url": "https://www.bta.bg/en/news/economy/1162546-pm-says-bulgaria-owes-usd-360-mln-to-botas-settling-it-will-not-bulgari",
+   "archive": "",
+   "date": "2026-07-07",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "The precise contractual period and the aggregate value: the contract covers access to LNG regasification terminals and onward transmission to Bulgaria from 1 January 2023 to 31 December 2035 — 13 years. It obliges payment of roughly USD 500,000 a day irrespective of whether gas is delivered, with the fees indexed for inflation. Then-energy minister Zhecho Stankov put the total due over the whole term at USD 2.5 billion and said that by end-March 2025 the arrears had reached USD 220-250 million. (Outlet is partisan against Radev, but the dates and the 13-year term match RFE/RL and BTA.)",
+   "quote": "Договорът е за достъп до терминалите за регазификация на втечнен природен газ и последващия му пренос до България за периода от 1 януари 2023 г. до 31 декември 2035 г. - цели 13 години. Договорът задължава страната ни да плаща на своя югоизточен съсед около 500 хиляди долара дневно такса за този достъп и пренос по турската инфраструктура. При това тази такса се дължи независимо от това дали ние доставяме „синьо гориво“ или не.",
+   "source": "Frognews (reprinting BGNES) — Дългова яма и милиардни щети за България - цялата истина за договора с „Боташ“",
+   "url": "https://frognews.bg/novini/dalgova-iama-miliardni-shteti-balgariia-tsialata-istina-dogovora-botash-zarobvaneto-bulgargaz.html",
+   "archive": "https://web.archive.org/web/20250723032757/https://frognews.bg/novini/dalgova-iama-miliardni-shteti-balgariia-tsialata-istina-dogovora-botash-zarobvaneto-bulgargaz.html",
+   "date": "2025-04-04",
+   "reliability": "partisan"
+  },
+  {
+   "statement": "PRIMARY, from the Bulgarian side of the April 2022 rupture: Bulgargaz states that Gazprom Export notified it on 26 April 2022 that supplies would be suspended and that deliveries stopped at 07:00 on 27 April 2022 — despite Bulgargaz having met its payment obligations for April 2022. Bulgargaz says it sought commercial dialogue on the proposed new payment mechanism and that Gazprom Export refused it, and characterises the cut as unilateral termination. This documents the mechanism of the cut-off and confirms that payment mechanics (the rouble scheme), not a Bulgarian decision to terminate, were the trigger.",
+   "quote": "След уведомлението на ООО „Газпром експорт“ от 26.04.2022 г., че доставките за „Булгаргаз“ ЕАД се преустановяват, въпреки изпълнените задължения към руския доставчик за м. април 2022 г., считано от 07.00 ч на 27.04.2022 г., „Булгаргаз“ ЕАД предприе незабавни действия по осигуряване на газ за клиентите си по договорите за доставка.",
+   "source": "Булгаргаз ЕАД — СЪОБЩЕНИЕ ДО МЕДИИТЕ (official company press release)",
+   "url": "https://bulgargaz.bg/bg/news/303",
+   "archive": "",
+   "date": "2022-05-02",
+   "reliability": "primary"
+  },
+  {
+   "statement": "The contract is not public. It was classified as secret on grounds of commercial secrecy, was never officially published, and even the parliamentary committee's report on it was withheld. Documents purporting to be the agreement, marked confidential, were published in April 2024 by the activist group Bg Elves, not by the state. This directly answers the \"is the contract public\" question: no.",
+   "quote": "Споразумението е обявено за секретно заради търговска тайна. Преди дни групата \"Български елфи\" (Bg Elves) ... публикува и документи, за които се смята, че са споразумението с \"Боташ\". Те имат гриф за конфиденциалност и потвърждават, че \"Булгаргаз\" има ангажимент да плаща за капацитет за разтоварване и пренос на газ на турската компания и без да ги използва.",
+   "source": "Свободна Европа (RFE/RL Bulgaria) — \"Партизанска тактика\". Има ли опит да се прикрие проверката на газовия договор с турската \"Боташ\"",
+   "url": "https://bulgaria.rferl.org/a/botash-turciq-gaz/32910840.html",
+   "archive": "",
+   "date": "2024-04-18",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "Parliament did not ratify the contract — it is an inter-company commercial agreement signed by the executives of two state-owned companies. The only parliamentary act was on 19 April 2024, when the National Assembly voted to hand the contract to the prosecution and to DANS (state security) and to instruct the Energy Ministry to renegotiate its terms; this followed an extraordinary sitting requested by PP-DB after the chair of the ad hoc committee (Zhecho Stankov, GERB) refused to table its report. Note the nuance: a vote to refer and renegotiate is not a ratification, and no ratification instrument exists in the record.",
+   "quote": "Парламентът реши в петък договорът между държавния газов доставчик „Булгаргаз“ и турската държавна енергийна компания „Боташ“ да бъде даден на прокуратурата и Държавната агенция „Национална сигурност“ (ДАНС). Депутатите също така поискаха Министерството на енергетиката да предоговори условията по договора.",
+   "source": "Свободна Европа (RFE/RL Bulgaria) — Депутатите дават договора с \"Боташ\" на прокуратурата и ДАНС и искат енергийният министър да го предоговори",
+   "url": "https://bulgaria.rferl.org/a/botash-dogovor-parlament/32912610.html",
+   "archive": "",
+   "date": "2024-04-19",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "Gurov's core debate claim, verbatim: that Bulgaria owes \"400 million dollars\" under Botash and that this will bankrupt Bulgargaz, and that Gazprom stopped supplies unilaterally. The debt assertion is in the right order of magnitude but rounds up from the official USD/EUR 360 million; the Gazprom characterisation matches Bulgargaz's own primary account.",
+   "quote": "Повтаряте го, но не виждаме никаква полезност, а само 400 млн. долара, които дължим и които ще докарат до фалит „Булгаргаз“. „Газпром“ спря едностранно доставките на газ и искаше да ни остави на студено. Но правителството осигури нови доставки.",
+   "source": "168 часа / 24 часа — Йотова атакува с аргументи, Гюров - не е разочарован, че го е направила служебен премиер (debate transcript)",
+   "url": "https://www.168chasa.bg/Article/23832919",
+   "archive": "",
+   "date": "2026-10-29",
+   "reliability": "partisan"
+  },
+  {
+   "statement": "Gurov also said at the debate that the Botash contract was signed by a caretaker cabinet for 13 years and that Bulgaria pays half a million euros a day under it. \"Half a million euros\" is accurate against the documented BGN 1 million/day (EUR 511,292/day) — the correct currency is euro, not dollars.",
+   "quote": "А договорът с „Боташ“ - отново подписан от служебен кабинет за 13 г., е врата, която не може да се отвори. ... за разлика от „Боташ“, където плащаме по половин милион евро всеки ден",
+   "source": "168 часа / 24 часа — Йотова атакува с аргументи, Гюров - не е разочарован, че го е направила служебен премиер (debate transcript)",
+   "url": "https://www.168chasa.bg/Article/23832919",
+   "archive": "",
+   "date": "2026-10-29",
+   "reliability": "partisan"
+  },
+  {
+   "statement": "Yotova's competing account in the same debate: she attributed the Botash contract to Kiril Petkov and Assen Vassilev having \"cut off Russian gas supplies to Bulgaria overnight\", forcing an emergency solution by the caretaker government. This is the contested attribution the fact-check has to adjudicate — the documentary record (Bulgargaz's own 2 May 2022 release, and BTA's chronology) is that Gazprom Export stopped deliveries after Bulgaria declined the rouble payment scheme, not that the Bulgarian government terminated supplies.",
+   "quote": "А за „Боташ“ - знаете ли защо стана? Защото Кирил Петков и Асен Василев за една нощ прекъснаха доставките на руски газ за България. Трябваше експресно решение на служебното правителство. „Боташ“ тепърва че бъде полезен за българската държава.",
+   "source": "168 часа / 24 часа — Йотова атакува с аргументи, Гюров - не е разочарован, че го е направила служебен премиер (debate transcript)",
+   "url": "https://www.168chasa.bg/Article/23832919",
+   "archive": "",
+   "date": "2026-10-29",
+   "reliability": "partisan"
+  },
+  {
+   "statement": "How the claim travelled into English: BTA's English-language report of the same debate renders Gurov's figures as \"USD 500,000 a day\" and \"nearly USD 400 million in liabilities\". Both shift the currency from euro to dollar relative to what he said in Bulgarian. This is the likely origin of a \"400 million USD\" framing in English-language retellings; the underlying figures are ~EUR 500,000/day and ~USD/EUR 360 million of liabilities.",
+   "quote": "He contrasted the opportunities for developing the defence industry with the BOTAS contract, which he said cost Bulgaria USD 500,000 a day. ... The BOTAS contract had produced no visible benefits despite repeated assurances, Gurov said. Nearly USD 400 million in liabilities could drive Bulgargaz into bankruptcy, he added.",
+   "source": "БТА (Bulgarian News Agency, English service) — Presidential Candidate Gurov Criticizes Defence Response and BOTAS Deal",
+   "url": "https://www.bta.bg/en/news/1235979-presidential-candidate-gurov-criticizes-defence-response-and-botas-deal",
+   "archive": "",
+   "date": "2026-10-29",
+   "reliability": "secondary"
+  }
+ ],
+ "open_questions": [
+  "Gazprom's own press release of 27 April 2022 (gazprom.com / gazprom.ru, article551662) could not be retrieved — both domains time out from this environment and the Wayback Machine returns 404 for that path. The Russian side's stated justification is therefore documented only through Bulgarian secondary reporting and Bulgargaz's reply, not from the primary Gazprom text.",
+  "No parliament.bg page could be loaded to confirm the exact number, title and text of the 19 April 2024 National Assembly decision; parliament.bg returned an empty document and I did not locate the decision in dv.parliament.bg. The 19 April 2024 vote rests on RFE/RL and BTA reporting.",
+  "The contract text itself is not public, so the 13-year term, the BGN 1 million/day fee, the indexation clause, the take-or-pay character and the absence of a termination clause are all known from official statements and leaks, not from the signed instrument. The Bg Elves-published documents were not independently verified here.",
+  "Unresolved minor discrepancy on the end date: BTA says \"a period ending in 2035\" and Frognews/BGNES gives 31 December 2035, but a Dnevnik headline of 23 December 2022 (page blocked by Cloudflare, not fetched) referred to a contract running \"to 2036\". A 13-year term starting 1 January 2023 is consistent with a 31 December 2035 expiry; the 2036 variant could not be checked.",
+  "The \"10 years\" variant does not appear in any Botash source located. In the debate the 10-year figure was used by Yotova about the Ukraine agreement (\"накарахте държавата за 10 години да поеме ангажименти\"), not about Botash — a plausible source of conflation, but I could not test whether some other speaker applied \"10 years\" to Botash.",
+  "A separate \"EUR 400 million\" figure circulates in Bulgarian media in connection with an alleged bribe over the Botash affair (a Facebook post by former GERB MP Anton Todorov, republished by Varna Novini, 4 April 2026, which itself says \"I don't know if it is true\"). It is unrelated to the debt figure and should not be merged with it; I did not treat it as evidence.",
+  "The exact split between the capacity/reservation fee and any gas actually delivered is not documented publicly, so \"cost to Bulgargaz\" can only be given as the reservation fee (~BGN 1m/day) plus the accumulated arrears, not as a settled total."
+ ],
+ "notes": "This cluster is solid on the documentary spine and softer on the numbers. The signing (3 January 2023, Zlateva and Ozcan, in the Council of Ministers, before caretaker minister Hristov and Turkish minister Donmez), the 13-year term and the 1.5 bcm/year volume are corroborated by independent reporting and by the counterparty's own statement on the day, and the parliament/secrecy questions are cleanly answered: the contract was never ratified and was classified secret as a commercial secret, with the only parliamentary act being the 19 April 2024 referral to the prosecution and DANS plus a renegotiation mandate. The daily fee is consistently reported as BGN 1 million (~EUR 512,000), which makes Gurov's \"half a million euros a day\" broadly accurate and his \"$400 million\" a rounding-up of the officially stated USD/EUR 360 million liability; BTA's English service converted his euros into dollars, which is probably where an English \"400 million USD\" phrasing comes from. The April 2022 question resolves in a way that partly vindicates both candidates: Gazprom did cut supplies unilaterally on 27 April 2022, but the trigger was Bulgaria's refusal of the new rouble payment mechanism, so Yotova's \"Petkov and Vassilev cut off Russian gas overnight\" is a partisan inversion of the documented sequence, while Gurov's \"Gazprom stopped supplies unilaterally\" is accurate but incomplete. The main weakness is that the contract itself is unpublished, so every term is known at second hand; the aggregate USD 2.5 billion figure comes from a minister via a partisan outlet; and the primary Gazprom statement could not be fetched at all."
 }
