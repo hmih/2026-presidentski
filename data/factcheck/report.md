@@ -12,7 +12,7 @@
 | unverified | 54 |
 | partly | 25 |
 
-Deception flags: {'misdirection': 10, 'omission': 1}
+Deception flags: {'': 39, 'misdirection': 10, 'omission': 1}
 
 ## Verdicts by topic
 
@@ -319,6 +319,8 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 **Finding:** Only Gyurov's own denial is on record; the committee's membership was not published.
 
 - 168 chasa / 24 chasa - „Йотова атакува с аргументи, Гюров - не е разочарован, че го е направил служебен премиер“ (2026-10-30) — https://www.168chasa.bg/article/23835213
+- **Deception:** 
+- *Note:* The initiative committee's published membership list.
 
 ### C-01-11 — mostly_true
 
@@ -344,6 +346,8 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 **Finding:** Untestable as stated; Democratic Bulgaria did endorse him, which does not settle whether support was sought.
 
 - Mediapool.bg - „Витанов обвини Гюров, че се е срещал с Пеевски. Кандидатът за президент отрече (обновена)“ (2026-10-29) — https://www.mediapool.bg/prezidentski-izbori-2026/vitanov-obvini-gyurov-che-se-e-sreshtal-s-peevski-kandidatat-za-prezident-otreche-obnovena/
+- **Deception:** 
+- *Note:* Internal campaign correspondence; endorsements alone do not settle whether support was sought.
 
 ### C-01-13 — true
 
@@ -465,6 +469,8 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 **Finding:** She named no one, and no source records the remark.
 
 - 168 chasa / 24 chasa - „Йотова атакува с аргументи, Гюров - не е разочарован, че го е направил служебен премиер“ (2026-10-30) — https://www.168chasa.bg/article/23835213
+- **Deception:** 
+- *Note:* A statement by a named party leader; none is on record.
 
 ### C-01-32 — true
 
@@ -488,6 +494,8 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 
 **Finding:** No record of that trilateral meeting was located.
 
+- **Deception:** 
+- *Note:* Ministry of Defence press releases for 28 October 2026.
 
 ### C-01-38 — true
 
@@ -587,6 +595,7 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 **Finding:** This is an evaluative claim about a September 2026 joint declaration; it is not falsifiable from the record.
 
 - БНР (Radio Bulgaria in English) — „Bulgaria joins UN declaration on Ukraine“ (2026-09-25) — https://www.bnrnews.bg/en/post/533071/bulgaria-joins-un-declaration-on-ukraine — archived: http://web.archive.org/web/20260925070315/https://bnrnews.bg/en/post/533071/bulgaria-joins-un-declaration-on-ukraine
+- *Note:* The text of the September 2026 joint declaration.
 
 ### C-02-13 — true
 
@@ -622,6 +631,7 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 
 **Finding:** Untestable as stated ('all documents').
 
+- *Note:* Council of the EU drafting records for the relevant formats.
 
 ### C-02-17 — partly
 
@@ -817,6 +827,8 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 **Finding:** Ship strikes are documented; deaths of sailors were not confirmed.
 
 - БНР — „Президентът Йотова свиква КСНС заради поразените от дронове кораби“ (2026-10-07) — https://www.bnrnews.bg/main/post/538367/prezidentat-yotova-svikva-ksns-zaradi-porazenite-ot-dronove-korabi — archived: http://web.archive.org/web/20261007062030/https://bnrnews.bg/main/post/538367/prezidentat-yotova-svikva-ksns-zaradi-porazenite-ot-dronove-korabi
+- **Deception:** 
+- *Note:* Coast guard or BNT casualty reporting for the October 2026 strikes.
 
 ### C-03-07 — mixed
 
@@ -935,6 +947,8 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 
 **Finding:** No drafting history was located.
 
+- **Deception:** 
+- *Note:* The negotiating history held by the Council of Ministers.
 
 ### C-03-16 — false
 
@@ -1150,6 +1164,8 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 
 **Finding:** No record of the case was located in this pass.
 
+- **Deception:** 
+- *Note:* The judgment in the Pendikov case and the acquittal of the accused.
 
 ### C-03-44 — unverified
 
@@ -1161,6 +1177,8 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 
 **Finding:** No source establishing priority was located.
 
+- **Deception:** 
+- *Note:* Presidency press releases, 2017-2021.
 
 ### C-03-45 — unverified
 
@@ -1172,6 +1190,8 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 
 **Finding:** The treaty text was not examined.
 
+- **Deception:** 
+- *Note:* The text of the good-neighbourliness treaty between Bulgaria and North Macedonia.
 
 ### C-04-02 — unverified
 
@@ -1183,6 +1203,8 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 
 **Finding:** No record of who tabled it was located.
 
+- **Deception:** 
+- *Note:* National Assembly session minutes from June 2022.
 
 ### C-04-03 — unverified
 
@@ -1194,6 +1216,8 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 
 **Finding:** Consistent with the 2022 record but not documented here.
 
+- **Deception:** 
+- *Note:* Contemporaneous 2022 coverage of the ratification debate.
 
 ### C-04-04 — unverified
 
@@ -1205,6 +1229,8 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 
 **Finding:** Her current position was not verified against a primary source.
 
+- **Deception:** 
+- *Note:* Iotova's statements on the French proposal during the 2026 campaign.
 
 ### C-04-07 — unverified
 
@@ -1216,6 +1242,8 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 
 **Finding:** No record located.
 
+- **Deception:** 
+- *Note:* The presidency's schedule of consultative meetings.
 
 ### C-04-08 — mostly_true
 
@@ -1251,6 +1279,8 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 
 **Finding:** Not verified in this pass.
 
+- **Deception:** 
+- *Note:* Official visit records for the Skopje trip.
 
 ### C-04-12 — partly
 
@@ -1337,6 +1367,8 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 
 **Finding:** An analogy, not a checkable fact.
 
+- **Deception:** 
+- *Note:* An analogy rather than a fact; nothing external can settle it.
 
 ### C-04-24 — mostly_false
 
@@ -1411,6 +1443,8 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 
 **Finding:** No such statement was located.
 
+- **Deception:** 
+- *Note:* National Assembly stenographic record of her statement.
 
 ### C-04-34 — mostly_true
 
@@ -1478,6 +1512,8 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 **Finding:** A self-characterisation; his endorsement by Democratic Bulgaria complicates but does not settle it.
 
 - Mediapool.bg - „Витанов обвини Гюров, че се е срещал с Пеевски. Кандидатът за президент отрече (обновена)“ (2026-10-29) — https://www.mediapool.bg/prezidentski-izbori-2026/vitanov-obvini-gyurov-che-se-e-sreshtal-s-peevski-kandidatat-za-prezident-otreche-obnovena/
+- **Deception:** 
+- *Note:* CEC registration documents, which record nominating bodies rather than self-description.
 
 ### C-05-09 — unverified
 
@@ -1489,6 +1525,8 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 
 **Finding:** Not verified.
 
+- **Deception:** 
+- *Note:* The 2022 budget bill as tabled.
 
 ### C-05-10 — unverified
 
@@ -1500,6 +1538,8 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 
 **Finding:** Not verified.
 
+- **Deception:** 
+- *Note:* Budget committee records of the 2022 draft's passage.
 
 ### C-05-11 — mixed
 
@@ -1536,6 +1576,8 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 
 **Finding:** The interview was not located.
 
+- **Deception:** 
+- *Note:* The interview itself.
 
 ### C-05-20 — mostly_false
 
@@ -1586,6 +1628,8 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 
 **Finding:** The signing chronology was not verified.
 
+- **Deception:** 
+- *Note:* The National Assembly record of the budget hearings.
 
 ### C-05-25 — mostly_true
 
@@ -1609,6 +1653,8 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 
 **Finding:** Not verified.
 
+- **Deception:** 
+- *Note:* The budget-extension laws and their dates.
 
 ### C-05-28 — false
 
@@ -1724,6 +1770,8 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 
 **Finding:** The count of opinions was not verified.
 
+- **Deception:** 
+- *Note:* The presidency's register of opinions on the draft budget.
 
 ### C-05-39 — mostly_true
 
@@ -1814,6 +1862,8 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 
 **Finding:** Not verified against the budget's annexes.
 
+- **Deception:** 
+- *Note:* The 2027 draft's expenditure annexes.
 
 ### C-06-09 — unverified
 
@@ -1825,6 +1875,8 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 
 **Finding:** An evaluative claim about the draft; not testable as stated.
 
+- **Deception:** 
+- *Note:* The 2027 draft's expenditure annexes.
 
 ### C-06-10 — unverified
 
@@ -1874,6 +1926,8 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 **Finding:** The last Radev-appointed cabinet was Zhelyazkov's, from January 2025; its end date was not established.
 
 - Bulgaria ON AIR - Историята на кабинета "Желязков" - Еврозона и оцеляване при 5 вота на недоверие (2025-12-11) — https://www.bgonair.bg/a/2-bulgaria/403627-istoriyata-na-kabineta-zhelyazkov-evrozona-i-otselyavane-pri-5-vota-na-nedoverie
+- **Deception:** 
+- *Note:* The dates of the last Radev-appointed cabinet.
 
 ### C-06-15 — partly
 
@@ -1931,6 +1985,8 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 
 **Finding:** Not verified against Commission data.
 
+- **Deception:** 
+- *Note:* Eurostat and Commission deficit figures for 2026.
 
 ### C-06-25 — unverified
 
@@ -1942,6 +1998,8 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 
 **Finding:** A forward-looking regulatory claim; not verified.
 
+- **Deception:** 
+- *Note:* Energy regulator decisions on heating and electricity tariffs.
 
 ### C-06-27 — unverified
 
@@ -1953,6 +2011,8 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 
 **Finding:** Contested; not settled in this pass.
 
+- **Deception:** 
+- *Note:* The Commission's excessive-deficit report.
 
 ### C-06-28 — partly
 
@@ -1976,6 +2036,8 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 
 **Finding:** Not verified against the draft's expenditure lines.
 
+- **Deception:** 
+- *Note:* The draft's expenditure lines.
 
 ### C-06-34 — unverified
 
@@ -1987,6 +2049,8 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 
 **Finding:** Forward commitment; not verifiable at the time of speaking.
 
+- **Deception:** 
+- *Note:* Municipal transfer payment records.
 
 ### C-06-36 — mostly_true
 
@@ -2021,6 +2085,8 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 
 **Finding:** Not verified.
 
+- **Deception:** 
+- *Note:* Police and prosecution statements on the arrests.
 
 ### C-07-05 — unverified
 
@@ -2032,6 +2098,8 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 
 **Finding:** A negative claim about his own statements; not verifiable from the record gathered.
 
+- **Deception:** 
+- *Note:* The interview transcript.
 
 ### C-07-06 — unverified
 
@@ -2043,6 +2111,8 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 
 **Finding:** The interview was not located.
 
+- **Deception:** 
+- *Note:* The interview transcript.
 
 ### C-07-13 — true
 
@@ -2116,6 +2186,8 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 **Finding:** Gyurov did not contest it in the debate, but no formal source was located.
 
 - 168 chasa / 24 chasa - „Йотова атакува с аргументи, Гюров - не е разочарован, че го е направил служебен премиер“ (2026-10-30) — https://www.168chasa.bg/article/23835213
+- **Deception:** 
+- *Note:* The campaign team's published structure.
 
 ### C-07-27 — unverified
 
@@ -2140,6 +2212,7 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 **Finding:** The presidency released only pseudonymised initials, so the turnover could not be verified.
 
 - Капитал - "Президентът И.М.Й. се консултира за помилванията с Л.П.Р, Ю.Д.Б., И.Д.Б., В.Й.К. и М.М.Г." (2026-10-20) — https://www.capital.bg/politika_i_ikonomika/pravo/2026/10/20/4968313_prezidentut_imi_se_konsultira_za_pomilvaniiata_s_lpr/ — archived: http://web.archive.org/web/20261021034924/https://www.capital.bg/politika_i_ikonomika/pravo/2026/10/20/4968313_prezidentut_imi_se_konsultira_za_pomilvaniiata_s_lpr/
+- *Note:* The commission's composition documents before and after the replacements.
 
 ### C-07-31 — true
 
@@ -2203,6 +2276,7 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 
 **Finding:** No register of the inquiries was located.
 
+- *Note:* The presidency's correspondence register.
 
 ### C-07-41 — mostly_true
 
@@ -2241,6 +2315,8 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 
 **Finding:** Not verified.
 
+- **Deception:** 
+- *Note:* The constitutional assembly's drafting records.
 
 ### C-08-10 — unverified
 
@@ -2252,6 +2328,8 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 
 **Finding:** Personal claim; not verifiable from public record.
 
+- **Deception:** 
+- *Note:* Personal history; not a public record.
 
 ### C-08-16 — true
 
@@ -2274,6 +2352,8 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 
 **Finding:** Not verified.
 
+- **Deception:** 
+- *Note:* The presidency's meeting log since January 2026.
 
 ### C-08-35 — unverified
 
@@ -2285,6 +2365,8 @@ Deception flags: {'misdirection': 10, 'omission': 1}
 
 **Finding:** The speech was not checked.
 
+- **Deception:** 
+- *Note:* The text of von der Leyen's speech.
 
 ### C-08-39 — mostly_false
 
