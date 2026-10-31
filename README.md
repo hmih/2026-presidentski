@@ -22,7 +22,7 @@ caveats are in [`data/transcripts/notes.md`](data/transcripts/notes.md).
 | Coverage | 08:00 → end (intro montage excluded) |
 | ASR | `whisper.cpp` + `large-v3-turbo-q5_0`, VAD, Bulgarian, beam 5 |
 | Speakers | moderator **Поли Златарева** (17.1 min), **Гюров** (42.2), **Йотова** (42.8) |
-| Output | 359 turns; 80 flagged `⚠` (cross-talk, low confidence) |
+| Output | 344 turns; 68 flagged `⚠` (cross-talk, low confidence) |
 
 Speaker identity is verified by an independent signal: YIN pitch medians of 219 Hz
 (moderator), 120 Hz (Gyurov), 189 Hz (Iotova), with 18/1909 segments on the wrong side of
@@ -76,6 +76,26 @@ primary sources in `data/subjects/`.
    definitional, or normative?
 6. Which claims are **unfalsifiable or unfalsifiable-as-stated**, and how should that be
    labelled rather than scored?
+
+## Claims (stage 2, in progress)
+
+339 atomic claims extracted from the transcript, each with a verbatim quote, English
+restatement, topic, type, checkability and the decision it refers to:
+
+- [`data/claims/claims.json`](data/claims/claims.json) — dataset
+- [`data/claims/claims.md`](data/claims/claims.md) — index by topic
+- [`data/claims/decisions.md`](data/claims/decisions.md) — 87 decisions referenced, with
+  which candidate makes claims about each
+- [`docs/claims_schema.md`](docs/claims_schema.md) — extraction rules
+
+Validation: every `quote_bg` is a verbatim substring of the transcript and resolves to a
+turn by the attributed speaker (339/339).
+
+| | |
+|---|---|
+| Claims | 339 (iotova 178, gyurov 161) |
+| Checkable | 138 checkable, 176 partly, 25 unverifiable |
+| Type | empirical 190, procedural 49, characterization 40, causal 28, normative 17, predictive 15 |
 
 ## Pipeline
 
