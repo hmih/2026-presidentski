@@ -424,6 +424,8 @@ Deception flags: {'misdirection': 8, 'omission': 1}
 
 **Finding:** The signed text runs for ten years and enters into force on signature, though it characterises its content as political commitments rather than treaty obligations.
 
+**Signed text:** „Това споразумение поражда действие от момента на подписването му и е валидно за период от десет (10) години от датата на подписването му.“
+
 - Council of Ministers of Bulgaria, agreement text and official explainer of 31.03.2026 (2026-03-31) — https://www.gov.bg/special/bg/prestsentar/novini/sporazumenie-za-satrudnichestvo-v-oblastta-na-sigurnostta-mezhdu-republika-balgariya-i-ukrayna
 
 ### C-03-07 — mixed
@@ -476,6 +478,8 @@ Deception flags: {'misdirection': 8, 'omission': 1}
 **Steelman:** By signing, Bulgaria committed itself to take part in the coalition of the willing.
 
 **Finding:** The text only says the parties value the coalition's work and confirm engagement with its activities. It creates no formal membership and no automatic commitment to participate.
+
+**Signed text:** „Участниците оценяват високо важната работа на Коалицията на желаещите и потвърждават своята ангажираност към нейните дейности.“
 
 - Council of Ministers of Bulgaria, full text of the agreement (PDF) (2026-03-30) — https://gov.bg/files/common/2026_Security_Cooperation_Agreement.pdf — archived: http://web.archive.org/web/20260915100719/https://www.gov.bg/files/common/2026_Security_Cooperation_Agreement.pdf
 - **Deception:** misdirection
@@ -555,6 +559,8 @@ Deception flags: {'misdirection': 8, 'omission': 1}
 
 **Finding:** The text provides that authorised institutions of the parties may conclude implementing and technical agreements.
 
+**Signed text:** „Участниците могат да сключват имплементационни и технически споразумения чрез упълномощени институции.“
+
 - Council of Ministers of Bulgaria, full text of the agreement (PDF) (2026-03-30) — https://gov.bg/files/common/2026_Security_Cooperation_Agreement.pdf — archived: http://web.archive.org/web/20260915100719/https://www.gov.bg/files/common/2026_Security_Cooperation_Agreement.pdf
 
 ### C-03-24 — mixed
@@ -580,6 +586,8 @@ Deception flags: {'misdirection': 8, 'omission': 1}
 **Steelman:** The agreement nowhere provides for Bulgarian soldiers to be sent to Ukraine.
 
 **Finding:** A full-text search of the 20-page signed text finds no reference to Bulgarian military personnel being deployed to Ukraine; the only personnel references concern Ukrainian service members.
+
+**Signed text:** „България ще продължи да осигурява обучение по английски език за украински военнослужещи, по искане на Украйна…“
 
 - Council of Ministers of Bulgaria, full text of the agreement (PDF); Focus/ZaKogo fact-check, 30.10.2026 (2026-03-30) — https://gov.bg/files/common/2026_Security_Cooperation_Agreement.pdf — archived: http://web.archive.org/web/20260915100719/https://www.gov.bg/files/common/2026_Security_Cooperation_Agreement.pdf
 
@@ -668,6 +676,8 @@ Deception flags: {'misdirection': 8, 'omission': 1}
 
 **Finding:** The text places itself outside the Vienna Convention and describes its content as political commitments, which is the opposite of treaty bindingness. Kyiv's own description of it as fixing 'clear obligations' does not change the instrument's self-declared status.
 
+**Signed text:** „Това споразумение не попада в обхвата на Виенската конвенция за правото на договорите (1969 г.) и предвижда политически ангажименти.“
+
 - Council of Ministers of Bulgaria, agreement text and official explainer of 31.03.2026 (2026-03-31) — https://www.gov.bg/special/bg/prestsentar/novini/sporazumenie-za-satrudnichestvo-v-oblastta-na-sigurnostta-mezhdu-republika-balgariya-i-ukrayna
 - **Deception:** misdirection
 
@@ -680,6 +690,8 @@ Deception flags: {'misdirection': 8, 'omission': 1}
 **Steelman:** There is not a single binding sentence in the agreement.
 
 **Finding:** The instrument self-describes as political commitments, excludes the Vienna Convention, and contains no enforcement or ratification machinery. 'Not a single binding sentence' is rhetorical, but the substance holds.
+
+**Signed text:** „Това споразумение не попада в обхвата на Виенската конвенция за правото на договорите (1969 г.) и предвижда политически ангажименти.“
 
 - Council of Ministers of Bulgaria, agreement text and official explainer of 31.03.2026 (2026-03-31) — https://www.gov.bg/special/bg/prestsentar/novini/sporazumenie-za-satrudnichestvo-v-oblastta-na-sigurnostta-mezhdu-republika-balgariya-i-ukrayna
 - Council of Ministers of Bulgaria, full text of the agreement (PDF) (2026-03-30) — https://gov.bg/files/common/2026_Security_Cooperation_Agreement.pdf — archived: http://web.archive.org/web/20260915100719/https://www.gov.bg/files/common/2026_Security_Cooperation_Agreement.pdf

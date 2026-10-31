@@ -12,14 +12,16 @@ def resolve(ref):
             "url": it["url"], "archive": it["archive"], "date": it["date"]}
 
 rows = []
-for cid, verdict, conf, steel, finding, refs, cref, deception, notes in V:
+for row in V:
+    cid, verdict, conf, steel, finding, refs, cref, deception, notes = row[:9]
+    doc_quote = row[9] if len(row) > 9 else ""
     c = claims[cid]
     rows.append({"claim_id": cid, "speaker": c["speaker"], "t": c["t"], "quote_bg": c["text"],
                  "claim_en": c["claim_en"], "topic": c["topic"], "verdict": verdict,
                  "confidence": conf, "steelman": steel, "finding": finding,
                  "evidence": [resolve(r) for r in refs],
                  "counter_evidence": [resolve(r) for r in cref],
-                 "deception": deception, "notes": notes})
+                 "deception": deception, "notes": notes, "document_quote": doc_quote})
 
 rows.sort(key=lambda r: (r["claim_id"]))
 json.dump({"count": len(rows), "claims": rows}, open("data/factcheck/verdicts.json", "w"),
@@ -51,6 +53,8 @@ for r in rows:
            f"*{r['claim_en']}*", "",
            f"**Steelman:** {r['steelman']}", "",
            f"**Finding:** {r['finding']}", ""]
+    if r.get("document_quote"):
+        md += [f"**Signed text:** „{r['document_quote']}“", ""]
     for e in r["evidence"]:
         md.append(f"- {e['source']} ({e['date']}) — {e['url']}" + (f" — archived: {e['archive']}" if e["archive"] else ""))
     if r["deception"] != "none":

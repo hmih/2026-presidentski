@@ -32,7 +32,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-01-18",
@@ -65,7 +66,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-01-19",
@@ -98,7 +100,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-01-20",
@@ -123,7 +126,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-01-27",
@@ -156,7 +160,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": "Technically the audience is the Assembly, not 193 heads of state."
+   "notes": "Technically the audience is the Assembly, not 193 heads of state.",
+   "document_quote": ""
   },
   {
    "claim_id": "C-02-01",
@@ -181,7 +186,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-02-02",
@@ -206,7 +212,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-02-07",
@@ -231,7 +238,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-02-08",
@@ -256,7 +264,8 @@
    ],
    "counter_evidence": [],
    "deception": "misdirection",
-   "notes": ""
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-02-11",
@@ -289,7 +298,8 @@
    ],
    "counter_evidence": [],
    "deception": "misdirection",
-   "notes": "Denies the existence of a document she voted for."
+   "notes": "Denies the existence of a document she voted for.",
+   "document_quote": ""
   },
   {
    "claim_id": "C-02-12",
@@ -314,7 +324,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-02-15",
@@ -339,7 +350,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": "A memory claim, but contradicted by the record she was discussing."
+   "notes": "A memory claim, but contradicted by the record she was discussing.",
+   "document_quote": ""
   },
   {
    "claim_id": "C-02-16",
@@ -355,7 +367,8 @@
    "evidence": [],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-02-21",
@@ -388,7 +401,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": "True as of the debate; the accession note was signed the day after it."
+   "notes": "True as of the debate; the accession note was signed the day after it.",
+   "document_quote": ""
   },
   {
    "claim_id": "C-02-22",
@@ -421,7 +435,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-02-23",
@@ -462,7 +477,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-02-24",
@@ -495,7 +511,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-02-25",
@@ -536,7 +553,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-02-26",
@@ -569,7 +587,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-02-27",
@@ -602,7 +621,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-03-01",
@@ -643,7 +663,8 @@
    ],
    "counter_evidence": [],
    "deception": "omission",
-   "notes": "The omission matters: it turns 'the speaker declined to table it' into 'he never asked'."
+   "notes": "The omission matters: it turns 'the speaker declined to table it' into 'he never asked'.",
+   "document_quote": ""
   },
   {
    "claim_id": "C-03-03",
@@ -668,7 +689,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": "Това споразумение поражда действие от момента на подписването му и е валидно за период от десет (10) години от датата на подписването му."
   },
   {
    "claim_id": "C-03-07",
@@ -701,7 +723,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": "Compresses a refusal to table into a parliamentary deliberation."
+   "notes": "Compresses a refusal to table into a parliamentary deliberation.",
+   "document_quote": ""
   },
   {
    "claim_id": "C-03-08",
@@ -742,7 +765,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-03-09",
@@ -775,7 +799,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-03-12",
@@ -800,7 +825,8 @@
    ],
    "counter_evidence": [],
    "deception": "misdirection",
-   "notes": "The gap between 'we value its work' and 'we are committed to join' is the whole dispute."
+   "notes": "The gap between 'we value its work' and 'we are committed to join' is the whole dispute.",
+   "document_quote": "Участниците оценяват високо важната работа на Коалицията на желаещите и потвърждават своята ангажираност към нейните дейности."
   },
   {
    "claim_id": "C-03-13",
@@ -816,7 +842,8 @@
    "evidence": [],
    "counter_evidence": [],
    "deception": "none",
-   "notes": "Would be settled by the Assembly's register of sittings for March 2026."
+   "notes": "Would be settled by the Assembly's register of sittings for March 2026.",
+   "document_quote": ""
   },
   {
    "claim_id": "C-03-17",
@@ -849,7 +876,8 @@
    ],
    "counter_evidence": [],
    "deception": "misdirection",
-   "notes": "The causal story reverses who stopped the gas."
+   "notes": "The causal story reverses who stopped the gas.",
+   "document_quote": ""
   },
   {
    "claim_id": "C-03-18",
@@ -874,7 +902,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": "Depends on the currency: BTA's English rendering says USD 500,000 a day and nearly USD 400 million."
+   "notes": "Depends on the currency: BTA's English rendering says USD 500,000 a day and nearly USD 400 million.",
+   "document_quote": ""
   },
   {
    "claim_id": "C-03-20",
@@ -899,7 +928,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-03-21",
@@ -924,7 +954,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-03-23",
@@ -949,7 +980,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": "Участниците могат да сключват имплементационни и технически споразумения чрез упълномощени институции."
   },
   {
    "claim_id": "C-03-24",
@@ -982,7 +1014,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": "The speaker may be relying on Article 85 of the constitution, which is a separate question from what the text says."
+   "notes": "The speaker may be relying on Article 85 of the constitution, which is a separate question from what the text says.",
+   "document_quote": ""
   },
   {
    "claim_id": "C-03-25",
@@ -1007,7 +1040,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": "България ще продължи да осигурява обучение по английски език за украински военнослужещи, по искане на Украйна…"
   },
   {
    "claim_id": "C-03-26",
@@ -1032,7 +1066,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": "Needs the full text checked clause by clause."
+   "notes": "Needs the full text checked clause by clause.",
+   "document_quote": ""
   },
   {
    "claim_id": "C-03-31",
@@ -1048,7 +1083,8 @@
    "evidence": [],
    "counter_evidence": [],
    "deception": "none",
-   "notes": "Requires NATO or coalition documents."
+   "notes": "Requires NATO or coalition documents.",
+   "document_quote": ""
   },
   {
    "claim_id": "C-03-34",
@@ -1064,7 +1100,8 @@
    "evidence": [],
    "counter_evidence": [],
    "deception": "none",
-   "notes": "Would be settled by the Assembly voting record."
+   "notes": "Would be settled by the Assembly voting record.",
+   "document_quote": ""
   },
   {
    "claim_id": "C-04-19",
@@ -1097,7 +1134,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": "Better treated as an argument than a claim."
+   "notes": "Better treated as an argument than a claim.",
+   "document_quote": ""
   },
   {
    "claim_id": "C-04-20",
@@ -1122,7 +1160,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-04-22",
@@ -1147,7 +1186,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-04-24",
@@ -1172,7 +1212,8 @@
    ],
    "counter_evidence": [],
    "deception": "misdirection",
-   "notes": ""
+   "notes": "",
+   "document_quote": "Това споразумение не попада в обхвата на Виенската конвенция за правото на договорите (1969 г.) и предвижда политически ангажименти."
   },
   {
    "claim_id": "C-04-34",
@@ -1205,7 +1246,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": "Това споразумение не попада в обхвата на Виенската конвенция за правото на договорите (1969 г.) и предвижда политически ангажименти."
   },
   {
    "claim_id": "C-04-35",
@@ -1238,7 +1280,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-05-11",
@@ -1271,7 +1314,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-05-21",
@@ -1304,7 +1348,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-05-22",
@@ -1345,7 +1390,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-05-25",
@@ -1370,7 +1416,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-05-28",
@@ -1411,7 +1458,8 @@
    ],
    "counter_evidence": [],
    "deception": "misdirection",
-   "notes": "A false claim about a documented figure."
+   "notes": "A false claim about a documented figure.",
+   "document_quote": ""
   },
   {
    "claim_id": "C-05-29",
@@ -1436,7 +1484,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": "BBR itself warned the reduction would take months and needed creditor approval."
+   "notes": "BBR itself warned the reduction would take months and needed creditor approval.",
+   "document_quote": ""
   },
   {
    "claim_id": "C-05-30",
@@ -1469,7 +1518,8 @@
    ],
    "counter_evidence": [],
    "deception": "misdirection",
-   "notes": "Denies the content of a provision that existed."
+   "notes": "Denies the content of a provision that existed.",
+   "document_quote": ""
   },
   {
    "claim_id": "C-05-31",
@@ -1494,7 +1544,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-05-32",
@@ -1519,7 +1570,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-05-33",
@@ -1544,7 +1596,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-05-34",
@@ -1569,7 +1622,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-05-40",
@@ -1602,7 +1656,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-06-02",
@@ -1635,7 +1690,8 @@
    ],
    "counter_evidence": [],
    "deception": "misdirection",
-   "notes": "The single clearest false number in the debate."
+   "notes": "The single clearest false number in the debate.",
+   "document_quote": ""
   },
   {
    "claim_id": "C-06-03",
@@ -1660,7 +1716,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-06-07",
@@ -1701,7 +1758,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": "The dispute is partly definitional: revenue measures versus net burden."
+   "notes": "The dispute is partly definitional: revenue measures versus net burden.",
+   "document_quote": ""
   },
   {
    "claim_id": "C-06-10",
@@ -1726,7 +1784,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": "Would need the budget's annexes."
+   "notes": "Would need the budget's annexes.",
+   "document_quote": ""
   },
   {
    "claim_id": "C-06-11",
@@ -1759,7 +1818,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-07-13",
@@ -1784,7 +1844,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-07-16",
@@ -1817,7 +1878,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-07-27",
@@ -1833,7 +1895,8 @@
    "evidence": [],
    "counter_evidence": [],
    "deception": "none",
-   "notes": "Would need the committee's agenda and voting record."
+   "notes": "Would need the committee's agenda and voting record.",
+   "document_quote": ""
   },
   {
    "claim_id": "C-07-30",
@@ -1858,7 +1921,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-07-31",
@@ -1891,7 +1955,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-07-32",
@@ -1924,7 +1989,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-07-34",
@@ -1949,7 +2015,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": "The Pardon Commission, by contrast, exists by presidential decree - a distinction the debate blurred."
+   "notes": "The Pardon Commission, by contrast, exists by presidential decree - a distinction the debate blurred.",
+   "document_quote": ""
   },
   {
    "claim_id": "C-07-35",
@@ -1982,7 +2049,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-07-38",
@@ -1998,7 +2066,8 @@
    "evidence": [],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-07-41",
@@ -2031,7 +2100,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": ""
   },
   {
    "claim_id": "C-07-42",
@@ -2072,7 +2142,8 @@
    ],
    "counter_evidence": [],
    "deception": "none",
-   "notes": ""
+   "notes": "",
+   "document_quote": ""
   }
  ]
 }

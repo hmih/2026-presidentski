@@ -1,0 +1,18 @@
+# Parsed primary documents
+
+| document | file | source | parsed with |
+|---|---|---|---|
+| Agreement on Security Cooperation between Bulgaria and Ukraine, Kyiv, 30 March 2026 (20 pp.) | `kyiv_agreement.txt` (PDF not committed) | https://gov.bg/files/common/2026_Security_Cooperation_Agreement.pdf | pypdf text layer |
+
+Verified against the signed text, not against reporting:
+
+- term: „валидно за период от десет (10) години“ — ten years
+- status: „не попада в обхвата на Виенската конвенция… и предвижда политически ангажименти“
+- Belene: „потенциалната продажба на оборудване, придобито за проекта АЕЦ „Белене“, на Украйна“ — potential sale, not a handover of reactors
+- coalition: „оценяват високо важната работа на Коалицията на желаещите и потвърждават своята ангажиментост към нейните дейности“ — no membership
+- soldiers: only training of Ukrainian personnel; no Bulgarian deployment
+- ratification: the string „ратифик“ appears zero times in the 20 pages
+
+**Not obtainable:** the Botash contract is classified as commercial secret and was never
+published, so claims about its exact terms cannot be checked against the primary text — only
+against official statements and the parliamentary committee's summary.
