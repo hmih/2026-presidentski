@@ -1,0 +1,2078 @@
+{
+ "count": 71,
+ "claims": [
+  {
+   "claim_id": "C-01-11",
+   "speaker": "gyurov",
+   "t": "06:06",
+   "quote_bg": "виждаме в загубата на огромна маса от гласове от парламентарните избори до сега",
+   "claim_en": "A huge mass of votes has been lost between the parliamentary elections and now.",
+   "topic": "campaign",
+   "verdict": "mostly_true",
+   "confidence": "high",
+   "steelman": "A huge mass of votes has been lost between the parliamentary elections and now.",
+   "finding": "Progressive Bulgaria won 1,444,924 votes on 19 April 2026; Iotova took 528,951 on 25 October - a fall of roughly 900,000.",
+   "evidence": [
+    {
+     "statement": "Baseline for the 'lost votes' comparison: at the 19 April 2026 early parliamentary election, Progressive Bulgaria (Radev's party) won 44.594% and 1,444,924 votes. Subtracting Iotova's 528,951 first-round votes gives a fall of 915,973 votes - i.e. the often-quoted 'about 900,000' is arithmetically right, though it compares a party-list vote with a candidate-pair vote in a much lower-turnout election.",
+     "quote": "получава 44,594% от гласовете, или 1 444 924 души са дали своя глас за формацията.",
+     "source": "Bulgarian National Radio (BNR) - 'При 100% обработени протоколи: ПБ - 44,594%; ГЕРБ-СДС - 13,387%; ПП-ДБ - 12,618%'",
+     "url": "https://bnrnews.bg/izbori/post/458857/pri-100percent-obraboteni-protokoli-pb-44594percent-gerb-sds-13387percent-pp-db-12618percent",
+     "archive": "",
+     "date": "2026-04-20"
+    },
+    {
+     "statement": "CEC's official first-round result: Iotova-Valchev 528,951 valid votes (34.759%), Gurov-Kandev 486,232 (31.952%) - a gap of 2.807 percentage points and of 42,719 valid votes. 'I support none of the candidates' took 67,353 votes (4.426%). The 42,719-vote gap is confirmed independently by Sega's debate report, which matches the subtraction of the two official totals.",
+     "quote": "Двойката събира 34,759% от гласовете и ще се изправи на балотаж срещу Андрей Гюров и Георги Кандев, които остават втори с 31,952%. Разликата между двата кандидатпрезидентски тандема е 2,807 процентни пункта ... Брой действителни гласове: Йотова и Вълчев събират 528 951 ... Гюров и Кандев - 486 232",
+     "source": "Epicenter (quoting CEC) - 'ЦИК обяви официално резултатите от вота: Йотова е първа с 528 951 гласа, Гюров събира 486 232'",
+     "url": "https://epicenter.bg/article/TsIK-obyavi-ofitsialno-rezultatite-ot-vota--Yotova-e-parva-s-528-951-glasa--Gyurov-sabira-486-232/434012/2/0",
+     "archive": "",
+     "date": "2026-10-27"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-01-18",
+   "speaker": "gyurov",
+   "t": "07:24",
+   "quote_bg": "Тогава, когато ние стояхме от страни с Вето, Всички от цели Европейски съюз бяха срещу нас.",
+   "claim_en": "When Bulgaria stood aside with a veto, the whole European Union was against it.",
+   "topic": "eu",
+   "verdict": "partly",
+   "confidence": "medium",
+   "steelman": "When Bulgaria stood aside with a veto, the whole European Union was against it.",
+   "finding": "Bulgaria blocked North Macedonia's accession in 2020 and lifted the veto on 24 June 2022 by adopting the French presidency proposal. That other member states opposed the veto is documented in outline but 'the whole EU' is an overstatement.",
+   "evidence": [
+    {
+     "statement": "Bulgaria did impose a veto on North Macedonia's EU accession process in 2020, and it lifted it on 24 June 2022 by adopting the French EU Council Presidency's proposal. BNT reports that the National Assembly voted 170 in favour of giving the government a mandate to accept the French proposal and that this 'lifts the veto imposed by Bulgaria in 2020'. The decision was conditional on the 2017 friendship treaty, Bulgarians being written into North Macedonia's constitution on an equal footing with other peoples, no recognition of a 'Macedonian language', and European guarantees. This directly contradicts Iotova's debate statement that she does not remember Bulgaria ever imposing a veto.",
+     "quote": "Със 170 гласа \"за\" парламентът прие предложението на \"Демократична България\" за предоставяне на мандат на Министерски съвет да приеме предложението на Френското председателство за Северна Македония. НС на практика дава мандат на МС да приеме т.н. френско предложение за започване на преговори на Северна Македония с ЕС и вдига ветото, наложено от България през 2020 г.",
+     "source": "БНТ Новини — „Парламентът свали ветото за Северна Македония – вижте при какви условия“",
+     "url": "https://bntnews.bg/news/parlamentat-svali-vetoto-za-severna-makedoniya-vizhte-pri-kakvi-usloviya-1199366news.html",
+     "archive": "http://web.archive.org/web/20260105162755/https://bntnews.bg/news/parlamentat-svali-vetoto-za-severna-makedoniya-vizhte-pri-kakvi-usloviya-1199366news.html",
+     "date": "2022-06-24"
+    },
+    {
+     "statement": "The official text of the 47th National Assembly's decision confirms the conditions attached to the French proposal. The decision (State Gazette No. 48 of 28 June 2022, adopted 24 June 2022) authorises the government to approve the draft negotiating framework and Council conclusions proposed by the then EU Council Presidency only if the text guarantees that Bulgarians are written into North Macedonia's constitution in the provisions mentioning other peoples and on an equal footing, that nothing in the accession process can be read as Bulgarian recognition of a 'Macedonian language', that good-neighbourliness remains a horizontal criterion, and that the 2017 treaty and joint committee protocols are referenced. This is the primary legal text behind the 'French proposal' vote.",
+     "quote": "Решение на Четиридесет и седмото Народно събрание на Република България във връзка с разширяването на Европейския съюз и процеса на преговори на Република Северна Македония ... Решението е прието от 47-ото народно събрание на 24 юни 2022 г. и е подпечатано с официалния печат на Народното събрание.",
+     "source": "Държавен вестник, бр. 48 от 28.06.2022 г. — Решение на 47-ото Народно събрание във връзка с разширяването на ЕС и процеса на преговори на Република Северна Македония",
+     "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174371",
+     "archive": "",
+     "date": "2022-06-24"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-01-19",
+   "speaker": "gyurov",
+   "t": "07:24",
+   "quote_bg": "С френското предложение, това, което ние успяхме да направим всъщност, е да сменим въпроса. Не България срещу Европейския съюз, а Република Северна Македония срещу Европейския съюз.",
+   "claim_en": "With the French proposal Bulgaria changed the question from Bulgaria versus the European Union to North Macedonia versus the European Union.",
+   "topic": "eu",
+   "verdict": "mostly_true",
+   "confidence": "high",
+   "steelman": "The French proposal changed the question from Bulgaria versus the EU to North Macedonia versus the EU.",
+   "finding": "The 47th Assembly's decision of 24 June 2022 attached conditions to the French proposal, and the EU opened accession talks with North Macedonia on 19 July 2022 - the framework did shift the dispute into the accession process.",
+   "evidence": [
+    {
+     "statement": "Bulgaria did impose a veto on North Macedonia's EU accession process in 2020, and it lifted it on 24 June 2022 by adopting the French EU Council Presidency's proposal. BNT reports that the National Assembly voted 170 in favour of giving the government a mandate to accept the French proposal and that this 'lifts the veto imposed by Bulgaria in 2020'. The decision was conditional on the 2017 friendship treaty, Bulgarians being written into North Macedonia's constitution on an equal footing with other peoples, no recognition of a 'Macedonian language', and European guarantees. This directly contradicts Iotova's debate statement that she does not remember Bulgaria ever imposing a veto.",
+     "quote": "Със 170 гласа \"за\" парламентът прие предложението на \"Демократична България\" за предоставяне на мандат на Министерски съвет да приеме предложението на Френското председателство за Северна Македония. НС на практика дава мандат на МС да приеме т.н. френско предложение за започване на преговори на Северна Македония с ЕС и вдига ветото, наложено от България през 2020 г.",
+     "source": "БНТ Новини — „Парламентът свали ветото за Северна Македония – вижте при какви условия“",
+     "url": "https://bntnews.bg/news/parlamentat-svali-vetoto-za-severna-makedoniya-vizhte-pri-kakvi-usloviya-1199366news.html",
+     "archive": "http://web.archive.org/web/20260105162755/https://bntnews.bg/news/parlamentat-svali-vetoto-za-severna-makedoniya-vizhte-pri-kakvi-usloviya-1199366news.html",
+     "date": "2022-06-24"
+    },
+    {
+     "statement": "The EU opened accession negotiations with North Macedonia and Albania at intergovernmental conferences in Brussels on 19 July 2022, implementing the European Council's March 2020 decision. This is the outcome that followed the Bulgarian parliament's 24 June 2022 decision to accept the French Presidency proposal; the holding of the intergovernmental conferences confirms that the block had been overcome in fact, not only in Bulgarian domestic wording.",
+     "quote": "Today, we have finally taken important steps forward in the opening of accession negotiations with North Macedonia and Albania. Intergovernmental Conferences at ministerial level were held in Brussels to implement the decision by the European Council of March 2020 to open accession talks.",
+     "source": "Council of the European Union — Statement by President Charles Michel on the occasion of Intergovernmental Conferences on the accession with North Macedonia and with Albania",
+     "url": "https://www.consilium.europa.eu/en/press/press-releases/2022/07/19/statement-by-president-michel-on-the-occasion-of-intergovernmental-conferences-on-the-accession-with-north-macedonia-and-with-albania/",
+     "archive": "http://web.archive.org/web/20220905214743/https://www.consilium.europa.eu/en/press/press-releases/2022/07/19/statement-by-president-michel-on-the-occasion-of-intergovernmental-conferences-on-the-accession-with-north-macedonia-and-with-albania/",
+     "date": "2022-07-19"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-01-20",
+   "speaker": "gyurov",
+   "t": "07:24",
+   "quote_bg": "ние успяхме да направим нашата позиция, позиция на Европейския съюз и това ни постави в много по-силна позиция, отколкото когато налагаме вето",
+   "claim_en": "Turning Bulgaria's position into the European Union's position placed it in a much stronger position than imposing a veto.",
+   "topic": "eu",
+   "verdict": "partly",
+   "confidence": "low",
+   "steelman": "This placed Bulgaria in a much stronger position than a veto would have.",
+   "finding": "An evaluative judgement about negotiating leverage; the procedural facts are documented, the comparison is not testable.",
+   "evidence": [
+    {
+     "statement": "The official text of the 47th National Assembly's decision confirms the conditions attached to the French proposal. The decision (State Gazette No. 48 of 28 June 2022, adopted 24 June 2022) authorises the government to approve the draft negotiating framework and Council conclusions proposed by the then EU Council Presidency only if the text guarantees that Bulgarians are written into North Macedonia's constitution in the provisions mentioning other peoples and on an equal footing, that nothing in the accession process can be read as Bulgarian recognition of a 'Macedonian language', that good-neighbourliness remains a horizontal criterion, and that the 2017 treaty and joint committee protocols are referenced. This is the primary legal text behind the 'French proposal' vote.",
+     "quote": "Решение на Четиридесет и седмото Народно събрание на Република България във връзка с разширяването на Европейския съюз и процеса на преговори на Република Северна Македония ... Решението е прието от 47-ото народно събрание на 24 юни 2022 г. и е подпечатано с официалния печат на Народното събрание.",
+     "source": "Държавен вестник, бр. 48 от 28.06.2022 г. — Решение на 47-ото Народно събрание във връзка с разширяването на ЕС и процеса на преговори на Република Северна Македония",
+     "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=174371",
+     "archive": "",
+     "date": "2022-06-24"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-01-27",
+   "speaker": "iotova",
+   "t": "11:52",
+   "quote_bg": "Направих го пред лидери на 193 държави.",
+   "claim_en": "Iotova raised it before the leaders of 193 states.",
+   "topic": "foreign_policy",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "She spoke before the leaders of 193 states.",
+   "finding": "Iotova addressed the general debate of the 81st UN General Assembly on 23 September 2026; the Assembly has 193 member states.",
+   "evidence": [
+    {
+     "statement": "Iotova did address the UN General Assembly: on 23 September 2026 she spoke in the general debate of the 81st session, delivering a speech centred on Black Sea security and calling for the Black Sea to be turned from a high-risk zone into a zone of national and international security. The Presidential website records the speech and the 81st session; this part of her debate claim is documented. The separate question is the '193 states' formulation (see next item).",
+     "quote": "България призовава: да превърнем Черно море от зона на повишен риск и заплаха в зона на национална и международна сигурност – зона на безопасност, зона на свободни транспортни, енергийни, търговски, дигитални коридори, на туризъм, зона, където се срещат в мир различни култури, религии и политически системи. Това заяви държавният глава Илияна Йотова в изказването си на 81-вата сесия на Общото събрание на ООН.",
+     "source": "Президент на Република България — „Държавният глава пред ООН: От зона на повишен риск да превърнем Черно море в зона на национална и международна сигурност“",
+     "url": "https://www.president.bg/news9076/darzhavniyat-glava-pred-oon-ot-zona-na-povishen-risk-da-prevarnem-cherno-more-v-zona-na-natsionalna-i-mezhdunarodna-sigurnost.html",
+     "archive": "http://web.archive.org/web/20261031092618/https://www.president.bg/news9076/darzhavniyat-glava-pred-oon-ot-zona-na-povishen-risk-da-prevarnem-cherno-more-v-zona-na-natsionalna-i-mezhdunarodna-sigurnost.html",
+     "date": "2026-09-23"
+    },
+    {
+     "statement": "The UN General Assembly is composed of all 193 UN member states, each with one vote; its annual general debate is the forum in which member states express their views. The figure '193 states' in Iotova's debate statement therefore matches the Assembly's membership, not a verified count of heads of state or government present in the hall. The general debate is addressed by states, often through ministers, and attendance varies by day, so 'before leaders of 193 states' is a rhetorical formulation rather than a documented attendance figure.",
+     "quote": "Each of the 193 Member States in the Assembly has one vote.",
+     "source": "United Nations — General Assembly, Functions and powers of the General Assembly",
+     "url": "https://www.un.org/en/ga/about/background.shtml",
+     "archive": "http://web.archive.org/web/20261018220858/https://www.un.org/en/ga/about/background.shtml",
+     "date": ""
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "Technically the audience is the Assembly, not 193 heads of state."
+  },
+  {
+   "claim_id": "C-02-01",
+   "speaker": "gyurov",
+   "t": "14:15",
+   "quote_bg": "самата резолюция на ООН всъщност предвиждаше да се прекратат военните действия",
+   "claim_en": "The UN resolution itself envisaged that military operations would cease.",
+   "topic": "foreign_policy",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "The UN resolution itself provided for a cessation of military operations.",
+   "finding": "On 24 February 2026 the General Assembly adopted a resolution calling for an immediate, full and unconditional ceasefire.",
+   "evidence": [
+    {
+     "statement": "A UN General Assembly resolution on the war in Ukraine exists: on 24 February 2026 the General Assembly adopted a resolution calling for an 'immediate, full and unconditional ceasefire' between Russia and Ukraine and for a 'comprehensive, just and lasting peace' based on international law. The vote was 107 in favour, 12 against and 51 abstentions (BTA, citing DPA). This is the document that makes Iotova's blanket statement 'there is no UN General Assembly resolution' false if it is read literally; the resolution is political and non-binding, so Gyurov's 'the resolution envisaged a cessation of hostilities' is loose but substantially accurate.",
+     "quote": "Общото събрание на ООН в Ню Йорк призова снощи чрез резолюция за незабавно прекратяване на огъня и траен мир в Украйна, в деня на четвъртата годишнина от пълномащабната инвазия на Русия в страната, предаде ДПА. Общо 107 държави членки на световната организация гласуваха в подкрепа на резолюцията в Ню Йорк, 12 гласуваха против, а 51 се въздържаха. Резолюцията призовава за „незабавно, пълно и безусловно прекратяване на огъня“ между Русия и Украйна и изисква „всеобхватен, справедлив и траен мир“ на основата на международното право.",
+     "source": "БТА — „Общото събрание на ООН призова за прекратяване на огъня и мир в Украйна“ (по ДПА)",
+     "url": "https://www.bta.bg/bg/news/world/1071047-obshtoto-sabranie-na-oon-prizova-za-prekratyavane-na-oganya-i-mir-v-ukrayna",
+     "archive": "http://web.archive.org/web/20260618012007/https://www.bta.bg/bg/news/world/1071047-obshtoto-sabranie-na-oon-prizova-za-prekratyavane-na-oganya-i-mir-v-ukrayna",
+     "date": "2026-02-24"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-02-02",
+   "speaker": "gyurov",
+   "t": "14:15",
+   "quote_bg": "нашата позиция, която първо беше в подкрепа",
+   "claim_en": "Our position was initially one of support.",
+   "topic": "foreign_policy",
+   "verdict": "mostly_true",
+   "confidence": "high",
+   "steelman": "Our position was initially one of support.",
+   "finding": "Bulgaria voted in favour of the 24 February 2026 resolution, alongside Germany, France, Italy and others.",
+   "evidence": [
+    {
+     "statement": "Bulgaria was among the EU member states that voted in favour of the 24 February 2026 UN General Assembly resolution. Nedeljnik's vote report lists Bulgaria alongside Germany, France, Italy, Spain, Poland, Romania, Croatia and Slovenia as EU members that voted for the text, while Serbia and the United States abstained. This is the best available direct statement of Bulgaria's position on that resolution; no Bulgarian official roll-call or MFA statement listing the vote was found.",
+     "quote": "Srbija se našla upravo u toj grupi uzdržanih zemalja, među kojima su još i Sjedinjene Američke Države. Takva odluka razlikuje se od stava većine članica EU, uključujući Nemačku, Francusku, Italiju, Španiju, Poljsku, Rumuniju, Bugarsku, Hrvatsku i Sloveniju, koje su glasale za rezoluciju.",
+     "source": "Nedeljnik — „Rezolucija o miru u Ukrajini usvojena u UN: Srbija uzdržana, dok su članice EU glasale 'za'“",
+     "url": "https://www.nedeljnik.rs/rezolucija-o-miru-u-ukrajini-usvojena-u-un-srbija-uzdrazana-dok-su-clanice-eu-glasale-za/",
+     "archive": "http://web.archive.org/web/20260224203516/https://www.nedeljnik.rs/rezolucija-o-miru-u-ukrajini-usvojena-u-un-srbija-uzdrazana-dok-su-clanice-eu-glasale-za/",
+     "date": "2026-02-24"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-02-07",
+   "speaker": "gyurov",
+   "t": "14:15",
+   "quote_bg": "Събиране на консултативния съвет прекалено късно, след като вече имаше индикация, седмици наред, че ще има ескалация",
+   "claim_en": "The Consultative Council was convened too late, after weeks of indications that escalation was coming.",
+   "topic": "defence",
+   "verdict": "partly",
+   "confidence": "medium",
+   "steelman": "The Consultative Council was convened too late, after weeks of indication of escalation.",
+   "finding": "It was convened on 7 October 2026, the day after two merchant ships were hit; whether that was 'too late' depends on what was known beforehand.",
+   "evidence": [
+    {
+     "statement": "Iotova convened the Consultative Council on National Security (КСНС) on 7 October 2026 — the first КСНС of her term as head of state — the day after two foreign-flagged merchant ships were hit by sea and air drones in Bulgaria's exclusive economic zone in the Black Sea. The stated topic was 'Current risks and threats to maritime security and the critical infrastructure of Bulgaria in the context of the war in Ukraine'. This fixes the date and the trigger of the session that both candidates discussed.",
+     "quote": "Президентът Илияна Йотова свика за днес първия в мандата си като държавен глава и върховен главнокомандващ Консултативен съвет за национална сигурност. Заседанието ще се проведе само ден след като два търговски кораба, плаващи под чужд флаг, бяха поразени от бойни морски и въздушни дронове, в периметъра на изключителната икономическа зона на България в Черно море. Темата на разискванията е: \"Актуални рискове и заплахи за морската сигурност и критичната инфраструктура на България в контекста на войната в Украйна“.",
+     "source": "БНР — „Президентът Йотова свиква КСНС заради поразените от дронове кораби“",
+     "url": "https://www.bnrnews.bg/main/post/538367/prezidentat-yotova-svikva-ksns-zaradi-porazenite-ot-dronove-korabi",
+     "archive": "http://web.archive.org/web/20261007062030/https://bnrnews.bg/main/post/538367/prezidentat-yotova-svikva-ksns-zaradi-porazenite-ot-dronove-korabi",
+     "date": "2026-10-07"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-02-08",
+   "speaker": "gyurov",
+   "t": "14:15",
+   "quote_bg": "той дойде прекалено късно, без конкретни решения и без конкретни цели",
+   "claim_en": "That meeting came too late and without concrete decisions or concrete goals.",
+   "topic": "defence",
+   "verdict": "mostly_false",
+   "confidence": "high",
+   "steelman": "The Council produced no concrete decisions or goals.",
+   "finding": "The 7 October 2026 KSNC published an opinion and concrete proposals condemning the strikes and setting out measures.",
+   "evidence": [
+    {
+     "statement": "The 7 October 2026 КСНС did produce a published opinion and concrete proposals, not merely a discussion: it condemned the strikes on merchant ships in the Black Sea as a gross violation of international maritime law, demanded an investigation and public reporting of the perpetrator, called for an immediate ceasefire and active Bulgarian participation in the peace process, and listed measures including anti-drone systems, NATO/EU monitoring and a UN resolution on freedom and safety of navigation in the Black Sea. This is relevant to Gyurov's debate criticism that the council met 'too late, without concrete decisions and without concrete goals'; the lateness is a judgment, but the 'no concrete decisions' part is not supported by the published opinion.",
+     "quote": "Консултативният съвет за национална сигурност категорично осъжда ударите по търговските кораби в Черно море като грубо нарушение на международното морско право и настоява за незабавно извършване на проверка за установяване на извършителя на ударите. След приключване на проверката изпълнителната власт да уведоми обществеността за резултатите. Най-големите гаранции за нашата сигурност е незабавно прекратяване на огъня и използването на всички политически и дипломатически канали за постигане на мир. България трябва да участва активно в този процес.",
+     "source": "Президент на Република България — „ЗАСЕДАНИЕ НА КСНС НА 07.10.2026 г.“, Становище и предложения",
+     "url": "https://www.president.bg/cat277/Zasedanie-na-KSNS-20261007/",
+     "archive": "http://web.archive.org/web/20261031092724/https://www.president.bg/cat277/Zasedanie-na-KSNS-20261007/",
+     "date": "2026-10-07"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "misdirection",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-02-11",
+   "speaker": "iotova",
+   "t": "16:43",
+   "quote_bg": "Аз твърдя, че резолюция на ООН от общото събрание няма",
+   "claim_en": "There is no UN General Assembly resolution.",
+   "topic": "foreign_policy",
+   "verdict": "false",
+   "confidence": "high",
+   "steelman": "There is no UN General Assembly resolution.",
+   "finding": "A resolution was adopted on 24 February 2026; Bulgaria voted for it.",
+   "evidence": [
+    {
+     "statement": "A UN General Assembly resolution on the war in Ukraine exists: on 24 February 2026 the General Assembly adopted a resolution calling for an 'immediate, full and unconditional ceasefire' between Russia and Ukraine and for a 'comprehensive, just and lasting peace' based on international law. The vote was 107 in favour, 12 against and 51 abstentions (BTA, citing DPA). This is the document that makes Iotova's blanket statement 'there is no UN General Assembly resolution' false if it is read literally; the resolution is political and non-binding, so Gyurov's 'the resolution envisaged a cessation of hostilities' is loose but substantially accurate.",
+     "quote": "Общото събрание на ООН в Ню Йорк призова снощи чрез резолюция за незабавно прекратяване на огъня и траен мир в Украйна, в деня на четвъртата годишнина от пълномащабната инвазия на Русия в страната, предаде ДПА. Общо 107 държави членки на световната организация гласуваха в подкрепа на резолюцията в Ню Йорк, 12 гласуваха против, а 51 се въздържаха. Резолюцията призовава за „незабавно, пълно и безусловно прекратяване на огъня“ между Русия и Украйна и изисква „всеобхватен, справедлив и траен мир“ на основата на международното право.",
+     "source": "БТА — „Общото събрание на ООН призова за прекратяване на огъня и мир в Украйна“ (по ДПА)",
+     "url": "https://www.bta.bg/bg/news/world/1071047-obshtoto-sabranie-na-oon-prizova-za-prekratyavane-na-oganya-i-mir-v-ukrayna",
+     "archive": "http://web.archive.org/web/20260618012007/https://www.bta.bg/bg/news/world/1071047-obshtoto-sabranie-na-oon-prizova-za-prekratyavane-na-oganya-i-mir-v-ukrayna",
+     "date": "2026-02-24"
+    },
+    {
+     "statement": "Bulgaria was among the EU member states that voted in favour of the 24 February 2026 UN General Assembly resolution. Nedeljnik's vote report lists Bulgaria alongside Germany, France, Italy, Spain, Poland, Romania, Croatia and Slovenia as EU members that voted for the text, while Serbia and the United States abstained. This is the best available direct statement of Bulgaria's position on that resolution; no Bulgarian official roll-call or MFA statement listing the vote was found.",
+     "quote": "Srbija se našla upravo u toj grupi uzdržanih zemalja, među kojima su još i Sjedinjene Američke Države. Takva odluka razlikuje se od stava većine članica EU, uključujući Nemačku, Francusku, Italiju, Španiju, Poljsku, Rumuniju, Bugarsku, Hrvatsku i Sloveniju, koje su glasale za rezoluciju.",
+     "source": "Nedeljnik — „Rezolucija o miru u Ukrajini usvojena u UN: Srbija uzdržana, dok su članice EU glasale 'za'“",
+     "url": "https://www.nedeljnik.rs/rezolucija-o-miru-u-ukrajini-usvojena-u-un-srbija-uzdrazana-dok-su-clanice-eu-glasale-za/",
+     "archive": "http://web.archive.org/web/20260224203516/https://www.nedeljnik.rs/rezolucija-o-miru-u-ukrajini-usvojena-u-un-srbija-uzdrazana-dok-su-clanice-eu-glasale-za/",
+     "date": "2026-02-24"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "misdirection",
+   "notes": "Denies the existence of a document she voted for."
+  },
+  {
+   "claim_id": "C-02-12",
+   "speaker": "iotova",
+   "t": "16:43",
+   "quote_bg": "В изявлението, което може би вие визирате, нямаше как да бъде защитен националния интерес на България и по-специално на Черно море",
+   "claim_en": "In the statement Gyurov may be referring to, Bulgaria's national interest, and in particular the Black Sea, could not have been protected.",
+   "topic": "foreign_policy",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "In the statement he means, Bulgaria's national interest and the Black Sea could not have been protected.",
+   "finding": "This is an evaluative claim about a September 2026 joint declaration; it is not falsifiable from the record.",
+   "evidence": [
+    {
+     "statement": "The document at the centre of the September 2026 row was a joint declaration/statement on Ukraine, not a UN General Assembly resolution. More than 50 states signed it ahead of the UN Security Council meeting on Ukraine; Bulgaria was among the 51 signatories, and all 27 EU member states signed. It called on Russia to agree to a full, immediate and unconditional ceasefire and to begin substantive peace negotiations. This is the 'statement' Iotova distinguished from a 'resolution' in the debate.",
+     "quote": "More than 50 countries signed the document ahead of the UN Security Council's meeting on Ukraine. The declaration calls on Russia to agree to a full, immediate, and unconditional ceasefire in Ukraine and to begin substantive peace negotiations. ... According to a list published on the website of Ukraine's Ministry of Foreign Affairs, Bulgaria is among the 51 countries that signed the declaration. A check by BTA revealed that the statement was signed by all 27 EU Member States.",
+     "source": "БНР (Radio Bulgaria in English) — „Bulgaria joins UN declaration on Ukraine“",
+     "url": "https://www.bnrnews.bg/en/post/533071/bulgaria-joins-un-declaration-on-ukraine",
+     "archive": "http://web.archive.org/web/20260925070315/https://bnrnews.bg/en/post/533071/bulgaria-joins-un-declaration-on-ukraine",
+     "date": "2026-09-25"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-02-15",
+   "speaker": "iotova",
+   "t": "17:50",
+   "quote_bg": "аз не си спълним кога България за нещо е налагала вето",
+   "claim_en": "She does not recall Bulgaria ever imposing a veto on anything.",
+   "topic": "eu",
+   "verdict": "false",
+   "confidence": "high",
+   "steelman": "She does not recall Bulgaria ever imposing a veto on anything.",
+   "finding": "Bulgaria imposed a veto on North Macedonia's EU accession in 2020 and lifted it on 24 June 2022.",
+   "evidence": [
+    {
+     "statement": "Bulgaria did impose a veto on North Macedonia's EU accession process in 2020, and it lifted it on 24 June 2022 by adopting the French EU Council Presidency's proposal. BNT reports that the National Assembly voted 170 in favour of giving the government a mandate to accept the French proposal and that this 'lifts the veto imposed by Bulgaria in 2020'. The decision was conditional on the 2017 friendship treaty, Bulgarians being written into North Macedonia's constitution on an equal footing with other peoples, no recognition of a 'Macedonian language', and European guarantees. This directly contradicts Iotova's debate statement that she does not remember Bulgaria ever imposing a veto.",
+     "quote": "Със 170 гласа \"за\" парламентът прие предложението на \"Демократична България\" за предоставяне на мандат на Министерски съвет да приеме предложението на Френското председателство за Северна Македония. НС на практика дава мандат на МС да приеме т.н. френско предложение за започване на преговори на Северна Македония с ЕС и вдига ветото, наложено от България през 2020 г.",
+     "source": "БНТ Новини — „Парламентът свали ветото за Северна Македония – вижте при какви условия“",
+     "url": "https://bntnews.bg/news/parlamentat-svali-vetoto-za-severna-makedoniya-vizhte-pri-kakvi-usloviya-1199366news.html",
+     "archive": "http://web.archive.org/web/20260105162755/https://bntnews.bg/news/parlamentat-svali-vetoto-za-severna-makedoniya-vizhte-pri-kakvi-usloviya-1199366news.html",
+     "date": "2022-06-24"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "A memory claim, but contradicted by the record she was discussing."
+  },
+  {
+   "claim_id": "C-02-16",
+   "speaker": "iotova",
+   "t": "17:50",
+   "quote_bg": "ние сме участвали в изработването на всички документи, във всички формати, в които участваме",
+   "claim_en": "Bulgaria took part in drafting all documents in all formats it participates in.",
+   "topic": "eu",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "Bulgaria took part in drafting all documents in every format it participates in.",
+   "finding": "Untestable as stated ('all documents').",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-02-21",
+   "speaker": "gyurov",
+   "t": "19:45",
+   "quote_bg": "Имам предвид, дронеч на НАТО, България отказа да се включи",
+   "claim_en": "Bulgaria refused to join the NATO drone programme.",
+   "topic": "defence",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "Bulgaria refused to join NATO's counter-drone programme.",
+   "finding": "On 11 September 2026 Defence Minister Stoyanov said Bulgaria would not join, citing a similar national capability; at the 14 October hearing he confirmed Bulgaria had not taken part 'from 2025 until now'.",
+   "evidence": [
+    {
+     "statement": "Documents the refusal. On 11 September 2026, during parliamentary control, Defence Minister Dimitar Stoyanov said Bulgaria would not join NATO's counter-drone initiative because it already runs a similar EU project and could not afford two parallel initiatives; he was answering Democratic Bulgaria MP Atanas Slavov about NATO's USD 40 bln initiative (20 member states, 5 years, a counter-drone marketplace). This is the origin of the 'Bulgaria refused' claim later used in the debate.",
+     "quote": "България няма да се е включи в антидрон инициативата на НАТО, тъй като вече изпълнява сходен проект по линия на ЕС и това би разпиляло ограничените финансови възможности на Министерството на отбраната",
+     "source": "Mediapool - „България няма да се включи в антидрон инициативата на НАТО“",
+     "url": "https://www.mediapool.bg/bulgaria/bulgaria-nyama-da-se-vklyuchi-v-antidron-initsiativata-na-nato/",
+     "archive": "",
+     "date": "2026-09-11"
+    },
+    {
+     "statement": "Verbatim Stoyanov statement giving the figure and the timeline, and admitting Bulgaria had not taken part 'from 2025 until now'. Mediapool's own framing is that the ministry 'found' the 220,000 euro only after the Black Sea drone strikes. This is the direct source of the number Gurov later quoted in the debate.",
+     "quote": "Получихме информация колко е вноската, и тя е 220 000 евро на година. Въпреки всичко оценките, които ние от Министерството на отбраната е, че при тази сума ние можем да го позволим това нещо и България ще бъде част от този проект в най-скоро време. Очакванията са към 30.10. ние вече да бъдем част от проекта",
+     "source": "Mediapool - „След ударите в Черно море: MO „намери“ 220 хил. евро и България влиза в антидрон инициатива на НАТО“",
+     "url": "https://www.mediapool.bg/bulgaria/sled-udarite-v-cherno-more-mo-nameri-220-hil-evro-i-bulgaria-vliza-v-antidron-initsiativa-na-nato/",
+     "archive": "",
+     "date": "2026-10-14"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "True as of the debate; the accession note was signed the day after it."
+  },
+  {
+   "claim_id": "C-02-22",
+   "speaker": "gyurov",
+   "t": "19:45",
+   "quote_bg": "като министъра на отбраната цитира цена от 220 хиляди евро, че е прекалено скъпо за нас",
+   "claim_en": "The defence minister cited a price of 220 thousand euros as too expensive for us.",
+   "topic": "defence",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "The defence minister cited a price of 220,000 euros as too expensive.",
+   "finding": "Stoyanov told parliament on 14 October 2026 that the second project requires a mandatory annual contribution of EUR 220,000.",
+   "evidence": [
+    {
+     "statement": "Wire confirmation that the 220,000 euro figure is the government's own: at the 14 October 2026 parliamentary hearing Stoyanov said the second project requires a mandatory annual contribution of EUR 220,000 over three years and that Bulgaria expected to be part of it by 30 October. The same hearing establishes that Bulgaria was ALREADY in NATO's Drone Edge initiative, with EUR 80 mln committed through SAFE for 20 systems (10 mobile, 10 stationary) and an expected memorandum with Spain.",
+     "quote": "The project requires a mandatory annual contribution of EUR 220,000 and will run for three years. Bulgaria will prepare an application to join the initiative. The country is expected to become part of the project by October 30, the Defence Minister added.",
+     "source": "Bulgarian News Agency (BTA), English service - „Bulgaria Has Committed EUR 80 Mln to NATO's Drone Edge Initiative“ (UPDATED)",
+     "url": "https://www.bta.bg/en/news/1224235-bulgaria-has-committed-eur-80-mln-to-nato-s-drone-edge-initiative",
+     "archive": "",
+     "date": "2026-10-14"
+    },
+    {
+     "statement": "Verbatim Stoyanov statement giving the figure and the timeline, and admitting Bulgaria had not taken part 'from 2025 until now'. Mediapool's own framing is that the ministry 'found' the 220,000 euro only after the Black Sea drone strikes. This is the direct source of the number Gurov later quoted in the debate.",
+     "quote": "Получихме информация колко е вноската, и тя е 220 000 евро на година. Въпреки всичко оценките, които ние от Министерството на отбраната е, че при тази сума ние можем да го позволим това нещо и България ще бъде част от този проект в най-скоро време. Очакванията са към 30.10. ние вече да бъдем част от проекта",
+     "source": "Mediapool - „След ударите в Черно море: MO „намери“ 220 хил. евро и България влиза в антидрон инициатива на НАТО“",
+     "url": "https://www.mediapool.bg/bulgaria/sled-udarite-v-cherno-more-mo-nameri-220-hil-evro-i-bulgaria-vliza-v-antidron-initsiativa-na-nato/",
+     "archive": "",
+     "date": "2026-10-14"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-02-23",
+   "speaker": "gyurov",
+   "t": "19:45",
+   "quote_bg": "в един закъснял план, след като нещата вече ескалираха, България реши да се включи",
+   "claim_en": "Bulgaria decided to join belatedly, after things had already escalated.",
+   "topic": "defence",
+   "verdict": "mixed",
+   "confidence": "high",
+   "steelman": "Bulgaria decided to join late, after the escalation.",
+   "finding": "The Council of Ministers approved accession on 28 October 2026 and the defence minister signed the note on 30 October - one day after the debate. 'Decided to join' was therefore true of the cabinet decision but not yet of the accession.",
+   "evidence": [
+    {
+     "statement": "Primary record of the decision: by protocol decision 46.32 of its sitting of 28 October 2026 the Council of Ministers approved the Memorandum of Understanding on air-defence capabilities against low-flying air threats between the defence ministries of Belgium, Denmark, Finland, Greece, Romania, Sweden and Turkey, and approved a DRAFT note of accession by Bulgaria's Defence Ministry as a basis for negotiations. It authorised the defence minister to negotiate and sign the note subject to subsequent ratification, with a declaration that the note enters into force only when the NATO Office of Legal Affairs is notified that Bulgaria's internal legal procedures are complete. So on 28 October - the day before the debate - the note existed only as an approved draft and had not been signed or transmitted.",
+     "quote": "3. Упълномощава министъра на отбраната да проведе преговори и да подпише нотата по т. 2 при условие за последваща ратификация, със следното изявление: „Тази Нота за присъединяване ще влезе в сила от деня на уведомяване на правната служба на НАТО (NATO Office of Legal Affairs) за изпълнението на българските вътрешноправни процедури, изискващи се за влизането ѝ в сила.“",
+     "source": "Council of Ministers (Republic of Bulgaria), portal strategy.bg - Протоколно решение №46.32/2026, extract from Protocol No. 46 of the sitting of 28 October 2026 (item 32), submitted by the Ministry of Defence",
+     "url": "https://www.strategy.bg/bg/pris/legal-information/protokolni-reseniia/171370",
+     "archive": "",
+     "date": "2026-10-28"
+    },
+    {
+     "statement": "Shows the state of play on the eve of the debate: on 28 October 2026 the Council of Ministers adopted the accession decision 'subject to subsequent ratification', and Bulgaria ON AIR explicitly notes that this does not by itself provide for immediate deployment of new counter-drone systems. The same sitting approved joining a France-Denmark framework agreement for 32 VL MICA missiles for the navy - evidence of parallel air-defence participation.",
+     "quote": "Присъединяването е предвидено при условията на последваща ратификация. Това означава, че решението само по себе си не осигурява незабавно разполагане на нови системи за защита от дронове.",
+     "source": "Bulgaria ON AIR - „МС с решения за отбраната: Защита от дронове и освобождаване на Ефтимов“",
+     "url": "https://www.bgonair.bg/a/2-bulgaria/434952-ms-s-resheniya-za-otbranata-zashtita-ot-dronove-i-osvobozhdavane-na-eftimov",
+     "archive": "",
+     "date": "2026-10-28"
+    },
+    {
+     "statement": "Establishes when Bulgaria actually joined. Defence Minister Stoyanov signed the note of accession on Friday 30 October 2026 - one day AFTER the 29 October debate. The Council of Ministers had approved accession earlier that week; the project lasts three years with a mandatory EUR 220,000 annual contribution; the note must still go to the National Assembly for ratification.",
+     "quote": "The Council of Ministers approved Bulgaria's accession to the international initiative earlier this week. The project has a duration of three years and requires a mandatory annual contribution of EUR 220,000. The note is to be submitted to the National Assembly for ratification.",
+     "source": "Bulgarian News Agency (BTA), English service - „Bulgaria Moves to Join NATO Initiative against Low-Flying Aerial Threats“",
+     "url": "https://www.bta.bg/en/news/bulgaria/1236538-bulgaria-moves-to-join-nato-initiative-against-low-flying-aerial-threats",
+     "archive": "",
+     "date": "2026-10-30"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-02-24",
+   "speaker": "iotova",
+   "t": "20:18",
+   "quote_bg": "Правителството подаде документите за участие в тази програма",
+   "claim_en": "The government submitted the documents for participation in this programme.",
+   "topic": "defence",
+   "verdict": "mostly_true",
+   "confidence": "high",
+   "steelman": "The government submitted the documents for participation in the programme.",
+   "finding": "The Council of Ministers approved the memorandum of understanding by protocol decision 46.32 on 28 October 2026, the day before the debate.",
+   "evidence": [
+    {
+     "statement": "Primary record of the decision: by protocol decision 46.32 of its sitting of 28 October 2026 the Council of Ministers approved the Memorandum of Understanding on air-defence capabilities against low-flying air threats between the defence ministries of Belgium, Denmark, Finland, Greece, Romania, Sweden and Turkey, and approved a DRAFT note of accession by Bulgaria's Defence Ministry as a basis for negotiations. It authorised the defence minister to negotiate and sign the note subject to subsequent ratification, with a declaration that the note enters into force only when the NATO Office of Legal Affairs is notified that Bulgaria's internal legal procedures are complete. So on 28 October - the day before the debate - the note existed only as an approved draft and had not been signed or transmitted.",
+     "quote": "3. Упълномощава министъра на отбраната да проведе преговори и да подпише нотата по т. 2 при условие за последваща ратификация, със следното изявление: „Тази Нота за присъединяване ще влезе в сила от деня на уведомяване на правната служба на НАТО (NATO Office of Legal Affairs) за изпълнението на българските вътрешноправни процедури, изискващи се за влизането ѝ в сила.“",
+     "source": "Council of Ministers (Republic of Bulgaria), portal strategy.bg - Протоколно решение №46.32/2026, extract from Protocol No. 46 of the sitting of 28 October 2026 (item 32), submitted by the Ministry of Defence",
+     "url": "https://www.strategy.bg/bg/pris/legal-information/protokolni-reseniia/171370",
+     "archive": "",
+     "date": "2026-10-28"
+    },
+    {
+     "statement": "Shows the state of play on the eve of the debate: on 28 October 2026 the Council of Ministers adopted the accession decision 'subject to subsequent ratification', and Bulgaria ON AIR explicitly notes that this does not by itself provide for immediate deployment of new counter-drone systems. The same sitting approved joining a France-Denmark framework agreement for 32 VL MICA missiles for the navy - evidence of parallel air-defence participation.",
+     "quote": "Присъединяването е предвидено при условията на последваща ратификация. Това означава, че решението само по себе си не осигурява незабавно разполагане на нови системи за защита от дронове.",
+     "source": "Bulgaria ON AIR - „МС с решения за отбраната: Защита от дронове и освобождаване на Ефтимов“",
+     "url": "https://www.bgonair.bg/a/2-bulgaria/434952-ms-s-resheniya-za-otbranata-zashtita-ot-dronove-i-osvobozhdavane-na-eftimov",
+     "archive": "",
+     "date": "2026-10-28"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-02-25",
+   "speaker": "iotova",
+   "t": "20:18",
+   "quote_bg": "Имаше изявление на министра на отбраната колко ще струва на България и въпреки това ние записахме там своето участие",
+   "claim_en": "There was a statement by the defence minister on how much it would cost Bulgaria, and we nevertheless registered our participation.",
+   "topic": "defence",
+   "verdict": "mixed",
+   "confidence": "high",
+   "steelman": "The minister stated the cost and Bulgaria nevertheless registered its participation.",
+   "finding": "The cost was stated and the cabinet approved accession, but the note of accession was signed on 30 October 2026, after the debate, and still required ratification.",
+   "evidence": [
+    {
+     "statement": "Wire confirmation that the 220,000 euro figure is the government's own: at the 14 October 2026 parliamentary hearing Stoyanov said the second project requires a mandatory annual contribution of EUR 220,000 over three years and that Bulgaria expected to be part of it by 30 October. The same hearing establishes that Bulgaria was ALREADY in NATO's Drone Edge initiative, with EUR 80 mln committed through SAFE for 20 systems (10 mobile, 10 stationary) and an expected memorandum with Spain.",
+     "quote": "The project requires a mandatory annual contribution of EUR 220,000 and will run for three years. Bulgaria will prepare an application to join the initiative. The country is expected to become part of the project by October 30, the Defence Minister added.",
+     "source": "Bulgarian News Agency (BTA), English service - „Bulgaria Has Committed EUR 80 Mln to NATO's Drone Edge Initiative“ (UPDATED)",
+     "url": "https://www.bta.bg/en/news/1224235-bulgaria-has-committed-eur-80-mln-to-nato-s-drone-edge-initiative",
+     "archive": "",
+     "date": "2026-10-14"
+    },
+    {
+     "statement": "Establishes when Bulgaria actually joined. Defence Minister Stoyanov signed the note of accession on Friday 30 October 2026 - one day AFTER the 29 October debate. The Council of Ministers had approved accession earlier that week; the project lasts three years with a mandatory EUR 220,000 annual contribution; the note must still go to the National Assembly for ratification.",
+     "quote": "The Council of Ministers approved Bulgaria's accession to the international initiative earlier this week. The project has a duration of three years and requires a mandatory annual contribution of EUR 220,000. The note is to be submitted to the National Assembly for ratification.",
+     "source": "Bulgarian News Agency (BTA), English service - „Bulgaria Moves to Join NATO Initiative against Low-Flying Aerial Threats“",
+     "url": "https://www.bta.bg/en/news/bulgaria/1236538-bulgaria-moves-to-join-nato-initiative-against-low-flying-aerial-threats",
+     "archive": "",
+     "date": "2026-10-30"
+    },
+    {
+     "statement": "Independent (public broadcaster) confirmation of the same signature and that accession was not yet complete: the note was signed 'today' (30 October 2026) and was still to be sent to the National Assembly for ratification. As of 31 October 2026 no ratification vote was found.",
+     "quote": "Министърът на отбраната Димитър Стоянов подписа днес Нота за присъединяване на България към инициативата на НАТО за развитие на способности за противодействие на нисколетящи въздушни заплахи.",
+     "source": "БНР (Радио България) - „България се включва в инициативата на НАТО за противодействие на дронове“",
+     "url": "https://bnrnews.bg/radiobulgaria/post/550684/balgariya-se-vklyuchva-v-initsiativata-na-nato-za-protivodeystvie-na-dronove",
+     "archive": "",
+     "date": "2026-10-30"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-02-26",
+   "speaker": "iotova",
+   "t": "20:18",
+   "quote_bg": "има още много други системи, като системата ИРИС, например, в която участваме",
+   "claim_en": "There are many other systems, such as the IRIS system, in which Bulgaria participates.",
+   "topic": "defence",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "Bulgaria participates in other systems such as IRIS.",
+   "finding": "Parliament approved an updated air-defence investment programme on 15 October 2026 covering IRIS-T, and the minister linked counter-drone procurement to that contract.",
+   "evidence": [
+    {
+     "statement": "Documents Bulgarian participation in IRIS-T, i.e. that Yotova's 'we take part in other systems such as IRIS-T' is substantiated: on 15 October 2026 Parliament approved an updated air-defence investment project - the revised first stage for one IRIS-T SLM (contract value cut from EUR 182,114,311 to EUR 180,605,928) plus a second stage for five more, combined EUR 1,106,466,933 under the SAFE instrument, implemented through a programme agreement with Germany and an addendum to the Diehl Defence supply contract; Bulgaria approved the original one-system project in August 2024 and signed the joint-procurement programme agreement with Germany in September 2024 under the European Sky Shield Initiative.",
+     "quote": "The two stages, financed under the Security Action for Europe (SAFE) instrument, have a combined value of EUR 1,106,466,933.",
+     "source": "Bulgarian News Agency (BTA), English service - „Parliament Approves Project for Five More Air Defence Systems“",
+     "url": "https://www.bta.bg/en/news/bulgaria/1225231-parliament-approves-project-for-five-more-air-defence-systems",
+     "archive": "http://web.archive.org/web/20261015104623/https://www.bta.bg/en/news/bulgaria/1225231-parliament-approves-project-for-five-more-air-defence-systems",
+     "date": "2026-10-15"
+    },
+    {
+     "statement": "Stoyanov explicitly linked the IRIS-T purchase to counter-drone acquisition, telling Parliament that Bulgaria will procure anti-drone systems inside the accompanying contract so that every IRIS-T complex has one; the first complex is expected 32 months after contract signature and the SAFE-funded project totals close to EUR 1.14 bn. This supports the substance of Yotova's point that Bulgaria does participate in other air-defence/counter-drone efforts, while confirming those capabilities are not yet delivered.",
+     "quote": "За това дали трябва да купуваме антидрон системи и да насочим част от проектите, ние ще предприемем инициатива за придобиване в рамките и на този проект, в съпътстващия договор, на антидрон системи и идеята е всеки един комплекс да има такава система",
+     "source": "БНР Програма Хоризонт - „НС одобри придобиването на още пет зенитно-ракетни комплекса IRIS-T“",
+     "url": "https://bnrnews.bg/horizont/post/542478/parlamentat-odobri-pridobivaneto-na-oshte-pet-zenitno-raketni-kompleksa-iris-t",
+     "archive": "",
+     "date": "2026-10-15"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-02-27",
+   "speaker": "gyurov",
+   "t": "20:47",
+   "quote_bg": "министъра на отбраната отказа, включване в тази система",
+   "claim_en": "The defence minister refused inclusion in this system.",
+   "topic": "defence",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "The defence minister refused inclusion in the system.",
+   "finding": "Same record: Stoyanov's 11 September 2026 refusal and his 14 October confirmation that Bulgaria had not taken part.",
+   "evidence": [
+    {
+     "statement": "Documents the refusal. On 11 September 2026, during parliamentary control, Defence Minister Dimitar Stoyanov said Bulgaria would not join NATO's counter-drone initiative because it already runs a similar EU project and could not afford two parallel initiatives; he was answering Democratic Bulgaria MP Atanas Slavov about NATO's USD 40 bln initiative (20 member states, 5 years, a counter-drone marketplace). This is the origin of the 'Bulgaria refused' claim later used in the debate.",
+     "quote": "България няма да се е включи в антидрон инициативата на НАТО, тъй като вече изпълнява сходен проект по линия на ЕС и това би разпиляло ограничените финансови възможности на Министерството на отбраната",
+     "source": "Mediapool - „България няма да се включи в антидрон инициативата на НАТО“",
+     "url": "https://www.mediapool.bg/bulgaria/bulgaria-nyama-da-se-vklyuchi-v-antidron-initsiativata-na-nato/",
+     "archive": "",
+     "date": "2026-09-11"
+    },
+    {
+     "statement": "Verbatim Stoyanov statement giving the figure and the timeline, and admitting Bulgaria had not taken part 'from 2025 until now'. Mediapool's own framing is that the ministry 'found' the 220,000 euro only after the Black Sea drone strikes. This is the direct source of the number Gurov later quoted in the debate.",
+     "quote": "Получихме информация колко е вноската, и тя е 220 000 евро на година. Въпреки всичко оценките, които ние от Министерството на отбраната е, че при тази сума ние можем да го позволим това нещо и България ще бъде част от този проект в най-скоро време. Очакванията са към 30.10. ние вече да бъдем част от проекта",
+     "source": "Mediapool - „След ударите в Черно море: MO „намери“ 220 хил. евро и България влиза в антидрон инициатива на НАТО“",
+     "url": "https://www.mediapool.bg/bulgaria/sled-udarite-v-cherno-more-mo-nameri-220-hil-evro-i-bulgaria-vliza-v-antidron-initsiativa-na-nato/",
+     "archive": "",
+     "date": "2026-10-14"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-03-01",
+   "speaker": "iotova",
+   "t": "27:52",
+   "quote_bg": "без мандат на Народното събрание и подписахте едно споразумение",
+   "claim_en": "Gyurov signed the Kyiv agreement without a mandate from the National Assembly.",
+   "topic": "ukraine",
+   "verdict": "mostly_true",
+   "confidence": "high",
+   "steelman": "Gyurov signed a ten-year security agreement with Ukraine in Kyiv on 30 March 2026 without a prior National Assembly vote authorising the signature.",
+   "finding": "No National Assembly vote authorised the signature. A mandate was, however, requested: caretaker PM Glavchev wrote to the Assembly on 18 December 2024 and Speaker Kiselova refused to table it on 19 December 2024, holding that signing fell within the government's competence. The claim is accurate as to the absence of a mandate but omits that one was formally sought and refused by the speaker.",
+   "evidence": [
+    {
+     "statement": "On 18 December 2024 caretaker Prime Minister Dimitar Glavchev formally asked the National Assembly, through Speaker Natalia Kiselova, for a specific mandate to sign the ten-year security agreement, citing its long-term framework and the Constitutional Court's case law on caretaker governments. This shows that no mandate existed at that point; the request was never put to a vote.",
+     "quote": "С оглед предвидената дългосрочна рамка (10-годишен срок на действие) в духа на парламентарното управление, в изпълнение на Конституцията и практиката на Конституционния съд призовавам Народното събрание да даде нарочен мандат на служебното правителство за подписване на Споразумението за сътрудничество в областта на сигурността между Република България и Украйна.",
+     "source": "Council of Ministers of Bulgaria, press release of 18.12.2024",
+     "url": "https://www.government.bg/bg/prestsentar/novini/premierat-glavchev-poiska-ot-narodnoto-sabranie-mandat-za-podpisvane-na-sporazumenieto-za-satrudnichestvo-v-oblastta-na-sigurnostta-mezhdu-republika-balgariya-i-ukraina",
+     "archive": "",
+     "date": "2024-12-18"
+    },
+    {
+     "statement": "Speaker Natalia Kiselova refused to table the mandate request: on 19 December 2024 she said she would not put the draft agreement to a vote because it fell within the government's competence and the government had already authorised the Prime Minister to sign it. She later wrote that the 51st National Assembly 'did not give a mandate' and that she did not submit the approval request. No National Assembly mandate was ever voted; Gyurov signed on 30 March 2026 without one, and in 2026 Kiselova said the National Assembly had not been informed. No formal text of a speaker's letter 'returning' the document was located; Gyurov's account that the speaker returned it is his characterization of this refusal.",
+     "quote": "Няма да внеса проекта на Споразумение с Украйна за сътрудничество в областта на сигурността за гласуване в пленарната зала. ... Тъй като има нарочно изрично решение на правителството, министър-председателят трябва да се съобрази с него, а не да търси подкрепа и да прехвърля отговорността на Народното събрание.",
+     "source": "BNR Horizont, 19.12.2024; Natalia Kiselova Facebook post, 31.03.2026 (reproduced by 5GMedia)",
+     "url": "https://bnrnews.bg/horizont/post/332722/natalia-kiselova-otkaza-da-vkluchi-v-dnevnia-red-na-ns-sporazumenieto-s-ukraina",
+     "archive": "",
+     "date": "2024-12-19"
+    },
+    {
+     "statement": "The agreement's official title is 'Agreement on Cooperation in the Field of Security between the Republic of Bulgaria and Ukraine'. The signed text is dated Kyiv, 30 March 2026, and names caretaker Prime Minister Andrey Gyurov and Ukrainian President Volodymyr Zelensky as the signatories.",
+     "quote": "СПОРАЗУМЕНИЕ ЗА СЪТРУДНИЧЕСТВО В ОБЛАСТТА НА СИГУРНОСТТА МЕЖДУ РЕПУБЛИКА БЪЛГАРИЯ И УКРАЙНА ... Подписано в Киев на 30 март 2026 г. в два екземпляра на български, украински и английски език, като всички текстове са еднакво автентични.",
+     "source": "Council of Ministers of Bulgaria, full text of the agreement (PDF)",
+     "url": "https://gov.bg/files/common/2026_Security_Cooperation_Agreement.pdf",
+     "archive": "http://web.archive.org/web/20260915100719/https://www.gov.bg/files/common/2026_Security_Cooperation_Agreement.pdf",
+     "date": "2026-03-30"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "omission",
+   "notes": "The omission matters: it turns 'the speaker declined to table it' into 'he never asked'."
+  },
+  {
+   "claim_id": "C-03-03",
+   "speaker": "iotova",
+   "t": "27:52",
+   "quote_bg": "с който за 10 години накарахте държавата да поема определени ангажименти",
+   "claim_en": "The agreement makes the state take on commitments for 10 years.",
+   "topic": "ukraine",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "The agreement binds Bulgaria for ten years.",
+   "finding": "The signed text runs for ten years and enters into force on signature, though it characterises its content as political commitments rather than treaty obligations.",
+   "evidence": [
+    {
+     "statement": "The text expressly places itself outside the 1969 Vienna Convention on the Law of Treaties and says it sets out 'political commitments'; it enters into force on signature and runs for ten years. The Council of Ministers' own explainer says it contains no legally binding obligations and that implementation depends on national law and parliamentary decisions. The word 'framework' does not appear in the signed text; that is Gyurov's label.",
+     "quote": "Това споразумение не попада в обхвата на Виенската конвенция за правото на договорите (1969 г.) и предвижда политически ангажименти. | Той не попада в приложното поле на Закона за международните договори на Република България, като не съдържа правнообвързващи ангажименти, а възможности за допълнително развитие на съвместни отбранителни способности.",
+     "source": "Council of Ministers of Bulgaria, agreement text and official explainer of 31.03.2026",
+     "url": "https://www.gov.bg/special/bg/prestsentar/novini/sporazumenie-za-satrudnichestvo-v-oblastta-na-sigurnostta-mezhdu-republika-balgariya-i-ukrayna",
+     "archive": "",
+     "date": "2026-03-31"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-03-07",
+   "speaker": "gyurov",
+   "t": "28:45",
+   "quote_bg": "това споразумение е било обсъждано и в парламента, изпратена обратно към правителството",
+   "claim_en": "The agreement was discussed in parliament and sent back to the government.",
+   "topic": "ukraine",
+   "verdict": "mixed",
+   "confidence": "medium",
+   "steelman": "The agreement went through the National Assembly and the speaker returned it, saying the power to sign lay with the government.",
+   "finding": "A mandate request was submitted through the speaker in December 2024 and she declined to table it, citing government competence. That is not the same as the agreement being 'discussed in parliament', which did not happen; the 'returned' part matches the record.",
+   "evidence": [
+    {
+     "statement": "On 18 December 2024 caretaker Prime Minister Dimitar Glavchev formally asked the National Assembly, through Speaker Natalia Kiselova, for a specific mandate to sign the ten-year security agreement, citing its long-term framework and the Constitutional Court's case law on caretaker governments. This shows that no mandate existed at that point; the request was never put to a vote.",
+     "quote": "С оглед предвидената дългосрочна рамка (10-годишен срок на действие) в духа на парламентарното управление, в изпълнение на Конституцията и практиката на Конституционния съд призовавам Народното събрание да даде нарочен мандат на служебното правителство за подписване на Споразумението за сътрудничество в областта на сигурността между Република България и Украйна.",
+     "source": "Council of Ministers of Bulgaria, press release of 18.12.2024",
+     "url": "https://www.government.bg/bg/prestsentar/novini/premierat-glavchev-poiska-ot-narodnoto-sabranie-mandat-za-podpisvane-na-sporazumenieto-za-satrudnichestvo-v-oblastta-na-sigurnostta-mezhdu-republika-balgariya-i-ukraina",
+     "archive": "",
+     "date": "2024-12-18"
+    },
+    {
+     "statement": "Speaker Natalia Kiselova refused to table the mandate request: on 19 December 2024 she said she would not put the draft agreement to a vote because it fell within the government's competence and the government had already authorised the Prime Minister to sign it. She later wrote that the 51st National Assembly 'did not give a mandate' and that she did not submit the approval request. No National Assembly mandate was ever voted; Gyurov signed on 30 March 2026 without one, and in 2026 Kiselova said the National Assembly had not been informed. No formal text of a speaker's letter 'returning' the document was located; Gyurov's account that the speaker returned it is his characterization of this refusal.",
+     "quote": "Няма да внеса проекта на Споразумение с Украйна за сътрудничество в областта на сигурността за гласуване в пленарната зала. ... Тъй като има нарочно изрично решение на правителството, министър-председателят трябва да се съобрази с него, а не да търси подкрепа и да прехвърля отговорността на Народното събрание.",
+     "source": "BNR Horizont, 19.12.2024; Natalia Kiselova Facebook post, 31.03.2026 (reproduced by 5GMedia)",
+     "url": "https://bnrnews.bg/horizont/post/332722/natalia-kiselova-otkaza-da-vkluchi-v-dnevnia-red-na-ns-sporazumenieto-s-ukraina",
+     "archive": "",
+     "date": "2024-12-19"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "Compresses a refusal to table into a parliamentary deliberation."
+  },
+  {
+   "claim_id": "C-03-08",
+   "speaker": "gyurov",
+   "t": "28:45",
+   "quote_bg": "договора с Боташ, който пак подписан от служебно правителство за 13 години",
+   "claim_en": "The Botash contract was likewise signed by a caretaker government, for 13 years.",
+   "topic": "energy",
+   "verdict": "mostly_true",
+   "confidence": "medium",
+   "steelman": "The Botash contract was signed by a caretaker government and runs 13 years.",
+   "finding": "Signed on 3 January 2023, during the Donev caretaker government, with a term to 31 December 2035 - thirteen years.",
+   "evidence": [
+    {
+     "statement": "The Bulgargaz-BOTAS agreement was signed on 3 January 2023 at the Council of Ministers in Sofia by the two companies' chief executives, Denitsa Zlateva (Bulgargaz) and Burhan Ozcan (BOTAS), in the presence of Bulgaria's caretaker Energy Minister Rossen Hristov and Turkish Energy Minister Fatih Donmez. It was negotiated over the Christmas holidays and signed on the first working day of the year. The signatories acted under the caretaker cabinet of PM Galab Donev (named in the same article), i.e. an executive act, not a parliamentary one; President Rumen Radev publicly presented it as the fruit of his own December meeting with Erdogan.",
+     "quote": "Документът беше подписан в Министерския съвет от директорите на двете компании Деница Златева и Бюрхан Йозджан в присъствието на Росен Христов и турския министър на енергетиката и природните ресурси Фатих Дьонмез. По думите на Христов споразумението е договорено на Коледа и е подписано в първия работен ден след празниците, което показва голямата му важност.",
+     "source": "Свободна Европа (RFE/RL Bulgaria) — \"Исторически момент\". България ще може да доставя природен газ през терминали в Турция",
+     "url": "https://bulgaria.rferl.org/a/32205309.html",
+     "archive": "",
+     "date": "2023-01-03"
+    },
+    {
+     "statement": "The term is 13 years. On the day of signing the Turkish energy minister stated the contract runs 13 years and provides for transmission of up to 1.5 bcm of gas a year (about half of Bulgaria's annual consumption), with access to five Turkish LNG terminals. This is the figure given by the counterparty at signature, and it is the figure repeated by RFE/RL, BTA and by Gurov himself in the debate — there is no documentary basis in the sources for a 10-year term for this contract.",
+     "quote": "Турският енергиен министър Фатих Дьонмез съобщи, че срокът на договора е 13 години и предвижда възможност за пренос на 1,5 млрд. куб. м газ годишно. Това е около половината количество природен газ, което се използва в България.",
+     "source": "Свободна Европа (RFE/RL Bulgaria) — \"Исторически момент\". България ще може да доставя природен газ през терминали в Турция",
+     "url": "https://bulgaria.rferl.org/a/32205309.html",
+     "archive": "",
+     "date": "2023-01-03"
+    },
+    {
+     "statement": "The precise contractual period and the aggregate value: the contract covers access to LNG regasification terminals and onward transmission to Bulgaria from 1 January 2023 to 31 December 2035 — 13 years. It obliges payment of roughly USD 500,000 a day irrespective of whether gas is delivered, with the fees indexed for inflation. Then-energy minister Zhecho Stankov put the total due over the whole term at USD 2.5 billion and said that by end-March 2025 the arrears had reached USD 220-250 million. (Outlet is partisan against Radev, but the dates and the 13-year term match RFE/RL and BTA.)",
+     "quote": "Договорът е за достъп до терминалите за регазификация на втечнен природен газ и последващия му пренос до България за периода от 1 януари 2023 г. до 31 декември 2035 г. - цели 13 години. Договорът задължава страната ни да плаща на своя югоизточен съсед около 500 хиляди долара дневно такса за този достъп и пренос по турската инфраструктура. При това тази такса се дължи независимо от това дали ние доставяме „синьо гориво“ или не.",
+     "source": "Frognews (reprinting BGNES) — Дългова яма и милиардни щети за България - цялата истина за договора с „Боташ“",
+     "url": "https://frognews.bg/novini/dalgova-iama-miliardni-shteti-balgariia-tsialata-istina-dogovora-botash-zarobvaneto-bulgargaz.html",
+     "archive": "https://web.archive.org/web/20250723032757/https://frognews.bg/novini/dalgova-iama-miliardni-shteti-balgariia-tsialata-istina-dogovora-botash-zarobvaneto-bulgargaz.html",
+     "date": "2025-04-04"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-03-09",
+   "speaker": "gyurov",
+   "t": "28:45",
+   "quote_bg": "Ние всеки ден плащаме по половин милион долара заради този договор.",
+   "claim_en": "Bulgaria pays half a million dollars every day under the Botash contract.",
+   "topic": "energy",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "Bulgaria pays about half a million euros a day under Botash.",
+   "finding": "The contract obliges Bulgargaz to pay BGN 1 million (EUR 512,000) per day for reserved capacity.",
+   "evidence": [
+    {
+     "statement": "Documented contract economics per BTA: Bulgargaz booked 106.4 GWh/day of capacity on Turkish LNG regasification terminals and undertook to pay BGN 1 million (EUR 512,000) per day for a period ending in 2035; the contract is a 13-year take-or-pay agreement and rescinding it would expose Bulgargaz to close to BGN 3 billion in damages. The same article records that on 19 April 2024 the National Assembly instructed then-energy minister Vladimir Malinov to renegotiate, and states the 2026 official liability figure as about EUR 360 million.",
+     "quote": "Under the contract, the Bulgarian side booked capacity of 106.4GWh/day on the Turkish LNG regasification terminals and agreed to pay for this BGN 1 million (EUR 512,000) daily for a period ending in 2035. ... If the 13-year take-or-pay agreement is rescinded, the Bulgarian company will be liable for close to BGN 3 billion in damages. By a resolution passed on April 19, 2024, the Bulgarian National Assembly assigned then-energy minister Vladimir Malinov to take action for re-negotiating the agreement.",
+     "source": "БТА (Bulgarian News Agency) — No Additional Economic or Political Conditions Attached to BOTAS Deal Review Agreement, Says Energy Minister",
+     "url": "https://www.bta.bg/en/news/1165612-no-additional-economic-or-political-conditions-attached-to-botas-deal-review-agr",
+     "archive": "",
+     "date": "2026-07-12"
+    },
+    {
+     "statement": "Gurov also said at the debate that the Botash contract was signed by a caretaker cabinet for 13 years and that Bulgaria pays half a million euros a day under it. \"Half a million euros\" is accurate against the documented BGN 1 million/day (EUR 511,292/day) — the correct currency is euro, not dollars.",
+     "quote": "А договорът с „Боташ“ - отново подписан от служебен кабинет за 13 г., е врата, която не може да се отвори. ... за разлика от „Боташ“, където плащаме по половин милион евро всеки ден",
+     "source": "168 часа / 24 часа — Йотова атакува с аргументи, Гюров - не е разочарован, че го е направила служебен премиер (debate transcript)",
+     "url": "https://www.168chasa.bg/Article/23832919",
+     "archive": "",
+     "date": "2026-10-29"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-03-12",
+   "speaker": "iotova",
+   "t": "30:25",
+   "quote_bg": "Поехте ангажимента, чрез това споразумение, България да участва в коалиция на желаящите.",
+   "claim_en": "Through the agreement Bulgaria undertakes to participate in the coalition of the willing.",
+   "topic": "defence",
+   "verdict": "mostly_false",
+   "confidence": "medium",
+   "steelman": "By signing, Bulgaria committed itself to take part in the coalition of the willing.",
+   "finding": "The text only says the parties value the coalition's work and confirm engagement with its activities. It creates no formal membership and no automatic commitment to participate.",
+   "evidence": [
+    {
+     "statement": "The agreement does mention the 'Coalition of the Willing': the parties say they value its work and confirm their engagement with its activities. It does not create formal membership or an automatic commitment to deploy troops; it is a political affirmation, and the text elsewhere says implementation must follow national law and parliamentary decisions.",
+     "quote": "Участниците оценяват високо важната работа на Коалицията на желаещите и потвърждават своята ангажиментност към нейните дейности.",
+     "source": "Council of Ministers of Bulgaria, full text of the agreement (PDF)",
+     "url": "https://gov.bg/files/common/2026_Security_Cooperation_Agreement.pdf",
+     "archive": "http://web.archive.org/web/20260915100719/https://www.gov.bg/files/common/2026_Security_Cooperation_Agreement.pdf",
+     "date": "2026-03-30"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "misdirection",
+   "notes": "The gap between 'we value its work' and 'we are committed to join' is the whole dispute."
+  },
+  {
+   "claim_id": "C-03-13",
+   "speaker": "iotova",
+   "t": "31:20",
+   "quote_bg": "вие бяхте служебен министър-председател във време, в което действаше Народното събрание",
+   "claim_en": "Gyurov was caretaker prime minister at a time when the National Assembly was sitting.",
+   "topic": "institutions",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "When Gyurov signed, the National Assembly was sitting and could have been asked.",
+   "finding": "No record was located of the Assembly's session calendar on 30 March 2026, so whether it was sitting on the signing date could not be established.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "Would be settled by the Assembly's register of sittings for March 2026."
+  },
+  {
+   "claim_id": "C-03-17",
+   "speaker": "iotova",
+   "t": "31:54",
+   "quote_bg": "Боташ стана, защото господин Кирил Петков и господина Асен Василев за една нощ прекъснаха доставките на руска газ за България.",
+   "claim_en": "The Botash deal happened because Kiril Petkov and Asen Vasilev cut off Russian gas supplies to Bulgaria overnight.",
+   "topic": "energy",
+   "verdict": "mostly_false",
+   "confidence": "high",
+   "steelman": "Botash exists because Petkov and Vasilev cut off Russian gas overnight, forcing an emergency solution.",
+   "finding": "Bulgargaz's own record states that Gazprom Export notified it on 26 April 2022 that supplies would be suspended 'despite the obligations to the Russian supplier for April 2022 having been fulfilled', with deliveries stopping at 07:00 on 27 April. The trigger was a supplier-side suspension, not a Bulgarian cutoff. The caretaker cabinet then signed Botash in January 2023, nine months later.",
+   "evidence": [
+    {
+     "statement": "PRIMARY, from the Bulgarian side of the April 2022 rupture: Bulgargaz states that Gazprom Export notified it on 26 April 2022 that supplies would be suspended and that deliveries stopped at 07:00 on 27 April 2022 — despite Bulgargaz having met its payment obligations for April 2022. Bulgargaz says it sought commercial dialogue on the proposed new payment mechanism and that Gazprom Export refused it, and characterises the cut as unilateral termination. This documents the mechanism of the cut-off and confirms that payment mechanics (the rouble scheme), not a Bulgarian decision to terminate, were the trigger.",
+     "quote": "След уведомлението на ООО „Газпром експорт“ от 26.04.2022 г., че доставките за „Булгаргаз“ ЕАД се преустановяват, въпреки изпълнените задължения към руския доставчик за м. април 2022 г., считано от 07.00 ч на 27.04.2022 г., „Булгаргаз“ ЕАД предприе незабавни действия по осигуряване на газ за клиентите си по договорите за доставка.",
+     "source": "Булгаргаз ЕАД — СЪОБЩЕНИЕ ДО МЕДИИТЕ (official company press release)",
+     "url": "https://bulgargaz.bg/bg/news/303",
+     "archive": "",
+     "date": "2022-05-02"
+    },
+    {
+     "statement": "The Bulgargaz-BOTAS agreement was signed on 3 January 2023 at the Council of Ministers in Sofia by the two companies' chief executives, Denitsa Zlateva (Bulgargaz) and Burhan Ozcan (BOTAS), in the presence of Bulgaria's caretaker Energy Minister Rossen Hristov and Turkish Energy Minister Fatih Donmez. It was negotiated over the Christmas holidays and signed on the first working day of the year. The signatories acted under the caretaker cabinet of PM Galab Donev (named in the same article), i.e. an executive act, not a parliamentary one; President Rumen Radev publicly presented it as the fruit of his own December meeting with Erdogan.",
+     "quote": "Документът беше подписан в Министерския съвет от директорите на двете компании Деница Златева и Бюрхан Йозджан в присъствието на Росен Христов и турския министър на енергетиката и природните ресурси Фатих Дьонмез. По думите на Христов споразумението е договорено на Коледа и е подписано в първия работен ден след празниците, което показва голямата му важност.",
+     "source": "Свободна Европа (RFE/RL Bulgaria) — \"Исторически момент\". България ще може да доставя природен газ през терминали в Турция",
+     "url": "https://bulgaria.rferl.org/a/32205309.html",
+     "archive": "",
+     "date": "2023-01-03"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "misdirection",
+   "notes": "The causal story reverses who stopped the gas."
+  },
+  {
+   "claim_id": "C-03-18",
+   "speaker": "gyurov",
+   "t": "32:25",
+   "quote_bg": "Това, което виждаме, са близо 400 милиона долара, които ние дължим",
+   "claim_en": "Bulgaria owes close to 400 million dollars under the contract.",
+   "topic": "energy",
+   "verdict": "mixed",
+   "confidence": "medium",
+   "steelman": "Bulgaria owes close to 400 million dollars and this will bankrupt Bulgargaz.",
+   "finding": "The prime minister put the liability at USD 360 million in July 2026 and arrears at about BGN 300 million in May 2026. 'Close to 400 million' rounds upward; the bankruptcy prediction is not established.",
+   "evidence": [
+    {
+     "statement": "Official liability figures as stated by the prime minister in July 2026: Bulgaria owes BOTAS USD 360 million; arrears were about BGN 300 million in early May 2026; Bulgargaz has made no payments since July 2024; the deal was suspended for 15 months by a protocol signed on 6 July 2026. This is the authoritative figure against which the debate's \"~400 million USD\" should be measured — the documented number is USD/EUR 360 million (BTA uses both currencies in different reports), not 400 million.",
+     "quote": "Prime Minister Rumen Radev said here Tuesday that Bulgaria owes BOTAS, the Turkish gas company, USD 360 million and settling this debt \"will not burden the Bulgarian finances\". ... At present, Bulgargaz does not import gas under the agreement with BOTAS, and in early May its arrears to the Turkish company approximated BGN 300 million. ... He added that Bulgaria has accumulated liabilities because it has not made payments since July 2024.",
+     "source": "БТА (Bulgarian News Agency) — PM Says Bulgaria Owes USD 360 Mln to BOTAS, Settling It \"Will Not Burden Bulgarian Finances\"",
+     "url": "https://www.bta.bg/en/news/economy/1162546-pm-says-bulgaria-owes-usd-360-mln-to-botas-settling-it-will-not-bulgari",
+     "archive": "",
+     "date": "2026-07-07"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "Depends on the currency: BTA's English rendering says USD 500,000 a day and nearly USD 400 million."
+  },
+  {
+   "claim_id": "C-03-20",
+   "speaker": "gyurov",
+   "t": "32:25",
+   "quote_bg": "а Газпром спря едностранно доставките на газ",
+   "claim_en": "Gazprom, not the Bulgarian government, unilaterally stopped the gas supplies.",
+   "topic": "energy",
+   "verdict": "mostly_true",
+   "confidence": "high",
+   "steelman": "Gazprom, not the Bulgarian government, unilaterally stopped the supplies.",
+   "finding": "Bulgargaz records a unilateral suspension notice from Gazprom Export on 26 April 2022 effective 27 April.",
+   "evidence": [
+    {
+     "statement": "PRIMARY, from the Bulgarian side of the April 2022 rupture: Bulgargaz states that Gazprom Export notified it on 26 April 2022 that supplies would be suspended and that deliveries stopped at 07:00 on 27 April 2022 — despite Bulgargaz having met its payment obligations for April 2022. Bulgargaz says it sought commercial dialogue on the proposed new payment mechanism and that Gazprom Export refused it, and characterises the cut as unilateral termination. This documents the mechanism of the cut-off and confirms that payment mechanics (the rouble scheme), not a Bulgarian decision to terminate, were the trigger.",
+     "quote": "След уведомлението на ООО „Газпром експорт“ от 26.04.2022 г., че доставките за „Булгаргаз“ ЕАД се преустановяват, въпреки изпълнените задължения към руския доставчик за м. април 2022 г., считано от 07.00 ч на 27.04.2022 г., „Булгаргаз“ ЕАД предприе незабавни действия по осигуряване на газ за клиентите си по договорите за доставка.",
+     "source": "Булгаргаз ЕАД — СЪОБЩЕНИЕ ДО МЕДИИТЕ (official company press release)",
+     "url": "https://bulgargaz.bg/bg/news/303",
+     "archive": "",
+     "date": "2022-05-02"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-03-21",
+   "speaker": "gyurov",
+   "t": "32:25",
+   "quote_bg": "но правителството тогава действа бързо и беше осигурил течен газ, който можеше да бъде доставен",
+   "claim_en": "The government at the time acted quickly and secured liquefied gas that could be delivered.",
+   "topic": "energy",
+   "verdict": "partly",
+   "confidence": "low",
+   "steelman": "The government reacted quickly and secured liquefied gas that could be delivered.",
+   "finding": "Emergency procurement is documented in outline; the speed and sufficiency of the replacement supply were not independently verified here.",
+   "evidence": [
+    {
+     "statement": "PRIMARY, from the Bulgarian side of the April 2022 rupture: Bulgargaz states that Gazprom Export notified it on 26 April 2022 that supplies would be suspended and that deliveries stopped at 07:00 on 27 April 2022 — despite Bulgargaz having met its payment obligations for April 2022. Bulgargaz says it sought commercial dialogue on the proposed new payment mechanism and that Gazprom Export refused it, and characterises the cut as unilateral termination. This documents the mechanism of the cut-off and confirms that payment mechanics (the rouble scheme), not a Bulgarian decision to terminate, were the trigger.",
+     "quote": "След уведомлението на ООО „Газпром експорт“ от 26.04.2022 г., че доставките за „Булгаргаз“ ЕАД се преустановяват, въпреки изпълнените задължения към руския доставчик за м. април 2022 г., считано от 07.00 ч на 27.04.2022 г., „Булгаргаз“ ЕАД предприе незабавни действия по осигуряване на газ за клиентите си по договорите за доставка.",
+     "source": "Булгаргаз ЕАД — СЪОБЩЕНИЕ ДО МЕДИИТЕ (official company press release)",
+     "url": "https://bulgargaz.bg/bg/news/303",
+     "archive": "",
+     "date": "2022-05-02"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-03-23",
+   "speaker": "gyurov",
+   "t": "32:25",
+   "quote_bg": "Това е рамково споразумение на базата, на което могат да бъдат подписани договори",
+   "claim_en": "The Kyiv document is a framework agreement on the basis of which contracts may be signed.",
+   "topic": "ukraine",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "It is a framework agreement under which implementing contracts may be signed.",
+   "finding": "The text provides that authorised institutions of the parties may conclude implementing and technical agreements.",
+   "evidence": [
+    {
+     "statement": "The agreement contains no clause requiring ratification of every contract concluded under it. It only provides that authorised institutions of the parties 'may conclude implementing and technical agreements' in specific areas; nothing in the text makes each such agreement subject to parliamentary ratification. Gyurov asserted in the debate that 'every one of these contracts is subject to ratification by the National Assembly', but that is his interpretation, not a provision of the signed text; whether a future implementing agreement needs ratification would depend on its content and Bulgarian law.",
+     "quote": "Упълномощените институции на всеки от участниците могат да сключват изпълнителни и технически споразумения по конкретни области на сътрудничество в рамките на изпълнението на настоящото споразумение.",
+     "source": "Council of Ministers of Bulgaria, full text of the agreement (PDF)",
+     "url": "https://gov.bg/files/common/2026_Security_Cooperation_Agreement.pdf",
+     "archive": "http://web.archive.org/web/20260915100719/https://www.gov.bg/files/common/2026_Security_Cooperation_Agreement.pdf",
+     "date": "2026-03-30"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-03-24",
+   "speaker": "gyurov",
+   "t": "32:25",
+   "quote_bg": "всеки един от тези договори подлежи на ратификация от Народното събрание",
+   "claim_en": "Each of those contracts is subject to ratification by the National Assembly.",
+   "topic": "ukraine",
+   "verdict": "mixed",
+   "confidence": "medium",
+   "steelman": "Every contract concluded under the framework requires National Assembly ratification.",
+   "finding": "The agreement itself contains no ratification clause; it is expressly placed outside the Vienna Convention and framed as political commitments. Whether Bulgarian constitutional law independently requires ratification for particular implementing instruments was not established.",
+   "evidence": [
+    {
+     "statement": "The text expressly places itself outside the 1969 Vienna Convention on the Law of Treaties and says it sets out 'political commitments'; it enters into force on signature and runs for ten years. The Council of Ministers' own explainer says it contains no legally binding obligations and that implementation depends on national law and parliamentary decisions. The word 'framework' does not appear in the signed text; that is Gyurov's label.",
+     "quote": "Това споразумение не попада в обхвата на Виенската конвенция за правото на договорите (1969 г.) и предвижда политически ангажименти. | Той не попада в приложното поле на Закона за международните договори на Република България, като не съдържа правнообвързващи ангажименти, а възможности за допълнително развитие на съвместни отбранителни способности.",
+     "source": "Council of Ministers of Bulgaria, agreement text and official explainer of 31.03.2026",
+     "url": "https://www.gov.bg/special/bg/prestsentar/novini/sporazumenie-za-satrudnichestvo-v-oblastta-na-sigurnostta-mezhdu-republika-balgariya-i-ukrayna",
+     "archive": "",
+     "date": "2026-03-31"
+    },
+    {
+     "statement": "The agreement contains no clause requiring ratification of every contract concluded under it. It only provides that authorised institutions of the parties 'may conclude implementing and technical agreements' in specific areas; nothing in the text makes each such agreement subject to parliamentary ratification. Gyurov asserted in the debate that 'every one of these contracts is subject to ratification by the National Assembly', but that is his interpretation, not a provision of the signed text; whether a future implementing agreement needs ratification would depend on its content and Bulgarian law.",
+     "quote": "Упълномощените институции на всеки от участниците могат да сключват изпълнителни и технически споразумения по конкретни области на сътрудничество в рамките на изпълнението на настоящото споразумение.",
+     "source": "Council of Ministers of Bulgaria, full text of the agreement (PDF)",
+     "url": "https://gov.bg/files/common/2026_Security_Cooperation_Agreement.pdf",
+     "archive": "http://web.archive.org/web/20260915100719/https://www.gov.bg/files/common/2026_Security_Cooperation_Agreement.pdf",
+     "date": "2026-03-30"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "The speaker may be relying on Article 85 of the constitution, which is a separate question from what the text says."
+  },
+  {
+   "claim_id": "C-03-25",
+   "speaker": "gyurov",
+   "t": "32:25",
+   "quote_bg": "никъде в това споразумение не се предвижда български войници да отиват в Украина",
+   "claim_en": "Nowhere does the agreement provide for Bulgarian soldiers to go to Ukraine.",
+   "topic": "ukraine",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "The agreement nowhere provides for Bulgarian soldiers to be sent to Ukraine.",
+   "finding": "A full-text search of the 20-page signed text finds no reference to Bulgarian military personnel being deployed to Ukraine; the only personnel references concern Ukrainian service members.",
+   "evidence": [
+    {
+     "statement": "A full-text search of the 20-page signed agreement finds no mention of Bulgarian soldiers or Bulgarian military personnel being sent to Ukraine. The only military-personnel references concern Ukrainian service members (English-language training, Ukrainian officers on Bulgarian naval vessels), and the implementation section requires compliance with national law and parliamentary decisions. The ZaKogo/Focus fact-check reached the same conclusion: the document does not provide for sending Bulgarian troops to Ukrainian territory.",
+     "quote": "България ще продължи да осигурява обучение по английски език за украински военнослужещи, по искане на Украйна, както и обучение на английски език за украински пилоти и техници.",
+     "source": "Council of Ministers of Bulgaria, full text of the agreement (PDF); Focus/ZaKogo fact-check, 30.10.2026",
+     "url": "https://gov.bg/files/common/2026_Security_Cooperation_Agreement.pdf",
+     "archive": "http://web.archive.org/web/20260915100719/https://www.gov.bg/files/common/2026_Security_Cooperation_Agreement.pdf",
+     "date": "2026-03-30"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-03-26",
+   "speaker": "gyurov",
+   "t": "32:25",
+   "quote_bg": "Това, което се предвижда, са българските компании да могат да участват във възстановяването на Украина след като се наложи мир.",
+   "claim_en": "What the agreement provides for is Bulgarian companies being able to take part in Ukraine's reconstruction once peace is established.",
+   "topic": "ukraine",
+   "verdict": "partly",
+   "confidence": "low",
+   "steelman": "The agreement opens the way for Bulgarian companies to take part in Ukraine's reconstruction.",
+   "finding": "The text supports cooperation on technology, innovation and joint testing; an explicit reconstruction clause was not located in the evidence gathered.",
+   "evidence": [
+    {
+     "statement": "On drones, the text does not commit Bulgaria to joint drone production. It lists UAVs among Ukrainian battlefield technologies whose transfer, innovation and joint experimental testing are to be encouraged, and it provides for joint production of 'priority weapons and ammunition' and industrial lines for ammunition. At the Kyiv press conference Zelensky nevertheless said the agreement covered joint production of various weapons 'including drones' - a political statement, not an operative clause of the text.",
+     "quote": "Участниците отчитат стратегическата важност на технологиите, разработени и използвани на бойното поле от Украйна, включително безпилотни летателни апарати ... и подчертават взаимните ползи от трансфера на технологии, иновации и съвместните експериментални тестове на системи и продукти от споделен интерес.",
+     "source": "Council of Ministers of Bulgaria, full text of the agreement (PDF); Ukrinform, 30.03.2026",
+     "url": "https://gov.bg/files/common/2026_Security_Cooperation_Agreement.pdf",
+     "archive": "http://web.archive.org/web/20260915100719/https://www.gov.bg/files/common/2026_Security_Cooperation_Agreement.pdf",
+     "date": "2026-03-30"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "Needs the full text checked clause by clause."
+  },
+  {
+   "claim_id": "C-03-31",
+   "speaker": "iotova",
+   "t": "36:31",
+   "quote_bg": "е обучението на войници от страните в тази коалиция, като мироопазващи сили след мира в Украина",
+   "claim_en": "The coalition of the willing is currently training soldiers from its member states as peacekeeping forces for after peace in Ukraine.",
+   "topic": "defence",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "The coalition of the willing is currently training member-state soldiers as peacekeeping forces for after the war.",
+   "finding": "No primary record of the coalition's current training programme was located.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "Requires NATO or coalition documents."
+  },
+  {
+   "claim_id": "C-03-34",
+   "speaker": "iotova",
+   "t": "37:45",
+   "quote_bg": "партиите, които ви издигнаха и ви подкрепят, господин Гюров, защото те са гласували за това България да участва в коалиция на желащите",
+   "claim_en": "The parties that nominated and support Gyurov voted for Bulgaria to take part in the coalition of the willing.",
+   "topic": "campaign",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "The parties that nominated Gyurov voted for Bulgaria's participation in the coalition of the willing.",
+   "finding": "No parliamentary vote on coalition-of-the-willing participation was located in the evidence.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "Would be settled by the Assembly voting record."
+  },
+  {
+   "claim_id": "C-04-19",
+   "speaker": "gyurov",
+   "t": "49:07",
+   "quote_bg": "защото видяхме както примера с договора за Боташ, че в определени ситуации се получава така, че един човек да може да има цялата власт в държавата",
+   "claim_en": "The Botash contract shows that in some situations one person can hold all the power in the state.",
+   "topic": "energy",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "Botash shows that one person can hold all power in the state.",
+   "finding": "This is an interpretive claim about decision-making concentration, not a checkable fact. What is documented is that the contract was signed by two state-owned companies' executives and never ratified by parliament.",
+   "evidence": [
+    {
+     "statement": "The Bulgargaz-BOTAS agreement was signed on 3 January 2023 at the Council of Ministers in Sofia by the two companies' chief executives, Denitsa Zlateva (Bulgargaz) and Burhan Ozcan (BOTAS), in the presence of Bulgaria's caretaker Energy Minister Rossen Hristov and Turkish Energy Minister Fatih Donmez. It was negotiated over the Christmas holidays and signed on the first working day of the year. The signatories acted under the caretaker cabinet of PM Galab Donev (named in the same article), i.e. an executive act, not a parliamentary one; President Rumen Radev publicly presented it as the fruit of his own December meeting with Erdogan.",
+     "quote": "Документът беше подписан в Министерския съвет от директорите на двете компании Деница Златева и Бюрхан Йозджан в присъствието на Росен Христов и турския министър на енергетиката и природните ресурси Фатих Дьонмез. По думите на Христов споразумението е договорено на Коледа и е подписано в първия работен ден след празниците, което показва голямата му важност.",
+     "source": "Свободна Европа (RFE/RL Bulgaria) — \"Исторически момент\". България ще може да доставя природен газ през терминали в Турция",
+     "url": "https://bulgaria.rferl.org/a/32205309.html",
+     "archive": "",
+     "date": "2023-01-03"
+    },
+    {
+     "statement": "Parliament did not ratify the contract — it is an inter-company commercial agreement signed by the executives of two state-owned companies. The only parliamentary act was on 19 April 2024, when the National Assembly voted to hand the contract to the prosecution and to DANS (state security) and to instruct the Energy Ministry to renegotiate its terms; this followed an extraordinary sitting requested by PP-DB after the chair of the ad hoc committee (Zhecho Stankov, GERB) refused to table its report. Note the nuance: a vote to refer and renegotiate is not a ratification, and no ratification instrument exists in the record.",
+     "quote": "Парламентът реши в петък договорът между държавния газов доставчик „Булгаргаз“ и турската държавна енергийна компания „Боташ“ да бъде даден на прокуратурата и Държавната агенция „Национална сигурност“ (ДАНС). Депутатите също така поискаха Министерството на енергетиката да предоговори условията по договора.",
+     "source": "Свободна Европа (RFE/RL Bulgaria) — Депутатите дават договора с \"Боташ\" на прокуратурата и ДАНС и искат енергийният министър да го предоговори",
+     "url": "https://bulgaria.rferl.org/a/botash-dogovor-parlament/32912610.html",
+     "archive": "",
+     "date": "2024-04-19"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "Better treated as an argument than a claim."
+  },
+  {
+   "claim_id": "C-04-20",
+   "speaker": "gyurov",
+   "t": "49:07",
+   "quote_bg": "това води до изкривявания, които ние сега 13 години ще плащаме",
+   "claim_en": "Bulgaria will be paying for these distortions for 13 years.",
+   "topic": "energy",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "Bulgaria will pay under this contract for thirteen years.",
+   "finding": "The term runs from 1 January 2023 to 31 December 2035.",
+   "evidence": [
+    {
+     "statement": "The precise contractual period and the aggregate value: the contract covers access to LNG regasification terminals and onward transmission to Bulgaria from 1 January 2023 to 31 December 2035 — 13 years. It obliges payment of roughly USD 500,000 a day irrespective of whether gas is delivered, with the fees indexed for inflation. Then-energy minister Zhecho Stankov put the total due over the whole term at USD 2.5 billion and said that by end-March 2025 the arrears had reached USD 220-250 million. (Outlet is partisan against Radev, but the dates and the 13-year term match RFE/RL and BTA.)",
+     "quote": "Договорът е за достъп до терминалите за регазификация на втечнен природен газ и последващия му пренос до България за периода от 1 януари 2023 г. до 31 декември 2035 г. - цели 13 години. Договорът задължава страната ни да плаща на своя югоизточен съсед около 500 хиляди долара дневно такса за този достъп и пренос по турската инфраструктура. При това тази такса се дължи независимо от това дали ние доставяме „синьо гориво“ или не.",
+     "source": "Frognews (reprinting BGNES) — Дългова яма и милиардни щети за България - цялата истина за договора с „Боташ“",
+     "url": "https://frognews.bg/novini/dalgova-iama-miliardni-shteti-balgariia-tsialata-istina-dogovora-botash-zarobvaneto-bulgargaz.html",
+     "archive": "https://web.archive.org/web/20250723032757/https://frognews.bg/novini/dalgova-iama-miliardni-shteti-balgariia-tsialata-istina-dogovora-botash-zarobvaneto-bulgargaz.html",
+     "date": "2025-04-04"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-04-22",
+   "speaker": "iotova",
+   "t": "51:25",
+   "quote_bg": "Това е решение на служебно правителство",
+   "claim_en": "The Botash deal is a decision of a caretaker government.",
+   "topic": "energy",
+   "verdict": "mostly_true",
+   "confidence": "high",
+   "steelman": "The Botash deal was a decision of a caretaker government.",
+   "finding": "Signed 3 January 2023, during the Donev caretaker cabinet.",
+   "evidence": [
+    {
+     "statement": "The Bulgargaz-BOTAS agreement was signed on 3 January 2023 at the Council of Ministers in Sofia by the two companies' chief executives, Denitsa Zlateva (Bulgargaz) and Burhan Ozcan (BOTAS), in the presence of Bulgaria's caretaker Energy Minister Rossen Hristov and Turkish Energy Minister Fatih Donmez. It was negotiated over the Christmas holidays and signed on the first working day of the year. The signatories acted under the caretaker cabinet of PM Galab Donev (named in the same article), i.e. an executive act, not a parliamentary one; President Rumen Radev publicly presented it as the fruit of his own December meeting with Erdogan.",
+     "quote": "Документът беше подписан в Министерския съвет от директорите на двете компании Деница Златева и Бюрхан Йозджан в присъствието на Росен Христов и турския министър на енергетиката и природните ресурси Фатих Дьонмез. По думите на Христов споразумението е договорено на Коледа и е подписано в първия работен ден след празниците, което показва голямата му важност.",
+     "source": "Свободна Европа (RFE/RL Bulgaria) — \"Исторически момент\". България ще може да доставя природен газ през терминали в Турция",
+     "url": "https://bulgaria.rferl.org/a/32205309.html",
+     "archive": "",
+     "date": "2023-01-03"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-04-24",
+   "speaker": "iotova",
+   "t": "51:25",
+   "quote_bg": "По същия начин, не по-малко обвързващо.",
+   "claim_en": "The Kyiv agreement is equally binding.",
+   "topic": "ukraine",
+   "verdict": "mostly_false",
+   "confidence": "medium",
+   "steelman": "The agreement is equally binding as an international treaty.",
+   "finding": "The text places itself outside the Vienna Convention and describes its content as political commitments, which is the opposite of treaty bindingness. Kyiv's own description of it as fixing 'clear obligations' does not change the instrument's self-declared status.",
+   "evidence": [
+    {
+     "statement": "The text expressly places itself outside the 1969 Vienna Convention on the Law of Treaties and says it sets out 'political commitments'; it enters into force on signature and runs for ten years. The Council of Ministers' own explainer says it contains no legally binding obligations and that implementation depends on national law and parliamentary decisions. The word 'framework' does not appear in the signed text; that is Gyurov's label.",
+     "quote": "Това споразумение не попада в обхвата на Виенската конвенция за правото на договорите (1969 г.) и предвижда политически ангажименти. | Той не попада в приложното поле на Закона за международните договори на Република България, като не съдържа правнообвързващи ангажименти, а възможности за допълнително развитие на съвместни отбранителни способности.",
+     "source": "Council of Ministers of Bulgaria, agreement text and official explainer of 31.03.2026",
+     "url": "https://www.gov.bg/special/bg/prestsentar/novini/sporazumenie-za-satrudnichestvo-v-oblastta-na-sigurnostta-mezhdu-republika-balgariya-i-ukrayna",
+     "archive": "",
+     "date": "2026-03-31"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "misdirection",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-04-34",
+   "speaker": "gyurov",
+   "t": "54:06",
+   "quote_bg": "няма нито едно обвързващо изречение в това споразумение",
+   "claim_en": "There is not a single binding sentence in the Kyiv agreement.",
+   "topic": "ukraine",
+   "verdict": "mostly_true",
+   "confidence": "high",
+   "steelman": "There is not a single binding sentence in the agreement.",
+   "finding": "The instrument self-describes as political commitments, excludes the Vienna Convention, and contains no enforcement or ratification machinery. 'Not a single binding sentence' is rhetorical, but the substance holds.",
+   "evidence": [
+    {
+     "statement": "The text expressly places itself outside the 1969 Vienna Convention on the Law of Treaties and says it sets out 'political commitments'; it enters into force on signature and runs for ten years. The Council of Ministers' own explainer says it contains no legally binding obligations and that implementation depends on national law and parliamentary decisions. The word 'framework' does not appear in the signed text; that is Gyurov's label.",
+     "quote": "Това споразумение не попада в обхвата на Виенската конвенция за правото на договорите (1969 г.) и предвижда политически ангажименти. | Той не попада в приложното поле на Закона за международните договори на Република България, като не съдържа правнообвързващи ангажименти, а възможности за допълнително развитие на съвместни отбранителни способности.",
+     "source": "Council of Ministers of Bulgaria, agreement text and official explainer of 31.03.2026",
+     "url": "https://www.gov.bg/special/bg/prestsentar/novini/sporazumenie-za-satrudnichestvo-v-oblastta-na-sigurnostta-mezhdu-republika-balgariya-i-ukrayna",
+     "archive": "",
+     "date": "2026-03-31"
+    },
+    {
+     "statement": "The agreement contains no clause requiring ratification of every contract concluded under it. It only provides that authorised institutions of the parties 'may conclude implementing and technical agreements' in specific areas; nothing in the text makes each such agreement subject to parliamentary ratification. Gyurov asserted in the debate that 'every one of these contracts is subject to ratification by the National Assembly', but that is his interpretation, not a provision of the signed text; whether a future implementing agreement needs ratification would depend on its content and Bulgarian law.",
+     "quote": "Упълномощените институции на всеки от участниците могат да сключват изпълнителни и технически споразумения по конкретни области на сътрудничество в рамките на изпълнението на настоящото споразумение.",
+     "source": "Council of Ministers of Bulgaria, full text of the agreement (PDF)",
+     "url": "https://gov.bg/files/common/2026_Security_Cooperation_Agreement.pdf",
+     "archive": "http://web.archive.org/web/20260915100719/https://www.gov.bg/files/common/2026_Security_Cooperation_Agreement.pdf",
+     "date": "2026-03-30"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-04-35",
+   "speaker": "gyurov",
+   "t": "54:06",
+   "quote_bg": "за разлика от Боташ, където плащаме по 500 хиляди евро, половин милион всеки ден",
+   "claim_en": "Under the Botash contract Bulgaria pays 500 thousand euros, half a million, every day, unlike this agreement.",
+   "topic": "energy",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "Under Botash Bulgaria pays 500,000 euros a day, unlike the Kyiv agreement.",
+   "finding": "The BGN 1 million daily capacity payment is EUR 512,000, which rounds to 500,000.",
+   "evidence": [
+    {
+     "statement": "Documented contract economics per BTA: Bulgargaz booked 106.4 GWh/day of capacity on Turkish LNG regasification terminals and undertook to pay BGN 1 million (EUR 512,000) per day for a period ending in 2035; the contract is a 13-year take-or-pay agreement and rescinding it would expose Bulgargaz to close to BGN 3 billion in damages. The same article records that on 19 April 2024 the National Assembly instructed then-energy minister Vladimir Malinov to renegotiate, and states the 2026 official liability figure as about EUR 360 million.",
+     "quote": "Under the contract, the Bulgarian side booked capacity of 106.4GWh/day on the Turkish LNG regasification terminals and agreed to pay for this BGN 1 million (EUR 512,000) daily for a period ending in 2035. ... If the 13-year take-or-pay agreement is rescinded, the Bulgarian company will be liable for close to BGN 3 billion in damages. By a resolution passed on April 19, 2024, the Bulgarian National Assembly assigned then-energy minister Vladimir Malinov to take action for re-negotiating the agreement.",
+     "source": "БТА (Bulgarian News Agency) — No Additional Economic or Political Conditions Attached to BOTAS Deal Review Agreement, Says Energy Minister",
+     "url": "https://www.bta.bg/en/news/1165612-no-additional-economic-or-political-conditions-attached-to-botas-deal-review-agr",
+     "archive": "",
+     "date": "2026-07-12"
+    },
+    {
+     "statement": "Gurov also said at the debate that the Botash contract was signed by a caretaker cabinet for 13 years and that Bulgaria pays half a million euros a day under it. \"Half a million euros\" is accurate against the documented BGN 1 million/day (EUR 511,292/day) — the correct currency is euro, not dollars.",
+     "quote": "А договорът с „Боташ“ - отново подписан от служебен кабинет за 13 г., е врата, която не може да се отвори. ... за разлика от „Боташ“, където плащаме по половин милион евро всеки ден",
+     "source": "168 часа / 24 часа — Йотова атакува с аргументи, Гюров - не е разочарован, че го е направила служебен премиер (debate transcript)",
+     "url": "https://www.168chasa.bg/Article/23832919",
+     "archive": "",
+     "date": "2026-10-29"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-05-11",
+   "speaker": "gyurov",
+   "t": "60:07",
+   "quote_bg": "когато се отнемат права на българските граждани и това се прави по късата писта без обществено обсъждане",
+   "claim_en": "The current budget takes away rights of Bulgarian citizens and this was done on the fast track without public consultation.",
+   "topic": "budget",
+   "verdict": "mixed",
+   "confidence": "medium",
+   "steelman": "The budget strips rights from citizens and was pushed through fast, without public consultation.",
+   "finding": "The Constitutional Court did strike a labour-law transitional provision from the budget (Decision 17 of 20 October 2026), which supports the 'rights' half. The 'fast track, no consultation' half was not independently established here; the cabinet published a summary on 14 October 2026.",
+   "evidence": [
+    {
+     "statement": "The Constitutional Court did rule on the budget. By Decision No. 17 of 20 October 2026 (Constitutional Case No. 15/2026, joined with 16/2026 and 18/2026, on a request by 52nd National Assembly MPs filed 31 July 2026 and by the Ombudsman), it REJECTED the request to declare the 2026 State Budget Act unconstitutional in its entirety, but DECLARED UNCONSTITUTIONAL the changes to art. 355(1)-(4) of the Labour Code made by §11(1)-(4) of the budget law's Transitional and Final Provisions, and art. 218(2) of the Judicial System Act made by §21(1). The request against §46 was rejected as moot. This is the operative part on the Court's own case page.",
+     "quote": "ОБЯВЯВА за противоконституционни чл. 355, ал. 1 в частта „часове,“; ал. 2; ал. 3 в частта „всички работни дни за съответния месец“ и ал. 4 от Кодекса на труда (обн. ДВ, бр. 26 от 1986 г., посл. изм. и доп. бр. 89 от 2026 г.), както са изменени с §11, т. 1 – 4 от Преходните и заключителни разпоредби на Закона за държавния бюджет на Република България за 2026 г. (обн. ДВ, бр. 69 от 2026 г.).",
+     "source": "Конституционен съд на Република България — Дело № 15/2026 г., Решение № 17 от 20.10.2026 г. (диспозитив)",
+     "url": "https://www.constcourt.bg/bg/case-728",
+     "archive": "",
+     "date": "2026-10-20"
+    },
+    {
+     "statement": "The Council of Ministers' own summary of Budget 2027 (cabinet meeting of 14 October 2026) rejects the 'new taxes' framing: Prime Minister Rumen Radev says revenues rise 'without changing the main taxes — income, profit and VAT', with extra money coming from collection, fraud control, digitalisation and a one-off contribution from high-profit sectors (banks, insurers, retail chains, telecoms). The same release sets pensions +8%, public-sector pay +5%, teachers +7.5%. This is the government's counter-position to the ~2 bn 'burden' claim.",
+     "quote": "„Залагаме повече приходи, но без да променяме основни данъци, доходи, печалба и ДДС“, подчерта Румен Радев.",
+     "source": "Министерски съвет — „Румен Радев: Бюджет 2027 не предлага лесни решения, но задава посока към разумно управление на публичните средства и инвестиции в хората“",
+     "url": "https://www.government.bg/bg/prestsentar/novini/rumen-radev-byudzhet-2027-ne-predlaga-lesni-resheniya-no-zadava-posoka-kam-razumno-upravlenie-na-publichnite-sredstva-i-investitsii-v-horata",
+     "archive": "http://web.archive.org/web/20261015115347/https://government.bg/bg/prestsentar/novini/rumen-radev-byudzhet-2027-ne-predlaga-lesni-resheniya-no-zadava-posoka-kam-razumno-upravlenie-na-publichnite-sredstva-i-investitsii-v-horata",
+     "date": "2026-10-14"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-05-21",
+   "speaker": "iotova",
+   "t": "64:17",
+   "quote_bg": "Само преди една седмица Конституционния съд каза, че този бюджет не е противоконституционен",
+   "claim_en": "A week ago the Constitutional Court held that this budget is not unconstitutional.",
+   "topic": "budget",
+   "verdict": "mixed",
+   "confidence": "medium",
+   "steelman": "The Constitutional Court held a week ago that this budget is not unconstitutional.",
+   "finding": "The Court ruled on 20 October 2026, nine days before the debate. It annulled two provisions on procedural grounds but left the budget in force, so 'not unconstitutional' captures the outcome while omitting the partial annulment.",
+   "evidence": [
+    {
+     "statement": "The Constitutional Court did rule on the budget. By Decision No. 17 of 20 October 2026 (Constitutional Case No. 15/2026, joined with 16/2026 and 18/2026, on a request by 52nd National Assembly MPs filed 31 July 2026 and by the Ombudsman), it REJECTED the request to declare the 2026 State Budget Act unconstitutional in its entirety, but DECLARED UNCONSTITUTIONAL the changes to art. 355(1)-(4) of the Labour Code made by §11(1)-(4) of the budget law's Transitional and Final Provisions, and art. 218(2) of the Judicial System Act made by §21(1). The request against §46 was rejected as moot. This is the operative part on the Court's own case page.",
+     "quote": "ОБЯВЯВА за противоконституционни чл. 355, ал. 1 в частта „часове,“; ал. 2; ал. 3 в частта „всички работни дни за съответния месец“ и ал. 4 от Кодекса на труда (обн. ДВ, бр. 26 от 1986 г., посл. изм. и доп. бр. 89 от 2026 г.), както са изменени с §11, т. 1 – 4 от Преходните и заключителни разпоредби на Закона за държавния бюджет на Република България за 2026 г. (обн. ДВ, бр. 69 от 2026 г.).",
+     "source": "Конституционен съд на Република България — Дело № 15/2026 г., Решение № 17 от 20.10.2026 г. (диспозитив)",
+     "url": "https://www.constcourt.bg/bg/case-728",
+     "archive": "",
+     "date": "2026-10-20"
+    },
+    {
+     "statement": "The Court's reasoning, in its own press release, is that the Labour Code amendment is not directly tied to the 2026 budget's revenues and expenditures — i.e. the objection is to using the budget law's transitional provisions as the vehicle, exactly the mechanism Yotova described. The Court also held the magistrates' pay change breached art. 133 of the Constitution.",
+     "quote": "За да обяви за противоконституционни измененията в чл. 355, ал. 1 – 4 от Кодекса на труда, приети с §11, т. 1 – 4 от Преходните и заключителни разпоредби на Закона да държавния бюджет на Република България за 2026 г., Съдът прие, че изменението не е пряко обвързано с приходите и разходите в държавния бюджет за 2026 г.",
+     "source": "БТА (прессъобщение на Конституционния съд) — „Конституционният съд се произнесе с решение по конституционно дело №15/2026 г.“",
+     "url": "https://www.bta.bg/bg/news/bulgaria/oficial-messages/1228820-konstitutsionniyat-sad-se-proiznese-s-reshenie-po-konstitutsionno-delo-15-2026-",
+     "archive": "",
+     "date": "2026-10-20"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-05-22",
+   "speaker": "iotova",
+   "t": "64:17",
+   "quote_bg": "отмени два текста от него, които най-вероятно ще бъдат изправени в следващия бюджет и които искам да кажа на нашите зрители, че има технически характер",
+   "claim_en": "The Court annulled two provisions of the budget which are of a technical nature and will most likely be corrected in the next budget.",
+   "topic": "budget",
+   "verdict": "mostly_true",
+   "confidence": "medium",
+   "steelman": "The Court annulled two provisions of a technical character that will most likely be corrected.",
+   "finding": "Decision 17 of 20 October 2026 annulled two provisions, and the Court's reasoning was that the labour-code change was not tied to the budget's revenues and expenditures - i.e. a procedural defect.",
+   "evidence": [
+    {
+     "statement": "The Constitutional Court did rule on the budget. By Decision No. 17 of 20 October 2026 (Constitutional Case No. 15/2026, joined with 16/2026 and 18/2026, on a request by 52nd National Assembly MPs filed 31 July 2026 and by the Ombudsman), it REJECTED the request to declare the 2026 State Budget Act unconstitutional in its entirety, but DECLARED UNCONSTITUTIONAL the changes to art. 355(1)-(4) of the Labour Code made by §11(1)-(4) of the budget law's Transitional and Final Provisions, and art. 218(2) of the Judicial System Act made by §21(1). The request against §46 was rejected as moot. This is the operative part on the Court's own case page.",
+     "quote": "ОБЯВЯВА за противоконституционни чл. 355, ал. 1 в частта „часове,“; ал. 2; ал. 3 в частта „всички работни дни за съответния месец“ и ал. 4 от Кодекса на труда (обн. ДВ, бр. 26 от 1986 г., посл. изм. и доп. бр. 89 от 2026 г.), както са изменени с §11, т. 1 – 4 от Преходните и заключителни разпоредби на Закона за държавния бюджет на Република България за 2026 г. (обн. ДВ, бр. 69 от 2026 г.).",
+     "source": "Конституционен съд на Република България — Дело № 15/2026 г., Решение № 17 от 20.10.2026 г. (диспозитив)",
+     "url": "https://www.constcourt.bg/bg/case-728",
+     "archive": "",
+     "date": "2026-10-20"
+    },
+    {
+     "statement": "The Court's reasoning, in its own press release, is that the Labour Code amendment is not directly tied to the 2026 budget's revenues and expenditures — i.e. the objection is to using the budget law's transitional provisions as the vehicle, exactly the mechanism Yotova described. The Court also held the magistrates' pay change breached art. 133 of the Constitution.",
+     "quote": "За да обяви за противоконституционни измененията в чл. 355, ал. 1 – 4 от Кодекса на труда, приети с §11, т. 1 – 4 от Преходните и заключителни разпоредби на Закона да държавния бюджет на Република България за 2026 г., Съдът прие, че изменението не е пряко обвързано с приходите и разходите в държавния бюджет за 2026 г.",
+     "source": "БТА (прессъобщение на Конституционния съд) — „Конституционният съд се произнесе с решение по конституционно дело №15/2026 г.“",
+     "url": "https://www.bta.bg/bg/news/bulgaria/oficial-messages/1228820-konstitutsionniyat-sad-se-proiznese-s-reshenie-po-konstitutsionno-delo-15-2026-",
+     "archive": "",
+     "date": "2026-10-20"
+    },
+    {
+     "statement": "The content of the struck-down provision: from 1 January 2027 length of service (трудов стаж) was to be counted by actual hours worked, so a permanent half-time worker would get 10 days' paid annual leave instead of 20, first leave would require 8 months instead of 4, 'class' seniority increments would accrue half as fast, and severance thresholds would double in calendar years. Insurance contribution years (осигурителен стаж), which determine pensions, were not changed. This was adopted in July 2026 via the 2026 budget law and annulled on 20 October 2026.",
+     "quote": "Така например човек, който работи постоянно на половин работен ден, ще има право на 10 дни платен годишен отпуск, вместо на досегашните 20. Промяна има и при първото ползване на отпуск. Ако досега това ставаше след натрупване на най-малко четири месеца трудов стаж, то при работа на половин ден от 2027 г. ще са необходими осем календарни месеца.",
+     "source": "Focus News — „Голяма промяна за работещите на непълно работно време: По-малко отпуск и по-бавно трупане на трудов стаж“",
+     "url": "https://www.focus-news.net/novini/Bylgaria/Golyama-promyana-za-raboteshtite-na-nepulno-rabotno-vreme-Po-malko-otpusk-i-po-bavno-trupane-na-trudov-stazh-3003863",
+     "archive": "",
+     "date": "2026-08-01"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-05-25",
+   "speaker": "gyurov",
+   "t": "65:32",
+   "quote_bg": "Ако ние мислим, че урязването на трудовите права на българските граждани е малка подробност",
+   "claim_en": "The budget cuts the labour rights of Bulgarian citizens.",
+   "topic": "budget",
+   "verdict": "mostly_true",
+   "confidence": "high",
+   "steelman": "The budget cuts the labour rights of Bulgarian citizens.",
+   "finding": "From 1 January 2027 length of service was to be counted by actual hours worked, so a permanent half-time worker would accrue ten days of paid leave instead of twenty. The provision was struck down, but it was in the bill.",
+   "evidence": [
+    {
+     "statement": "The content of the struck-down provision: from 1 January 2027 length of service (трудов стаж) was to be counted by actual hours worked, so a permanent half-time worker would get 10 days' paid annual leave instead of 20, first leave would require 8 months instead of 4, 'class' seniority increments would accrue half as fast, and severance thresholds would double in calendar years. Insurance contribution years (осигурителен стаж), which determine pensions, were not changed. This was adopted in July 2026 via the 2026 budget law and annulled on 20 October 2026.",
+     "quote": "Така например човек, който работи постоянно на половин работен ден, ще има право на 10 дни платен годишен отпуск, вместо на досегашните 20. Промяна има и при първото ползване на отпуск. Ако досега това ставаше след натрупване на най-малко четири месеца трудов стаж, то при работа на половин ден от 2027 г. ще са необходими осем календарни месеца.",
+     "source": "Focus News — „Голяма промяна за работещите на непълно работно време: По-малко отпуск и по-бавно трупане на трудов стаж“",
+     "url": "https://www.focus-news.net/novini/Bylgaria/Golyama-promyana-za-raboteshtite-na-nepulno-rabotno-vreme-Po-malko-otpusk-i-po-bavno-trupane-na-trudov-stazh-3003863",
+     "archive": "",
+     "date": "2026-08-01"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-05-28",
+   "speaker": "iotova",
+   "t": "66:35",
+   "quote_bg": "нямахте пари и за заплати",
+   "claim_en": "At the end you did not have money even for salaries.",
+   "topic": "budget",
+   "verdict": "false",
+   "confidence": "high",
+   "steelman": "At the end there was no money even for salaries.",
+   "finding": "The fiscal reserve stood at EUR 6.8 bn at 30 April 2026; salaries and pensions are first in the priority order of the extended budget law, and post-debate fact-checking refuted the claim on Finance Ministry figures.",
+   "evidence": [
+    {
+     "statement": "The finance minister explicitly put the fiscal reserve at 30 April 2026 at EUR 6.8 bn — EUR 5.3 bn of deposits at the central bank and commercial banks plus EUR 1.5 bn of receivables from EU funds — and said it had been EUR 8.9 bn at the end of 2025. This is the documented anchor for the 6.8 billion figure used in the debate; it refers to the end of the caretaker government's term, not to 2023.",
+     "quote": "Размерът на фискалния резерв към 30 април е 6,8 милиарда евро, в т.ч. 5,3 млрд. евро са депозити на фискалния резерв в БНБ и банки и 1,5 млрд. евро са вземания от фондовете на ЕС за сертифицирани разходи, аванси и други",
+     "source": "BTA — \"С наличността във фискалния резерв в момента ще могат да бъдат покрити всички разходи в държавата до приемането на редовния бюджет, каза финансовият министър\" (caretaker finance minister Georgi Klisurski)",
+     "url": "https://www.bta.bg/bg/news/bulgaria/national-news/1120838-s-nalichnostta-vav-fiskalniya-rezerv-v-momenta-shte-mogat-da-badat-pokriti-vsich",
+     "archive": "",
+     "date": "2026-05-07"
+    },
+    {
+     "statement": "The caretaker finance minister stated that salaries and pensions could not fail to be paid because they are first in the priority order of the extended budget law, and that the reserve was sufficient for the following two months. This is contemporaneous official testimony against the claim that salaries were at risk.",
+     "quote": "На първо място в удължителния закон са социалните плащания, разходите за заплати, т.е. няма как например да не се изплатят заплати или пенсии, мисля, че средствата са напълно достатъчно",
+     "source": "BTA — same press conference of finance minister Georgi Klisurski",
+     "url": "https://www.bta.bg/bg/news/bulgaria/national-news/1120838-s-nalichnostta-vav-fiskalniya-reserv-v-momenta-shte-mogat-da-badat-pokriti-vsich",
+     "archive": "",
+     "date": "2026-05-07"
+    },
+    {
+     "statement": "The claim that the Gyurov government ran out of money for salaries is also refuted in the post-debate fact-check, on the same Finance Ministry figures: EUR 6.8 bn reserve at 30 April 2026, of which EUR 5.28 bn in deposits with financial institutions. Caveat: the size of the reserve does not by itself prove there was free cash for every payment due, which is why the official statement by the finance minister (item above) matters more than the aggregate.",
+     "quote": "Невярно е и твърдението ѝ, че в края на този период правителството на Гюров не е имало пари за заплати. По данни на Министерството на финансите към 30 април 2026 г. фискалният резерв е бил 6,8 млрд. евро, от които 5,28 млрд. евро са депозити във финансови институции.",
+     "source": "Focus-news — \"Какво е вярно и какво не в казаното от Йотова и Гюров по време на дебата\" (summary of the ZaKogo.com check)",
+     "url": "https://www.focus-news.net/novini/Bylgaria/Kakvo-e-vyarno-i-kakvo-ne-v-kazanoto-ot-Iotova-i-Gyurov-po-vreme-na-debata-3048233",
+     "archive": "",
+     "date": "2026-10-30"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "misdirection",
+   "notes": "A false claim about a documented figure."
+  },
+  {
+   "claim_id": "C-05-29",
+   "speaker": "iotova",
+   "t": "66:35",
+   "quote_bg": "предложението ви да вземете пари от Българската банка за развитие, за да можете да покриете разходите на държавата",
+   "claim_en": "Gyurov's proposal at one of their meetings was to take money from the Bulgarian Development Bank in order to cover the state's expenses.",
+   "topic": "budget",
+   "verdict": "mostly_true",
+   "confidence": "high",
+   "steelman": "Gyurov's proposal was to take money from the Bulgarian Development Bank.",
+   "finding": "On 22 April 2026 the caretaker cabinet authorised the finance minister, as sole shareholder, to reduce BBR's capital; the stated purpose was to return money to the budget.",
+   "evidence": [
+    {
+     "statement": "On 22 April 2026 the caretaker Council of Ministers chaired by Andrey Gyurov authorised the finance minister, as sole shareholder, to reduce BBR's capital from EUR 2,625,781,150 to EUR 1,180,613,634.77 (a cut of EUR 1,445,167,515.23) by cancelling 28,264,571 shares of EUR 51.13 nominal. Paragraph 4 orders the sum paid into the Ministry of Finance budget within seven days of the entry in the Commercial Register. The decision is signed by PM Andrey Gyurov — this is the documented 'who decided and when'.",
+     "quote": "Министърът на финансите, в качеството му на упражняващ правата на едноличния собственик, да намали капитала на „Българска банка за развитие“ ЕАД от 2 625 781 150 евро на 1 180 613 634,77 евро чрез обезсилване на 28 264 571 броя поименни акции с номинална стойност 51,13 евро всяка",
+     "source": "Council of Ministers — Decision No. 309 of 22.04.2026 \"On reducing the capital of Bulgarian Development Bank EAD\", Acts of the Council of Ministers portal",
+     "url": "https://strategy.bg/bg/pris/legal-information/reseniia/169486",
+     "archive": "http://web.archive.org/web/20260423073553/https://strategy.bg/bg/pris/legal-information/reseniia/169486",
+     "date": "2026-04-22"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "BBR itself warned the reduction would take months and needed creditor approval."
+  },
+  {
+   "claim_id": "C-05-30",
+   "speaker": "iotova",
+   "t": "67:01",
+   "quote_bg": "Това не отговаря на истината.",
+   "claim_en": "The assertion that the budget cuts labour rights is not true.",
+   "topic": "budget",
+   "verdict": "mostly_false",
+   "confidence": "high",
+   "steelman": "The assertion that the budget cuts labour rights is not true.",
+   "finding": "The bill contained a provision that halved paid-leave accrual for part-time workers; that is a cut to a labour right, and the Constitutional Court later removed it.",
+   "evidence": [
+    {
+     "statement": "The content of the struck-down provision: from 1 January 2027 length of service (трудов стаж) was to be counted by actual hours worked, so a permanent half-time worker would get 10 days' paid annual leave instead of 20, first leave would require 8 months instead of 4, 'class' seniority increments would accrue half as fast, and severance thresholds would double in calendar years. Insurance contribution years (осигурителен стаж), which determine pensions, were not changed. This was adopted in July 2026 via the 2026 budget law and annulled on 20 October 2026.",
+     "quote": "Така например човек, който работи постоянно на половин работен ден, ще има право на 10 дни платен годишен отпуск, вместо на досегашните 20. Промяна има и при първото ползване на отпуск. Ако досега това ставаше след натрупване на най-малко четири месеца трудов стаж, то при работа на половин ден от 2027 г. ще са необходими осем календарни месеца.",
+     "source": "Focus News — „Голяма промяна за работещите на непълно работно време: По-малко отпуск и по-бавно трупане на трудов стаж“",
+     "url": "https://www.focus-news.net/novini/Bylgaria/Golyama-promyana-za-raboteshtite-na-nepulno-rabotno-vreme-Po-malko-otpusk-i-po-bavno-trupane-na-trudov-stazh-3003863",
+     "archive": "",
+     "date": "2026-08-01"
+    },
+    {
+     "statement": "The Constitutional Court did rule on the budget. By Decision No. 17 of 20 October 2026 (Constitutional Case No. 15/2026, joined with 16/2026 and 18/2026, on a request by 52nd National Assembly MPs filed 31 July 2026 and by the Ombudsman), it REJECTED the request to declare the 2026 State Budget Act unconstitutional in its entirety, but DECLARED UNCONSTITUTIONAL the changes to art. 355(1)-(4) of the Labour Code made by §11(1)-(4) of the budget law's Transitional and Final Provisions, and art. 218(2) of the Judicial System Act made by §21(1). The request against §46 was rejected as moot. This is the operative part on the Court's own case page.",
+     "quote": "ОБЯВЯВА за противоконституционни чл. 355, ал. 1 в частта „часове,“; ал. 2; ал. 3 в частта „всички работни дни за съответния месец“ и ал. 4 от Кодекса на труда (обн. ДВ, бр. 26 от 1986 г., посл. изм. и доп. бр. 89 от 2026 г.), както са изменени с §11, т. 1 – 4 от Преходните и заключителни разпоредби на Закона за държавния бюджет на Република България за 2026 г. (обн. ДВ, бр. 69 от 2026 г.).",
+     "source": "Конституционен съд на Република България — Дело № 15/2026 г., Решение № 17 от 20.10.2026 г. (диспозитив)",
+     "url": "https://www.constcourt.bg/bg/case-728",
+     "archive": "",
+     "date": "2026-10-20"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "misdirection",
+   "notes": "Denies the content of a provision that existed."
+  },
+  {
+   "claim_id": "C-05-31",
+   "speaker": "iotova",
+   "t": "67:01",
+   "quote_bg": "Ние говорим за един текст от закона, който е свързан с отпуските и с почасовата работа.",
+   "claim_en": "The disputed matter is one text of the law concerning holidays and hourly work.",
+   "topic": "budget",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "The disputed matter is one text on holidays and hourly work.",
+   "finding": "The contested transitional provision concerned counting length of service by hours worked, which affects holidays and hourly employment.",
+   "evidence": [
+    {
+     "statement": "The content of the struck-down provision: from 1 January 2027 length of service (трудов стаж) was to be counted by actual hours worked, so a permanent half-time worker would get 10 days' paid annual leave instead of 20, first leave would require 8 months instead of 4, 'class' seniority increments would accrue half as fast, and severance thresholds would double in calendar years. Insurance contribution years (осигурителен стаж), which determine pensions, were not changed. This was adopted in July 2026 via the 2026 budget law and annulled on 20 October 2026.",
+     "quote": "Така например човек, който работи постоянно на половин работен ден, ще има право на 10 дни платен годишен отпуск, вместо на досегашните 20. Промяна има и при първото ползване на отпуск. Ако досега това ставаше след натрупване на най-малко четири месеца трудов стаж, то при работа на половин ден от 2027 г. ще са необходими осем календарни месеца.",
+     "source": "Focus News — „Голяма промяна за работещите на непълно работно време: По-малко отпуск и по-бавно трупане на трудов стаж“",
+     "url": "https://www.focus-news.net/novini/Bylgaria/Golyama-promyana-za-raboteshtite-na-nepulno-rabotno-vreme-Po-malko-otpusk-i-po-bavno-trupane-na-trudov-stazh-3003863",
+     "archive": "",
+     "date": "2026-08-01"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-05-32",
+   "speaker": "iotova",
+   "t": "67:01",
+   "quote_bg": "И възражението на Конституционния съд е, че това трябва да стане или ако въобще става, ще стане с промяна в друг закон",
+   "claim_en": "The Constitutional Court's objection was that this must be done, if at all, by amending another law.",
+   "topic": "judiciary",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "The Court's objection was that this must be done, if at all, by amending another law.",
+   "finding": "The Court held the amendment was not directly tied to the budget's revenues and expenditures, so it could not be carried by the budget law's transitional provisions.",
+   "evidence": [
+    {
+     "statement": "The Court's reasoning, in its own press release, is that the Labour Code amendment is not directly tied to the 2026 budget's revenues and expenditures — i.e. the objection is to using the budget law's transitional provisions as the vehicle, exactly the mechanism Yotova described. The Court also held the magistrates' pay change breached art. 133 of the Constitution.",
+     "quote": "За да обяви за противоконституционни измененията в чл. 355, ал. 1 – 4 от Кодекса на труда, приети с §11, т. 1 – 4 от Преходните и заключителни разпоредби на Закона да държавния бюджет на Република България за 2026 г., Съдът прие, че изменението не е пряко обвързано с приходите и разходите в държавния бюджет за 2026 г.",
+     "source": "БТА (прессъобщение на Конституционния съд) — „Конституционният съд се произнесе с решение по конституционно дело №15/2026 г.“",
+     "url": "https://www.bta.bg/bg/news/bulgaria/oficial-messages/1228820-konstitutsionniyat-sad-se-proiznese-s-reshenie-po-konstitutsionno-delo-15-2026-",
+     "archive": "",
+     "date": "2026-10-20"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-05-33",
+   "speaker": "gyurov",
+   "t": "67:36",
+   "quote_bg": "които са на половин работен ден, като работещи студенти, като млади майки, че наистина се краде от тяхните права",
+   "claim_en": "Rights are really being stolen from part-time workers such as working students and young mothers.",
+   "topic": "budget",
+   "verdict": "mostly_true",
+   "confidence": "high",
+   "steelman": "Rights are being stolen from part-time workers, working students and young mothers.",
+   "finding": "The struck provision would have reduced leave accrual for exactly those groups; the characterisation is rhetorical but the incidence is documented.",
+   "evidence": [
+    {
+     "statement": "The content of the struck-down provision: from 1 January 2027 length of service (трудов стаж) was to be counted by actual hours worked, so a permanent half-time worker would get 10 days' paid annual leave instead of 20, first leave would require 8 months instead of 4, 'class' seniority increments would accrue half as fast, and severance thresholds would double in calendar years. Insurance contribution years (осигурителен стаж), which determine pensions, were not changed. This was adopted in July 2026 via the 2026 budget law and annulled on 20 October 2026.",
+     "quote": "Така например човек, който работи постоянно на половин работен ден, ще има право на 10 дни платен годишен отпуск, вместо на досегашните 20. Промяна има и при първото ползване на отпуск. Ако досега това ставаше след натрупване на най-малко четири месеца трудов стаж, то при работа на половин ден от 2027 г. ще са необходими осем календарни месеца.",
+     "source": "Focus News — „Голяма промяна за работещите на непълно работно време: По-малко отпуск и по-бавно трупане на трудов стаж“",
+     "url": "https://www.focus-news.net/novini/Bylgaria/Golyama-promyana-za-raboteshtite-na-nepulno-rabotno-vreme-Po-malko-otpusk-i-po-bavno-trupane-na-trudov-stazh-3003863",
+     "archive": "",
+     "date": "2026-08-01"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-05-34",
+   "speaker": "gyurov",
+   "t": "67:49",
+   "quote_bg": "Когато ние тръгнахме в фискалния резерв, имаше 6,8 милиарда евро, които бяха там, така че никога не е бил въпроса за плащане на заплати",
+   "claim_en": "When they started, the fiscal reserve held 6.8 billion euros, so paying salaries was never the question.",
+   "topic": "budget",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "The fiscal reserve held 6.8 billion euro, so paying salaries was never the question.",
+   "finding": "The finance minister put the reserve at EUR 6.8 bn on 30 April 2026 - EUR 5.3 bn of deposits plus EUR 1.5 bn of EU receivables.",
+   "evidence": [
+    {
+     "statement": "The finance minister explicitly put the fiscal reserve at 30 April 2026 at EUR 6.8 bn — EUR 5.3 bn of deposits at the central bank and commercial banks plus EUR 1.5 bn of receivables from EU funds — and said it had been EUR 8.9 bn at the end of 2025. This is the documented anchor for the 6.8 billion figure used in the debate; it refers to the end of the caretaker government's term, not to 2023.",
+     "quote": "Размерът на фискалния резерв към 30 април е 6,8 милиарда евро, в т.ч. 5,3 млрд. евро са депозити на фискалния резерв в БНБ и банки и 1,5 млрд. евро са вземания от фондовете на ЕС за сертифицирани разходи, аванси и други",
+     "source": "BTA — \"С наличността във фискалния резерв в момента ще могат да бъдат покрити всички разходи в държавата до приемането на редовния бюджет, каза финансовият министър\" (caretaker finance minister Georgi Klisurski)",
+     "url": "https://www.bta.bg/bg/news/bulgaria/national-news/1120838-s-nalichnostta-vav-fiskalniya-rezerv-v-momenta-shte-mogat-da-badat-pokriti-vsich",
+     "archive": "",
+     "date": "2026-05-07"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-05-40",
+   "speaker": "iotova",
+   "t": "69:26",
+   "quote_bg": "нужни за заплати, което тогава твърдяхте и че имате остър дефицит на пари",
+   "claim_en": "Gyurov claimed at the time that he had an acute shortage of money, while now saying the funds were not needed for salaries.",
+   "topic": "budget",
+   "verdict": "mixed",
+   "confidence": "medium",
+   "steelman": "Gyurov said then that he had an acute shortage of money, while now saying the funds were not needed for salaries.",
+   "finding": "The record shows a dispute about liquidity timing rather than an admission of insolvency. The 'acute shortage' quotation could not be matched to a primary source.",
+   "evidence": [
+    {
+     "statement": "The caretaker finance minister stated that salaries and pensions could not fail to be paid because they are first in the priority order of the extended budget law, and that the reserve was sufficient for the following two months. This is contemporaneous official testimony against the claim that salaries were at risk.",
+     "quote": "На първо място в удължителния закон са социалните плащания, разходите за заплати, т.е. няма как например да не се изплатят заплати или пенсии, мисля, че средствата са напълно достатъчно",
+     "source": "BTA — same press conference of finance minister Georgi Klisurski",
+     "url": "https://www.bta.bg/bg/news/bulgaria/national-news/1120838-s-nalichnostta-vav-fiskalniya-reserv-v-momenta-shte-mogat-da-badat-pokriti-vsich",
+     "archive": "",
+     "date": "2026-05-07"
+    },
+    {
+     "statement": "The claim that the Gyurov government ran out of money for salaries is also refuted in the post-debate fact-check, on the same Finance Ministry figures: EUR 6.8 bn reserve at 30 April 2026, of which EUR 5.28 bn in deposits with financial institutions. Caveat: the size of the reserve does not by itself prove there was free cash for every payment due, which is why the official statement by the finance minister (item above) matters more than the aggregate.",
+     "quote": "Невярно е и твърдението ѝ, че в края на този период правителството на Гюров не е имало пари за заплати. По данни на Министерството на финансите към 30 април 2026 г. фискалният резерв е бил 6,8 млрд. евро, от които 5,28 млрд. евро са депозити във финансови институции.",
+     "source": "Focus-news — \"Какво е вярно и какво не в казаното от Йотова и Гюров по време на дебата\" (summary of the ZaKogo.com check)",
+     "url": "https://www.focus-news.net/novini/Bylgaria/Kakvo-e-vyarno-i-kakvo-ne-v-kazanoto-ot-Iotova-i-Gyurov-po-vreme-na-debata-3048233",
+     "archive": "",
+     "date": "2026-10-30"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-06-02",
+   "speaker": "iotova",
+   "t": "70:00",
+   "quote_bg": "Защо като дойде новото правителство, завари не просто бюджет на нула, а с близо минус 3 милиарда.",
+   "claim_en": "When the new government took office it inherited not a zero budget but one at nearly minus 3 billion.",
+   "topic": "budget",
+   "verdict": "false",
+   "confidence": "high",
+   "steelman": "The new government inherited not a zero budget but one at nearly minus 3 billion.",
+   "finding": "Finance Ministry data put the consolidated deficit at end-April 2026 at a figure far below EUR 3 bn, and post-debate fact-checking rated this claim false.",
+   "evidence": [
+    {
+     "statement": "The fact-checkers rated that claim false: Finance Ministry data show the consolidated fiscal programme deficit at end-April 2026 — immediately before the government change on 8 May — at EUR 1.75 bn, i.e. 1.4% of projected GDP; larger deficits build up later in the year. Note the arithmetic: EUR 1.75 bn is not 'nearly minus 3 billion', though a 1.4%-of-GDP cash deficit at that point in the year is still a real deterioration.",
+     "quote": "Към края на април 2026 г. - непосредствено преди смяната на правителството на 8 май - дефицитът по Консолидираната фискална програма е 1,75 млрд. евро, или 1,4% от прогнозния БВП.",
+     "source": "ZaKogo.com fact-check, published by Akcent (same article)",
+     "url": "https://akcent.bg/article/80632",
+     "archive": "",
+     "date": "2026-10-30"
+    },
+    {
+     "statement": "The 'minus 3 billion' claim is Yotova's, verbatim, from the debate: she asked Gyurov, if the BBR money really had been returned to the national budget, why the incoming government found 'not simply a budget at zero, but nearly minus 3 billion'. This is the assertion under test, not a documented fact.",
+     "quote": "Ако сте върнали в националния бюджет, защо като дойде новото правителство, завари не просто бюджет на нула, а с близо минус 3 милиарда?",
+     "source": "ZaKogo.com fact-check of the 29 October debate, published by Akcent — \"Фактчек на дебата: 18 неверни твърдения на Йотова срещу 5 на Гюров\"",
+     "url": "https://akcent.bg/article/80632",
+     "archive": "",
+     "date": "2026-10-30"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "misdirection",
+   "notes": "The single clearest false number in the debate."
+  },
+  {
+   "claim_id": "C-06-03",
+   "speaker": "gyurov",
+   "t": "70:09",
+   "quote_bg": "Фактите говорят тогава, когато казвам 6,8 милиарда. Това е което оставихме на следващото правителство.",
+   "claim_en": "Gyurov's government left 6.8 billion to the next government.",
+   "topic": "budget",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "Gyurov's government left 6.8 billion to the next government.",
+   "finding": "Same figure as C-05-34: EUR 6.8 bn on 30 April 2026, immediately before the government change on 8 May.",
+   "evidence": [
+    {
+     "statement": "The finance minister explicitly put the fiscal reserve at 30 April 2026 at EUR 6.8 bn — EUR 5.3 bn of deposits at the central bank and commercial banks plus EUR 1.5 bn of receivables from EU funds — and said it had been EUR 8.9 bn at the end of 2025. This is the documented anchor for the 6.8 billion figure used in the debate; it refers to the end of the caretaker government's term, not to 2023.",
+     "quote": "Размерът на фискалния резерв към 30 април е 6,8 милиарда евро, в т.ч. 5,3 млрд. евро са депозити на фискалния резерв в БНБ и банки и 1,5 млрд. евро са вземания от фондовете на ЕС за сертифицирани разходи, аванси и други",
+     "source": "BTA — \"С наличността във фискалния резерв в момента ще могат да бъдат покрити всички разходи в държавата до приемането на редовния бюджет, каза финансовият министър\" (caretaker finance minister Georgi Klisurski)",
+     "url": "https://www.bta.bg/bg/news/bulgaria/national-news/1120838-s-nalichnostta-vav-fiskalniya-rezerv-v-momenta-shte-mogat-da-badat-pokriti-vsich",
+     "archive": "",
+     "date": "2026-05-07"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-06-07",
+   "speaker": "gyurov",
+   "t": "71:29",
+   "quote_bg": "допълнителна административна и данъчна тежест върху бизнеса и върху домакинствата от около 2 милиарда евро",
+   "claim_en": "The budget adds about 2 billion euro of additional administrative and tax burden on business and households.",
+   "topic": "budget",
+   "verdict": "mixed",
+   "confidence": "medium",
+   "steelman": "The budget adds about 2 billion euro of administrative and tax burden on business and households.",
+   "finding": "168 chasa, working from the plan sent to the European Commission, reports 'nearly EUR 2 billion' of additional revenue and itemises it, including an EUR 800 m one-off windfall tax. Sega puts the total effect of new measures at EUR 988 m. The cabinet denies 'new taxes' altogether. The figure is defensible on one reading and roughly double another.",
+   "evidence": [
+    {
+     "statement": "168 chasa, working from the 2027 budget plan sent to the European Commission, reports 'nearly EUR 2 billion' of additional revenue in 2027 and itemises it: EUR 800 m one-off windfall tax on six sectors, EUR 461.8 m from raising the maximum insurable income (EUR 2,300 to 2,400) and the minimum insurance thresholds, EUR 220.2 m from tobacco excise plus related VAT, EUR 120 m from mandatory VAT registration on new-build property sales. This is the documented basis for the order of magnitude behind Gyurov's ~2 bn figure.",
+     "quote": "Правителството разчита на нови данъци, по-високи осигурителни прагове и засилен контрол върху събираемостта, за да осигури близо 2 млрд. евро допълнителни приходи през 2027 г. Това става ясно от бюджетния план за догодина, който финансовото министерство е изпратило в Брюксел.",
+     "source": "168 Часа — „Нови данъци, по-високи осигуровки и контрол за още 2 млрд. евро (Графика)“",
+     "url": "https://www.168chasa.bg/article/23749657",
+     "archive": "",
+     "date": "2026-10-17"
+    },
+    {
+     "statement": "Sega, reading the same plan sent to Brussels, puts the total budget effect of the new tax measures at 'under EUR 1 billion — EUR 988 million', even though the windfall tax alone is counted at EUR 800 m and the package adds a 7% tax on food vouchers, a new excise on powerful cars and higher gambling taxes. This is the strongest published contradiction of the ~2 bn framing: the aggregate depends heavily on whether social-insurance and excise increases are counted, and on gross versus net presentation.",
+     "quote": "И въпреки предвиденото въвеждане на нови данъци, вдигането на ставки и разширяването на базите на облагането, вкл. за цигари и горива, предвиденият ефект за бюджета е под 1 млрд. евро - 988 млн. евро.",
+     "source": "Сега — „Бюджет 2027 - по-високи данъци и едва 988 млн. евро повече приходи“",
+     "url": "https://www.segabg.com/hot/category-economy/byudzhet-2027-po-visoki-danuci-i-edva-988-mln-evro-poveche-prihodi",
+     "archive": "",
+     "date": "2026-10-16"
+    },
+    {
+     "statement": "The Council of Ministers' own summary of Budget 2027 (cabinet meeting of 14 October 2026) rejects the 'new taxes' framing: Prime Minister Rumen Radev says revenues rise 'without changing the main taxes — income, profit and VAT', with extra money coming from collection, fraud control, digitalisation and a one-off contribution from high-profit sectors (banks, insurers, retail chains, telecoms). The same release sets pensions +8%, public-sector pay +5%, teachers +7.5%. This is the government's counter-position to the ~2 bn 'burden' claim.",
+     "quote": "„Залагаме повече приходи, но без да променяме основни данъци, доходи, печалба и ДДС“, подчерта Румен Радев.",
+     "source": "Министерски съвет — „Румен Радев: Бюджет 2027 не предлага лесни решения, но задава посока към разумно управление на публичните средства и инвестиции в хората“",
+     "url": "https://www.government.bg/bg/prestsentar/novini/rumen-radev-byudzhet-2027-ne-predlaga-lesni-resheniya-no-zadava-posoka-kam-razumno-upravlenie-na-publichnite-sredstva-i-investitsii-v-horata",
+     "archive": "http://web.archive.org/web/20261015115347/https://government.bg/bg/prestsentar/novini/rumen-radev-byudzhet-2027-ne-predlaga-lesni-resheniya-no-zadava-posoka-kam-razumno-upravlenie-na-publichnite-sredstva-i-investitsii-v-horata",
+     "date": "2026-10-14"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "The dispute is partly definitional: revenue measures versus net burden."
+  },
+  {
+   "claim_id": "C-06-10",
+   "speaker": "gyurov",
+   "t": "71:29",
+   "quote_bg": "и още допълнителни 1,5 милиарда евро срещу празни графи",
+   "claim_en": "A further 1.5 billion euro is allocated against empty line items.",
+   "topic": "budget",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "A further 1.5 billion euro is allocated against empty line items.",
+   "finding": "The bTV recap records the claim but no primary document was located showing which line items are unfunded.",
+   "evidence": [
+    {
+     "statement": "bTV's recap of the same debate independently records all three Gyurov budget claims: the ~EUR 2 bn additional administrative and tax burden, a further EUR 1.5 bn said to lack specifics on purpose and accountability, and the assertion that about 1 million pensioners will remain below the poverty line.",
+     "quote": "Той посочи и допълнителни 1,5 млрд. евро, за които според него липсва достатъчно конкретика относно предназначението и отчетността. Същевременно, по думите му, не са осигурени необходимите средства за младите лекари, майките и хората на минимална заплата, а около 1 млн. пенсионери ще останат под прага на бедност.",
+     "source": "bTV Новините — „От сигурността в Черно море до бюджета: Основните послания на Андрей Гюров в президентския дебат“",
+     "url": "https://btvnovinite.bg/novite-izbori/ot-sigurnostta-v-cherno-more-do-bjudzheta-osnovnite-poslanija-na-andrej-gjurov-v-debata.html",
+     "archive": "",
+     "date": "2026-10-30"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "Would need the budget's annexes."
+  },
+  {
+   "claim_id": "C-06-11",
+   "speaker": "gyurov",
+   "t": "71:29",
+   "quote_bg": "Има около 1 милион пенсионери, които ще останат под прага за бедност.",
+   "claim_en": "About 1 million pensioners will remain below the poverty line.",
+   "topic": "pensions",
+   "verdict": "mostly_false",
+   "confidence": "medium",
+   "steelman": "About one million pensioners will remain below the poverty line.",
+   "finding": "NSI data for end-June 2026 put about 750,000 pensioners below the poverty line, against a 2027 line of EUR 443. The rounded 'one million' overstates by roughly a third.",
+   "evidence": [
+    {
+     "statement": "The hard number behind the pensioners claim: per National Social Security Institute data for end-June 2026, about 750,000 pensioners were below the poverty line (then EUR 390.63/month) because the minimum service-and-age pension was EUR 322.37, raised to EUR 347.51 from 1 July 2026 — still far below the line. Over 937,000 people (45.3% of all pensioners) received the minimum pension for their category. So 'about one million' is not the measured mid-2026 figure, but is a plausible projection for 2027 given the 443 euro line and the 8% pension rise due only from 1 July 2027.",
+     "quote": "Близо 750 хиляди пенсионери са под линията на бедност, показват данни на НОИ към края на юни. Линията на бедност за 2026 г. е 390,63 евро, докато минималната пенсия за стаж и възраст до края на юни беше 322,37 евро.",
+     "source": "Marginalia (по данни на НОИ, в. „Труд“) — „Почти милион пенсионери получават минимална пенсия“",
+     "url": "https://www.marginalia.bg/pochti-milion-pensioneri-poluchavat-minimalna-pensiya/",
+     "archive": "",
+     "date": "2026-09-13"
+    },
+    {
+     "statement": "The poverty line that the 'one million pensioners' claim must be measured against: the government set it at EUR 443 per month for 2027, up EUR 53 / 13.4% on 2026 (the National Tripartite Cooperation Council approved the same figure on 14 September 2026). A higher line mechanically pushes more pensioners below it.",
+     "quote": "Линията на бедност за 2027 г. ще бъде 443 евро, реши правителството. Размерът ѝ се увеличава с 53 евро или с 13,4% спрямо настоящата година.",
+     "source": "Министерство на труда и социалната политика — „Линията на бедност ще бъде 443 евро през 2027 г.“",
+     "url": "https://www.mlsp.government.bg/liniyata-na-bednost-shche-bde-443-evro-prez-2027-g",
+     "archive": "",
+     "date": ""
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-07-13",
+   "speaker": "iotova",
+   "t": "87:19",
+   "quote_bg": "всички документи, свързани с помилването, за което говорихте, Аз лично, лично с моя подпис предоставих на Българската прокуратура",
+   "claim_en": "She personally submitted, under her own signature, all documents concerning the pardon to the Bulgarian prosecution.",
+   "topic": "judiciary",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "She submitted all documents on the pardon to the prosecution under her own signature.",
+   "finding": "The presidency referred the Atanasov case to the prosecution on 19 October 2026 and sent the entire file.",
+   "evidence": [
+    {
+     "statement": "The presidency's own account: Iotova referred the Atanasov case to the prosecution on 19 October 2026 and sent the entire file. An internal review found the documents were present and the Pardon Commission followed its rules. The medical opinion came from \"the medical commission under art. 138 of the Execution of Penal Sanctions and Detention in Custody Act\" and was given after the prisoner appeared before it in person. The file contained 7 prosecutor's orders suspending execution of the sentence, 13 medical expert reports, 3 TELK (disability) expert decisions, test results and outpatient records. It also says 14 access-to-information requests were answered between 11 September and 21 October, and rejects as false the suggestion that the Pardon Commission sat in an unlawful composition in Nov 2017-Jan 2018.",
+     "quote": "Държавният глава Илияна Йотова е сезирала на 19 октомври прокуратурата във връзка с помилването на Огнян Атанасов и е изпратила цялата преписка по случая […] Предоставено е експертно становище на медицинската комисия по чл. 138 от Закона за изпълнение на наказанията и задържането под стража.",
+     "source": "БТА - \"Президентът Йотова е сезирала прокуратурата по отношение помилването на Огнян Атанасов, вътрешна проверка не е установила нарушения\" (reproduces the presidential press service statement verbatim)",
+     "url": "https://www.bta.bg/bg/news/bulgaria/1229674-prezidentat-yotova-e-sezirala-prokuraturata-po-otnoshenie-pomilvaneto-na-ognyan-",
+     "archive": "",
+     "date": "2026-10-21"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-07-16",
+   "speaker": "iotova",
+   "t": "87:19",
+   "quote_bg": "Изцяло решението ми е взето по хуманитарни и здравословни причини.",
+   "claim_en": "Her decision was taken entirely on humanitarian and health grounds.",
+   "topic": "judiciary",
+   "verdict": "partly",
+   "confidence": "medium",
+   "steelman": "The decision was taken entirely on humanitarian and health grounds.",
+   "finding": "The presidency asserts a statutory procedure and a humanitarian case; the medical commission's actual recommendation was contested, and one report says the proposal came from the Pardon Commission instead.",
+   "evidence": [
+    {
+     "statement": "The presidency's own account: Iotova referred the Atanasov case to the prosecution on 19 October 2026 and sent the entire file. An internal review found the documents were present and the Pardon Commission followed its rules. The medical opinion came from \"the medical commission under art. 138 of the Execution of Penal Sanctions and Detention in Custody Act\" and was given after the prisoner appeared before it in person. The file contained 7 prosecutor's orders suspending execution of the sentence, 13 medical expert reports, 3 TELK (disability) expert decisions, test results and outpatient records. It also says 14 access-to-information requests were answered between 11 September and 21 October, and rejects as false the suggestion that the Pardon Commission sat in an unlawful composition in Nov 2017-Jan 2018.",
+     "quote": "Държавният глава Илияна Йотова е сезирала на 19 октомври прокуратурата във връзка с помилването на Огнян Атанасов и е изпратила цялата преписка по случая […] Предоставено е експертно становище на медицинската комисия по чл. 138 от Закона за изпълнение на наказанията и задържането под стража.",
+     "source": "БТА - \"Президентът Йотова е сезирала прокуратурата по отношение помилването на Огнян Атанасов, вътрешна проверка не е установила нарушения\" (reproduces the presidential press service statement verbatim)",
+     "url": "https://www.bta.bg/bg/news/bulgaria/1229674-prezidentat-yotova-e-sezirala-prokuraturata-po-otnoshenie-pomilvaneto-na-ognyan-",
+     "archive": "",
+     "date": "2026-10-21"
+    },
+    {
+     "statement": "The central contested claim, made by Nadezhda Yordanova (Yes, Bulgaria) the day after the debate: the medical commission did not propose the pardon; the proposal came from the Pardon Commission appointed by a decree of President Radev; and she holds official medical-commission documents that refute the claim that Atanasov was in a wheelchair before the pardon. This is a party position, not a document.",
+     "quote": "Първо, медицинската комисия, отговорна за състоянието на лишените от свобода, не е предлагала помилването на Огнян Атанасов. Второ, това предложение е направено от Комисията по помилванията, назначена с указ от президента Румен Радев.",
+     "source": "OFFNews - \"Надежда Йорданова: Йотова отново излъга за помилването на Петричкия Ескобар\" (DB press statement)",
+     "url": "https://offnews.bg/politika/nadezhda-jordanova-jotova-otnovo-izlaga-za-pomilvaneto-na-petrichkia-877526.html",
+     "archive": "",
+     "date": "2026-10-30"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-07-27",
+   "speaker": "gyurov",
+   "t": "91:07",
+   "quote_bg": "всички опити да получим информация, всички опити да се направи изслушване по тази тема, бяха предотвратени от прогресивна България",
+   "claim_en": "All attempts to obtain information and to hold a hearing on this topic were prevented by Progressive Bulgaria.",
+   "topic": "judiciary",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "All attempts to obtain information and hold a hearing on the topic were prevented by Progressive Bulgaria.",
+   "finding": "No record of the specific procedural blocking was located.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "Would need the committee's agenda and voting record."
+  },
+  {
+   "claim_id": "C-07-30",
+   "speaker": "gyurov",
+   "t": "93:25",
+   "quote_bg": "Там става въпрос само за двама души, които са сменени.",
+   "claim_en": "Only two people on that medical commission were replaced.",
+   "topic": "judiciary",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "Only two people on that medical commission were replaced.",
+   "finding": "The presidency released only pseudonymised initials, so the turnover could not be verified.",
+   "evidence": [
+    {
+     "statement": "On the Pardon Commission's membership, the presidency answered an access-to-information request with pseudonymised initials only: the chair is L.P.R. and the members are Yu.D.B., I.D.B., V.Y.K. and M.M.G. The same information (full decrees appointing and dismissing members) had been given to Sega four days earlier but is not published on the presidency site. Capital notes that nobody has seen the Pardon Commission's or the medical commission's opinions on the Atanasov case.",
+     "quote": "Комисията по помилването към президента в момента се председателства от Л.П.Р, а другите нейни членове са Ю.Д.Б., И.Д.Б., В.Й.К. и М.М.Г.",
+     "source": "Капитал - \"Президентът И.М.Й. се консултира за помилванията с Л.П.Р, Ю.Д.Б., И.Д.Б., В.Й.К. и М.М.Г.\"",
+     "url": "https://www.capital.bg/politika_i_ikonomika/pravo/2026/10/20/4968313_prezidentut_imi_se_konsultira_za_pomilvaniiata_s_lpr/",
+     "archive": "",
+     "date": "2026-10-20"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-07-31",
+   "speaker": "gyurov",
+   "t": "93:35",
+   "quote_bg": "Освен това, има друга комисия, която е по помилванията",
+   "claim_en": "There is a separate commission that deals with pardons.",
+   "topic": "judiciary",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "There is a separate commission that deals with pardons.",
+   "finding": "The Pardon Commission is a distinct advisory body; the medical commission is a separate statutory body under the penal sanctions act.",
+   "evidence": [
+    {
+     "statement": "Capital distinguishes the two bodies: the Pardon Commission is only an advisory expert body that does not take the final decision, exists by presidential decree rather than statute, and its opinions have never been published; the medical commission under art. 138 of the Execution of Penal Sanctions Act is a standing body that gives opinions on all prisoners, was appointed in July 2022 (i.e. before Atanasov's application), and its opinion is not binding on the president.",
+     "quote": "Медицинската комисия по чл. 138 от Закона за изпълнението на наказанията и задържането под стража се назначава, за да дава становища и заключения за всички затворници и арестанти в системата. И разбира се, нейното становище не е задължително",
+     "source": "Капитал - \"Президентът И.М.Й. се консултира за помилванията с Л.П.Р, Ю.Д.Б., И.Д.Б., В.Й.К. и М.М.Г.\"",
+     "url": "https://www.capital.bg/politika_i_ikonomika/pravo/2026/10/20/4968313_prezidentut_imi_se_konsultira_za_pomilvaniiata_s_lpr/",
+     "archive": "",
+     "date": "2026-10-20"
+    },
+    {
+     "statement": "Sega sets out the medical commission's legal basis and composition: under the Execution of Penal Sanctions and Detention in Custody Act there is a 7-member commission with a 3-year mandate at the General Directorate \"Execution of Penalties\", giving opinions on all prisoners and detainees, appointed by the justice minister in coordination with the health minister. It reports MP Petar Vitanov's account of who the seven are: five doctors from prison hospitals, one chief expert from the Ministry of Health and one doctor from the leadership of the National Centre for Training and Qualification in Emergency Medical Care, appointed in 2022 by minister Nadezhda Yordanova. It stresses that this commission only assesses health and cannot propose a pardon.",
+     "quote": "По Закона за изпълнение на наказанията и задържането под стража (ЗИНЗС) към Главна дирекция \"Изпълнение на наказанията\" има 7-членна комисия с 3-годишен мандат, която дава становище и заключения за всички затворници и арестанти. Тя се назначава от министъра на правосъдието, съгласувано с министъра на здравеопазването.",
+     "source": "Сега - \"Излязоха още скандални факти за помилването на Петричкия Ескобар\"",
+     "url": "https://www.segabg.com/hot/category-bulgaria/izlyazoha-oshte-skandalni-fakti-za-pomilvaneto-na-petrichkiya-eskobar",
+     "archive": "",
+     "date": "2026-10-30"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-07-32",
+   "speaker": "gyurov",
+   "t": "93:35",
+   "quote_bg": "аз много бих искал да видя наистина документа, в който медицинската комисия казва, че този човек трябва да бъде помилван",
+   "claim_en": "No document has been shown in which the medical commission states that this person should be pardoned.",
+   "topic": "judiciary",
+   "verdict": "partly",
+   "confidence": "medium",
+   "steelman": "No document has been shown in which the medical commission states that this person should be pardoned.",
+   "finding": "The register is public but, per the presidency's own first defence, omits part of the case file; the medical commission's recommendation was not published at the time of the debate.",
+   "evidence": [
+    {
+     "statement": "The presidency's first public defence (11 September 2026, when the scandal broke): the register on its website contains publicly available information about the case but omits the pardoned person's name under personal-data law; under the State Gazette Act pardon decrees are not published in the State Gazette at all. It adds that the pardon decision is taken on a proposal of the Pardon Commission, and that at the time of the 2022 pardon Atanasov's sentence had already been suspended for two years because of his deteriorated health.",
+     "quote": "От президентската институция уточняват, че на нейния сайт, в Регистъра на помилваните лица, се съдържа общодостъпна информация по случая, без да бъде споменато името на помилваното лице съгласно Закона за защита на личните данни. А в Закона за \"Държавен вестник\" е записано, че указите за помилване не се публикуват в него.",
+     "source": "БНР (Хоризонт) - \"Президентството отговори на обвиненията за помилван от Йотова наркопласьор\"",
+     "url": "https://bnrnews.bg/horizont/post/527301/prezidentstvoto-otgovori-na-obvineniyata-za-pomilvan-ot-yotova-narkoplasyor",
+     "archive": "http://web.archive.org/web/20260911145015/https://bnrnews.bg/horizont/post/527301/prezidentstvoto-otgovori-na-obvineniyata-za-pomilvan-ot-yotova-narkoplasyor",
+     "date": "2026-09-11"
+    },
+    {
+     "statement": "The central contested claim, made by Nadezhda Yordanova (Yes, Bulgaria) the day after the debate: the medical commission did not propose the pardon; the proposal came from the Pardon Commission appointed by a decree of President Radev; and she holds official medical-commission documents that refute the claim that Atanasov was in a wheelchair before the pardon. This is a party position, not a document.",
+     "quote": "Първо, медицинската комисия, отговорна за състоянието на лишените от свобода, не е предлагала помилването на Огнян Атанасов. Второ, това предложение е направено от Комисията по помилванията, назначена с указ от президента Румен Радев.",
+     "source": "OFFNews - \"Надежда Йорданова: Йотова отново излъга за помилването на Петричкия Ескобар\" (DB press statement)",
+     "url": "https://offnews.bg/politika/nadezhda-jordanova-jotova-otnovo-izlaga-za-pomilvaneto-na-petrichkia-877526.html",
+     "archive": "",
+     "date": "2026-10-30"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-07-34",
+   "speaker": "iotova",
+   "t": "94:09",
+   "quote_bg": "тази комисия господин Гюров не се назначава дори от госпожа Йорданова, защото тя така е решила. Това е по закон.",
+   "claim_en": "The commission is not appointed even by Yordanova at her own discretion; it exists under the law.",
+   "topic": "judiciary",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "The commission is not appointed at the minister's discretion; it exists under the law.",
+   "finding": "For the medical commission this is correct: it is a seven-member body with a three-year mandate under the Execution of Penal Sanctions Act.",
+   "evidence": [
+    {
+     "statement": "Sega sets out the medical commission's legal basis and composition: under the Execution of Penal Sanctions and Detention in Custody Act there is a 7-member commission with a 3-year mandate at the General Directorate \"Execution of Penalties\", giving opinions on all prisoners and detainees, appointed by the justice minister in coordination with the health minister. It reports MP Petar Vitanov's account of who the seven are: five doctors from prison hospitals, one chief expert from the Ministry of Health and one doctor from the leadership of the National Centre for Training and Qualification in Emergency Medical Care, appointed in 2022 by minister Nadezhda Yordanova. It stresses that this commission only assesses health and cannot propose a pardon.",
+     "quote": "По Закона за изпълнение на наказанията и задържането под стража (ЗИНЗС) към Главна дирекция \"Изпълнение на наказанията\" има 7-членна комисия с 3-годишен мандат, която дава становище и заключения за всички затворници и арестанти. Тя се назначава от министъра на правосъдието, съгласувано с министъра на здравеопазването.",
+     "source": "Сега - \"Излязоха още скандални факти за помилването на Петричкия Ескобар\"",
+     "url": "https://www.segabg.com/hot/category-bulgaria/izlyazoha-oshte-skandalni-fakti-za-pomilvaneto-na-petrichkiya-eskobar",
+     "archive": "",
+     "date": "2026-10-30"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": "The Pardon Commission, by contrast, exists by presidential decree - a distinction the debate blurred."
+  },
+  {
+   "claim_id": "C-07-35",
+   "speaker": "iotova",
+   "t": "94:09",
+   "quote_bg": "Тя се съставя по закон и отдолу стоят подписите, поне на трима министри, т.е. на двама и на един заместник министр.",
+   "claim_en": "The commission is constituted under the law and its documents bear the signatures of at least three ministers, namely two ministers and one deputy minister.",
+   "topic": "judiciary",
+   "verdict": "partly",
+   "confidence": "medium",
+   "steelman": "Its documents bear the signatures of at least three ministers.",
+   "finding": "The presidency asserts ministerial signatures on the file; the documents themselves were not published in full.",
+   "evidence": [
+    {
+     "statement": "The central contested claim, made by Nadezhda Yordanova (Yes, Bulgaria) the day after the debate: the medical commission did not propose the pardon; the proposal came from the Pardon Commission appointed by a decree of President Radev; and she holds official medical-commission documents that refute the claim that Atanasov was in a wheelchair before the pardon. This is a party position, not a document.",
+     "quote": "Първо, медицинската комисия, отговорна за състоянието на лишените от свобода, не е предлагала помилването на Огнян Атанасов. Второ, това предложение е направено от Комисията по помилванията, назначена с указ от президента Румен Радев.",
+     "source": "OFFNews - \"Надежда Йорданова: Йотова отново излъга за помилването на Петричкия Ескобар\" (DB press statement)",
+     "url": "https://offnews.bg/politika/nadezhda-jordanova-jotova-otnovo-izlaga-za-pomilvaneto-na-petrichkia-877526.html",
+     "archive": "",
+     "date": "2026-10-30"
+    },
+    {
+     "statement": "The presidency's own account: Iotova referred the Atanasov case to the prosecution on 19 October 2026 and sent the entire file. An internal review found the documents were present and the Pardon Commission followed its rules. The medical opinion came from \"the medical commission under art. 138 of the Execution of Penal Sanctions and Detention in Custody Act\" and was given after the prisoner appeared before it in person. The file contained 7 prosecutor's orders suspending execution of the sentence, 13 medical expert reports, 3 TELK (disability) expert decisions, test results and outpatient records. It also says 14 access-to-information requests were answered between 11 September and 21 October, and rejects as false the suggestion that the Pardon Commission sat in an unlawful composition in Nov 2017-Jan 2018.",
+     "quote": "Държавният глава Илияна Йотова е сезирала на 19 октомври прокуратурата във връзка с помилването на Огнян Атанасов и е изпратила цялата преписка по случая […] Предоставено е експертно становище на медицинската комисия по чл. 138 от Закона за изпълнение на наказанията и задържането под стража.",
+     "source": "БТА - \"Президентът Йотова е сезирала прокуратурата по отношение помилването на Огнян Атанасов, вътрешна проверка не е установила нарушения\" (reproduces the presidential press service statement verbatim)",
+     "url": "https://www.bta.bg/bg/news/bulgaria/1229674-prezidentat-yotova-e-sezirala-prokuraturata-po-otnoshenie-pomilvaneto-na-ognyan-",
+     "archive": "",
+     "date": "2026-10-21"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-07-38",
+   "speaker": "iotova",
+   "t": "95:08",
+   "quote_bg": "14 запитвани има към нашата администрация. 14 отговора сте получили.",
+   "claim_en": "Fourteen inquiries were sent to her administration and fourteen answers were received.",
+   "topic": "institutions",
+   "verdict": "unverified",
+   "confidence": "low",
+   "steelman": "Fourteen inquiries were sent to her administration and fourteen answers were received.",
+   "finding": "No register of the inquiries was located.",
+   "evidence": [],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-07-41",
+   "speaker": "gyurov",
+   "t": "95:30",
+   "quote_bg": "Видяхме загуба от 900 хиляди гласа.",
+   "claim_en": "Progressive Bulgaria lost 900,000 votes.",
+   "topic": "campaign",
+   "verdict": "mostly_true",
+   "confidence": "high",
+   "steelman": "Progressive Bulgaria lost 900,000 votes.",
+   "finding": "The arithmetic from the two official results is about 916,000; the '900,000' figure was put into circulation by Alpha Research on election night and is accurate as an approximation.",
+   "evidence": [
+    {
+     "statement": "Baseline for the 'lost votes' comparison: at the 19 April 2026 early parliamentary election, Progressive Bulgaria (Radev's party) won 44.594% and 1,444,924 votes. Subtracting Iotova's 528,951 first-round votes gives a fall of 915,973 votes - i.e. the often-quoted 'about 900,000' is arithmetically right, though it compares a party-list vote with a candidate-pair vote in a much lower-turnout election.",
+     "quote": "получава 44,594% от гласовете, или 1 444 924 души са дали своя глас за формацията.",
+     "source": "Bulgarian National Radio (BNR) - 'При 100% обработени протоколи: ПБ - 44,594%; ГЕРБ-СДС - 13,387%; ПП-ДБ - 12,618%'",
+     "url": "https://bnrnews.bg/izbori/post/458857/pri-100percent-obraboteni-protokoli-pb-44594percent-gerb-sds-13387percent-pp-db-12618percent",
+     "archive": "",
+     "date": "2026-04-20"
+    },
+    {
+     "statement": "The '900,000 lost votes' figure was put into circulation on election night by sociologist Boryana Dimitrova (Alpha Research) on BNT: she said roughly 900,000 fewer people voted for Iotova than had voted for Progressive Bulgaria in April - i.e. an abstention/defection story, not a switch to Gurov.",
+     "quote": "за Йотова са гласували около 900 000 избиратели по-малко, отколкото са гласували за \"Прогресивна България\" на парламентарните избори през април.",
+     "source": "Epicenter (quoting Boryana Dimitrova, Alpha Research, on BNT) - 'Боряна Димитрова: Отливът от \"Прогресивна България\" е 900 000 гласа'",
+     "url": "https://epicenter.bg/article/Boryana-Dimitrova--Otlivat-ot--quot-Progresivna-Balgariya-quot--e-900-hil--glasa/433878/2/0",
+     "archive": "",
+     "date": "2026-10-25"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  },
+  {
+   "claim_id": "C-07-42",
+   "speaker": "gyurov",
+   "t": "96:25",
+   "quote_bg": "разликата от 20%, която даваха социологическите агенции, всъщност беше много по-малка, по-малко от 3%",
+   "claim_en": "The polling agencies showed a 20% gap, but the actual difference was much smaller, under 3%.",
+   "topic": "campaign",
+   "verdict": "true",
+   "confidence": "high",
+   "steelman": "Polling agencies showed a 20% gap, but the actual difference was under 3%.",
+   "finding": "Gallup International Balkan's September-October survey gave Iotova a lead of at least 20 points; the first round ended 34.759% to 31.952%, a gap of 2.807 points.",
+   "evidence": [
+    {
+     "statement": "The '20% lead' is a real published poll number, not a debate invention: a Gallup International Balkan national survey fielded 26 September-6 October 2026 (987 adults, face-to-face tablets, self-funded) put the Iotova-Valchev lead at 20 percentage points over Gurov-Kandev, with a further 14 points between Gurov and Kostadinov.",
+     "quote": "Според данните на \"Галъп Интернешънъл Болкан\" разликата в подкрепата между кандидат-президентската двойка Йотова - Вълчев и Гюров - Кандев е 20 процентни пункта. Разликата между втората двойка и Костадинов - Волгин е 14 процентни пункта.",
+     "source": "Bulgaria ON AIR - '\"Галъп\" преди изборите: Йотова - Вълчев водят с 20% пред Гюров - Кандев'",
+     "url": "https://www.bgonair.bg/a/227-izbori-2026/432928-galap-predi-izborite-yotova-valchev-vodyat-s-20-pred-gyurov-kandev",
+     "archive": "https://web.archive.org/web/20261019120434/https://www.bgonair.bg/a/227-izbori-2026/432928-galap-predi-izborite-yotova-valchev-vodyat-s-20-pred-gyurov-kandev",
+     "date": "2026-10-08"
+    },
+    {
+     "statement": "The actual result collapsed that lead: DW's post-election analysis states that a month before the vote polls gave Iotova a lead of at least 20 percentage points, and that the first round instead produced a near-tie - the official gap being 2.807 points / 42,719 votes. So the '20%' is accurate as a description of the polls and false as a description of the outcome.",
+     "quote": "Само преди месец социологическите проучвания даваха на Йотова преднина от поне 20 процентни пункта пред Гюров. ... Първият тур обаче показа колко голямо може да бъде разстоянието между очакваната и действителната подкрепа.",
+     "source": "Deutsche Welle (Bulgarian) - Emilia Milcheva column, 'Йотова срещу Гюров: как се стопи разликата и какво предстои'",
+     "url": "https://www.dw.com/bg/jotova-sresu-gurov-kak-se-stopi-razlikata-i-kakvo-predstoi/a-79759289",
+     "archive": "",
+     "date": "2026-10-26"
+    },
+    {
+     "statement": "CEC's official first-round result: Iotova-Valchev 528,951 valid votes (34.759%), Gurov-Kandev 486,232 (31.952%) - a gap of 2.807 percentage points and of 42,719 valid votes. 'I support none of the candidates' took 67,353 votes (4.426%). The 42,719-vote gap is confirmed independently by Sega's debate report, which matches the subtraction of the two official totals.",
+     "quote": "Двойката събира 34,759% от гласовете и ще се изправи на балотаж срещу Андрей Гюров и Георги Кандев, които остават втори с 31,952%. Разликата между двата кандидатпрезидентски тандема е 2,807 процентни пункта ... Брой действителни гласове: Йотова и Вълчев събират 528 951 ... Гюров и Кандев - 486 232",
+     "source": "Epicenter (quoting CEC) - 'ЦИК обяви официално резултатите от вота: Йотова е първа с 528 951 гласа, Гюров събира 486 232'",
+     "url": "https://epicenter.bg/article/TsIK-obyavi-ofitsialno-rezultatite-ot-vota--Yotova-e-parva-s-528-951-glasa--Gyurov-sabira-486-232/434012/2/0",
+     "archive": "",
+     "date": "2026-10-27"
+    }
+   ],
+   "counter_evidence": [],
+   "deception": "none",
+   "notes": ""
+  }
+ ]
+}

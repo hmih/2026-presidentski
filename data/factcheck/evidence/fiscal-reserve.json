@@ -1,0 +1,123 @@
+{
+ "cluster": "fiscal-reserve",
+ "items": [
+  {
+   "statement": "In August 2025 the Zhelyazkov government decided to raise the capital of the state-owned Bulgarian Development Bank (BBR) by BGN 4 billion (about EUR 2.045 bn) out of the Ministry of Finance budget, through 40 million new shares of BGN 100 nominal, financed under Council of Ministers Decree No. 167/2025. This is the money that later became the subject of the 'withdrawal' dispute.",
+   "quote": "Увеличаването на капитала по т. 1 да се формира от парична вноска в размер 4 000 000 000 лв. от бюджета на Министерството на финансите",
+   "source": "Council of Ministers — Decision No. 575 of 27.08.2025 \"On increasing the capital of Bulgarian Development Bank EAD\" (signed by PM Rosen Zhelyazkov), Acts of the Council of Ministers portal",
+   "url": "https://strategy.bg/bg/pris/legal-information/reseniia/166903",
+   "archive": "http://web.archive.org/web/20251211195335/https://www.strategy.bg/bg/pris/legal-information/reseniia/166903",
+   "date": "2025-08-27",
+   "reliability": "primary"
+  },
+  {
+   "statement": "On 22 April 2026 the caretaker Council of Ministers chaired by Andrey Gyurov authorised the finance minister, as sole shareholder, to reduce BBR's capital from EUR 2,625,781,150 to EUR 1,180,613,634.77 (a cut of EUR 1,445,167,515.23) by cancelling 28,264,571 shares of EUR 51.13 nominal. Paragraph 4 orders the sum paid into the Ministry of Finance budget within seven days of the entry in the Commercial Register. The decision is signed by PM Andrey Gyurov — this is the documented 'who decided and when'.",
+   "quote": "Министърът на финансите, в качеството му на упражняващ правата на едноличния собственик, да намали капитала на „Българска банка за развитие“ ЕАД от 2 625 781 150 евро на 1 180 613 634,77 евро чрез обезсилване на 28 264 571 броя поименни акции с номинална стойност 51,13 евро всяка",
+   "source": "Council of Ministers — Decision No. 309 of 22.04.2026 \"On reducing the capital of Bulgarian Development Bank EAD\", Acts of the Council of Ministers portal",
+   "url": "https://strategy.bg/bg/pris/legal-information/reseniia/169486",
+   "archive": "http://web.archive.org/web/20260423073553/https://strategy.bg/bg/pris/legal-information/reseniia/169486",
+   "date": "2026-04-22",
+   "reliability": "primary"
+  },
+  {
+   "statement": "BBR itself stated on the same day that a capital reduction under banking and commercial law would take months and require the approval of all its creditors (EIB, Council of Europe Development Bank, KfW and others), that it had not been agreed with the bank's management, and that meanwhile the money would be usable neither by the bank nor by the government. This is the bank's own position, i.e. an interested party, but it is a concrete, checkable legal claim.",
+   "quote": "Евентуална процедура по намаляване на капитала в съответствие с изискванията на приложимото банково и търговското законодателство би отнела месеци и изисква одобрението на всички кредитори на Българската банка за развитие (ББР)... През този период средствата на практика няма да бъдат използвани нито от ББР, нито от правителството.",
+   "source": "BTA — \"Процедура по намаляване капитала на ББР изисква одобрение от всички нейни кредитори и ще отнеме месеци, заявяват от банката в своя позиция\"",
+   "url": "https://www.bta.bg/bg/news/economy/bg/1111606-protsedura-po-namalyavane-kapitala-na-bbr-iziskva-odobrenie-ot-vsichki-neyni-kre",
+   "archive": "",
+   "date": "2026-04-22",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "The finance minister explicitly put the fiscal reserve at 30 April 2026 at EUR 6.8 bn — EUR 5.3 bn of deposits at the central bank and commercial banks plus EUR 1.5 bn of receivables from EU funds — and said it had been EUR 8.9 bn at the end of 2025. This is the documented anchor for the 6.8 billion figure used in the debate; it refers to the end of the caretaker government's term, not to 2023.",
+   "quote": "Размерът на фискалния резерв към 30 април е 6,8 милиарда евро, в т.ч. 5,3 млрд. евро са депозити на фискалния резерв в БНБ и банки и 1,5 млрд. евро са вземания от фондовете на ЕС за сертифицирани разходи, аванси и други",
+   "source": "BTA — \"С наличността във фискалния резерв в момента ще могат да бъдат покрити всички разходи в държавата до приемането на редовния бюджет, каза финансовият министър\" (caretaker finance minister Georgi Klisurski)",
+   "url": "https://www.bta.bg/bg/news/bulgaria/national-news/1120838-s-nalichnostta-vav-fiskalniya-rezerv-v-momenta-shte-mogat-da-badat-pokriti-vsich",
+   "archive": "",
+   "date": "2026-05-07",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "The caretaker finance minister stated that salaries and pensions could not fail to be paid because they are first in the priority order of the extended budget law, and that the reserve was sufficient for the following two months. This is contemporaneous official testimony against the claim that salaries were at risk.",
+   "quote": "На първо място в удължителния закон са социалните плащания, разходите за заплати, т.е. няма как например да не се изплатят заплати или пенсии, мисля, че средствата са напълно достатъчно",
+   "source": "BTA — same press conference of finance minister Georgi Klisurski",
+   "url": "https://www.bta.bg/bg/news/bulgaria/national-news/1120838-s-nalichnostta-vav-fiskalniya-reserv-v-momenta-shte-mogat-da-badat-pokriti-vsich",
+   "archive": "",
+   "date": "2026-05-07",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "For the 2023 benchmark: the Finance Ministry's monthly budget execution report put the fiscal reserve at BGN 12.9 bn on 30 June 2023 (BGN 12.5 bn deposits plus BGN 0.4 bn EU receivables), i.e. roughly EUR 6.6 bn at the fixed rate of 1.95583. So the reserve around the 2023 change of regular government was around EUR 6.6 bn, not EUR 6.8 bn; the exact EUR 6.8 bn level is documented for 30 April 2026.",
+   "quote": "Размерът на фискалния резерв към 30.06.2023 г. е 12,9 млрд. лв., в т.ч. 12,5 млрд. лв. депозити на фискалния резерв в БНБ и банки и 0,4 млрд. лв. вземания от фондовете на Европейския съюз за сертифицирани разходи, аванси и други.",
+   "source": "Dir.bg — \"Дефицитът в хазната до юни е покрит, а излишъкът (ще) нараства\", reproducing the Finance Ministry's July 2023 budget execution report",
+   "url": "https://business.dir.bg/ikonomika/defitsitat-v-haznata-do-yuni-e-pokrit-a-izlishakat-shte-narastva",
+   "archive": "",
+   "date": "2023-07-31",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "The 'minus 3 billion' claim is Yotova's, verbatim, from the debate: she asked Gyurov, if the BBR money really had been returned to the national budget, why the incoming government found 'not simply a budget at zero, but nearly minus 3 billion'. This is the assertion under test, not a documented fact.",
+   "quote": "Ако сте върнали в националния бюджет, защо като дойде новото правителство, завари не просто бюджет на нула, а с близо минус 3 милиарда?",
+   "source": "ZaKogo.com fact-check of the 29 October debate, published by Akcent — \"Фактчек на дебата: 18 неверни твърдения на Йотова срещу 5 на Гюров\"",
+   "url": "https://akcent.bg/article/80632",
+   "archive": "",
+   "date": "2026-10-30",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "The fact-checkers rated that claim false: Finance Ministry data show the consolidated fiscal programme deficit at end-April 2026 — immediately before the government change on 8 May — at EUR 1.75 bn, i.e. 1.4% of projected GDP; larger deficits build up later in the year. Note the arithmetic: EUR 1.75 bn is not 'nearly minus 3 billion', though a 1.4%-of-GDP cash deficit at that point in the year is still a real deterioration.",
+   "quote": "Към края на април 2026 г. - непосредствено преди смяната на правителството на 8 май - дефицитът по Консолидираната фискална програма е 1,75 млрд. евро, или 1,4% от прогнозния БВП.",
+   "source": "ZaKogo.com fact-check, published by Akcent (same article)",
+   "url": "https://akcent.bg/article/80632",
+   "archive": "",
+   "date": "2026-10-30",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "Neutral news account of the exchange: Yotova attacked with the ~3 bn deficit figure; Gyurov replied that his cabinet left EUR 6.8 bn in the fiscal reserve, and elsewhere in the same account that the reserve stood at EUR 6.8 bn when his caretaker cabinet took office — i.e. he claims both the starting and the ending level were 6.8 bn, which is not consistent with the finance minister's own end-2025 figure of EUR 8.9 bn.",
+   "quote": "Йотова оспори обясненията му и попита защо следващото правителство е заварило бюджетен дефицит от близо 3 млрд. евро. Гюров отговори, че кабинетът му е оставил 6,8 млрд. евро във фискалния резерв.",
+   "source": "bTV Novinite — \"От сигурността в Черно море до бюджета: Основните послания на Андрей Гюров в президентския дебат\"",
+   "url": "https://btvnovinite.bg/novite-izbori/ot-sigurnostta-v-cherno-more-do-bjudzheta-osnovnite-poslanija-na-andrej-gjurov-v-debata.html",
+   "archive": "",
+   "date": "2026-10-30",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "By early October 2026 the withdrawal had not delivered the money: the deputy prime minister and economy minister said the decapitalisation is 'in a vacuum' and the EUR 1.4 bn can be used neither by the Finance Ministry nor by BBR. This is a government minister's statement about the outcome, not a document.",
+   "quote": "Тази операция буквално доведе до един пълен хаос и това намаляване на капитала в момента е в един вакуум, не могат да се използват тези средства нито от министерство на финансите, нито от българската банка за развитие. Буквално тези средства са някъде в стратосферата и никой не може да ги ползва.",
+   "source": "BNT Novini — \"Пулев: Над 1,4 млрд. евро на ББР са блокирани и неизползваеми\" (deputy PM Aleksandar Pulev)",
+   "url": "https://bntnews.bg/news/pulev-nad-14-mlrd-evro-na-bbr-sa-blokirani-i-neizpolzvaemi-1415640news.html",
+   "archive": "",
+   "date": "2026-10-06",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "Mediapool's account of the same briefing specifies that Pulev would not say whether the ECB or the Bulgarian National Bank were obstructing the process, nor when the decapitalisation would finish and the money be returned to the fiscal reserve — i.e. as of 6 October 2026 no source shows the EUR 1.445 bn actually reaching the budget.",
+   "quote": "Той не уточни дали има обструкции в процеса от страна на Европейската централна банка или Българската народна банка, нито кога се очаква да приключи декапитализацията и парите да бъдат върнати във фискалния резерв на правителството.",
+   "source": "Mediapool — \"Пулев: 1.4 млрд. евро от капитала на Банката за развитие са в „стратосферата“ заради Гюров\"",
+   "url": "https://www.mediapool.bg/biznes/pulev-14-mlrd-evro-ot-kapitala-na-bankata-za-razvitie-sa-v-stratosferata-zaradi-gyurov/",
+   "archive": "http://web.archive.org/web/20261009191642/https://www.mediapool.bg/biznes/pulev-14-mlrd-evro-ot-kapitala-na-bankata-za-razvitie-sa-v-stratosferata-zaradi-gyurov/",
+   "date": "2026-10-06",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "The claim that the Gyurov government ran out of money for salaries is also refuted in the post-debate fact-check, on the same Finance Ministry figures: EUR 6.8 bn reserve at 30 April 2026, of which EUR 5.28 bn in deposits with financial institutions. Caveat: the size of the reserve does not by itself prove there was free cash for every payment due, which is why the official statement by the finance minister (item above) matters more than the aggregate.",
+   "quote": "Невярно е и твърдението ѝ, че в края на този период правителството на Гюров не е имало пари за заплати. По данни на Министерството на финансите към 30 април 2026 г. фискалният резерв е бил 6,8 млрд. евро, от които 5,28 млрд. евро са депозити във финансови институции.",
+   "source": "Focus-news — \"Какво е вярно и какво не в казаното от Йотова и Гюров по време на дебата\" (summary of the ZaKogo.com check)",
+   "url": "https://www.focus-news.net/novini/Bylgaria/Kakvo-e-vyarno-i-kakvo-ne-v-kazanoto-ot-Iotova-i-Gyurov-po-vreme-na-debata-3048233",
+   "archive": "",
+   "date": "2026-10-30",
+   "reliability": "secondary"
+  }
+ ],
+ "open_questions": [
+  "No verbatim transcript of the 29 October 2026 BNT debate could be fetched. The Yotova quote on 'minus 3 billion' comes from the ZaKogo.com fact-check, and news summaries differ on the unit — bTV and ZaKogo say '3 млрд. евро', the VIP Media summary says '3 млрд. лева'. The exact wording and unit should be taken from the BNT recording.",
+  "The brief's premise that the EUR 6.8 bn figure refers to the regular government taking office in 2023 could not be confirmed in any fetched source. In the debate the figure is tied to the 2026 caretaker-to-regular handover (30 April / 8 May 2026); the Finance Ministry figure for 30 June 2023 is BGN 12.9 bn, i.e. about EUR 6.6 bn.",
+  "It could not be established whether Decision No. 309 was ever executed: no source shows the BNB/ECB approval, the Commercial Register entry, or the transfer of the EUR 1.445 bn into the budget or the fiscal reserve. The last status found (6 October 2026) is that the operation is 'in a vacuum'.",
+  "It could not be established whether the incoming regular government of Rusen Radev formally repealed Decision No. 309; only an opinion article (money.bg, 8 May 2026) demanded that it do so.",
+  "The figure of EUR 600 mln actually drawn by BBR before the reduction (January 2026) rests on the government's own explanatory text as reproduced by Epicenter and on the Finance Ministry statement; it was not checked against BBR's audited financial statements.",
+  "minfin.bg is behind Cloudflare in this environment (HTTP 403 both via direct fetch and via the fetch tool), so the primary fiscal-reserve releases — including the Q2 2023 Fiscal Reserve Act report (https://www.minfin.bg/upload/55612/_FRA-Q2-2023-BG_.pdf) — could not be read; the 2023 and 2026 reserve figures are taken from media quoting the ministry and from the finance minister's press conference.",
+  "No archived snapshot was found for the BTA, bTV, Focus or Akcent pages used; archive URLs are given only where a snapshot was actually resolved."
+ ],
+ "notes": "The cluster is solid on the documentary spine and weaker on the debate wording. Three primary acts fix the chronology beyond dispute: Decision No. 575 of 27 August 2025 raised BBR's capital by BGN 4 bn, Decision No. 309 of 22 April 2026 ordered a EUR 1.445 bn reduction (2,625,781,150 -> 1,180,613,634.77, i.e. 28,264,571 shares at EUR 51.13), and the decision itself names the payer and the seven-day deadline after Commercial Register entry. What is documented about the outcome is the opposite of a completed withdrawal: BBR warned on the same day that the procedure takes months and needs creditor consent, and in October 2026 the economy minister described the money as stuck 'in a vacuum', unusable by either the ministry or the bank. The 'minus 3 billion' claim is clearly attributable to Yotova and is contradicted by the Finance Ministry's own cash deficit for end-April 2026 (EUR 1.75 bn, 1.4% of GDP), though that is a cash deficit at one point in the year, not a stock measure, so the comparison is not apples to apples and the fact-check's 'false' verdict is better read as 'not supported by the figure she implied'. On salaries, the contemporaneous official statement (Klisurski: salaries and pensions are first in the priority order and cannot fail to be paid) plus the EUR 6.8 bn reserve at 30 April 2026 outweigh the assertion that money for salaries ran out; the residual gap is that the aggregate reserve includes EUR 1.5 bn of EU receivables and restricted funds. The main caution for the fact-check is unit and date drift: the same 6.8 bn number is attached by different outlets to 2023, to the start of the caretaker cabinet and to its end, and one summary says '3 bn leva' where another says '3 bn euro'."
+}

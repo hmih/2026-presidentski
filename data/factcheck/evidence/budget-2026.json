@@ -1,0 +1,113 @@
+{
+ "cluster": "budget-2026",
+ "items": [
+  {
+   "statement": "At the 29 October 2026 BNT presidential debate, Andrey Gyurov (caretaker prime minister in 2026) asserted that the 2027 draft budget imposes an additional administrative and tax burden of about EUR 2 billion on business and households, and about EUR 1.5 billion set aside with no clear purpose or accountability. This is his characterisation of the draft, not a figure he sourced.",
+   "quote": "Според него в проектобюджета за следващата година се предвижда допълнителна административна и данъчна тежест върху бизнеса и домакинствата от около 2 млрд. евро, без ефективни мерки за по-добро разходване на държавните средства. По думите му се увеличават средствата за администрацията, почти липсват мерки за ограничаване на разходите, а допълнителни 1,5 млрд. евро са заложени без ясно предназначение и отчетност.",
+   "source": "БТА — „Ще наложа вето на бюджет, който ощетява доходите на българските граждани, каза Андрей Гюров на дебата с Илияна Йотова“",
+   "url": "https://www.bta.bg/bg/news/1235989-shte-nalozha-veto-na-byudzhet-koyto-oshtetyava-dohodite-na-balgarskite-grazhdan",
+   "archive": "",
+   "date": "2026-10-29",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "bTV's recap of the same debate independently records all three Gyurov budget claims: the ~EUR 2 bn additional administrative and tax burden, a further EUR 1.5 bn said to lack specifics on purpose and accountability, and the assertion that about 1 million pensioners will remain below the poverty line.",
+   "quote": "Той посочи и допълнителни 1,5 млрд. евро, за които според него липсва достатъчно конкретика относно предназначението и отчетността. Същевременно, по думите му, не са осигурени необходимите средства за младите лекари, майките и хората на минимална заплата, а около 1 млн. пенсионери ще останат под прага на бедност.",
+   "source": "bTV Новините — „От сигурността в Черно море до бюджета: Основните послания на Андрей Гюров в президентския дебат“",
+   "url": "https://btvnovinite.bg/novite-izbori/ot-sigurnostta-v-cherno-more-do-bjudzheta-osnovnite-poslanija-na-andrej-gjurov-v-debata.html",
+   "archive": "",
+   "date": "2026-10-30",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "The Council of Ministers' own summary of Budget 2027 (cabinet meeting of 14 October 2026) rejects the 'new taxes' framing: Prime Minister Rumen Radev says revenues rise 'without changing the main taxes — income, profit and VAT', with extra money coming from collection, fraud control, digitalisation and a one-off contribution from high-profit sectors (banks, insurers, retail chains, telecoms). The same release sets pensions +8%, public-sector pay +5%, teachers +7.5%. This is the government's counter-position to the ~2 bn 'burden' claim.",
+   "quote": "„Залагаме повече приходи, но без да променяме основни данъци, доходи, печалба и ДДС“, подчерта Румен Радев.",
+   "source": "Министерски съвет — „Румен Радев: Бюджет 2027 не предлага лесни решения, но задава посока към разумно управление на публичните средства и инвестиции в хората“",
+   "url": "https://www.government.bg/bg/prestsentar/novini/rumen-radev-byudzhet-2027-ne-predlaga-lesni-resheniya-no-zadava-posoka-kam-razumno-upravlenie-na-publichnite-sredstva-i-investitsii-v-horata",
+   "archive": "http://web.archive.org/web/20261015115347/https://government.bg/bg/prestsentar/novini/rumen-radev-byudzhet-2027-ne-predlaga-lesni-resheniya-no-zadava-posoka-kam-razumno-upravlenie-na-publichnite-sredstva-i-investitsii-v-horata",
+   "date": "2026-10-14",
+   "reliability": "primary"
+  },
+  {
+   "statement": "168 chasa, working from the 2027 budget plan sent to the European Commission, reports 'nearly EUR 2 billion' of additional revenue in 2027 and itemises it: EUR 800 m one-off windfall tax on six sectors, EUR 461.8 m from raising the maximum insurable income (EUR 2,300 to 2,400) and the minimum insurance thresholds, EUR 220.2 m from tobacco excise plus related VAT, EUR 120 m from mandatory VAT registration on new-build property sales. This is the documented basis for the order of magnitude behind Gyurov's ~2 bn figure.",
+   "quote": "Правителството разчита на нови данъци, по-високи осигурителни прагове и засилен контрол върху събираемостта, за да осигури близо 2 млрд. евро допълнителни приходи през 2027 г. Това става ясно от бюджетния план за догодина, който финансовото министерство е изпратило в Брюксел.",
+   "source": "168 Часа — „Нови данъци, по-високи осигуровки и контрол за още 2 млрд. евро (Графика)“",
+   "url": "https://www.168chasa.bg/article/23749657",
+   "archive": "",
+   "date": "2026-10-17",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "Sega, reading the same plan sent to Brussels, puts the total budget effect of the new tax measures at 'under EUR 1 billion — EUR 988 million', even though the windfall tax alone is counted at EUR 800 m and the package adds a 7% tax on food vouchers, a new excise on powerful cars and higher gambling taxes. This is the strongest published contradiction of the ~2 bn framing: the aggregate depends heavily on whether social-insurance and excise increases are counted, and on gross versus net presentation.",
+   "quote": "И въпреки предвиденото въвеждане на нови данъци, вдигането на ставки и разширяването на базите на облагането, вкл. за цигари и горива, предвиденият ефект за бюджета е под 1 млрд. евро - 988 млн. евро.",
+   "source": "Сега — „Бюджет 2027 - по-високи данъци и едва 988 млн. евро повече приходи“",
+   "url": "https://www.segabg.com/hot/category-economy/byudzhet-2027-po-visoki-danuci-i-edva-988-mln-evro-poveche-prihodi",
+   "archive": "",
+   "date": "2026-10-16",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "The Constitutional Court did rule on the budget. By Decision No. 17 of 20 October 2026 (Constitutional Case No. 15/2026, joined with 16/2026 and 18/2026, on a request by 52nd National Assembly MPs filed 31 July 2026 and by the Ombudsman), it REJECTED the request to declare the 2026 State Budget Act unconstitutional in its entirety, but DECLARED UNCONSTITUTIONAL the changes to art. 355(1)-(4) of the Labour Code made by §11(1)-(4) of the budget law's Transitional and Final Provisions, and art. 218(2) of the Judicial System Act made by §21(1). The request against §46 was rejected as moot. This is the operative part on the Court's own case page.",
+   "quote": "ОБЯВЯВА за противоконституционни чл. 355, ал. 1 в частта „часове,“; ал. 2; ал. 3 в частта „всички работни дни за съответния месец“ и ал. 4 от Кодекса на труда (обн. ДВ, бр. 26 от 1986 г., посл. изм. и доп. бр. 89 от 2026 г.), както са изменени с §11, т. 1 – 4 от Преходните и заключителни разпоредби на Закона за държавния бюджет на Република България за 2026 г. (обн. ДВ, бр. 69 от 2026 г.).",
+   "source": "Конституционен съд на Република България — Дело № 15/2026 г., Решение № 17 от 20.10.2026 г. (диспозитив)",
+   "url": "https://www.constcourt.bg/bg/case-728",
+   "archive": "",
+   "date": "2026-10-20",
+   "reliability": "primary"
+  },
+  {
+   "statement": "The Court's reasoning, in its own press release, is that the Labour Code amendment is not directly tied to the 2026 budget's revenues and expenditures — i.e. the objection is to using the budget law's transitional provisions as the vehicle, exactly the mechanism Yotova described. The Court also held the magistrates' pay change breached art. 133 of the Constitution.",
+   "quote": "За да обяви за противоконституционни измененията в чл. 355, ал. 1 – 4 от Кодекса на труда, приети с §11, т. 1 – 4 от Преходните и заключителни разпоредби на Закона да държавния бюджет на Република България за 2026 г., Съдът прие, че изменението не е пряко обвързано с приходите и разходите в държавния бюджет за 2026 г.",
+   "source": "БТА (прессъобщение на Конституционния съд) — „Конституционният съд се произнесе с решение по конституционно дело №15/2026 г.“",
+   "url": "https://www.bta.bg/bg/news/bulgaria/oficial-messages/1228820-konstitutsionniyat-sad-se-proiznese-s-reshenie-po-konstitutsionno-delo-15-2026-",
+   "archive": "",
+   "date": "2026-10-20",
+   "reliability": "primary"
+  },
+  {
+   "statement": "Yotova's account of the ruling at the debate is substantially correct on mechanism (the change had to be made by amending another law, not through the budget law's transitional and final provisions), but understates its scope: she speaks of 'one text' about holidays and hourly work, whereas the Court struck two separate provisions — Labour Code art. 355 and Judicial System Act art. 218(2) — and separately rejected the challenge to the budget law as a whole. She also says 69 opinions on the 2026 budget reached the presidency and only three were 'against' (not verified here).",
+   "quote": "Относно решението на Конституционния съд за бюджета за 2026 г., Йотова каза, че възражението на съда е за един текст от закона, свързан с отпуските и почасовата работа. Възражението е, че това трябва да стане с промяна в друг закон, а не може през преходните и заключителните разпоредби, посочи Йотова.",
+   "source": "БТА — „Първото нещо, което ще гледам в следващия бюджет, са доходите на най-бедните и уязвими хора и парите за инвестиции, каза Илияна Йотова на дебата с Андрей Гюров“",
+   "url": "https://www.bta.bg/bg/news/1235991-parvoto-neshto-koeto-shte-gledam-v-sledvashtiya-byudzhet-sa-dohodite-na-nay-be",
+   "archive": "",
+   "date": "2026-10-29",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "The content of the struck-down provision: from 1 January 2027 length of service (трудов стаж) was to be counted by actual hours worked, so a permanent half-time worker would get 10 days' paid annual leave instead of 20, first leave would require 8 months instead of 4, 'class' seniority increments would accrue half as fast, and severance thresholds would double in calendar years. Insurance contribution years (осигурителен стаж), which determine pensions, were not changed. This was adopted in July 2026 via the 2026 budget law and annulled on 20 October 2026.",
+   "quote": "Така например човек, който работи постоянно на половин работен ден, ще има право на 10 дни платен годишен отпуск, вместо на досегашните 20. Промяна има и при първото ползване на отпуск. Ако досега това ставаше след натрупване на най-малко четири месеца трудов стаж, то при работа на половин ден от 2027 г. ще са необходими осем календарни месеца.",
+   "source": "Focus News — „Голяма промяна за работещите на непълно работно време: По-малко отпуск и по-бавно трупане на трудов стаж“",
+   "url": "https://www.focus-news.net/novini/Bylgaria/Golyama-promyana-za-raboteshtite-na-nepulno-rabotno-vreme-Po-malko-otpusk-i-po-bavno-trupane-na-trudov-stazh-3003863",
+   "archive": "",
+   "date": "2026-08-01",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "The poverty line that the 'one million pensioners' claim must be measured against: the government set it at EUR 443 per month for 2027, up EUR 53 / 13.4% on 2026 (the National Tripartite Cooperation Council approved the same figure on 14 September 2026). A higher line mechanically pushes more pensioners below it.",
+   "quote": "Линията на бедност за 2027 г. ще бъде 443 евро, реши правителството. Размерът ѝ се увеличава с 53 евро или с 13,4% спрямо настоящата година.",
+   "source": "Министерство на труда и социалната политика — „Линията на бедност ще бъде 443 евро през 2027 г.“",
+   "url": "https://www.mlsp.government.bg/liniyata-na-bednost-shche-bde-443-evro-prez-2027-g",
+   "archive": "",
+   "date": "",
+   "reliability": "primary"
+  },
+  {
+   "statement": "The hard number behind the pensioners claim: per National Social Security Institute data for end-June 2026, about 750,000 pensioners were below the poverty line (then EUR 390.63/month) because the minimum service-and-age pension was EUR 322.37, raised to EUR 347.51 from 1 July 2026 — still far below the line. Over 937,000 people (45.3% of all pensioners) received the minimum pension for their category. So 'about one million' is not the measured mid-2026 figure, but is a plausible projection for 2027 given the 443 euro line and the 8% pension rise due only from 1 July 2027.",
+   "quote": "Близо 750 хиляди пенсионери са под линията на бедност, показват данни на НОИ към края на юни. Линията на бедност за 2026 г. е 390,63 евро, докато минималната пенсия за стаж и възраст до края на юни беше 322,37 евро.",
+   "source": "Marginalia (по данни на НОИ, в. „Труд“) — „Почти милион пенсионери получават минимална пенсия“",
+   "url": "https://www.marginalia.bg/pochti-milion-pensioneri-poluchavat-minimalna-pensiya/",
+   "archive": "",
+   "date": "2026-09-13",
+   "reliability": "secondary"
+  }
+ ],
+ "open_questions": [
+  "The primary budget documents themselves could not be read: minfin.bg returned HTTP 403 on every attempt, and the 2027 budget bill had not yet been tabled in the National Assembly, so both the ~EUR 2 bn and the ~EUR 1.5 bn figures rest on secondary reporting and on Gyurov's own assertion rather than on the signed or draft text.",
+  "The size of the 2027 burden is genuinely contested and aggregation-dependent: 168 chasa reports 'nearly EUR 2 bn' of additional revenue (counting the insurance-threshold rise and excises), while Sega, from the same plan sent to the European Commission, reports a total effect of EUR 988 m for the tax measures and puts the net new revenue measures at about EUR 1.1 bn. '~2 billion' is defensible as a gross figure, not as a net burden, and the government denies raising the main taxes.",
+  "No source documents ~EUR 1.5 bn of 'empty' or unallocated line items in the 2027 draft. The 1.5 bn figure is recorded only as an assertion by Gyurov (twice, BTA and bTV); the closest documented analogue is a separate opposition claim about the 2026 budget (Asen Vasilev, ~EUR 1.7 bn of spending 'without clear projects'), which was not verified here and is a different budget year.",
+  "The 'about one million pensioners below the poverty line' figure could not be confirmed for 2027. The latest measured figure is ~750,000 (NSI/NOI data, end-June 2026) against a EUR 390.63 line; the 2027 line rises to EUR 443 (+13.4%) while pensions rise 8% only from 1 July 2027, so the number should rise, but no published estimate of ~1 million was found.",
+  "Yotova's statement that 69 opinions on the 2026 budget reached the presidency and only three were 'against' was not checked against the presidency's register.",
+  "archive.org had no snapshots for the debate articles, the Constitutional Court case page, the MLSP page, 168 chasa, Sega or Focus at the time of checking; only the government.bg release had one (captured 15 October 2026). mediapool.bg's search returned HTTP 520 and could not be used for chronology."
+ ],
+ "notes": "This cluster is solid on documents and thinner on numbers. The strongest element is the Constitutional Court ruling: the operative part, the decision number and date (No. 17, 20 October 2026), the challenged paragraphs and the reasoning are all available from the Court's own case page and its press release, and they match Yotova's description in substance while showing her 'one text' summary to be incomplete (two provisions were annulled, and the challenge to the budget law as a whole was rejected nine days before the debate). The labour-law provision itself is well documented: §11 of the 2026 budget law rewrote Labour Code art. 355 to count seniority in hours and to prorate part-time leave, it was to take effect on 1 January 2027, and it was annulled before ever applying. The weak point is the money. Gyurov's EUR 2 bn and EUR 1.5 bn are campaign assertions, repeated identically by two outlets but not traced to a document; the published readings of the same draft sent to Brussels range from EUR 988 m to nearly EUR 2 bn depending on whether social-insurance and excise increases are counted and on gross versus net presentation, and the cabinet explicitly denies changing the main taxes. The pensioners claim sits between a measured ~750,000 below the line in mid-2026 and a 2027 poverty line rising 13.4% against an 8% pension increase, which makes 'about one million' plausible as a forecast but not established as a fact. A fact-check should mark the two euro figures as unverified assertions, credit Yotova's mechanism description while correcting its scope, and treat the pensioners figure as directionally right but numerically unproven."
+}

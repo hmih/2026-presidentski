@@ -1,0 +1,123 @@
+{
+ "cluster": "campaign-results",
+ "items": [
+  {
+   "statement": "First round of the presidential election was held on Sunday 25 October 2026; CEC spokesperson Stoyanka Balova announced turnout of 22.98%, with 1,525,034 ballots cast out of 6,584,025 eligible voters - the lowest in the seven presidential elections, against c. 35% in November 2021. No candidate cleared the 50%-of-all-eligible-voters threshold, so a runoff was set for 1 November 2026 between Iotova-Valchev and Gurov-Kandev.",
+   "quote": "Voter turnout in the first round of Bulgaria's presidential election, held on October 25, 2026, was 22.98%, Central Election Commission (CEC) Spokesperson Stoyanka Balova told a news briefing on Wednesday. A total of 1,525,034 of the 6,584,025 eligible voters cast their ballots in the presidential and vice-presidential election.",
+   "source": "Bulgarian News Agency (BTA) - 'Presidential Election First-Round Turnout at 22.98%, Gurov and Iotova to Face Off in Runoff'",
+   "url": "https://www.bta.bg/en/news/1234376-voter-turnout-in-first-round-of-bulgaria-s-presidential-election-stands-at-22-98",
+   "archive": "",
+   "date": "2026-10-28",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "CEC's official first-round result: Iotova-Valchev 528,951 valid votes (34.759%), Gurov-Kandev 486,232 (31.952%) - a gap of 2.807 percentage points and of 42,719 valid votes. 'I support none of the candidates' took 67,353 votes (4.426%). The 42,719-vote gap is confirmed independently by Sega's debate report, which matches the subtraction of the two official totals.",
+   "quote": "Двойката събира 34,759% от гласовете и ще се изправи на балотаж срещу Андрей Гюров и Георги Кандев, които остават втори с 31,952%. Разликата между двата кандидатпрезидентски тандема е 2,807 процентни пункта ... Брой действителни гласове: Йотова и Вълчев събират 528 951 ... Гюров и Кандев - 486 232",
+   "source": "Epicenter (quoting CEC) - 'ЦИК обяви официално резултатите от вота: Йотова е първа с 528 951 гласа, Гюров събира 486 232'",
+   "url": "https://epicenter.bg/article/TsIK-obyavi-ofitsialno-rezultatite-ot-vota--Yotova-e-parva-s-528-951-glasa--Gyurov-sabira-486-232/434012/2/0",
+   "archive": "",
+   "date": "2026-10-27",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "Baseline for the 'lost votes' comparison: at the 19 April 2026 early parliamentary election, Progressive Bulgaria (Radev's party) won 44.594% and 1,444,924 votes. Subtracting Iotova's 528,951 first-round votes gives a fall of 915,973 votes - i.e. the often-quoted 'about 900,000' is arithmetically right, though it compares a party-list vote with a candidate-pair vote in a much lower-turnout election.",
+   "quote": "получава 44,594% от гласовете, или 1 444 924 души са дали своя глас за формацията.",
+   "source": "Bulgarian National Radio (BNR) - 'При 100% обработени протоколи: ПБ - 44,594%; ГЕРБ-СДС - 13,387%; ПП-ДБ - 12,618%'",
+   "url": "https://bnrnews.bg/izbori/post/458857/pri-100percent-obraboteni-protokoli-pb-44594percent-gerb-sds-13387percent-pp-db-12618percent",
+   "archive": "",
+   "date": "2026-04-20",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "The '900,000 lost votes' figure was put into circulation on election night by sociologist Boryana Dimitrova (Alpha Research) on BNT: she said roughly 900,000 fewer people voted for Iotova than had voted for Progressive Bulgaria in April - i.e. an abstention/defection story, not a switch to Gurov.",
+   "quote": "за Йотова са гласували около 900 000 избиратели по-малко, отколкото са гласували за \"Прогресивна България\" на парламентарните избори през април.",
+   "source": "Epicenter (quoting Boryana Dimitrova, Alpha Research, on BNT) - 'Боряна Димитрова: Отливът от \"Прогресивна България\" е 900 000 гласа'",
+   "url": "https://epicenter.bg/article/Boryana-Dimitrova--Otlivat-ot--quot-Progresivna-Balgariya-quot--e-900-hil--glasa/433878/2/0",
+   "archive": "",
+   "date": "2026-10-25",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "Mechanism behind the fall (Alpha Research data cited by DW): only about 29% of Progressive Bulgaria's April voters turned out at all, and 74% of those who did voted for Iotova. That is consistent with the c. 916,000-vote arithmetic gap and shows the loss was mainly abstention by the governing party's own electorate.",
+   "quote": "Според \"Алфа Рисърч\" едва около 29% от априлските избиратели на \"Прогресивна България\" са участвали в президентския вот. От тях 74% са подкрепили Йотова.",
+   "source": "Deutsche Welle (Bulgarian) - Emilia Milcheva column, 'Йотова срещу Гюров: как се стопи разликата и какво предстои'",
+   "url": "https://www.dw.com/bg/jotova-sresu-gurov-kak-se-stopi-razlikata-i-kakvo-predstoi/a-79759289",
+   "archive": "",
+   "date": "2026-10-26",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "The 900,000 figure is also used as a political weapon: PP leader Asen Vasilev told bTV that 900,000 people had shown 'a red card' to Radev's government, saying Progressive Bulgaria had 1.4 million voters in April. This is a partisan interpretation of the same statistic, not an independent measurement.",
+   "quote": "900 000 души показаха \"червен картон\" на управлението на премиера Румен Радев и \"Прогресивна България\". ... Той обясни, че с толкова са намалели гласоподавателите на \"Прогресивна България\" от парламентарните избори през април, когато са били 1,4 милиона души",
+   "source": "BNR Radio Shumen - 'Асен Василев: 900 000 показаха \"червен картон\" на Радев'",
+   "url": "https://bnrnews.bg/shumen/post/548037/asen-vasilev-900-000-pokazaha-cherven-karton-na-radev",
+   "archive": "",
+   "date": "2026-10-26",
+   "reliability": "partisan"
+  },
+  {
+   "statement": "The '20% lead' is a real published poll number, not a debate invention: a Gallup International Balkan national survey fielded 26 September-6 October 2026 (987 adults, face-to-face tablets, self-funded) put the Iotova-Valchev lead at 20 percentage points over Gurov-Kandev, with a further 14 points between Gurov and Kostadinov.",
+   "quote": "Според данните на \"Галъп Интернешънъл Болкан\" разликата в подкрепата между кандидат-президентската двойка Йотова - Вълчев и Гюров - Кандев е 20 процентни пункта. Разликата между втората двойка и Костадинов - Волгин е 14 процентни пункта.",
+   "source": "Bulgaria ON AIR - '\"Галъп\" преди изборите: Йотова - Вълчев водят с 20% пред Гюров - Кандев'",
+   "url": "https://www.bgonair.bg/a/227-izbori-2026/432928-galap-predi-izborite-yotova-valchev-vodyat-s-20-pred-gyurov-kandev",
+   "archive": "https://web.archive.org/web/20261019120434/https://www.bgonair.bg/a/227-izbori-2026/432928-galap-predi-izborite-yotova-valchev-vodyat-s-20-pred-gyurov-kandev",
+   "date": "2026-10-08",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "The actual result collapsed that lead: DW's post-election analysis states that a month before the vote polls gave Iotova a lead of at least 20 percentage points, and that the first round instead produced a near-tie - the official gap being 2.807 points / 42,719 votes. So the '20%' is accurate as a description of the polls and false as a description of the outcome.",
+   "quote": "Само преди месец социологическите проучвания даваха на Йотова преднина от поне 20 процентни пункта пред Гюров. ... Първият тур обаче показа колко голямо може да бъде разстоянието между очакваната и действителната подкрепа.",
+   "source": "Deutsche Welle (Bulgarian) - Emilia Milcheva column, 'Йотова срещу Гюров: как се стопи разликата и какво предстои'",
+   "url": "https://www.dw.com/bg/jotova-sresu-gurov-kak-se-stopi-razlikata-i-kakvo-predstoi/a-79759289",
+   "archive": "",
+   "date": "2026-10-26",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "At the only head-to-head debate (BNT, 29 October 2026, moderated by Poli Zlatarova) Gurov directly raised the government press centre being used in the election campaign; Iotova did not address the specific case and answered only in general terms about freedom of speech. Sega's report also fixes the first-round gap at 42,719 valid votes.",
+   "quote": "Гюров се поинтересува от мнението на Йотова за вицепремиер в правителството, който говори за добри и лоши медии, и за пресцентъра на МС, който се използва в предизборната кампания. Йотова заяви, че свободата на словото е право на всеки, вицепремиер или гражданин, без да коментира конкретните случаи.",
+   "source": "Sega - 'Дебатът Йотова - Гюров се въртя около Украйна и \"Боташ\"'",
+   "url": "https://www.segabg.com/hot/category-media/debatut-yotova-gyurov-se-vurtya-okolo-ukrayna-i-botash",
+   "archive": "",
+   "date": "2026-10-29",
+   "reliability": "secondary"
+  },
+  {
+   "statement": "Documented trigger of the press-centre row: on 26 October 2026 PM Rumen Radev told reporters 'let us vote for Ilyana Yotova', and the government press service (GIS) circulated the statement via gov.bg and the Council of Ministers' Facebook page. Gurov-Kandev's initiative committee filed a CEC complaint alleging campaign agitation by a state institution (art. 182(1) Electoral Code) and free use of public administrative resource (art. 168(3)), listing six demands. This is the complainant's account, published as their press release.",
+   "quote": "Министерският съвет на Република България е превърнат в пресцентър на Илияна Йотова. В свое изявление на 26 октомври министър-председателят Румен Радев отправи пряк призив: \"Нека да гласуваме за Илияна Йотова\", както и обвинения срещу Андрей Гюров. Същото съдържание впоследствие е разпространено по три официални канала на Министерския съвет - чрез Правителствената информационна служба, официалната интернет страница gov.bg и официалната Фейсбук страница на институцията",
+   "source": "BTA (Courier) - initiative committee of Gurov and Kandev press release, 'Инициативният комитет на Гюров и Кандев сезира ЦИК за предизборна агитация на премиера през информационните канали на Министерския съвет'",
+   "url": "https://www.bta.bg/bg/news/bulgaria/national-news/1233074-initsiativniyat-komitet-na-gyurov-i-kandev-sezira-tsik-za-predizborna-agitatsiya",
+   "archive": "",
+   "date": "2026-10-26",
+   "reliability": "partisan"
+  },
+  {
+   "statement": "CEC outcome, as described by the complainants: on 28 October the commission refused to rule on the merits of more than 105 signals about the government information service and the Council of Ministers' official channels promoting Iotova, finding no violation; the majority was formed by the Progressive Bulgaria and Vazrazhdane members. The decision was announced as immediately appealable to the courts. This is the opposition's characterisation of a decision whose full text could not be obtained.",
+   "quote": "ЦИК реши, че няма нарушение на изборните правила и отказа да се произнесе по същество по повече от 105 сигнала за използване на Правителствената информационна служба и официалните канали на Министерския съвет в подкрепа на кандидатурата на Илияна Йотова.",
+   "source": "BTA (Courier) - Democratic Bulgaria press release, 'Решението на ЦИК ще бъде обжалвано незабавно – съдът трябва да установи нарушени ли са изборните правила'",
+   "url": "https://www.bta.bg/bg/news/bulgaria/oficial-messages/1235044-reshenieto-na-tsik-shte-bade-obzhalvano-nezabavno-sadat-tryabva-da-ustanovi-na",
+   "archive": "",
+   "date": "2026-10-28",
+   "reliability": "partisan"
+  },
+  {
+   "statement": "How the case ended on 30 October: the government press service took the Radev endorsement post off gov.bg and the institution's Meta profile that morning, and the CEC then declined to find illegal agitation because the post was no longer online, sending the public-resource complaints to the Court of Audit (8 votes from PB and Vazrazhdane against PP, DB, GERB and DPS). Who ordered the deletion was not established; the case remains before the courts.",
+   "quote": "Мнозинство в ЦИК, съставено от 8 представители на ПБ и \"Възраждане\", отказа да припознае това като агитация, а жалбите за употреба на публичен ресурс препрати за разглеждане в Сметната палата.",
+   "source": "Sega - 'Кабинетът избегна наказание за изборно нарушение' (Ludmil Iliev)",
+   "url": "https://www.segabg.com/hot/category-bulgaria/kabinetut-izbegna-nakazanie-za-izborno-narushenie",
+   "archive": "",
+   "date": "2026-10-30",
+   "reliability": "secondary"
+  }
+ ],
+ "open_questions": [
+  "cik.bg and results.cik.bg returned HTTP 403 (Cloudflare) to every fetch attempt, so the CEC's own results pages, its decision declaring the first-round result, and the text of the decision rejecting the press-centre complaints could not be read directly; all CEC figures here are taken from news reports quoting CEC data.",
+  "The eligible-voter denominator is inconsistent across sources: BTA/Epicenter report 6,584,025 voters, but 1,525,034 / 6,584,025 = 23.16%, not the announced 22.98%. BNT's 16:00 turnout piece uses 6,637,238, which does reproduce 22.98% — the CEC's own figure could not be checked.",
+  "Whether 'about 900,000' is exact: the rounded figure is consistent with 1,444,924 - 528,951 = 915,973, but it compares a party-list vote in April with a candidate-pair vote in October at 23% turnout, so it is an aggregate abstention measure, not a like-for-like swing.",
+  "No debate transcript or recording was obtained, so it is not established which of the two candidates actually voiced the '20% in the polls' formulation in the 29 October debate; the 20-point figure is documented as Gallup's published c. 8 October finding and as DW's 'at least 20 points a month ago'.",
+  "The number of complaints against the government press service varies by source ('more than 105 signals' in the DB release, 'more than 100 complaints' in Sega); no CEC register or decision text was located to fix it.",
+  "The original 26 October government press release has been removed from government.bg and no Wayback snapshot of it was found (CDX queries for government.bg 25-31 Oct 2026 returned only unrelated news pages), so its exact wording is known only through quotations in the BTA and Sega reports.",
+  "archive.org has no snapshots of the cited BTA, BNR, Sega or Epicenter pages (checked with the availability API and CDX); only the Gallup/Bulgaria ON AIR article has one."
+ ],
+ "notes": "This cluster is in good shape on the numbers and weaker on the dispute. The first-round date (25 October 2026), the near-23% turnout and the result (Iotova 528,951 / 34.759%, Gurov 486,232 / 31.952%, gap 2.807 points) are mutually consistent across BTA, BNR, Epicenter and Sega, and two independent arithmetic checks hold: 528,951 - 486,232 = 42,719, the gap Sega reports, and 1,444,924 (Progressive Bulgaria, April 2026) - 528,951 = 915,973, which is the basis of the 'about 900,000 lost votes' claim. The 20% figure is also genuine as a poll finding - Gallup measured exactly a 20-point lead in late September/early October - and the contrast with the 2.8-point outcome is solid, though the attribution to a specific statement in the 29 October debate is not documented. The press-centre controversy is documented as a sequence of events (26 October Radev endorsement distributed through GIS/gov.bg/Facebook, 100+ complaints, CEC refusal on 28 October, deletion of the post on 30 October, referral to the Court of Audit, appeal to court) but the documentary core is one-sided: the complainants' and DB's press releases plus Sega's reporting, with the CEC's own decision text and the deleted government post unavailable. Treat the 'no violation' outcome as established and the legal characterisation ('state resource used for campaigning') as contested."
+}

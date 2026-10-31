@@ -109,6 +109,29 @@ Per-candidate narrative maps, each anchored in claim ids and timestamps:
 Eight unique collision topics emerged, each with the record that would settle it. They are the
 fact-check queue.
 
+## Fact-check (stage 5, in progress)
+
+71 claims checked against primary sources — the 16 collision topics plus the numeric claims
+behind them:
+
+- [`data/factcheck/report.md`](data/factcheck/report.md) — verdicts, dossiers, citations
+- [`data/factcheck/verdicts.json`](data/factcheck/verdicts.json) — machine-readable dossiers
+- [`data/factcheck/evidence/`](data/factcheck/evidence) — 8 evidence clusters with URLs
+- [`docs/factcheck_method.md`](docs/factcheck_method.md) — verdict scale and rules
+
+| verdict | n |
+|---|---|
+| true | 20 |
+| mostly true | 14 |
+| mixed | 9 |
+| partly | 8 |
+| mostly false | 6 |
+| false | 4 |
+| unverified | 10 |
+
+Four claims are contradicted outright by primary records and one by a document the speaker
+herself voted for; two material omissions and several misdirections are flagged.
+
 ## Pipeline
 
 Each stage writes a versioned artefact under `data/` so any conclusion can be traced back
