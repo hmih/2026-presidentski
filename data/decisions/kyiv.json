@@ -31,12 +31,13 @@
    "adjudication": "B scored 1 on the view that the mandate route was available and not taken; A scored 2 for absence of a documented rejected option. Kept at 2: the route existed, but no deliberation record shows it was weighed."
   },
   "reversibility": {
-   "score": 2,
+   "score": 3,
    "assessors": [
     2,
     2
    ],
-   "why": "The text enters into force on signature and runs ten years, and no termination, review or withdrawal clause is documented in the record of the signed 20-page text (evidence item 3), so the state's declared posture is fixed for a decade; the downside is nonetheless bounded rather than severe because the agreement is expressly non-binding, contains no ratification clause, has no enforcement machinery, and gates Belene and any implementing contract behind national law and parliamentary decisions (evidence items 3-5)."
+   "why": "The final provisions allow either party to terminate by written notice, effective six months after receipt, and to amend by mutual consent; withdrawal is therefore legally cheap and the downside bounded.",
+   "adjudication": "Re-scored from 2 to 3 after re-reading Section 6 of the signed text: an earlier pass recorded no exit provision, which was wrong. Termination takes six months' notice; extension requires notification six months before expiry."
   },
   "design": {
    "score": 2,
@@ -61,7 +62,7 @@
  "outcome": "too_early",
  "outcome_basis": "Ten-year instrument, implementation pending; no outcome can yet be attributed to it.",
  "cell": "not yet scorable",
- "sensitivity": "If the Assembly had voted a mandate before signature, authority, information and alternatives would each rise and the grade would be sound; if an implementing contract had already been signed without any parliamentary step, candour and design would fall to 1 and the grade to weak.",
+ "sensitivity": "If the Assembly had voted a mandate before signature, authority, information and alternatives would each rise and the grade would be sound; if an implementing contract had already been signed without any parliamentary step, candour and design would fall to 1.",
  "unknowns": [
   "Candour is inherently retrospective: the decision could not be scored on its author's contemporaneous account, which is not in the record, and is judged instead from the 29 October 2026 debate dossiers, as the method requires.",
   "No documented alternative option with a stated rationale exists in the record, which is why 'alternatives' is scored from an evidence gap (2) rather than as a discarded superior option.",
